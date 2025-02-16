@@ -1,0 +1,1004 @@
+fundament	N	15	24	30	39	het financiële fundament voor een ingreep in de sociale zekerheid.	het Christendom is een stevig fundament onder onze maatschappij.
+reageren	V	14	23	4	13	de voorzitter reageerde verontwaardigd.	hij reageerde onmiddellijk op deze brutale opmerking.
+fax	N	30	33	32	35	ik stuur het je morgen met de fax.	er komt/rolt een bericht uit de fax.
+vertegenwoordiging	N	23	41	38	56	de volledig evenredige vertegenwoordiging van mannen en vrouwen in het parlement.	ze hebben een akkoord bereikt met een vertegenwoordiging van de vakbonden.
+houden	V	57	62	38	43	het meeste geld gaf hij weg maar een paar duizend gulden hield hij voor zichzelf.	ik denk niet dat de knoop in het touw houdt.
+vorm	N	12	18	8	12	Wat zijn de vormen waarin dit lemma voorkomt?	voor de vorm gaf zij iedereen een hand.
+seconde	N	40	47	19	27	je praat met gemiddeld twee woorden per seconde.	Ik kan in een paar seconden tijd mijn biertje opdrinken.
+kracht	N	17	25	22	30	Er zijn duistere krachten in het spel.	een 17-jarige uit z'n krachten gegroeide slungel.
+lijn	N	0	4	3	7	lijn 12 'is opgeheven'/'rijdt niet meer'.	De lijn voor de produktie kan een stuk korter.
+leiding	N	51	58	21	28	na drie speeldagen staat Antwerp verrassend aan de leiding.	wie heeft er hier de leiding?
+staan	V	4	7	9	14	hoe sta jij tegenover het postmodernisme?	dat hart staat voor de liefde.
+vlak	N	12	16	45	49	het hellend vlak van Ronquières.	Op hoeveel verschillende manieren kun je een vlak betegelen?
+houden	V	20	25	42	48	tussen acht en tien houdt de dokter spreekuur.	je moet je natuurlijk wel aan je afspraak houden.
+betekenis	N	15	24	35	44	in figuurlijke betekenis is vuur synoniem voor liefde en hartstocht (vgl. in vuur en vlam staan).	aan zijn mening hecht ik echt geen betekenis meer.
+beslag	N	11	17	8	14	ik heb het beslag voor de cake al gemaakt.	er werd beslag gelegd op de inboedel.
+module	N	9	15	20	27	In welke module van het programma zit de bug denk je?	de lesstof wordt in modules aangeboden.
+klas	N	22	26	18	22	we zitten in de zesde klas van de Wim Kokschool.	De soldaat eerste klas moest zich melden bij de sergeant.
+begin	N	8	13	14	19	van het begin af aan hadden ze al ruzie.	hij maakt een begin met zijn studie.
+overweldigen	V	17	28	24	35	het konvooi werd overweldigd door de geallieerde troepen.	ze werd door ontroering overweldigd.
+verhelen	V	32	40	36	44	de voorzitter probeerde niet te verhelen dat er nog veel problemen zijn.	hij kon zijn onvrede niet voor haar verhelen.
+zorg	N	11	15	33	37	dat is met zorg gemaakt.	hoe we dat oplossen is van later zorg.
+bouw	N	19	23	20	24	het is verboden de bouw zonder helm te betreden.	Hij heeft een zware bouw.
+lei	N	41	44	24	27	Het paard kreeg dressuurtraining aan een lei.	Hij woont aan een mooie lei in Antwerpen.
+filosofie	N	11	20	5	14	Ik studeer filosofie.	Mijn filosofie is hard werken en veel sparen.
+verwijdering	N	19	31	13	25	het besluit tot de verwijdering van die reclameborden werd unaniem genomen.	de groeiende verwijdering tussen mens en natuur baart velen zorgen.
+coherentie	N	6	16	37	47	enige coherentie binnen het kabinetsbeleid zou op prijs gesteld worden.	zijn uitspraken vertonen geen enkele coherentie.
+roeren	V	33	40	4	10	die film heeft me tot tranen toe geroerd.	hij roerde met zijn lepel in zijn kopje koffie.
+staat	N	29	34	21	26	hij herstelt de kast in oude staat.	het huis is in goede staat.
+neigen	V	22	27	21	26	die manier van werken neigt volgens mij naar corruptie.	de kleur van die jas neigt naar rood.
+dromen	V	16	24	40	46	ik heb vannacht gedroomd dat ik de lotto won.	ik kijk niet, want van enge films ga ik dromen.
+drukken	V	37	44	13	19	bij de afwas weet zij zich altijd te drukken.	het verdriet drukte zwaar op hem.
+spelen	V	16	22	3	8	die animositeit speelt wel degelijk.	ik speel met de gedachte om een weekje vakantie op te nemen.
+reserveren	V	43	53	4	15	zal ik voor jou ook een plaats in de opera reserveren?	hij reserveerde een tafel voor twee personen in één van de duurste restaurants van Brussel.
+lopen	V	15	20	32	37	mijn proeftijd loopt tot volgende week.	u heeft twee minuten en de tijd loopt nu.
+titel	N	15	20	19	24	Ajax draagt de titel van wereldkampioen.	het boek draagt de titel 'Op weg naar het einde'.
+klasse	N	10	16	24	30	Tot welke klasse behoren dolfijnen?	een scheepje dat tot de klasse van platbodemjachten behoort.
+pauze	N	6	11	4	9	na de pauze niet meer terugkomen/wegblijven.	een pauze van een halfuur inlassen.
+trouwen	V	54	62	7	15	ze zijn wel al voor de wet maar nog niet voor de kerk getrouwd.	hij is getrouwd met de zus van mijn neef.
+rommelen	V	89	96	4	11	vandaag onweerde het in Frankrijk en de kans is groot dat het morgen ook boven Nederland rommelt.	het rommelt al een tijdje in de regeringsmeerderheid/coalitie.
+vallen	V	4	8	16	20	zij viel meteen op hem, toen ze hem voor het eerst zag.	mijn verjaardag valt op een dinsdag dit jaar.
+relativeren	V	88	99	41	52	met deze opmerking probeerde ze het verhaal, dat zo veel stof had doen opwaaien, wat te relativeren.	ze was niet in staat haar tegenslagen te relativeren.
+breken	V	17	21	14	18	bij het afwassen brak zij een glas.	bij het skiën brak hij een been.
+bestormen	V	11	20	22	30	de politie bestormde het huis en nam de gijzelnemer gevangen.	de krantenwinkel werd bestormd door mensen die de extra editie wilden bemachtigen.
+paspoort	N	38	48	28	36	helaas kregen we geen stempel in onze paspoorten.	we moesten bij de grens ons paspoort laten zien.
+grap	N	31	35	54	58	terroristenalarm blijkt flauwe grap.	over de vluchtstrook langs de file rijden is een dure grap.
+rondkomen	V	66	75	38	47	zeven procent van de alleenstaande volwassenen in Vlaanderen moet rondkomen met minder dan 20000 frank per maand.	sinds kort moeten de vervoerbedrijven rondkomen van een subsidie die afhankelijk is van het aantal passagiers dat ze vervoeren.
+zakken	V	10	14	9	13	de koffie zakt in prijs naar drie gulden per pond.	de bodem zakt jaarlijks twee centimeter.
+passeren	V	8	16	36	44	Een wet passeren kan jaren duren.	de auto wou net een tractor/fietser passeren toen van de tegenovergestelde richting een vrachtwagen naderde.
+presenteren	V	14	26	38	51	de vereniging presenteerde vanmorgen in Den Haag haar rapport over de ontwikkelingen van het afgelopen jaar.	het boek werd gisteren al aan de pers gepresenteerd.
+strelen	V	4	12	4	12	hij streelde de hond liefdevol.	hij streelde zachtjes over haar wang.
+strelen	V	14	21	4	12	dat landschap streelt het oog.	hij streelde zachtjes over haar wang.
+afschuw	N	9	16	4	11	tot mijn afschuw zag ik ..	vol afschuw keken we toe.
+handel	N	28	34	14	20	het middel is normaal in de handel verkrijgbaar.	hij haalde de handel over, maar er gebeurde niets.
+leven	N	3	8	14	19	in leven, burgemeester van Brussel.	Hij leidt het leven van een zakenman.
+tijd	N	8	12	23	27	in haar tijd kon zij aardig voetballen.	ik zie haar de laatste tijd nog maar weinig.
+beschadigen	V	40	50	57	67	twee huizen raakten door de brand zwaar beschadigd.	die arme kinderen zijn door hun opvoeding voor hun leven beschadigd.
+begrijpen	V	3	10	40	48	ik begrijp niet hoe je die onzin hebt kunnen geloven.	alle opvarenden, de bemanning daaronder begrepen, kwamen om.
+weerleggen	V	54	62	31	39	de hypothese van het immer uitdijende heelal is nooit weerlegd.	die theorie is nu wel afdoende weerlegd.
+letten	V	4	7	40	46	wat let me eigenlijk om toch naar dat feestje te gaan?	kan jij vanavond voor me op de kinderen letten?
+aanleg	N	8	14	16	22	Je hebt aanleg voor kwade dronk als je gewelddadig wordt wanneer je dronken bent.	hij heeft grote aanleg voor wiskunde.
+brengen	V	39	46	60	67	ik kan hem maar niet aan zijn verstand brengen dat er gewoon geen geld voor is.	dit jaar willen we in ons theater een aantal kleinere shows brengen.
+drijven	V	13	20	12	19	Afvalstoffen drijven naar zee.	hout blijft drijven in de zee.
+opmaken	V	35	42	48	57	ik meen uit zijn woorden te kunnen opmaken dat hij geen zin heeft om nog langer met ons samen te werken.	hij heeft op basis van die gegevens een rapport opgemaakt dat hij vandaag aan de bestuursraad voorlegt.
+scheppen	V	71	79	29	38	de regering hoopt met deze maatregel volgend jaar 4000 nieuwe banen te scheppen.	voor die functie is deze man geschapen.
+weefsel	N	5	13	38	46	tere weefsels moeten op lage temperaturen gewassen worden.	het lichaam is opgebouwd uit organen, weefsels en cellen.
+wachten	V	28	35	3	8	ik stond bij de bushalte te wachten op de bus.	Ik wacht een warm ontvangst.
+orgaan	N	30	36	24	30	De kerken geven een officieel orgaan uit.	Het grootste menselijke orgaan is de huid.
+partij	N	36	42	32	38	dissidente kamerleden worden uit de partij gezet.	ze weigerde voor één van beiden partij te kiezen.
+circulair	N	4	14	4	14	per circulaire [bekendmaken].	een circulaire rondsturen.
+puin	N	18	22	16	20	de huizen zijn in puin geschoten.	de stad ligt in puin.
+sap	N	9	15	11	14	de kwade sappen van deze giftige plant dient men te mijden.	het bruine sap is aan geneeskundige planten onttrokken.
+contact	N	0	7	36	43	contact met de huid vermijden.	met de schakelaar verbreekt men het contact.
+buurt	N	26	31	30	35	hij woont geloof ik in de buurt van het station.	blijf een beetje bij me in de buurt anders raken we elkaar kwijt.
+schaal	N	18	24	11	18	een landkaart met schaal 1: 10000.	Je moet je schalen oefenen om een goed musikaal gehoor te krijgen.
+dalen	V	24	29	44	50	het vliegtuig begint te dalen, u gelieve de stoelriemen vast te maken.	rond zijn zestiende kreeg hij baardgroei en daalde zijn stem.
+patroon	N	17	24	10	17	een systematisch patroon van opklaringen.	ditzelfde patroon tekent zich in andere landen af.
+terrein	N	37	44	24	31	zulke activiteiten vallen buiten ons terrein.	de soldaten moeten open terrein oversteken.
+genieten	V	12	18	59	67	als student geniet je nogal wat voordelen bij onze bank.	je ziet dat hij met volle teugen van zijn maaltijd aan het genieten is.
+hond	N	3	7	3	7	de hond heeft de postbode in zijn been gebeten.	de hond van de buren blaft de hele dag.
+laag	N	26	31	5	10	behalve deze zijn er meer lagen in de film aanwezig.	alle lagen waren vertegenwoordigd.
+bus	N	10	13	4	7	Schuif de bus over de schroef en maak het vast.	een bus om de kachelpijp.
+deel	N	35	39	5	9	Het graan wordt uitgespreid op het deel voor het dorsen.	Mijn deel van de winst moet nog betaald worden.
+verhouding	N	10	20	24	34	de scheve verhouding tussen Noord en Zuid.	ze gaven toe dat ze een verhouding hadden met elkaar.
+veranderen	V	42	52	31	40	aan die situatie zal jij ook niets kunnen veranderen, vrees ik.	ze hebben de naam van die stad verandert in 'Sint-Petersburg'.
+plas	N	21	25	14	18	Morgen steekt hij de plas over naar Amerika.	badend in een plas bloed werd het slachtoffer aangetroffen.
+hoek	N	31	35	36	40	de wind zit nu al dagen in die hoek.	die lijnen snijden elkaar onder een hoek van 45 graden.
+advertentie	N	18	29	13	25	ik zet/plaats een advertentie in de krant.	op dat soort advertenties kun je maar beter niet reageren.
+leven	N	3	8	23	28	in leven, burgemeester van Brussel.	hij leidt een geregeld leven.
+deel	N	35	39	3	8	Het graan wordt uitgespreid op het deel voor het dorsen.	De delen in de vloer trekken krom door het vocht.
+genezen	V	23	30	23	30	hij zal nooit helemaal genezen, maar de medicamenten kunnen wel de ergste symptomen wegnemen.	deze wond is niet goed genezen.
+werk	N	29	35	10	14	er zullen ook minder bekende werken worden gespeeld.	onder het werk mag er niet gerookt worden.
+creëren	V	4	12	66	73	God creëerde hemel en aarde.	Staatsbosbeheer probeert door herbebossing een fraai landschap te creëren.
+krijgen	V	44	49	15	20	ondanks zijn spandoek, toeter en luide stem kreeg hij geen aandacht.	voor treinroof kreeg hij twee jaar onvoorwaardelijk.
+sturen	V	7	13	35	43	de bus stuurt slecht.	zijn baas heeft hem naar Amsterdam gestuurd.
+jaar	N	19	23	18	22	hij gaat voor twee jaar naar Amerika.	een kind van twee jaar.
+figuur	N	15	21	16	22	oom Kees in de figuur van Sinterklaas.	de onderstaande figuur maakt een en ander aanschouwelijk.
+lossen	V	14	19	52	58	de verdediger loste de bal zodat de keeper in kon grijpen.	het schip heeft zijn lading vanochtend in Amsterdam gelost.
+zwerven	V	13	20	23	30	al je kleren zwerven weer door de kamer.	alle kranten en boeken zwerven weer over de vloer.
+herhalen	V	39	47	12	20	het is niet te hopen dat die ramp zich herhaalt.	wilt u even herhalen wat u zojuist hebt gezegd?
+regel	N	3	9	32	38	De regels moeten tegen die muur worden bevestigd.	dat is niet helemaal volgens de regels.
+schaal	N	18	24	18	24	een landkaart met schaal 1: 10000.	er wordt op grote schaal misbruik van hem gemaakt.
+bout	N	22	26	17	21	Hij heeft een stevige bout gedraaid.	Zij is een echte bout die veel ogen trekt.
+beschouwing	N	37	48	35	46	Contemplatie is een andere term voor beschouwing.	ontvangen alimentatie wordt buiten beschouwing gelaten.
+partij	N	10	16	36	42	ze won de partij in vijf sets.	dissidente kamerleden worden uit de partij gezet.
+afschuw	N	14	21	4	11	hij heeft een afschuw van vieze kleine beestjes.	vol afschuw keken we toe.
+genieten	V	12	18	30	37	als student geniet je nogal wat voordelen bij onze bank.	hij heeft een goede opvoeding genoten.
+weg	N	72	75	20	23	hij heeft een hekel aan haar en gaat haar daarom zoveel mogelijk uit de weg.	hij baande zich een weg door het struikgewas.
+eetlust	N	24	31	39	46	een wandelingetje om de eetlust op te wekken.	niet gaan snoepen, want dat bederft je eetlust.
+bakken	V	31	37	22	28	ze stond in de keuken vlees te bakken voor het middagmaal.	zij heeft uren liggen bakken op het strand.
+strop	N	3	8	19	24	De strop om de balken zat niet goed vast waardoor de constructie begon te schuiven.	Hij had een groene strop met witte stippen aan bij een beige pak!
+vallen	V	17	21	3	7	in de meubelzaak viel ik gelijk voor dit prachtige bankstel.	er valt weinig te redden na die vreselijke windhoos.
+voornemen	N	27	36	14	24	hij probeert haar van haar voornemen om zelfmoord te plegen af te brengen.	heb jij goede voornemens voor het nieuwe jaar?
+hangen	V	10	14	90	96	het koord hing slap.	Ik ben dan ook zo iemand die denkt, ow die dame heeft geen interesse meer dus ik laat het hangen.
+toezicht	N	33	41	10	18	de plannen zullen aan een streng toezicht onderworpen worden.	ze zullen toezicht houden op de naleving van de regels.
+protesteren	V	23	36	4	16	overal ter wereld werd geprotesteerd tegen de Franse kernproeven op Mururoa.	hij protesteerde tegen de vrijlating van de verdachte.
+introductie	N	4	15	3	14	ter introductie van ons nieuwe product krijgt u korting.	De introductie van de pianist was verassend.
+huwelijk	N	38	46	4	12	ze heeft twee kinderen uit een eerder huwelijk.	het huwelijk werd voltrokken door een ambtenaar van de burgerlijke stand.
+veld	N	7	11	20	24	op het veld werken.	Hij behoort tot het veld van deelnemers.
+visioen	N	27	34	15	22	Martin Luther King had een visioen.	zij zag in een visioen dat haar ouders in gevaar waren.
+prikken	V	8	13	4	10	de rook prikt in de ogen.	hij prikte eens met een vork in de aardappelen om te voelen of ze al gaar waren.
+betrappen	V	11	19	4	12	de politie betrapte de dief toen hij juist de brandkast wilde openen.	hij betrapte zijn vrouw terwijl ze een andere man kuste.
+adresseren	V	45	55	21	33	elke week moeten we weer achthonderd brieven adresseren.	die kaart is aan mij geadresseerd.
+bezetten	V	40	45	52	57	de voorste plaatsen/rijen worden altijd bezet door de notabelen.	de ontevreden arbeiders hebben inmiddels de fabriek bezet.
+arm	N	17	20	15	20	geef me maar een arm, dat loopt lekkerder.	hij sloeg zijn armen om haar heen.
+brand	N	28	33	44	49	op een aantal plaatsen brak brand uit.	de oude boerderij staat al de hele avond in brand.
+rusten	V	43	49	17	23	het leek wel alsof er een vloek op de stad rustte.	op dat onderwerp rustte jarenlang een zwaar taboe.
+uitmaken	V	43	53	29	37	ze heeft het vorige week met haar vriendje uitgemaakt.	dat moet ieder voor zichzelf uitmaken.
+zetten	V	0	3	50	56	zet die vaas bloemen maar even op de kast.	ik haat huiswerk, ik moet me er elke dag echt toe zetten.
+beduiden	V	57	65	19	27	dat de rente iets stijgt heeft voor de prijzen weinig te beduiden.	die donkere wolken beduiden niet veel goeds.
+kwaliteit	N	41	52	65	76	Hij is een teamplayer met leidinggevende kwaliteiten.	Het kantoor, een gebouw uit 1910 met specifieke architectonische kwaliteiten, moest worden uitgebreid en gerenoveerd.
+opletten	V	23	31	7	15	je moet maar eens goed opletten wat er gebeurt als je die twee stoffen mengt.	ik zal opletten of de regels ook worden nageleefd.
+pensioen	N	66	74	13	21	38 hoge militairen van het oude communistische stempel worden met pensioen gestuurd.	sinds ik met pensioen ben, beschik over zeeën van tijd.
+pluim	N	24	31	28	35	De grassen hebben grote pluimen als ze bloeien.	Aan de bank hingen fleurige pluimen.
+overtreffen	V	16	27	4	12	deze resultaten overtreffen zelfs de stoutste verwachtingen.	zij overtrof haar zuster nog in schoonheid.
+percent	N	20	27	13	20	een rente van zeven percent per jaar.	slechts vier percent van de ondervraagden gaf te kennen dat [ ].
+crisis	N	46	52	71	77	door de gebeurtenissen dreigt het land in een crisis te raken.	Mentrum heeft veel crisisopvangen voor mensen in psychische of sociale crisis.
+opzeggen	V	75	83	67	75	na dat incident heeft hij onmiddellijk zijn lidmaatschap bij de vereniging opgezegd.	het is me niet duidelijk waarom hij zo plots deze overeenkomst wil opzeggen.
+zin	N	10	13	36	39	hij heeft zin om te tennissen.	een woord in eigenlijke/figuurlijke zin opvatten.
+trek	N	12	16	33	37	ik heb geen trek in vlees vandaag.	de vogels verschijnen hier op de trek.
+tijd	N	13	19	21	25	het heeft in tijden niet zo gesneeuwd.	zij peuterde de hele tijd in haar neus.
+boeten	V	15	21	22	28	hij zal moeten boeten voor 'dat misdrijf'/'zijn zonden'.	hij heeft dat verraad geboet met het leven.
+consolideren	V	57	69	20	32	het is nu de kunst om zijn pas verworven hoge positie te consolideren.	het Nederlands team consolideert zich in de voorhoede.
+kwaliteit	N	10	19	41	50	in [zijn] kwaliteit van penningmeester heeft hij de boekhouding gedaan.	De kinderopvang in Nederland is van hoge kwaliteit.
+huid	N	52	56	47	51	deze crème is vooral voor de vette of gecombineerde huid.	dit scheerschuim is speciaal voor de gevoelige huid.
+inlaten	V	31	38	16	25	met zulk volk moet je je nooit inlaten.	ik heb me nooit ingelaten met dergelijke duistere praktijken.
+roeren	V	30	37	33	40	de militairen waren zichtbaar geroerd door het welkom.	die film heeft me tot tranen toe geroerd.
+openen	V	4	10	4	9	hij opende beleefd de deur voor me.	dat opent zeker mogelijkheden voor een nadere samenwerking.
+misdragen	V	67	76	28	37	de militairen moesten voor de krijgsraad verschijnen omdat ze zich misdragen hadden tijdens hun missie in Rwanda.	supporters die zich blijven misdragen komen niet voor een seizoenkaart in aanmerking.
+haat	N	16	20	40	44	ze deed dat uit haat.	steeds meer mensen zijn bezorgd over de haat jegens buitenlanders.
+tonen	V	4	10	11	16	hij toonde die avond dat hij over de nodige mentale weerbaarheid beschikt.	die ruimte toont groter/kleiner dan ze in werkelijkheid is.
+delen	V	7	12	3	8	moeder deelt de taart in acht grote stukken.	we delen de auto met drie gezinnen.
+ontruimen	V	11	20	21	29	de politie ontruimde het gekraakte pand en arresteerde de bezetters.	het hele gebied werd ontruimd en tot rampgebied uitgeroepen.
+beurt	N	12	17	3	10	het is jouw beurt om af te wassen.	om beurten zingen we één regel.
+balanceren	V	4	15	10	20	hij balanceerde tussen twee uitersten.	Nederland balanceert op het randje van een economische recessie.
+ijs	N	7	10	17	20	op dik ijs kun je veilig schaatsen.	schaatsen op dun ijs is gevaarlijk.
+verheugen	V	14	23	38	47	de voorzitter verheugde zich over de grote opkomst.	barokmuziek mag zich de laatste jaren verheugen in een toenemende belangstelling.
+pijn	N	9	13	28	32	het doet pijn om hem zo te zien aftakelen.	dat medicijn helpt tegen de pijn.
+blijven	V	10	16	34	41	na afloop bleven we nog even praten.	dit moet natuurlijk wel onder ons blijven.
+bederven	V	28	36	57	65	hij heeft mijn werk grondig bedorven.	door veel te kwistig met zout te zijn heeft hij het eten bedorven.
+stemmen	V	16	23	11	18	vandaag werd er gestemd over de vraag of cannabisgebruik toegelaten moet worden of niet.	dertig man stemden tegen.
+verhouding	N	32	42	24	34	kleinere hoeveelheden zijn naar verhouding duurder.	ze gaven toe dat ze een verhouding hadden met elkaar.
+verraden	V	30	38	3	11	door aan de druk toe te geven verraadt hij vooral zichzelf.	Je verraadt je bedoeling door dit te zeggen.
+laag	N	13	17	6	11	de verf werd laag voor laag aangebracht.	brede lagen van de bevolking.
+ram	N	8	11	15	18	Hoeveel ram zit er in je computer?	Ik geef je een ram voor je kop.
+begrijpen	V	3	10	3	10	ik begrijp wel dat hij een andere baan wil.	ik begrijp niet hoe je die onzin hebt kunnen geloven.
+verraden	V	30	38	8	16	door aan de druk toe te geven verraadt hij vooral zichzelf.	Je ogen verraden dat je boos bent.
+zweven	V	20	28	14	20	de borden en kopjes zweefden door de kamer.	de hovercraft zweeft vlak boven de golven.
+kraan	N	44	49	21	26	er kwam geen helder maar bruin water uit de kraan.	deze leerling is een kraan in rekenen.
+komen	V	43	47	14	18	Het duurt lang voordat hij tot een orgasme komt.	volgende week komt er een einde aan deze drukke periode.
+puin	N	30	34	16	20	men is met het ruimen van het puin begonnen.	de stad ligt in puin.
+zien	V	34	39	25	29	De kinderen liepen de hele dag te zagen.	nou, dat wil ik wel eens zien, wat je daar zegt.
+kostuum	N	13	21	44	51	in prachtige kostuums stonden ze op het toneel.	voor het feest had hij zich in een prachtig kostuum gestoken.
+stroom	N	9	15	54	60	er staat stroom op die draad.	De burgemeester zich zorgen maakt over de aanhoudende stroom klachten over de IBG.
+capaciteit	N	3	13	15	25	de capaciteit voor hartoperaties is te laag.	de beschikbare capaciteit moet volledig benut worden.
+laag	N	26	31	9	14	behalve deze zijn er meer lagen in de film aanwezig.	in brede lagen van de bevolking wint de overtuiging veld dat [ ].
+verdagen	V	33	41	35	43	de rechter besloot het proces te verdagen.	de vergadering werd tot overmorgen verdaagd.
+verraden	V	16	24	3	11	hij voelde zich verraden door al zijn vrienden.	Je verraadt je bedoeling door dit te zeggen.
+ontdoen	V	36	43	29	36	op die manier probeerde hij zich te ontdoen van deze last.	ik kon me niet van de indruk ontdoen dat hij zich daar verveelde.
+verhaal	N	65	73	17	24	hij kreeg de jaarlijkse prijs voor zijn oeuvre van zestien korte verhalen en romans.	hij kwam met het verhaal dat hij beroofd was.
+leeftijd	N	34	42	41	49	de groepen zijn ingedeeld volgens leeftijd.	ze is groter dan andere meisjes van haar leeftijd.
+been	N	15	19	17	22	zij heeft haar been gebroken tijdens de wintersport.	hij ging even de benen strekken.
+bemannen	V	46	54	37	43	ze vinden geen vrijwilliger die de dienst wil bemannen.	dat crisiscentrum wordt dag en nacht bemand.
+capuchon	N	19	27	31	39	de jongen zet zijn capuchon op.	als het regent heeft Anne haar capuchon op.
+spel	N	14	18	21	25	Het grandioze spel van de acteurs werkt betoverend.	er was bedrog in het spel.
+grap	N	11	15	8	12	ken je die grap van die man met dat houten been?	voor de grap een alarmnummer bellen.
+buurt	N	28	33	30	35	je moet bij die hond uit de buurt blijven.	blijf een beetje bij me in de buurt anders raken we elkaar kwijt.
+impul	N	34	40	24	30	zij heeft die dure bontjas in een impuls gekocht.	er wordt niet voldoende impuls per volume-element overgedragen.
+initiatief	N	4	14	11	21	het initiatief tot landelijk overleg werd door de bond genomen.	er werd op initiatief van de gemeente een adviesraad voor buitenlanders gevormd.
+horen	V	3	9	34	39	ik hoorde dat je aan een comeback bezig bent.	laat haar maar door, portier, zij hoort bij mij.
+certificaat	N	4	15	11	23	Een certificaat is verbonden met een aandeel, volgt zijn koers en levert een gelijke opbrengst als het onderliggende dividend.	Royeerbare certificaten kunnen op elk moment door de certificaathouder omgewisseld worden voor aandelen.
+zweven	V	13	20	14	20	de roofvogel zweefde op grote hoogte door de lucht.	de hovercraft zweeft vlak boven de golven.
+schotel	N	39	47	26	33	we serveren zowel Indische als Chinese schotels.	RTL-4 ontvangen wij op de schotel.
+richten	V	9	14	4	9	de prijs richt zich naar vraag en aanbod.	hij richt zich nu helemaal op zijn activiteiten bij die vereniging.
+krijgen	V	40	46	15	20	ik denk niet dat hij ooit nog een vrouw krijgt.	voor treinroof kreeg hij twee jaar onvoorwaardelijk.
+pijn	N	28	32	7	11	dat medicijn helpt tegen de pijn.	ik heb pijn in mijn hoofd/aan mijn schouder.
+afleiding	N	29	38	21	30	dat zorgt tenminste voor wat afleiding.	dat vormt een beetje afleiding.
+persoon	N	4	11	35	42	als persoon sla ik hem niet hoog aan.	hij is een zanger en danser in één persoon verenigd.
+bedwingen	V	55	64	18	27	er werden vliegtuigen ingezet in de poging de brand te bedwingen.	hij kon zich niet bedwingen en barstte in tranen uit.
+contact	N	25	32	22	29	we hebben sindsdien geen contact meer met elkaar.	het lampje maakt geen contact.
+bewerken	V	47	55	4	12	de tieners probeerden tevergeefs hun ouders te bewerken.	hij bewerkte al twee toneelstukken van Shakespeare.
+drijven	V	9	15	20	26	Fijnstof drijft in de lucht.	een dikke laag olie drijft op het water.
+bouw	N	20	24	3	7	Hij heeft een zware bouw.	De bouw van suikerriet bedrijgt de Amazone.
+piano	N	30	35	20	25	wie zit er in die band aan de piano?	ik speel een beetje piano.
+verlies	N	4	11	39	48	met verlies werken/draaien.	de troepen van Caesar werden met grote verliezen teruggeslagen.
+loskrijgen	V	58	68	27	37	het bedrijf zou zo langzamerhand wat nieuwe orders moeten loskrijgen.	ik kan die knoop maar niet loskrijgen.
+knijpen	V	13	18	20	25	als antwoord kneep ze hem gemeen.	als de politie komt knijp ik 'm.
+oplopen	V	30	37	58	65	de temperaturen kunnen morgen oplopen tot 25 graden.	als je je niet warm genoeg kleedt, zal je een verkoudheid oplopen.
+verlies	N	7	14	39	48	zonder verlies werken.	de troepen van Caesar werden met grote verliezen teruggeslagen.
+patroon	N	37	44	37	44	de stakingen lopen volgens hetzelfde patroon als de vorige keer.	de ijsconsumptie volgt een duidelijk patroon.
+bespreken	V	27	36	61	70	ik heb nog iets met jou te bespreken.	ik bel nog snel even naar de stadschouwburg om een plaats te bespreken.
+parade	N	42	48	36	42	deelnemers uit 58 landen liepen mee in de parade van het slot van de Olympische Spelen.	het Bosnische leger hield een grote parade.
+waarheid	N	20	28	13	21	zij sprak altijd de waarheid.	Zal ik je de waarheid vertellen?
+begrijpen	V	3	10	29	37	ik begrijp niet hoe je die onzin hebt kunnen geloven.	zijn de onkosten in de prijs begrepen?
+grond	N	25	32	3	8	Het doorgronden van zijn gronden is niet makkelijk.	op grond van luiheid ontslagen worden.
+lopen	V	10	15	31	36	de dijken lopen nu door het land langs de kwelders.	deze [wegen/bergketens/lijnen] lopen evenwijdig.
+bewijzen	V	64	71	21	27	je kan iemand niet veroordelen zolang zijn schuld niet volledig bewezen kan worden.	dat hij kon acteren, bewees hij al meteen in zijn eerste grote filmrol.
+klas	N	35	39	18	22	dit jaar heb ik de vijfde en zesde klas.	De soldaat eerste klas moest zich melden bij de sergeant.
+afwegen	V	43	49	6	15	als ik de voor- en de nadelen tegen elkaar afweeg zie ik maar één conclusie.	alles afwegende hebben we besloten een stalen zeilschip te kopen.
+crisis	N	26	32	71	77	de bonden dreigen met een crisis als de eisen niet worden ingewilligd.	Mentrum heeft veel crisisopvangen voor mensen in psychische of sociale crisis.
+herinnering	N	17	28	21	34	een monument ter herinnering aan de slachtoffers van de vliegramp.	toch bewaar ik mooie herinneringen aan die tijd.
+kwaliteit	N	41	52	41	50	Hij is een teamplayer met leidinggevende kwaliteiten.	De kinderopvang in Nederland is van hoge kwaliteit.
+opzetten	V	41	49	32	40	hij wil samen met zijn broer een bedrijf opzetten.	Ineens kwam er een stevige wind opzetten.
+ontvangen	V	21	30	28	37	heb je mijn brief al ontvangen?	ik heb uw schrijven in dank ontvangen.
+goed	N	17	21	19	23	de lucht zal hem goed doen.	Hij leefde op zijn goed en kwam nooit meer in de stad.
+bedoelen	V	4	12	9	15	hij bedoelde het helemaal niet kwaad.	heus, ik bedoel er verder niets mee, hoor.
+laten	V	33	37	0	4	zij spande zich volledig in maar liet hem de eer.	laat me weten wanneer het zover is.
+aanslag	N	19	26	27	34	hij overleefde een aanslag op zijn leven.	president Kennedy heeft de aanslag op z'n leven niet overleefd.
+riskeren	V	18	26	23	31	door deze houding riskeert de minister een conflict met de eigen partij.	als we zo te werk gaan riskeren we dat veel mensen gaan afhaken.
+krijgen	V	14	21	15	20	volgende week krijgen de kinderen vakantie.	's avonds laat kreeg ik hem eindelijk te pakken.
+schooldag	N	21	30	36	45	omdat het de laatste schooldag voor de vakantie was, mochten we eerder naar huis.	vandaag is voor Olivier een normale schooldag.
+waarheid	N	9	17	13	21	om je de waarheid te zeggen, die jurk staat je niet.	Zal ik je de waarheid vertellen?
+piano	N	30	35	4	9	wie zit er in die band aan de piano?	die piano moet nodig gestemd worden.
+buurt	N	36	41	22	27	jij woont wel heel erg (ver) uit de buurt.	bel maar als je in de buurt bent.
+identiteitsbewijs	N	4	21	4	21	als identiteitsbewijs dient een geldig paspoort of rijbewijs overgelegd te worden.	een identiteitsbewijs op eigen naam.
+periode	N	33	40	33	41	het aantal sterfgevallen over de periode van 1900 tot 1975.	de romantiek is in verschillende periodes onder te verdelen.
+bespreken	V	14	21	52	61	de PLO-leider besprak het probleem vandaag met de premier van Israël.	in dat restaurant kan je best van tevoren een tafel bespreken.
+schuilen	V	3	11	61	69	er schuilen reële bedreigingen in de geplande maatregelen.	achter dat gerucht schijnt dus toch een kern van waarheid te schuilen.
+plakken	V	20	25	50	57	als plakband oud is plakt het niet meer.	als hij bij mij op bezoek komt, blijft hij altijd plakken tot in de late uurtjes.
+afstemming	N	3	13	29	39	de afstemming op de radiozenders is in m'n autoradio geprogrammeerd.	een goed project vereist een afstemming van werkzaamheden op elkaar.
+intrekken	V	58	69	72	83	de regering heeft onmiddellijk de subsidies voor die film ingetrokken.	hij was helemaal niet meer gemotiveerd en heeft daarom zijn kandidatuur ingetrokken.
+waarde	N	23	29	15	21	zij is van onschatbare waarde voor hem.	ik hecht grote waarde aan beleefdheidsregels.
+punt	N	49	55	23	29	deze wandeling voert ons naar een van de mooiste punten van het land.	beide ploegen delen de punten.
+hoek	N	17	21	36	40	Ze kruipt in een hoek en kijkt angstig om zich heen.	die lijnen snijden elkaar onder een hoek van 45 graden.
+optellen	V	53	61	29	37	om het gemiddelde te berekenen moet je alle bedragen optellen en die som delen door het aantal deelnemers.	zijn zoontje van vier kan al optellen en aftrekken.
+brengen	V	34	41	60	67	hoe heb je je zoon ertoe weten te brengen zijn kamer op te ruimen?	dit jaar willen we in ons theater een aantal kleinere shows brengen.
+haat	N	16	20	38	42	ze deed dat uit haat.	hij haatte zijn rivaal met een blinde haat.
+paar	N	31	35	3	7	bak en bal vormen een minimaal paar.	de paar keren dat ik hem heb gezien.
+aanslag	N	27	34	3	10	president Kennedy heeft de aanslag op z'n leven niet overleefd.	de aanslag was beraamd door de geheime dienst.
+klas	N	12	16	35	39	in de zesde klas krijgen we scheikunde van Jansen.	dit jaar heb ik de vijfde en zesde klas.
+komen	V	4	8	4	8	hij kwam nogal ongelukkig te vallen.	dat komt al gauw op vijftien euro per wiel.
+beduiden	V	57	65	25	33	dat de rente iets stijgt heeft voor de prijzen weinig te beduiden.	die wallen onder je ogen beduiden dat je te laat naar bed gaat.
+lenen	V	27	32	66	71	mag ik straks even je auto lenen?	voor het aanprijzen van zo'n inferieur merk wil ik mijn naam niet lenen.
+aanleg	N	8	14	0	6	Je hebt aanleg voor kwade dronk als je gewelddadig wordt wanneer je dronken bent.	aanleg voor wiskunde.
+voetbal	N	10	17	28	35	ze spelen voetbal in de tuin.	hij zit sinds zijn zesde op voetbal.
+hoeveelheid	N	76	87	40	51	de vijftien miljoen varkens in Nederland produceren een derde van de totale hoeveelheid mest.	bij het ongeval ontsnapte een onbekende hoeveelheid chloor.
+overbruggen	V	65	74	65	76	eerst moeten we kijken hoe de tegenstellingen tussen de partijen overbrugd kunnen worden.	met die som geld moeten we proberen een periode van drie jaar te overbruggen.
+neigen	V	64	70	4	9	Hij hoopt veel innovatieve en creatieve inzendingen te zien die neigen naar een nieuwe manier van marketing bedrijven.	hij neigt van nature tot achterdocht.
+affaire	N	35	42	39	46	die corruptiezaak is een pijnlijke affaire voor hem geweest.	Charles en Camilla hebben al jaren een affaire met elkaar.
+illusie	N	18	26	15	22	maak je maar geen illusies, het wordt toch niets!	Een welbekende illusie show is natuurlijk het doorzagen van een mens of het zwaard steken.
+herhalen	V	31	39	12	20	kunt u de laatste zin nog eens herhalen?	wilt u even herhalen wat u zojuist hebt gezegd?
+hoogtepunt	N	63	73	20	30	de ruzie tussen beide partijen bereikte gisteren een voorlopig hoogtepunt.	het is een absoluut hoogtepunt in haar carrière.
+wachten	V	4	9	3	8	hij wacht op het geschikte ogenblik om toe te slaan.	Ik wacht een warm ontvangst.
+steen	N	3	9	24	29	De stenen van de stoep liggen scheef.	De ring bevat een mooie steen.
+pas	N	39	42	15	18	er loopt altijd wel een soldaat uit de pas.	toe we over de pas waren ging het steil naar beneden.
+piet	N	26	30	0	6	's avonds is hij een hele piet, maar moet je s' morgens eens kijken.	Pieten vormen een ware plaag voor de boerderijdieren.
+boodschap	N	13	22	15	24	Jaap liet de boodschap achter dat hij niet zou komen.	goed,ik zal de boodschap doorgeven.
+slapen	V	15	21	21	27	ze zit weer te slapen.	ik ga vanavond vroeg slapen.
+werk	N	18	22	53	57	het bedrijf biedt werk aan meer dan 400 mensen.	de drie overheidsvakbonden deden een oproep (om) het werk neer te leggen.
+beslag	N	11	17	37	43	ik heb het beslag voor de cake al gemaakt.	de politie neemt de gestolen auto in beslag.
+weer	N	11	15	12	16	bij slecht weer zwemmen we binnen.	hij gaat in weer en wind op de fiets naar school.
+reageren	V	11	20	4	13	de patiënt reageerde goed op de medicijnen.	hij reageerde onmiddellijk op deze brutale opmerking.
+antwoord	N	16	24	12	20	hij wachtte het antwoord niet af, maar stormde meteen door naar boven.	ik moet het antwoord op die vraag helaas schuldig blijven.
+proberen	V	65	75	22	30	hoe kan je nu zeggen dat die wijn slecht is als je hem niet eens geprobeerd hebt?	we zullen meteen even proberen welke weg nu eigenlijk korter is.
+schrijven	V	39	49	4	11	hij heeft me vorige week nog een brief geschreven waarin hij al zijn problemen uit de doeken deed.	hij schreef me dat hij niet naar het feest kon komen.
+bedwingen	V	47	56	18	27	de artsen probeerden tevergeefs de epidemie te bedwingen.	hij kon zich niet bedwingen en barstte in tranen uit.
+hoek	N	31	35	31	35	de wind zit nu al dagen in die hoek.	ondanks druk uit de agrarische hoek zal het mestbeleid niet versoepeld worden.
+hoek	N	31	35	28	32	de wind zit nu al dagen in die hoek.	de schemerlamp staat in een hoek van de kamer.
+luwen	V	60	65	24	30	onze waarnemers melden weliswaar dat de gevechten enigszins luwen, maar van een wapenstilstand kan geen sprake zijn.	de reacties zijn al fel geluwd.
+vondst	N	35	43	3	9	in dit boek staan een paar aardige vondsten.	de vondst van een medicijn.
+spelen	V	3	9	4	10	we spelen het correct, dus ze kunnen ons niets maken.	wie speelt er tegenwoordig eigenlijk James Bond?
+blijken	V	11	17	10	16	zes mensen bleken de ramp niet te hebben overleefd.	de artsen bleken het eens (te zijn) over de behandeling.
+bedwingen	V	47	56	40	49	de artsen probeerden tevergeefs de epidemie te bedwingen.	hij kon slechts met moeite zijn zenuwen bedwingen.
+kunstacademie	N	17	30	12	25	ik heb vijf jaar kunstacademie gedaan.	ik heb (de) kunstacademie gedaan.
+schok	N	8	13	31	36	met een schok kwam de wagen tot stilstand.	het nieuws kwam als een enorme schok.
+cadeau	N	27	33	49	55	hij gaf haar een mooi boek cadeau.	zij kreeg voor haar verjaardag een spannend boek cadeau.
+bedekken	V	17	24	10	18	een sneeuwtapijt bedekte het grasperk.	de wolken bedekten de lucht volledig.
+forceren	V	45	53	60	70	de Eindhovenaren probeerden enkele kansen te forceren.	in de onderhandelingen hebben de VN een doorbraak enigszins geforceerd.
+koesteren	V	23	32	3	10	de meeste filatelisten koesteren hun verzameling postzegels.	ik koester grote ambities op de marathon.
+aanwenden	V	86	95	51	60	het is niet de bedoeling dat onderwijzend personeel voor beveiligingsdoeleinden wordt aangewend.	tegen verkoudheid worden doorgaans geen medicijnen aangewend.
+rondkomen	V	38	47	41	50	sinds kort moeten de vervoerbedrijven rondkomen van een subsidie die afhankelijk is van het aantal passagiers dat ze vervoeren.	ik zal tot het einde van de maand moeten rondkomen met de voorraad waarover ik nu beschik.
+belang	N	9	15	19	25	ik hecht belang aan correct taalgebruik.	dat is niet in het belang van de natuur.
+ritselen	V	27	35	38	46	hij probeerde van alles te ritselen.	ik hoorde een muis in mijn slaapkamer ritselen.
+kunst	N	9	14	33	38	In welke kunst ben jij gespecialiseerd?	zijn die bloemen echt of zijn ze kunst?
+luisteren	V	12	22	32	41	de kinderen luisterden nieuwsgierig aan de deur.	als je niet naar goede raad wil luisteren moet je het zelf maar weten.
+excuus	N	22	28	31	37	dat geeft ze een goed excuus om hun huiswerk niet te maken.	hij kwam gelukkig met een goed excuus.
+krijgen	V	15	20	3	8	voor treinroof kreeg hij twee jaar onvoorwaardelijk.	ik krijg je nog wel.
+bril	N	21	25	15	19	hij heeft/draagt een bril sinds zijn zesde.	hij heeft zijn bril niet op.
+omgeven	V	17	24	10	17	het kasteel werd omgeven door een diepe sloot.	die muren omgaven vroeger de stad.
+roven	V	40	47	49	54	de dieven hadden juwelen uit de vitrine geroofd.	de soldaten van het rebellenleger gingen aan het roven.
+opdoen	V	42	50	56	64	ik heb tijdens het weekend weer veel geld opgedaan.	het tochtte daar zo sterk dat ik er een verkoudheid heb opgedaan.
+bestek	N	7	13	19	25	In het bestek staat hoe het dak gebouwd moet worden.	we varen op gegist bestek.
+snoer	N	4	9	8	13	Het snoer met de vishaak stond strak gespannen.	Met een snoer meet je de lengte op.
+protest	N	48	55	22	29	het naambordje met 'Yukselplein' bleef als stil protest achter.	er brak een storm van protest uit.
+partij	N	14	20	37	45	wij zijn geen partij in dit conflict.	de VN-bemiddelaar riep de strijdende partijen op rond de onderhandelingstafel te gaan zitten.
+eis	N	20	25	36	41	topsport stelt hoge eisen aan het menselijk lichaam.	een goede fiets moet aan een aantal eisen voldoen.
+rekenen	V	8	14	3	8	de baas rekent erop dat je je aantallen haalt.	ik reken 4 dagen voor de reparatie.
+winnen	V	46	54	46	54	we hebben hem langzaamaan toch voor onze zaak gewonnen.	onze club heeft al vele keren van jullie club gewonnen.
+zwerven	V	13	20	3	9	al je kleren zwerven weer door de kamer.	er zwerft weer van alles in je bed.
+buigen	V	17	21	16	21	die krachtpatser boog met het grootste gemak metalen staven.	alle aanwezigen bogen diep toen de koning binnentrad.
+veranderen	V	31	40	27	36	ze hebben de naam van die stad verandert in 'Sint-Petersburg'.	ik heb de piano van plaats veranderd.
+leeftijd	N	41	49	15	23	ze is groter dan andere meisjes van haar leeftijd.	ze is nu op de leeftijd gekomen dat ze van alles gaat vragen.
+kind	N	8	12	36	40	ook als kind woonde ik al in de Watergraafsmeer.	die eigenwijsheid gaat van vader op kind.
+laag	N	8	13	5	10	haar in lagen knippen.	alle lagen waren vertegenwoordigd.
+pasta	N	3	8	24	29	de pasta dik op de huid smeren.	ik denk dat ik vanavond pasta ga maken.
+koesteren	V	11	20	4	12	die moeder koesterde haar kinderen.	hij koestert sympathie voor deze marginalen.
+verlopen	V	37	45	11	18	de demonstratie is zonder incidenten verlopen.	tot nu toe verliep het festival vlekkeloos.
+divisie	N	45	52	36	43	Een samenstelling zie je steeds meer met een divisie geschreven.	Voor klachten moet u bij een andere divisie zijn van het bedrijf.
+palm	N	49	55	24	28	verlangen naar zonovergoten stranden en wuivende palmen.	ze hield het geld in de palm van haar hand.
+pak	N	25	28	19	22	vanochtend lag er al een pak sneeuw.	heren in driedelig pak.
+verwoorden	V	16	26	4	14	ik kan moeilijk verwoorden hoe ik me op dit ogenblik voel.	hij verwoordde dat probleem treffend.
+verwijdering	N	28	40	13	25	de politie ging over tot de verwijdering van de demonstranten.	de groeiende verwijdering tussen mens en natuur baart velen zorgen.
+paard	N	22	27	14	19	de toren bedreigt het paard op E4.	zij kwamen te paard aangereden.
+bout	N	22	26	3	9	Hij heeft een stevige bout gedraaid.	De bouten komen eraan.
+slapen	V	15	21	14	22	ze zit weer te slapen.	heb je lekker geslapen?
+spelen	V	16	22	3	9	die animositeit speelt wel degelijk.	we spelen het correct, dus ze kunnen ons niets maken.
+illusie	N	18	26	27	35	maak je maar geen illusies, het wordt toch niets!	jij bent jong, je hebt nog illusies.
+hindernis	N	23	35	84	96	we zullen nog heel wat hindernissen moeten overwinnen voor we ons doel bereikt hebben.	het technisch scenario is nu rond, maar er zijn politiek en economisch nog allerlei hindernissen te nemen.
+afschuw	N	49	56	41	48	dat die man zijn hond schopte wekte bij iedereen afschuw.	de Europese Gemeenschap heeft zijn diepe afschuw over de moord uitgesproken.
+roede	N	8	14	16	21	Hoeveel roedes is dit lang?	Wie stout is de roede.
+patroon	N	15	22	37	44	Zij spelde het patroon op met de lappen stof.	de stakingen lopen volgens hetzelfde patroon als de vorige keer.
+rusten	V	3	9	10	16	er rustte een zware verdenking op die man.	zijn hand rustte op haar schouder.
+haak	V	37	42	7	12	ik bleef met mijn mouw aan een nagel haken die uit de balk stak.	mensen haken nog altijd naar warmte en geborgenheid.
+remmen	V	53	59	25	31	de chauffeur van de vrachtwagen kon niet meer tijdig remmen en reed frontaal op de auto in.	je mag die kinderen niet remmen in hun ontwikkeling.
+twijfelen	V	0	7	3	10	twijfel je soms aan zijn oprechtheid?	ik twijfel of ik wel naar de les zou gaan vandaag.
+agressie	N	56	64	35	43	de regering heeft de inval veroordeeld als een daad van agressie.	er heerst onder de supporters veel agressie tegen de andere supporters.
+buurt	N	26	31	22	27	Rijkaard komt hier uit de buurt.	bel maar als je in de buurt bent.
+smaken	V	10	16	42	48	de koffie smaakt hier een beetje naar vis.	zij liet zich vooral de sterke drank goed smaken.
+belang	N	9	15	21	27	ik hecht belang aan correct taalgebruik.	daar hecht ik weinig belang aan.
+drukken	V	12	19	13	19	dat boek is gedrukt op chloorvrij papier.	het verdriet drukte zwaar op hem.
+goedmaken	V	54	65	30	41	hij heeft het verlies in amper een week weer helemaal goedgemaakt.	de verdediger heeft zijn fout goedgemaakt door zelf het tegendoelpunt te scoren.
+klapper	N	3	10	30	37	dé klapper van de avond was het optreden van ...	Ze zaten in de schaduw van de klapper en keken omhoog naar de kokosnoten.
+vertrouwen	N	45	55	18	28	de directeur schonk de nieuwe werknemer zijn vertrouwen.	ik heb nog steeds vertrouwen in de democratische besluitvorming.
+presenteren	V	31	42	38	51	mag ik je mijn nieuwe vriendin presenteren.	het boek werd gisteren al aan de pers gepresenteerd.
+verloop	N	4	11	4	11	Het verloop van de gang.	Het verloop van de vloed.
+punt	N	26	30	12	16	we nemen de zaak nog eens punt voor punt door.	dat is geen punt.
+schrijven	V	4	12	39	49	hij schrijft al die woorden nu volgens de nieuwe spelling.	hij heeft me vorige week nog een brief geschreven waarin hij al zijn problemen uit de doeken deed.
+riskeren	V	15	23	3	10	voor deze daad riskeren ze een gevangenisstraf.	ik riskeer hier flink op mijn bek te gaan.
+stemmen	V	37	44	15	21	de meerderheid heeft op/voor Jan/D66 gestemd.	de meerderheid stemde tegen het wetsvoorstel.
+hoofdlijn	N	3	12	30	41	de hoofdlijn van haar betoog was niet zo makkelijk te volgen.	ik zal mij nu beperken tot de hoofdlijnen.
+illusie	N	18	26	88	95	maak je maar geen illusies, het wordt toch niets!	Het komt soms voor dat mensen een oase zien in de woestijn, ook al is die er niet. Deze illusie noemt men ook wel een fata morgana.
+houden	V	28	34	8	13	in tegenstelling tot auto's houden schepen jarenlang hun waarde.	de lijm houdt op alle materialen.
+verbreden	V	7	16	69	77	de weg verbreedt zich hier.	bij de werken in de binnenstad werden heel wat steegjes en straatjes verbreed.
+vee	N	50	53	0	3	ze houden zich onder meer bezig met de vraag welk vee vroeger werd gehouden.	vee ruimen kan bijdragen aan de verspreiding van het MKZ-virus.
+blok	N	18	22	25	29	zij legde nog een blok hout op het vuur.	Wat is de inhoud van een blok met een diagonalen van 2 centimeter?
+hangen	V	10	16	4	10	de wolken hangen laag boven de grond.	wat hangen er toch mooie kunstwerken in de musea!
+krijgen	V	44	49	3	8	ondanks zijn spandoek, toeter en luide stem kreeg hij geen aandacht.	ik krijg je nog wel.
+cassatie	N	57	65	29	37	de laatste groep dienstplichtigen heeft bij de hoge raad cassatie aangetekend.	hij gaat tegen het vonnis in cassatie.
+vallen	V	4	8	21	25	zij viel meteen op hem, toen ze hem voor het eerst zag.	deze zinsconstructie valt onder een andere categorie.
+lopen	V	15	20	14	19	mijn proeftijd loopt tot volgende week.	het Pieterpad loopt van Pieterburen naar de Pietersberg.
+schijf	N	14	20	27	33	De data op de schijf zijn gewist.	Een katrol bestaat uit een schijf, met een groef op de omtrek, waar het touw in ligt.
+verbergen	V	38	47	37	46	hij probeert altijd zijn gevoelens te verbergen.	ik heb niets voor de onderzoekers te verbergen.
+zien	V	34	39	41	45	De kinderen liepen de hele dag te zagen.	de vrouw had de winkeldief een zonnebril zien stelen.
+verwijzen	V	4	12	21	28	hij verwijst in zijn gedichten regelmatig naar de bijbel.	voor meer informatie verwijs ik u naar onze secretaris.
+periode	N	24	31	16	23	ze is verkozen voor een periode van twee jaar.	in de afgelopen periode heeft het nogal geregend.
+viaduct	N	13	20	25	32	er wordt een viaduct over de rijksweg gebouwd.	er staat een file op het viaduct.
+koesteren	V	23	32	16	25	de meeste filatelisten koesteren hun verzameling postzegels.	op die leeftijd koesterde ik nog hoge verwachtingen voor de toekomst.
+begin	N	7	12	14	19	in het begin durfde ze niets te zeggen.	hij maakt een begin met zijn studie.
+belonen	V	59	66	32	39	de regering wil op die manier milieuvriendelijke bedrijven belonen.	hij heeft zijn redder rijkelijk beloond.
+besluit	N	17	24	4	11	Hij kwam tot het besluit dat ze er nog veel erger aan toe waren dan de Russen.	Het besluit van de voorstelling was wat flauw.
+ernst	N	19	24	13	18	ik zeg dat in alle ernst.	hij kan zijn ernst niet bewaren.
+rijpen	V	27	34	24	31	die wielrenner is intussen gerijpt tot een groot kampioen.	hij is de laatste jaren gerijpt als taalkundige.
+ontwikkelen	V	4	15	11	22	hij ontwikkelde zich tot één van onze belangrijkste pianisten.	dat clubje ontwikkelde zich uiteindelijk tot de belangrijkste vereniging van de streek.
+rust	N	3	7	34	38	de rust werd verstoord door een stoet motoren.	De hefboom steunt niet goed op de rust.
+aansluiten	V	35	45	38	48	wilt u achter (de rij/die mevrouw) aansluiten?	men zou mij morgen op het telefoonnet aansluiten.
+landingsbaan	N	24	36	34	46	het toestel vloog op de landingsbaan in brand.	Schiphol wil een vijfde start- en landingsbaan aanleggen.
+papier	N	16	22	12	18	Kan ik hier met papier betalen?	neem pen en papier, en noteer:
+schijn	N	50	56	18	24	hij kwam zijn verontschuldigingen aanbieden onder schijn van oprechtheid.	het heeft er alle schijn van dat ze verliefd zijn.
+fundament	N	21	32	3	14	vader Drees heeft de fundamenten van de verzorgingsstaat gelegd.	de fundamenten van de vrouw.
+overleven	V	15	25	81	90	als bij wonder overleefde hij 'deze ramp'/'dit ongeluk'.	de Belgische voetbalploeg heeft de eerste ronde van het wereldkampioenschap niet overleefd.
+leiding	N	51	58	31	38	na drie speeldagen staat Antwerp verrassend aan de leiding.	de Wiener Philharmoniker onder leiding van Herbert von Karajan.
+voeden	V	39	44	26	31	zo'n nietszeggende verklaring achteraf voedt mijn achterdocht.	met de nieuwe maatregelen voedt hij de haat van zijn tegenstanders.
+bond	N	26	30	44	48	Het Duitse Rijk, de losse bond van Duitse territoriale staten, vond zijn definitieve einde aan het einde van de 19e eeuw.	De belangrijkste Griekse steden vormden een bond en de vertegenwoordigers kwamen één maal per jaar bij elkaar.
+ondergaan	V	14	25	11	20	datzelfde lot ondergingen toen vele soldaten.	vorig jaar onderging het huis een grondige renovatie.
+smaken	V	10	16	8	14	de koffie smaakt hier een beetje naar vis.	de soep smaakt erg zout.
+depot	N	4	9	9	14	Het depot gebeurt zonder vooronderzoek naar de inhoud van het depot.	wijn met depot.
+flits	N	7	12	7	12	in een flits was de afwas gedaan.	in een flits zag hij een eekhoorn de boom in schieten.
+komen	V	4	8	3	7	hij kwam nogal ongelukkig te vallen.	zo kwam de overeenkomst toch nog tot stand.
+koesteren	V	16	25	3	10	op die leeftijd koesterde ik nog hoge verwachtingen voor de toekomst.	ik koester grote ambities op de marathon.
+ouderdom	N	29	37	30	38	hij overleed in de gezegende ouderdom van tachtig jaren.	zij is rustig gestorven in de ouderdom van 88 jaar.
+bedoeling	N	10	19	13	24	het is de bedoeling dat we om vier uur vertrekken.	zonder kwade bedoelingen bracht hij haar thuis.
+hebben	V	19	25	13	19	de buurvrouw en ik hadden het juist over het weer.	die kinderen hebben het heus wel goed thuis.
+eis	N	15	20	36	41	zij stelt hoge eisen aan haar matras.	een goede fiets moet aan een aantal eisen voldoen.
+parket	N	28	34	19	25	zich in een moeilijk/lastig parket bevinden.	we zitten vanavond parket.
+moment	N	28	34	55	63	hij kwam weer op het juiste moment.	Deze gebeurtenis is een van de belangrijke historische momenten in het Europese eenwordingsproces.
+kunnen	V	9	15	43	46	fietsers kunnen vaak ook goed schaatsen.	als je eenmaal een staafmixer gewend bent, kun je er niet meer buiten.
+koesteren	V	4	12	4	13	hij koestert sympathie voor deze marginalen.	hij koesterde nog steeds de hoop dat hij haar opnieuw zou ontmoeten.
+remmen	V	17	22	25	31	de auto voor mij remde bruusk, waardoor ik plotseling voor hem moest uitwijken.	je mag die kinderen niet remmen in hun ontwikkeling.
+vertrouwen	V	3	11	3	12	ik vertrouw erop dat het in orde komt.	ze vertrouwt altijd op haar gevoel/geluk.
+getuigen	V	3	11	23	31	ze getuigde dat ze een inbreker had gezien.	in het proces moet hij getuigen tegen zijn broer.
+piet	N	8	14	0	6	de hoge pieten in Den Haag.	Pieten vormen een ware plaag voor de boerderijdieren.
+advertentie	N	13	25	22	33	op dat soort advertenties kun je maar beter niet reageren.	de krant plaatst mijn advertentie nog deze week.
+standaard	N	3	12	3	14	De standaard met de vlag werd gestreken na de veldslag.	De standaarden spelen een belangrijke rol in samenwerking.
+luidspreker	N	7	19	23	35	uit de luidsprekers klonk ['Kom van dat dak af'/'O sole mio'].	de bewoners werden via luidsprekers gewaarschuwd om ramen en deuren te sluiten.
+verlopen	V	21	29	29	37	er zijn twee maanden verlopen sinds mijn laatste poging.	Door de hitte gaan de buizen verlopen.
+relatie	N	36	43	27	34	hoe staan deze feiten tot elkaar in relatie?	ze hebben nu drie jaar een relatie.
+rondkomen	V	33	42	41	50	zij kunnen met moeite financieel rondkomen.	ik zal tot het einde van de maand moeten rondkomen met de voorraad waarover ik nu beschik.
+aantekening	N	30	41	7	18	ik wil daar graag de volgende aantekening bij maken.	met de aantekening dat deze cijfers een vertekend beeld geven.
+paard	N	4	9	14	19	het paard op E6 staat gedekt.	zij kwamen te paard aangereden.
+hak	N	27	30	3	6	De kolen moeten er met een hak uit worden gehaald.	De hak wordt in de grond geslagen om de droge aarde los te maken.
+prikken	V	8	13	4	10	de rook prikt in de ogen.	hij prikte me (in de arm) met een speld.
+figuur	N	38	44	54	60	dit romanpersonage is een historische figuur.	in Friesland is de volksheld Grote Pier een mythische figuur.
+jacht	N	3	8	3	8	De jacht van de politie op de ontsnapte crimineel.	De jacht naar liefde.
+beantwoorden	V	8	19	19	30	die man beantwoordt volledig aan de beschrijving die je me gaf.	de dienstverlening beantwoordt niet aan de verwachtingen van de klanten.
+verleden	N	25	33	31	39	documenten uit een grijs verleden.	de boeken getuigen van een ver verleden.
+billijken	V	25	34	11	20	dat standpunt kan ik wel billijken.	ik kan het billijken dat u mij daarvoor wilt opbellen, maar mij uit bed halen gaat me te ver.
+waarde	N	15	21	16	22	zij hecht veel waarde aan goede manieren.	van onschatbare waarde zijn voor iets/iemand.
+accent	N	18	26	4	10	In swing komen de accenten niet op de tel.	Het accent van deze schilder is landelijk.
+wachten	V	4	9	0	5	hij wacht op het geschikte ogenblik om toe te slaan.	wacht met eten tot iedereen aan tafel zit!
+instellen	V	37	46	50	59	ik heb m'n fototoestel nog niet goed ingesteld.	ik had me al helemaal op dat feestje van vanavond ingesteld.
+proberen	V	7	15	22	30	ik zal proberen vanavond naar jouw feestje te komen.	we zullen meteen even proberen welke weg nu eigenlijk korter is.
+melk	N	7	11	3	7	Van de melk van de papaver wordt opium gemaakt.	De melk van de rubberboom wordt gebruikt voor het maken van rubber.
+avond	N	18	23	22	29	het was een mooie avond: er stond een zoel windje, de rozen geurden en de maan was vol.	ik heb wel zin in een avondje uit.
+kracht	N	17	25	26	32	Er zijn duistere krachten in het spel.	de sprinters gaan puur op kracht naar de streep.
+verbranden	V	85	95	24	32	Uit onderzoek blijkt namelijk dat mensen met een lager gewicht relatief meer energie verbranden dan mensen met overgewicht.	twee mensen zijn levend verbrand bij een zwaar verkeersongeluk in Brussel.
+vorm	N	8	12	21	27	voor de vorm gaf zij iedereen een hand.	zich aan de geldende vormen houden.
+dragen	V	18	26	9	15	deze journalisten gedragen zich volgens mij allesbehalve correct.	dat werk draagt zijn naam.
+verlopen	V	29	37	37	45	Door de hitte gaan de buizen verlopen.	de demonstratie is zonder incidenten verlopen.
+klein	N	10	16	4	12	ik heb de kleine maar thuisgelaten.	Een kleintje gebruik je om het af te maken, de grote als basis.
+bekennen	V	43	51	26	34	er was in de wijde omtrek geen bushalte te bekennen.	van een brug was niets te bekennen.
+schijf	N	16	22	27	33	de tekst kan op schijf bewaard worden.	Een katrol bestaat uit een schijf, met een groef op de omtrek, waar het touw in ligt.
+batterij	N	11	21	3	13	Die flinke batterijen heeft die van zijn vader georven.	De batterijen van het Spaanse leger zaten vast in het veen.
+straatbeeld	N	25	36	35	46	auto' s bepalen daar het straatbeeld.	die afvalbakken passen niet in het straatbeeld.
+behandeling	N	25	36	41	52	hij staat al jaren onder behandeling van een psychiater.	de tweede kamer neemt een wetsontwerp in behandeling.
+opvatten	V	49	56	29	37	de arbeiders van de fabriek hebben het werk weer opgevat.	je mag niet al te letterlijk opvatten wat hij daar geschreven heeft.
+boodschap	N	13	22	20	29	Jaap liet de boodschap achter dat hij niet zou komen.	hij belde op met de boodschap dat hij niet kwam.
+avond	N	22	29	32	38	ik heb wel zin in een avondje uit.	op die 19e augustus zaten ze 's avonds op de bank tv te kijken.
+affaire	N	3	10	3	10	de affaire rond de vermeende smeergeldpraktijken van dit bedrijf.	de affaire tussen Cruyff en voetbalclub Barcelona heeft geleid tot het ontslag van Cruyff als coach.
+oplopen	V	30	37	59	68	de temperaturen kunnen morgen oplopen tot 25 graden.	we hebben intussen heel wat achterstand op de concurrentie opgelopen.
+borst	N	20	25	22	27	zij gaf het kind de borst.	Er zat een vlek op de borst van het shirt.
+consensus	N	3	12	15	24	in consensus met iemand een beslissing nemen.	bij gebrek aan consensus beslist de minister.
+bron	N	10	14	10	14	wat is uw bron van inkomsten?	uit welke bron komt dit verhaal?
+materiaal	N	14	24	5	14	Je moet goede materialen verwerken in je produkt.	Welk materiaal gebruik je voor het behandelen van een wond?
+beslaan	V	10	17	16	25	die tafel beslaat bijna de helft van de kamer.	zijn brilglazen besloegen toen hij het café binnenstapte.
+bedoelen	V	51	58	4	12	hij heeft soms een rare manier van werken maar hij bedoelt het goed.	hij bedoelde het helemaal niet kwaad.
+gaan	V	4	8	3	5	wie gaat er over de schadebehandeling?	ik ga flippen!
+alcohol	N	16	23	26	33	hier wordt geen alcohol geschonken.	ik drink geen/weinig/veel alcohol.
+realiseren	V	4	15	8	19	hij realiseerde zich dat hij nog zeer veel werk moest verrichten.	vroeger realiseerde ik me niet hoe moeilijk dat werk wel was.
+klok	N	52	56	10	14	de snelle versie van deze auto krijgt 240 km. op de klok.	De glazen klok over je bord houdt je eten warm.
+vlaag	N	7	12	4	10	in een vlaag van verstandsverbijstering schoot hij haar neer.	bij vlagen heeft zij zin in chocola.
+pauze	N	4	9	4	9	een pauze van tien minuten.	een pauze van een halfuur inlassen.
+bewijs	N	22	28	11	17	de handschoen was het bewijs dat de vrouw er geweest was.	dit is het bewijs tegen de aanklagers.
+reageren	V	18	26	16	25	deze twee stoffen reageren gemakkelijk met elkaar.	de automobilist reageerde te traag en reed op de fietsers in.
+verdragen	V	26	35	17	26	de pijn was nauwelijks te verdragen.	ik kan niet meer verdragen dat die twee altijd ruzie zitten te maken.
+installatie	N	11	22	3	14	Kun jij de installatie wat zachter zetten?	De installatie in hun nieuwe huis ging snel.
+tijd	N	12	16	23	27	heb je even tijd of komt morgen beter uit?	ik zie haar de laatste tijd nog maar weinig.
+schrijven	V	39	48	4	12	hij heeft vroeger nooit leren lezen en schrijven.	hij schrijft al die woorden nu volgens de nieuwe spelling.
+weerstand	N	12	21	13	22	Elektrische weerstand is de elektrische eigenschap van materialen om de doorgang van elektrische stroom te bemoeilijken en te verstoren.	zij kon geen weerstand bieden tegen zijn verleidelijke glimlach.
+voornemen	N	27	36	16	25	hij probeert haar van haar voornemen om zelfmoord te plegen af te brengen.	het lag in haar voornemen om zo snel mogelijk te komen.
+opgeven	V	11	20	53	60	ik heb hem opgegeven voor die cursus tapdansen.	bij het loket moet je eerst je naam en geboortedatum opgeven.
+materiaal	N	23	32	5	15	Er zit veel schadelijk materiaal in dit speelgoed.	Alle materialen die je nodig hebt liggen in de tent.
+vloed	N	8	13	31	36	als het vloed wordt, moet je het water uit.	na zijn debuut schreef hij een vloed aan publicaties.
+impasse	N	56	63	3	10	het overleg tussen bonden en werkgevers verkeert in een impasse.	de impasse tussen de strijdende partijen doorbreken.
+actievoerder	N	3	16	5	18	de actievoerders werden door de politie van het terrein verwijderd.	drie actievoerders werden gearresteerd.
+besluit	N	17	24	13	20	Hij kwam tot het besluit dat ze er nog veel erger aan toe waren dan de Russen.	laten we tot besluit het glas heffen op de jubilaris.
+ontplooien	V	10	20	88	97	daarnaast ontplooide hij vanaf 1979 een grote literaire bedrijvigheid.	uit het jaarverslag viel op te maken dat de vereniging weer heel wat activiteiten heeft ontplooid.
+aanleg	N	8	14	0	6	Je hebt aanleg voor darminfecties.	aanleg voor wiskunde.
+wijzen	V	26	31	6	11	(de naald van) het kompas wijst naar het noorden.	alles wijst erop dat hij de schuldige is.
+bestormen	V	22	30	21	31	de krantenwinkel werd bestormd door mensen die de extra editie wilden bemachtigen.	de vijandige troepen bestormden vandaag het regeringsgebouw.
+tijd	N	8	12	4	10	in haar tijd kon zij aardig voetballen.	bij tijden gebruikt zij nog wel eens een pilletje.
+achterdeur	N	20	30	8	18	zij verdween via de achterdeur.	via een achterdeur kunnen daar nog steeds afvalstoffen geloosd worden.
+parlement	N	30	39	34	43	conservatieve krachten in het parlement gooien roet in het eten.	Nederland kiest vandaag een nieuw parlement.
+rijpen	V	22	28	11	18	die wijn moet nog wat rijpen.	de wijn is gerijpt.
+staart	N	33	39	26	32	Deze affaire krijgt nog een hele staart.	de hond kwispelt met zijn staart.
+beschadigen	V	40	50	19	30	twee huizen raakten door de brand zwaar beschadigd.	talloze schandalen beschadigen de reputatie van het koningshuis.
+borg	N	3	7	24	28	De borg stamt uit de 15e eeuw en ligt binnen een ruime gracht.	De Europese Unie is een borg voor de vrede in Europa.
+liggen	V	40	46	16	20	heb ik mijn sleutels soms bij jou laten liggen?	het zomerhuisje ligt midden in de bossen.
+terrein	N	16	23	22	29	dat ligt op het terrein van de huisarts.	Ajax speelde op eigen terrein gelijk.
+artikel	N	17	24	49	58	er is laatst een artikel van hem verschenen in Science.	dat kunt u vinden bij de afdeling huishoudelijke artikelen.
+tijd	N	17	21	8	12	gisteren om deze tijd lag ik nog in bed.	in haar tijd kon zij aardig voetballen.
+opmerken	V	39	48	36	45	de automobilist had de fietser te laat opgemerkt en kon niet meer uitwijken.	ik heb jou op dat feestje niet eens opgemerkt.
+vertrouwen	N	18	28	23	33	ik heb nog steeds vertrouwen in de democratische besluitvorming.	de minister geniet het vertrouwen van de kamer.
+lopen	V	14	19	31	36	dit onderzoek loopt over een aantal jaar.	deze [wegen/bergketens/lijnen] lopen evenwijdig.
+verdraaien	V	56	66	32	41	ze beweert nu dat men haar had verplicht de waarheid te verdraaien toen ze moest getuigen.	hij heeft mijn woorden helemaal verdraaid.
+zien	V	3	7	25	29	je ziet wat bleek, is er wat?	nou, dat wil ik wel eens zien, wat je daar zegt.
+atlas	N	4	9	27	32	een atlas van Nederland/Europa/'de wereld'.	Er zaten twee rode stroken atlas verwerkt in de jurk.
+boek	N	4	8	14	18	Het boek met postzegels bewaarde hij op een geheime plek.	In het tweede boek wordt het allemaal uitgelegd.
+vet	N	30	33	25	31	Je handen worden vies van het vet in de schapenvellen.	hij heeft een tekort aan vetten en eiwitten.
+roepen	V	31	37	4	8	ik zal je morgenvroeg om 7 uur roepen.	hij riep iets, maar ik kon niet verstaan wat.
+omhullen	V	16	22	15	21	de emissienevel omhult een kleine sterrenhoop.	een harde bast omhult de pit.
+macht	N	13	18	28	33	China is een macht om rekening mee te houden.	in een bocht verloor hij de macht over het stuur en belandde tegen een boom.
+onderscheiden	V	4	16	36	49	hij onderscheidt zich (van anderen) door zijn doorzettingsvermogen/werklust.	je kan verschillende soorten dennen onderscheiden.
+idee	N	38	42	17	21	naar het strand gaan, dat is geen gek idee!	ze heeft er geen idee van hoe dat in zijn werk gaat.
+verrassing	N	28	38	14	24	zijn dood kwam niet als een verrassing.	ze vielen bij verrassing aan.
+pijp	N	3	9	20	26	De pijpen in het skelet zijn een stuk lichter en breekbaar.	een broek met lange pijpen.
+beschouwing	N	37	48	13	26	Contemplatie is een andere term voor beschouwing.	filosofische beschouwingen over de zin van het bestaan.
+figuur	N	14	20	3	9	deze markante figuur gebruikte plakjes bacon als boekenleggers.	in figuur 1 is dit schematisch weergegeven.
+pasta	N	3	8	8	13	de pasta dik op de huid smeren.	laat de pasta twaalf minuten koken.
+bespreken	V	52	61	61	70	in dat restaurant kan je best van tevoren een tafel bespreken.	ik bel nog snel even naar de stadschouwburg om een plaats te bespreken.
+deel	N	35	39	10	14	Het graan wordt uitgespreid op het deel voor het dorsen.	Het derde deel van de roman is het spannends.
+inleiding	N	8	17	23	32	In zijn inleiding vertelde Remco dat hij erg geïnspireerd was door het optreden van de band.	haar verhaal vormde de inleiding tot haar verzoek.
+pak	N	7	10	25	28	op het pak staat de uiterste verkoopdatum.	vanochtend lag er al een pak sneeuw.
+vinden	V	4	8	58	64	hij vond dat we toch maar wel die keuken moesten kopen.	ik zoek al dagen naar dat rapport, maar het is nergens te vinden.
+doel	N	39	43	19	23	keeper Van der Sar staat weer op (het) doel.	hij heeft maar één doel voor ogen: winnen.
+breedte	N	19	26	29	37	de kamer heeft een breedte van 5 meter.	die stof is in verschillende breedten verkrijgbaar.
+doorzien	V	4	11	40	48	hij doorzag mijn bedoelingen onmiddellijk.	de schaakgrootmeester heeft niet tijdig doorzien wat zijn tegenspeler van plan was.
+binden	V	3	7	4	8	ze bond de saus met maïsbloem.	hij bond het ene uiteinde van het touw om een zware steen en het andere om zijn nek.
+aanslag	N	50	57	3	10	een onbekende terroristische organisatie eiste de aanslag op.	de aanslag was beraamd door de geheime dienst.
+gissen	V	18	24	46	52	we kunnen slechts gissen naar de oorzaak.	maar of het een mooie zomer wordt, dat blijft gissen.
+druk	N	43	47	63	67	Het binnenhalen van projekten is een grote druk waaronder hij ten onder gaat.	Christenen in Pakistan leven onder toenemende maatschappelijke druk.
+verwijten	V	4	11	61	70	hij verweet me dat ik altijd te laat kwam.	het resultaat was niet goed, maar ik weet dat ik me niets te verwijten heb.
+kloten	V	17	23	30	36	als je zo zit te kloten verziek je de sfeer.	hij is de hele dag al aan het kloten met de televisie.
+meester	N	18	25	11	18	Hij zal nooit een meester worden met schaken.	hij is een meester op de viool.
+ontvangen	V	21	30	30	39	heb je mijn brief al ontvangen?	de directeur kan vandaag niet ontvangen.
+ontvangen	V	21	30	13	20	heb je mijn brief al ontvangen?	de regisseur ontving van de jury de gouden palm van Cannes.
+klas	N	22	26	35	39	we zitten in de zesde klas van de Wim Kokschool.	dit jaar heb ik de vijfde en zesde klas.
+bijblijven	V	63	74	19	30	die 'angstige momenten'/'vreselijke beelden' zijn ons allemaal bijgebleven.	wat haar het meest bijgebleven is, is het moment waarop ze voor het eerst is gevlogen.
+verantwoordelijkheid	N	37	57	21	41	de federale overheid moet zijn eigen verantwoordelijkheid opnemen.	ik neem de volledige verantwoordelijkheid op me.
+rapporteren	V	23	35	31	42	de brandweercommandant rapporteerde dat de brand om drie uur was uitgebroken.	deze commissie zal de minister rapporteren over de toestand van de mensenrechten in Iran.
+fran	N	38	44	32	38	een huwelijksplechtigheid zonder veel franje.	in Staphorst houdt men niet van franje en opsmuk.
+geval	N	80	85	3	8	In dit systeem worden alle bodemonderzoeken ingevoerd waarbij sprake is van een geval van ernstige bodemverontreiniging.	in geval van brand het ruitje inslaan.
+klasse	N	24	30	37	43	een scheepje dat tot de klasse van platbodemjachten behoort.	Typisch iemand van de lagere sociale klasse.
+roepen	V	31	37	13	19	ik zal je morgenvroeg om 7 uur roepen.	hij stond te roepen en te tieren.
+uitkomen	V	51	61	27	37	de discussie is uiteindelijk op de volgende punten uitgekomen.	de waarheid/leugen is toch uitgekomen.
+knijpen	V	13	18	63	70	als antwoord kneep ze hem gemeen.	hij maakte van de uitgebroken paniek gebruik om ertussenuit te knijpen.
+reuk	N	24	28	24	28	de verkoudheid had zijn reuk en smaak aangetast.	de speurhond ging op de reuk van de kleding af.
+belonen	V	26	33	32	39	ik zal de eerlijke vinder belonen met een fles wijn.	hij heeft zijn redder rijkelijk beloond.
+duiker	N	3	9	30	36	De duiker dook naar beneden en greep de vis in een oogwenk.	Wat ben jij een ongelofelijke duiker!
+regel	N	8	14	3	9	Hoeveel regels tekst moet het artikel zijn?	De regels moeten tegen die muur worden bevestigd.
+borstel	N	3	11	3	11	De borstels aan zijn kop gebruikt de kever om een scherp geluid te maken.	De borstels van de motor waren volledig afgesleten.
+reduceren	V	28	39	55	66	het aantal vrije dagen werd gereduceerd tot tien.	het aantal werknemers werd in de afgelopen jaren sterk gereduceerd.
+agressie	N	56	64	23	31	de regering heeft de inval veroordeeld als een daad van agressie.	de spelers moeten meer agressie in hun spel leggen.
+verhaal	N	36	44	34	41	mijn kinderen komen altijd met hele verhalen thuis.	de wethouder hield een uitstekend verhaal over de drugsproblematiek.
+medium	N	0	6	0	6	medium om de verf aan te brengen.	medium om de pH te beïnvloeden.
+stem	N	3	7	10	14	De stem is een belangrijk evolutie moment voor de mens.	De tweede stem van het nummer overheerst te veel.
+uitvallen	V	19	30	45	56	die grap is anders uitgevallen dan hij bedoeld had.	die situatie is uiteindelijk in hun voordeel uitgevallen.
+kaart	N	28	33	55	60	Ik krijg steeds een slechte kaart waarmee ik niet kan bieden.	men hoopt zo de gebeurtenissen in Srebrenica alsnog in kaart te brengen.
+pensioen	N	52	60	57	65	duizenden vrouwen in Nederland hebben geen recht op pensioen.	in België moeten mannen 45 jaar werken voor een volledig pensioen.
+periode	N	3	10	4	11	de periode 1100 - 1300 wordt gekenmerkt door [ ].	een periode van bezinning/strenge vorst/schaarste.
+argwaan	N	39	46	27	34	toen het later en later werd, kreeg ze argwaan.	zijn nerveuze gedrag wekte argwaan.
+groeien	V	3	12	13	20	De groeiende aanwezigheid van China in Afrika.	De problemen groeien over zijn hoofd.
+functioneren	V	19	31	16	28	het nieuwe systeem functioneert nog niet naar wens.	de heer janssen functioneert niet in zijn nieuwe functie.
+tieren	V	13	19	16	22	in deze stad tieren verloedering en criminaliteit welig.	met schelden en tieren kom je niet verder.
+schijf	N	14	20	3	9	De data op de schijf zijn gewist.	De schijf draait om een as.
+paar	N	31	35	18	22	bak en bal vormen een minimaal paar.	ik heb er nog een paar (van) liggen.
+aanval	N	4	10	3	9	een aanval op de gevestigde orde.	de aanval werd afgeslagen/afgeweerd.
+bezwijken	V	15	22	4	11	de kleine brug bezweek onder het gewicht van de vele wandelaars.	hij bezweek voor de druk van de publiek opinie.
+slapen	V	21	27	14	22	ik ga vanavond vroeg slapen.	heb je lekker geslapen?
+buurt	N	26	31	28	33	Rijkaard komt hier uit de buurt.	je moet bij die hond uit de buurt blijven.
+pad	N	20	23	9	12	wat ben je vroeg op pad.	volg dit pad tot u aan uw rechterhand een ANWB-paddestoel ziet.
+lengte	N	16	22	22	28	een plank in de lengte doorzagen.	een kras over de hele lengte van de auto.
+aal	N	35	38	21	24	De soldaat had een afspraak met de aal om te praten over zijn angsten.	De boer verspreid de aal over zijn land.
+wijzen	V	26	31	15	21	(de naald van) het kompas wijst naar het noorden.	deze symptomen wijzen op een schildklierontsteking.
+begrijpen	V	3	10	40	48	ik begrijp wel dat hij een andere baan wil.	alle opvarenden, de bemanning daaronder begrepen, kwamen om.
+lijn	N	0	4	11	17	lijn 12 'is opgeheven'/'rijdt niet meer'.	de scherpe lijnen om de neus.
+staat	N	16	21	29	34	hij is zeker in staat de Tour de France te winnen.	hij herstelt de kast in oude staat.
+paard	N	8	13	14	19	met het paard bedreigde zij zijn koningin.	zij kwamen te paard aangereden.
+bevatten	V	27	32	44	52	de officiële berichtgeving bevat geen nieuwe informatie.	dat mensen daartoe in staat zijn is niet te bevatten.
+roepen	V	4	8	13	19	hij riep zijn hond.	hij stond te roepen en te tieren.
+herrie	N	19	25	55	61	de menigte verwekt herrie.	de laag overvliegende vliegtuigen zorgen voor een hoop herrie in dit gebied.
+breedte	N	19	26	45	52	de kamer heeft een breedte van 5 meter.	wind en water hebben vrij spel over de volle breedte van het duingebied.
+code	N	12	16	4	8	een geheime code.	PIN code.
+zijn	N	23	28	36	39	de koopman stalde zijn waren uit.	elke week zet zij alle tafels in de was.
+patroon	N	31	38	17	24	Zij knipte de stof volgens het patroon.	een systematisch patroon van opklaringen.
+bout	N	15	21	3	9	Er zitten veel bouten tussen het riet.	De bouten komen eraan.
+vlees	N	20	25	23	28	is zij een mens van vlees en bloed?	het is gezond om mager vlees te eten.
+bord	N	21	27	24	28	de hele route is met borden aangegeven.	wat staat er nou op dat bord?
+hoeveelheid	N	37	48	40	51	bij die reactie komt een gigantische hoeveelheid energie vrij.	bij het ongeval ontsnapte een onbekende hoeveelheid chloor.
+lopen	V	14	19	31	36	het Pieterpad loopt van Pieterburen naar de Pietersberg.	deze [wegen/bergketens/lijnen] lopen evenwijdig.
+nalaten	V	60	69	25	32	haar tweejarige verblijf bij de Indianen heeft diepe sporen nagelaten.	Die hebberigheid moet je nalaten.
+haten	V	4	8	3	7	zij haat voetbal.	ik haat jou!
+bespreken	V	14	21	61	70	de PLO-leider besprak het probleem vandaag met de premier van Israël.	ik bel nog snel even naar de stadschouwburg om een plaats te bespreken.
+zeggen	V	13	17	9	13	zijn houding zegt me dat hij boos is.	die naam zegt me helemaal niets, ik ken hem niet.
+afwijking	N	3	12	22	33	in afwijking van wat aangekondigd was treden nu eerst Gert en Hermien op.	de scan vertoont geen afwijkingen.
+partij	N	14	20	33	39	wij zijn geen partij in dit conflict.	de scheidsrechter trok duidelijk partij voor de thuisclub.
+drinken	V	11	16	36	45	dank u, ik drink niet.	ik had die avond een glaasje teveel gedronken.
+flard	N	11	18	25	32	we hoorden flarden muziek uit het park komen.	de kat heeft de bank aan flarden gekrabd.
+bedroeven	V	46	54	15	25	zijn egoïstisch gedrag heeft zijn ouders zeer bedroefd.	het is ronduit bedroevend wat je me vertelt.
+weefsel	N	5	13	12	19	tere weefsels moeten op lage temperaturen gewassen worden.	er werd wat weefsel weggenomen voor nader onderzoek.
+harden	V	36	42	25	31	de hitte in de woestijn was niet te harden.	ik vind het hier niet te harden.
+schuilen	V	61	69	20	28	achter dat gerucht schijnt dus toch een kern van waarheid te schuilen.	we mochten allemaal schuilen onder zijn paraplu.
+hangen	V	10	16	15	20	de wolken hangen laag boven de grond.	het schilderij hangt aan de muur.
+sectie	N	25	32	4	10	De cursus is verdeeld in secties.	uit sectie is gebleken dat hij zelfmoord heeft gepleegd.
+vet	N	25	31	19	22	hij heeft een tekort aan vetten en eiwitten.	Er zit niet genoeg vet in de wielas waardoor er wrijving ontstaat.
+argwaan	N	28	35	39	46	hij koesterde absoluut geen argwaan tegen haar.	toen het later en later werd, kreeg ze argwaan.
+roeren	V	30	37	4	10	de militairen waren zichtbaar geroerd door het welkom.	hij roerde met zijn lepel in zijn kopje koffie.
+eigendom	N	43	51	45	53	mijn werk als auteur is mijn intellectuele eigendom.	verboden toegang, dit terrein is particulier eigendom.
+verbreiden	V	10	20	41	49	de ziekte verbreidde zich tamelijk snel.	dat nieuws heeft zich intussen al overal verbreid.
+oplopen	V	32	39	59	68	die prijzen kunnen al snel hoog oplopen.	we hebben intussen heel wat achterstand op de concurrentie opgelopen.
+boodschap	N	14	23	20	29	zij gaf me de boodschap vooral niet kwaad op hem te worden.	hij belde op met de boodschap dat hij niet kwam.
+dienst	N	22	28	6	12	wie heeft er vanavond dienst?	Na de dienst verliet de priester de kerk.
+waarschuwing	N	19	31	46	58	het ongeluk is een waarschuwing voor iedereen die dronken achter het stuur gaat zitten.	de natrappende voetballer kreeg een officiële waarschuwing van de scheidsrechter.
+prijs	N	33	40	17	22	ik kan die auto voor een [zacht] prijsje kopen.	Ik win nooit een prijs in de Postcodeloterij en ik doe al jaren mee.
+laag	N	5	10	6	11	alle lagen waren vertegenwoordigd.	brede lagen van de bevolking.
+doek	N	9	13	8	12	Een stuk doek wordt om de zoom genaaid.	Als het doek valt barst het publiek uit in een geweldig staand applaus.
+overschakelen	V	40	53	27	41	als dit ook niet helpt zullen we moeten overschakelen op andere middelen/methoden.	we zijn in de jaren zestig overgeschakeld op aardgas.
+kaap	N	26	30	20	24	nog dit jaar hoopt men de kaap van 300 inschrijvingen te nemen.	het schip rondde de kaap nog in het duister.
+adverteren	V	17	27	33	43	veel reisbureaus adverteren met lage tarieven.	je kunt ook in de krant of op tv adverteren.
+hoofdlijn	N	30	41	30	41	ik zal mij nu beperken tot de hoofdlijnen.	we zullen in de bespreking de hoofdlijnen volgen.
+observeren	V	62	72	93	103	hij bleef soms hele dagen in het reservaat om er de vogels te observeren.	de 'observer's paradox' houdt in dat je als onderzoeker probeert niet-geobserveerd gedrag te observeren.
+rit	N	28	31	21	24	de schaatsers die de eerste rit moeten rijden zijn altijd in het nadeel.	het was nog een hele rit naar zijn huis.
+verhaal	N	36	44	16	23	mijn kinderen komen altijd met hele verhalen thuis.	maar dat is een verhaal apart.
+veroordelen	V	6	17	12	24	de EG veroordeelt het optreden van de Russische troepen.	de minister veroordeelde het geweld scherp.
+verzetten	V	4	12	28	37	hij verzette zich fel bij zijn arrestatie.	help je me even die kast te verzetten?
+liefde	N	42	48	9	15	[zij/zijn auto/zijn viool] was zijn grote liefde.	iets uit liefde doen.
+verhouding	N	32	42	22	32	kleinere hoeveelheden zijn naar verhouding duurder.	het aantal jongens in verhouding tot het aantal meisjes.
+eis	N	11	16	36	41	volgens de eisen van betamelijkheid dienen de dames aan tafel eerst te worden bediend.	een goede fiets moet aan een aantal eisen voldoen.
+overnemen	V	49	60	42	53	hij heeft alle gewoontes van de lokale bevolking overgenomen.	machines hebben de taak van handarbeiders overgenomen.
+persoon	N	20	27	35	42	[10 gulden/één] per persoon.	hij is een zanger en danser in één persoon verenigd.
+antwoord	N	12	20	21	29	ik moet het antwoord op die vraag helaas schuldig blijven.	in afwachting van uw antwoord verblijf ik, hoogachtend ...
+herinnering	N	13	26	43	56	ze had mooie herinneringen aan die vakantie in Lugano.	ze zaten samen bij een goed glas wijn oude herinneringen op te halen.
+overkomen	V	28	37	27	35	dat zal me geen tweede keer overkomen!	ik wist gewoon niet wat me overkwam.
+bekomen	V	22	29	37	44	die wijn is me slecht bekomen.	Volg hem niet want dat zal je slecht bekomen.
+breedte	N	19	26	36	43	de kamer heeft een breedte van 5 meter.	de laatste jaren is ze vooral in de breedte gegroeid.
+fortuin	N	24	31	15	22	in de oorlog maakte hij fortuin als zwarthandelaar.	hij zocht zijn fortuin in de bloemenhandel.
+genezen	V	23	30	62	69	hij zal nooit helemaal genezen, maar de medicamenten kunnen wel de ergste symptomen wegnemen.	door zijn botheid ben ik voorgoed van m'n verliefdheid op hem genezen.
+affaire	N	4	11	39	46	die affaire met die gestolen examens was voor de scholieren heel vervelend.	Charles en Camilla hebben al jaren een affaire met elkaar.
+veeteelt	N	31	39	51	59	het gebruik van hormonen in de veeteelt vormt een ernstig probleem.	de regering wil met deze maatregelen de intensieve veeteelt ontmoedigen ten gunste van de kleinschalige gezinsbedrijven.
+film	N	29	33	32	36	Fellini draait momenteel een film die in oktober wordt uitgebracht.	In Hollywood is weer een nieuwe film opgenomen.
+versteviging	N	33	45	17	31	hij gebruikte houten planken ter versteviging van de kast.	in die brug zijn verstevigingen aangebracht.
+flard	N	11	18	0	7	we hoorden flarden muziek uit het park komen.	flarden van teksten schoten de redenaar door het hoofd.
+regel	N	8	14	21	27	Hoeveel regels tekst moet het artikel zijn?	wie zich niet aan de regels houdt, mag niet meedoen.
+beteugelen	V	59	69	38	48	met dit beleid hoopt het kabinet het gebruikt van drugs te beteugelen.	ze namen maatregelen om het geweld te beteugelen.
+pas	N	11	14	39	42	Zonder een pas kom je het land niet in.	er loopt altijd wel een soldaat uit de pas.
+rusten	V	19	25	34	40	zij liet haar blik rusten op het antieke tafeltje dat bij de ingang stond.	de nieuwe politiek van Gorbatsjov rustte op twee pijlers: perestrojka en glasnost.
+geil	N	10	14	18	22	mannelijk geil.	druppels van haar geil.
+aanhang	N	53	60	37	44	eenmaal in de regering vervreemde de partij van haar aanhang.	de partij verwierf aanvankelijk veel aanhang.
+onderscheiden	V	4	16	15	28	hij onderscheidt zich (van anderen) door zijn doorzettingsvermogen/werklust.	bij het woord 'onderscheiden' kan je op z'n minst vijf betekenissen onderscheiden.
+aanklacht	N	3	12	23	32	de aanklacht luidt als volgt.	die roman is een felle aanklacht tegen de consumptiemaatschappij.
+schieten	V	4	10	11	17	hij schoot vlug de kamer uit.	de kleuter schoot naar z'n moeder, toen hij de school uitkwam.
+vervangen	V	26	35	37	46	kan jij die kapotte kraan vervangen?	hij heeft zijn zieke collega vandaag vervangen.
+waarschuwing	N	46	58	37	49	de natrappende voetballer kreeg een officiële waarschuwing van de scheidsrechter.	de scheidsrechter gaf hem een tweede waarschuwing.
+oplopen	V	32	39	30	37	die prijzen kunnen al snel hoog oplopen.	de temperaturen kunnen morgen oplopen tot 25 graden.
+optellen	V	74	82	53	61	de punten die de deelnemers over de drie dagen hebben behaald, worden dan opgeteld.	om het gemiddelde te berekenen moet je alle bedragen optellen en die som delen door het aantal deelnemers.
+flank	N	38	43	32	37	een storing trekt langs de zuidelijke flank van het hogedrukgebied.	hij werd door twee kogels in de flank geraakt.
+verzet	N	14	20	32	38	ondanks hevig verzet van de demonstranten kreeg de politie toch haar zin.	deze beslissing stuitte op veel verzet binnen de partij.
+werk	N	30	34	10	14	je moet haar niet zo van haar werk afhouden.	onder het werk mag er niet gerookt worden.
+ontvangen	V	28	37	29	38	ik heb uw schrijven in dank ontvangen.	de directeur kan u vanmiddag ontvangen.
+binden	V	41	47	30	36	ik wil geen kinderen want ik wil me niet binden.	je moet die triolen nog beter binden.
+verraden	V	3	11	8	16	Je verraadt je bedoeling door dit te zeggen.	Je ogen verraden dat je boos bent.
+pauze	N	4	9	6	11	een pauze van tien minuten.	na de pauze niet meer terugkomen/wegblijven.
+horen	V	3	9	13	18	ik hoorde dat je aan een comeback bezig bent.	die computer hoort niet op mijn bureau te staan.
+peil	N	28	32	43	47	zijn gedrag is beneden alle peil.	een nieuwe krat bier bracht de stemming op peil.
+komen	V	4	8	14	18	zij kwam erachter dat hij op zijn werk te vet at.	volgende week komt er een einde aan deze drukke periode.
+verantwoordelijkheid	N	37	57	23	43	de regering draagt hierbij een eigen verantwoordelijkheid.	de burger moet zelf de verantwoordelijkheid voor zijn leven opnemen.
+rusten	V	10	16	10	16	zijn hand rustte op haar schouder.	de zolder rustte op dikke houten balken.
+hangen	V	4	10	15	20	wat hangen er toch mooie kunstwerken in de musea!	het schilderij hangt aan de muur.
+ontvangen	V	28	37	30	39	ik heb uw schrijven in dank ontvangen.	de directeur kan vandaag niet ontvangen.
+punt	N	49	55	12	16	deze wandeling voert ons naar een van de mooiste punten van het land.	dat is geen punt.
+eb	N	4	6	3	5	bij eb staat er een holle zee.	de eb zal vanmiddag even na vieren inzetten.
+luisteren	V	32	41	10	19	als je niet naar goede raad wil luisteren moet je het zelf maar weten.	het schip luisterde slecht naar het roer.
+afvallen	V	45	55	12	20	sinds mijn ongeluk zijn heel wat vrienden me afgevallen.	het zal hem afvallen na zijn vakantie weer aan het werk te moeten.
+sfeer	N	3	8	16	21	de sfeer van het leven.	de dikte van de sfeer.
+hoogtepunt	N	30	40	55	65	de epidemie lijkt nu over het hoogtepunt heen.	zij bezoeken een therapeut omdat ze nooit een seksueel hoogtepunt kunnen bereiken.
+orgaan	N	39	46	24	30	Chirurgen verwijderen een tumor en zes organen bij een zevenjarige.	Het grootste menselijke orgaan is de huid.
+steen	N	14	19	21	27	De arts vindt steen in zijn nieren en blaas.	Een huis gebouwd uit stenen.
+partij	N	10	16	32	38	ze won de partij in vijf sets.	ze weigerde voor één van beiden partij te kiezen.
+muteren	V	41	48	46	53	twintig procent van de behandelde muizen muteert.	wilt u het ons doorgeven als uw polisgegevens muteren?
+pak	N	25	28	42	45	vanochtend lag er al een pak sneeuw.	voor de gelegenheid haalde hij zijn beste pak uit de kast.
+programma	N	59	68	48	57	met zijn hoofd bij andere zaken werkte hij die middag zijn programma af.	er staat bovendien een uitgebreide lunch op het programma.
+schikken	V	50	58	10	16	de nabestaanden hebben geleerd zich in hun lot te schikken.	als het u schikt kom ik morgen nog even langs.
+wens	N	13	17	13	17	haar laatste wens was dat ze in stilte begraven zou worden.	hij sprak de wens uit dat de vereniging weer eens een regionale show mag houden.
+herhalen	V	39	47	31	39	het is niet te hopen dat die ramp zich herhaalt.	kunt u de laatste zin nog eens herhalen?
+reduceren	V	67	76	34	45	volgens hem volstaan enkele eenvoudige maatregelen om de kosten te reduceren.	op die manier wordt dat kunstwerk gereduceerd tot een gewoon gebruiksvoorwerp.
+werk	N	18	22	4	8	het bedrijf biedt werk aan meer dan 400 mensen.	Het werk van de schrijver Reve wordt opnieuw uitgegeven.
+blikken	V	4	10	4	10	hij blikte niet meer achterom.	hij blikte uit het dakvenstertje.
+bevrijden	V	36	43	51	60	eindelijk ben ik van mijn zere kies bevrijd.	de brandweer heeft de gewonden uit het wrak kunnen bevrijden.
+bewijzen	V	12	18	21	27	dat voorval bewees ten overvloede dat we tegen zo'n problemen niet opgewassen zijn.	dat hij kon acteren, bewees hij al meteen in zijn eerste grote filmrol.
+kern	N	23	29	70	76	In de Peel liggen drie kernen.	De burgemeester van Werkendam vindt een fusie tussen de verschillende kernen absoluut noodzakelijk.
+centimeter	N	20	30	16	26	de slakken liepen 7 centimeter per minuut.	dit moet met de centimeter gemeten worden.
+zeuren	V	16	22	4	9	hij blijft maar zeuren dat hij geen tijd meer heeft.	hij zeurt nog steeds over die paar foutjes.
+procederen	V	46	56	34	46	hij meende dat het geen zin had nog langer te procederen.	over deze zaak is bijna tien jaar geprocedeerd.
+verzet	N	30	36	46	52	de studenten boden geen enkel verzet tegen de bezuinigingen.	de werknemers kwamen tegen deze beslissing in verzet.
+artikel	N	15	22	49	58	hij heeft zijn artikel aangeboden bij Nature.	dat kunt u vinden bij de afdeling huishoudelijke artikelen.
+afwisseling	N	4	15	21	32	ter afwisseling treden Frank en Mirella op.	deze cd biedt minder afwisseling dan de vorige.
+hangen	V	90	96	10	16	Ik ben dan ook zo iemand die denkt, ow die dame heeft geen interesse meer dus ik laat het hangen.	de wolken hangen laag boven de grond.
+spotten	V	19	26	15	22	in de voorstelling spotten de acteurs met onze dagelijkse vooroordelen.	de stuntmannen spotten dagelijks met de dood.
+productie	N	5	14	38	47	deze productie van eigen bodem scoorde hoge ogen in Hollywood.	de giftige frisdrank is inmiddels uit productie genomen.
+reduceren	V	73	82	28	39	doel van het project is het aantal ongevallen met ongeveer 20 procent te reduceren.	het aantal vrije dagen werd gereduceerd tot tien.
+lengte	N	16	22	19	25	een plank in de lengte doorzagen.	zich in zijn volle lengte uitstrekken/oprichten.
+verzet	N	30	36	26	32	de studenten boden geen enkel verzet tegen de bezuinigingen.	zij hebben allebei in het verzet gezeten.
+arrangement	N	50	61	35	46	ik heb voor het komend weekend maar een driedaags arrangement naar Parijs geboekt.	dit is een uitvoering in een nieuw arrangement door Jaap Hofland.
+hoek	N	31	35	9	15	de wind zit nu al dagen in die hoek.	uit alle hoeken van het land waren ze naar de manifestatie gekomen.
+ambtenaar	N	17	26	53	62	ik spreek nu als ambtenaar in functie.	u heeft zich schuldig gemaakt aan belediging van een ambtenaar in functie.
+aanslag	N	50	57	14	21	een onbekende terroristische organisatie eiste de aanslag op.	de voorlopige aanslag viel niet mee.
+warmte	N	3	9	18	24	de warmte van zijn woorden deed mij goed.	de zon geeft veel warmte vandaag.
+drinken	V	9	15	36	45	de jeugd drinkt te veel.	ik had die avond een glaasje teveel gedronken.
+agressie	N	23	31	18	26	de spelers moeten meer agressie in hun spel leggen.	ze reageerden hun agressie af door een bushokje te vernielen.
+verzoek	N	3	10	12	19	op verzoek van mijn broer zal ik meegaan.	ik heb mijn verzoek ingediend bij de gemeente.
+economie	N	41	49	46	54	een derdewereldland met een noodlijdende economie.	de hoge loonkosten ontwrichten de Nederlandse economie.
+alternatief	N	4	15	20	31	als alternatief bied ik aan je naar huis te brengen.	de trein biedt geen alternatief.
+schilderwerk	N	46	58	41	53	omdat we zelf geen tijd hebben, hebben we het schilderwerk uitbesteedt.	het scheepje heeft wel wat achterstallig schilderwerk.
+drinken	V	9	15	11	16	de jeugd drinkt te veel.	dank u, ik drink niet.
+blok	N	30	37	25	29	het meisje kreeg een doos met blokken om mee te spelen.	Wat is de inhoud van een blok met een diagonalen van 2 centimeter?
+opiniepeiling	N	8	23	3	18	volgens opiniepeilingen is nog steeds de PvdA de grootste partij.	de opiniepeilingen voorspellen Clinton een overwinning.
+luwen	V	37	43	24	30	dat heeft zijn geestdrift alvast wat geluwd.	de reacties zijn al fel geluwd.
+illusie	N	24	31	88	95	de minister wil niet de illusie wekken dat er over de WAO te onderhandelen valt.	Het komt soms voor dat mensen een oase zien in de woestijn, ook al is die er niet. Deze illusie noemt men ook wel een fata morgana.
+knijpen	V	4	9	63	70	hij kneep het meisje zachtjes in de wang.	hij maakte van de uitgebroken paniek gebruik om ertussenuit te knijpen.
+proeven	V	36	43	12	19	ik meen basilicum in dit gerecht te proeven.	je kan goed proeven dat er look in deze saus zit.
+buurt	N	26	31	36	41	Rijkaard komt hier uit de buurt.	jij woont wel heel erg (ver) uit de buurt.
+rust	N	39	43	34	38	de relschoppers werden afgevoerd en de rust was weer hersteld.	De hefboom steunt niet goed op de rust.
+verbreden	V	7	16	58	66	de weg verbreedt zich hier.	op die manier wordt ook het economisch/politiek draagvlak verbreed.
+band	N	20	24	23	27	hij heeft een lekke band.	speelt er vanavond een band in Paradiso?
+ontvangen	V	13	20	28	37	de regisseur ontving van de jury de gouden palm van Cannes.	ik heb uw schrijven in dank ontvangen.
+ritselen	V	38	46	20	28	ik hoorde een muis in mijn slaapkamer ritselen.	door de lichte wind ritselde het stuikgewas.
+lengte	N	19	25	16	22	zich in zijn volle lengte uitstrekken/oprichten.	hij heeft er de lengte voor.
+bezwijken	V	17	24	4	11	onder zware druk bezweek hij en verraadde hij zijn makkers.	hij bezweek voor de druk van de publiek opinie.
+bevrijding	N	27	37	56	66	de revolutie betekende een bevrijding uit/van de uitbuiting.	in 1945 in de meidagen vierde de bevolking uitbundig de bevrijding.
+schelen	V	4	11	4	12	zij scheelt een jaar met haar zus.	het scheelde maar een haartje of we waren onder de aanstormende trein gekomen.
+drukken	V	38	45	13	19	bij die drukkerij kan je boeken laten drukken.	het verdriet drukte zwaar op hem.
+piet	N	8	14	26	30	de hoge pieten in Den Haag.	's avonds is hij een hele piet, maar moet je s' morgens eens kijken.
+paspoort	N	5	13	28	36	mijn paspoort is nog twee jaar geldig.	we moesten bij de grens ons paspoort laten zien.
+pijn	N	46	50	17	21	dat zij hem niet meer leek te kennen deed hem pijn.	een middel om de pijn tegen te gaan.
+vlucht	N	13	19	31	37	de bal in de vlucht pakken.	door het slechte weer moest de vlucht onderbroken worden.
+pijn	N	9	13	14	18	het doet pijn om hem zo te zien aftakelen.	waar doet het pijn?
+combinatie	N	3	13	12	22	De combinatie van zetten bracht hem voordeel in het eindspel van de schaakwedstrijd.	die trui in combinatie met die broek levert een leuk geheel.
+opmaken	V	35	42	36	45	ik meen uit zijn woorden te kunnen opmaken dat hij geen zin heeft om nog langer met ons samen te werken.	de politie heeft een proces-verbaal opgemaakt tegen de chauffeur van de vrachtwagen.
+beslag	N	37	43	32	38	de politie neemt de gestolen auto in beslag.	hij heeft een bijbel met gouden beslag op de antiekmarkt gekocht.
+vertegenwoordigen	V	27	44	26	43	de in beslag genomen drugs vertegenwoordigen een marktwaarde van ongeveer 10000 gulden.	wie zal ons land dit jaar vertegenwoordigen op het songfestival?
+dragen	V	18	26	25	31	deze journalisten gedragen zich volgens mij allesbehalve correct.	pas op, de verf moet nog drogen.
+volgen	V	48	54	12	18	kun je dat even uitleggen, ik kan het niet meer volgen anders.	De kinderen volgen zijn bewegingen met hun eigen handen.
+ongelijk	N	55	63	32	40	de supporters gingen al vroeg weg, en hij kon hen geen ongelijk geven: de wedstrijd was erg slecht.	de rechter stelde de man in het ongelijk.
+vereenvoudigen	V	31	44	43	57	ze hebben deze formulering wat vereenvoudigd, omdat ze vreesden dat vele mensen niet zouden begrijpen wat er werd bedoeld.	de bedoeling was eigenlijk, de spelling te vereenvoudigen.
+punt	N	23	29	46	52	beide ploegen delen de punten.	door de kegels met de bal om te rollen kun je punten scoren.
+agenda	N	25	31	34	40	dan moet ik even in mijn agenda kijken.	dit vraagstuk blijft de politieke agenda domineren.
+figuur	N	54	60	3	9	in Friesland is de volksheld Grote Pier een mythische figuur.	in figuur 1 is dit schematisch weergegeven.
+horen	V	19	26	13	18	Kennedy? nooit van gehoord.	die computer hoort niet op mijn bureau te staan.
+voldoen	V	18	25	58	65	de sorteermachine voldoet niet.	de tijdelijke medewerker heeft zeker aan de verwachtingen voldaan.
+blok	N	30	37	14	18	het meisje kreeg een doos met blokken om mee te spelen.	In het eerste blok krijg je geen wiskunde.
+steunen	V	11	17	8	14	het gebouw steunt op een eeuwenoude fundering.	de muur steunt het plafond helemaal niet.
+keus	N	4	8	11	15	een keus uit ons assortiment aan nagerechten.	ik heb m'n keus laten vallen op een miami-blue Peugeot.
+scheppen	V	26	32	71	79	zo'n intense samenwerking schept een band tussen de medewerkers.	de regering hoopt met deze maatregel volgend jaar 4000 nieuwe banen te scheppen.
+weerstand	N	12	21	3	12	Elektrische weerstand is de elektrische eigenschap van materialen om de doorgang van elektrische stroom te bemoeilijken en te verstoren.	De weerstand van deze stof is veel groter dan plastic.
+eerbied	N	4	11	7	14	uit eerbied voor de slachtoffers werd stemmige muziek uitgezonden.	ik heb eerbied voor de manier waarop zij zich staande houdt.
+remmen	V	17	22	84	90	de auto voor mij remde bruusk, waardoor ik plotseling voor hem moest uitwijken.	door deze maatregelen probeerde de regering de aan de gang zijnde ontwikkelingen te remmen.
+dragen	V	10	16	9	15	zijn stem draagt ver.	dat werk draagt zijn naam.
+scherpte	N	34	42	11	19	de beelden werden geselecteerd op scherpte en belichting.	Gebrek aan scherpte kost Ajax punten.
+klas	N	12	16	18	22	In de derde klas van het VWO moet je een profiel kiezen.	De soldaat eerste klas moest zich melden bij de sergeant.
+verzuring	N	43	52	38	47	steeds meer gebouwen en beelden raken door verzuring aangetast.	een te grote inspanning leidt tot een verzuring van de spieren.
+fiat	N	11	15	21	25	zonder het fiat van de ministerraad gaat de fusie niet door.	de minister gaf zijn fiat aan de Bos-variant voor de HSL.
+greep	N	6	11	44	49	in de greep van de [vijand, onzekerheid, angst].	China houdt Tibet nog steeds in een ijzeren greep.
+handel	N	45	51	14	20	die familie zit al langer dan een eeuw in de handel.	hij haalde de handel over, maar er gebeurde niets.
+schroef	N	24	33	43	50	we draaien wel een paar schroeven in die plaat.	zwemmers moeten oppassen voor de draaiende schroef.
+patroon	N	37	44	10	17	de stakingen lopen volgens hetzelfde patroon als de vorige keer.	ditzelfde patroon tekent zich in andere landen af.
+betekenis	N	15	24	3	12	in figuurlijke betekenis is vuur synoniem voor liefde en hartstocht (vgl. in vuur en vlam staan).	de betekenis van de bezuinigingen voor de laagste inkomens.
+boog	N	28	34	3	8	het jongetje plaste met een boogje.	De bogen in de kerk doen gothisch aan.
+contact	N	25	32	36	43	we hebben sindsdien geen contact meer met elkaar.	met de schakelaar verbreekt men het contact.
+gang	N	35	41	8	16	Het doek wordt met een paar flinke gangen om de paal geonden.	Met dit gangetje komen we het nooit.
+belasten	V	43	51	14	20	zulke vrachtwagens zouden de brug te zwaar belasten.	Ze heeft zich belast met het in orde maken van de administratie.
+arrestatie	N	53	63	73	84	er is een beloning uitgeloofd voor de tip die tot de arrestatie van de daders leidt.	tijdens de rellen na de voetbalwedstrijd Ajax-Feijenoord zijn tientallen arrestaties verricht.
+zeuren	V	32	38	4	9	hij bleef maar tegen zijn vrouw zeuren.	hij zeurt nog steeds over die paar foutjes.
+rug	N	3	6	21	24	De rug van de jas is versleten.	de titel staat op de rug van het boek.
+schaal	N	26	32	11	18	hij wil de Sint Pieter op schaal nabouwen.	Je moet je schalen oefenen om een goed musikaal gehoor te krijgen.
+slopen	V	37	43	11	18	ze zijn van plan die oude fabriek te slopen.	de kleuter sloopte de knoppen van het kastje.
+ontvouwen	V	41	51	12	21	tijdens de toespraak van premier Lubbers ontvouwden twee demonstranten voor de ogen van de Koningin een spandoek tegen de WAO-plannen.	de regering ontvouwde zijn plannen voor het terugdringen van de werkloosheid.
+drijven	V	9	15	4	9	Fijnstof drijft in de lucht.	zij dreef op haar rug in zee.
+rekenen	V	3	8	15	20	ik reken 4 dagen voor de reparatie.	uit mijn hoofd reken ik zeven kubieke meter zand.
+controleren	V	20	31	65	76	dat softwarebedrijf controleert de hele medische markt.	het duurde enige tijd voordat de thuisploeg de wedstrijd wist te controleren.
+functioneren	V	19	31	13	25	het nieuwe systeem functioneert nog niet naar wens.	deze website functioneert goed in de meeste moderne browsers.
+proberen	V	7	15	65	75	ik zal proberen vanavond naar jouw feestje te komen.	hoe kan je nu zeggen dat die wijn slecht is als je hem niet eens geprobeerd hebt?
+artikel	N	22	29	46	53	Constituenten met een artikel zijn naamwoordsgroepen.	in de wetenschapsbijlage van de NRC stond een artikel over schizofrenie.
+partij	N	33	39	32	38	de scheidsrechter trok duidelijk partij voor de thuisclub.	ze weigerde voor één van beiden partij te kiezen.
+kruisen	V	13	19	4	12	de spoorbaan kruist hier de straatweg.	wij kruisten een groot schip met veel licht.
+verhouding	N	32	42	3	13	kleinere hoeveelheden zijn naar verhouding duurder.	De verhouding van de tekening van het huis klopt niet.
+optekenen	V	79	88	80	90	de ploeg speelde een uitstekende partij en liet een duidelijke 3-0 overwinning optekenen.	de journalist heeft talrijke getuigenissen van slachtoffers van de burgeroorlog opgetekend.
+remmen	V	53	59	17	22	de chauffeur van de vrachtwagen kon niet meer tijdig remmen en reed frontaal op de auto in.	de auto voor mij remde bruusk, waardoor ik plotseling voor hem moest uitwijken.
+avond	N	32	38	25	30	op die 19e augustus zaten ze 's avonds op de bank tv te kijken.	ik kom in de loop van de avond wel even langs.
+flard	N	0	7	25	32	flarden van teksten schoten de redenaar door het hoofd.	de kat heeft de bank aan flarden gekrabd.
+resumeren	V	85	96	21	30	in het begin van dit hoofdstuk worden nog eens de resultaten van ons vorig onderzoek geresumeerd.	ik zal nog snel even resumeren wat hij toen gezegd heeft.
+verrukking	N	27	37	12	22	dat bracht hem helemaal in verrukking.	ik stond in verrukking voor de zangeres.
+initiatief	N	4	14	11	21	het initiatief voor deze bijeenkomst is genomen door onze voorzitter.	er werd op initiatief van de gemeente een adviesraad voor buitenlanders gevormd.
+rechts	N	20	26	8	14	hier moeten we naar rechts.	wie van rechts komt heeft voorrang.
+pony	N	36	40	36	40	veel meisjes willen graag een eigen pony hebben.	je haar hangt in je ogen, zal ik je pony even bijknippen?
+schaal	N	26	32	30	36	hij wil de Sint Pieter op schaal nabouwen.	hij had beter op een kleinere schaal kunnen beginnen.
+beheersen	V	25	34	11	20	'deze vraag'/'dat thema' beheerste het hele gesprek.	deze ploeg beheerste het vorige seizoen de competitie.
+flank	N	38	43	48	53	een storing trekt langs de zuidelijke flank van het hogedrukgebied.	het natuurgebied bestrijkt de gehele zuidelijke flank van de provincie.
+waan	N	19	23	25	29	hij verkeert in de waan dat hij goed kan zingen.	we lieten hem maar in de waan dat hij fantastisch kon voetballen.
+gang	N	19	23	13	17	laat hem maar zijn gang gaan, anders wordt hij nog boos.	Hij heeft de gang van een olifant.
+klets	N	11	16	11	16	wil je een klets om je oren?	Er zat een klets verf op de tafel.
+schuilen	V	3	11	16	24	er schuilen reële bedreigingen in de geplande maatregelen.	we moesten gaan schuilen voor de felle regen.
+verduisteren	V	62	73	33	45	hij wordt ervan beschuldigd een half miljoen gulden te hebben verduisterd.	morgenavond om 10u45 zal de maan verduisteren.
+aangelegenheid	N	37	51	11	26	het optreden van de minister in deze aangelegenheid.	de interne aangelegenheden van dat land.
+meedelen	V	25	35	29	37	hij heeft ons informatie meegedeeld die eigenlijk geheim moest blijven.	de uitslag zou hij ons later meedelen.
+haan	N	3	7	3	7	de haan kraaide bij het krieken van de dag.	De haan op de kerktoren tolde rond in de fladderende wind.
+opmaken	V	35	42	47	56	ik meen uit zijn woorden te kunnen opmaken dat hij geen zin heeft om nog langer met ons samen te werken.	op het einde van het jaar zal de balans worden opgemaakt van een jaar hervormingspolitiek.
+eis	N	22	27	10	15	de rechter heeft alle eisen van de buurtbewoners toegewezen.	niet alle eisen werden gehonoreerd.
+meegaan	V	49	56	33	40	ik kan daarin een heel met de minister-president meegaan.	die jas zal nog wel enkele jaren meegaan.
+ontmoeten	V	38	45	14	24	ik heb mijn echtgenote voor het eerst ontmoet in Leuven.	de militairen ontmoetten geen enkele tegenstand bij het binnenrijden van de stad.
+schok	N	31	39	22	27	met rubberen dempers worden de schokken opgevangen.	het nieuws bracht een schok teweeg in heel Amerika.
+associatie	N	47	58	54	64	de geur van een houtvuur roept bij mijn moeder associaties op met de kampong uit haar jeugd.	de therapeut maakte gebruik van de techniek van vrije associatie.
+afronden	V	23	31	44	52	de cijfers worden niet afgerond.	de scherpe hoeken van de tafel kun je beter afronden.
+kraken	V	43	51	12	19	het leegstaande pand is gisteren eindelijk gekraakt.	de minister kraakte het rapport dat de speciale commissie had opgesteld.
+hoeveelheid	N	52	64	40	51	gebruik dit soort voedingsmiddelen altijd in kleine hoeveelheden.	bij het ongeval ontsnapte een onbekende hoeveelheid chloor.
+flirt	N	5	10	25	30	haar flirt met Willem draaide op niets uit.	de republikeinen zijn de flirt met Peking begonnen.
+overhalen	V	39	48	34	45	ze hebben hun broer er toch toe kunnen overhalen mee te doen.	wie heeft hem tot die euvele daad overgehaald?
+aanvaller	N	29	38	59	68	Na het fluitsignaal mogen de aanvaller en de doelverdediger gaan bewegen en moet de aanvaller binnen 8 seconden een doelpunt zien te maken.	Jan stak zijn handen op en knipperde met zijn ogen om zijn aanvaller te kunnen zien.
+ontlasten	V	73	82	106	115	in het milieu-actieplan worden maatregelen geformuleerd om het milieu te ontlasten.	ze hebben besloten meer mensen in dienst te nemen om het huidige personeel van een deel van zijn taken te ontlasten.
+ritselen	V	27	35	20	28	hij probeerde van alles te ritselen.	door de lichte wind ritselde het stuikgewas.
+kracht	N	22	30	36	42	een 17-jarige uit z'n krachten gegroeide slungel.	alleen naar voren fietsen kost veel kracht.
+dagdromen	V	28	37	15	24	ik vind het zalig om wat te dagdromen in de trein.	zit je weer te dagdromen?
+praatje	N	22	29	12	19	de buurvrouw kwam een praatje maken.	er gaat een praatje over je.
+leiding	N	23	30	53	60	Feijenoord gaat aan de leiding met 27 punten uit 12 wedstrijden.	op twee speeldagen van het einde heeft Anderlecht de leiding overgenomen van Lierse.
+concept	N	42	49	33	40	het nieuwe station bestaat nog slechts in concept.	het kabinet sleutelt nog aan het concept.
+ondersteunen	V	18	29	32	43	deze vaststelling ondersteunt zijn theorie.	hij heeft zijn broer financieel ondersteund, toen die met een eigen zaak begon.
+overdoen	V	20	28	20	30	ze moet haar examen overdoen.	hij heeft zijn zaak overgedaan aan zijn meesterknecht.
+neigen	V	64	70	22	27	Hij hoopt veel innovatieve en creatieve inzendingen te zien die neigen naar een nieuwe manier van marketing bedrijven.	zo'n starre opvatting neigt naar fundamentalisme.
+patroon	N	15	22	17	24	Zij spelde het patroon op met de lappen stof.	een systematisch patroon van opklaringen.
+consolideren	V	57	69	60	72	het is nu de kunst om zijn pas verworven hoge positie te consolideren.	de thuisploeg kwam snel op voorsprong maar wist die niet te consolideren.
+beseffen	N	19	24	29	34	ik kreeg plots het besef dat ik iets stoms gedaan.	daar heeft hij helemaal geen besef van.
+leger	N	16	21	16	21	Het Nederlandse leger moet bezuinigen.	Het Nederlandse leger bestaat uit drie onderdelen: de landmacht, luchtmacht en de marine.
+belonen	V	18	25	59	66	de jongens werden beloond met 125 gulden ieder.	de regering wil op die manier milieuvriendelijke bedrijven belonen.
+vermoeden	N	10	20	15	24	ik kan uw vermoedens inderdaad bevestigen.	bij mij is het vermoeden gerezen dat Jan het wel gedaan heeft.
+afgelasten	V	22	30	52	60	het hele concert werd afgelast.	alle wedstrijden in de regio Amsterdam zijn vandaag afgelast.
+draaien	V	15	21	31	38	dat restaurant draait wel goed.	hoe de ondervraagde ook zat te draaien, zij redde zich er niet uit.
+houden	V	23	29	11	16	je mag dat potlood wel houden, hoor.	uw kleding houdt haar kleur nu ook bij wassen op zestig graden.
+pensioen	N	52	60	13	21	duizenden vrouwen in Nederland hebben geen recht op pensioen.	sinds ik met pensioen ben, beschik over zeeën van tijd.
+wijzen	V	6	11	15	21	alles wijst erop dat hij de schuldige is.	deze symptomen wijzen op een schildklierontsteking.
+grap	N	19	25	8	12	ik maakte maar een grapje.	voor de grap een alarmnummer bellen.
+indruk	N	22	28	33	39	hij was zeer onder de indruk van haar charmes.	het was de bedoeling dat hij een indruk van zijn nieuwe werkzaamheden zou krijgen.
+behandeling	N	25	36	16	27	hij staat al jaren onder behandeling van een psychiater.	uw klacht is in behandeling.
+frustratie	N	8	18	40	51	door de frustratie over de mislukte wedstrijd moest de scheidsrechter het ontgelden.	de getergde middenvelder reageerde zijn frustraties op de coach af.
+vergeten	V	21	28	18	26	o ja, voordat ik het vergeet, je moeder belde nog, of je terugbelt.	je bent toch niet vergeten dat je dit cadeau ooit van mij hebt gekregen.
+inlichten	V	24	33	46	55	de klanten waren slecht ingelicht.	de firma moet zijn consumenten voortaan beter inlichten over de gevaren van hun product.
+eis	N	3	6	36	41	de eis tot schadevergoeding werd afgewezen.	een goede fiets moet aan een aantal eisen voldoen.
+ontmoeten	V	50	59	14	24	laten we afspreken dat we elkaar morgen om 12 uur ontmoeten aan het station.	de militairen ontmoetten geen enkele tegenstand bij het binnenrijden van de stad.
+hogedrukgebied	N	4	18	62	76	een hogedrukgebied boven Scandinavië bepaalt momenteel ons weer.	op de kaart kunt u zien dat op dit moment boven Schotland een hogedrukgebied ligt.
+bestek	N	7	13	52	58	In het bestek staat hoe het dak gebouwd moet worden.	dit nog uitvoeriger te moeten doen, valt buiten ons bestek.
+leven	N	14	19	5	10	Hij leidt het leven van een zakenman.	Zijn leven was van geboorte tot dood voortbestemd.
+straf	N	5	10	0	5	voor straf moet je in de hoek staan.	straf van God.
+economie	N	76	84	46	54	de handelsbalans en het aardgas zijn de vitale segmenten van de Nederlandse economie.	de hoge loonkosten ontwrichten de Nederlandse economie.
+overweldigen	V	17	28	17	28	het konvooi werd overweldigd door de geallieerde troepen.	ik werd helemaal overweldigd door wat er gaande was.
+stemmen	V	15	21	16	23	de meerderheid stemde tegen het wetsvoorstel.	vandaag werd er gestemd over de vraag of cannabisgebruik toegelaten moet worden of niet.
+handhaven	V	20	29	3	11	dat jong is niet te handhaven.	ik handhaaf volledig mijn bezwaren tegen inbreken in de CAO.
+vertrouwen	N	13	23	23	33	ik stel geen vertrouwen in elke nieuwe onderneming.	de minister geniet het vertrouwen van de kamer.
+komen	V	4	8	4	8	hij kwam nogal ongelukkig te vallen.	zij kwam erachter dat hij op zijn werk te vet at.
+arm	N	15	20	15	20	zij sloeg haar armen om zijn hals.	hij sloeg zijn armen om haar heen.
+afzien	V	0	8	56	62	afgezien van de herrie is het hier erg prettig toeven.	in de laatste kilometers moeten de atleten ongelofelijk afzien.
+belangengroep	N	47	60	30	43	uit oogpunt van de huidige nood hebben wij een belangengroep gevormd.	al enige jaren vormen wij een belangengroep.
+hebben	V	29	35	19	25	ik moet meneer Van der Vliet hebben.	de buurvrouw en ik hadden het juist over het weer.
+steen	N	21	27	24	29	Een huis gebouwd uit stenen.	De ring bevat een mooie steen.
+tikken	V	41	47	4	9	waar heb jij geleerd met tien vingers te tikken?	hij tikte me op de schouder omdat hij me iets wilde vragen.
+ernst	N	8	13	19	24	iets in ernst overwegen.	ik zeg dat in alle ernst.
+complicatie	N	37	49	39	51	verregaande digitalisering leidt tot complicaties van allerlei aard.	het aanleggen van een stroomdam levert complicaties op.
+aas	N	4	7	17	20	Het aas moet snel geborgen worden voor het gaat rotten.	Hij is een echte aas in zeilen.
+samenspraak	N	23	34	30	41	drie leden hielden een samenspraak over het leven op het platteland.	een en ander gebeurt in nauwe samenspraak met de gemeente.
+gezelschap	N	21	31	3	13	samen vormen zij het gezelschap 'Papieren Tijgers'.	in gezelschap van zijn collega's kwam hij aan op het feest.
+afleggen	V	31	39	25	33	wil je die boeken van de stoel afleggen?	ik moet nog twee examens afleggen.
+criterium	N	17	25	6	14	op basis van die criteria besloot men af te zien van vervolging.	welke criteria hanteert u daarbij?
+lopen	V	14	19	14	19	dit onderzoek loopt over een aantal jaar.	het Pieterpad loopt van Pieterburen naar de Pietersberg.
+luisteren	V	12	22	10	19	de kinderen luisterden nieuwsgierig aan de deur.	het schip luisterde slecht naar het roer.
+raad	N	37	41	26	30	Deze beslissing werd genomen door de raad van bestuur van de BRTN.	ik zal jou eens een goede raad geven.
+sectie	N	4	10	4	10	Zie sectie 4.1.	uit sectie is gebleken dat hij zelfmoord heeft gepleegd.
+omloop	N	33	39	36	42	er is een nieuw computervirus in omloop.	De wielrenner Hennie Kuipers won de omloop van het volk.
+raken	V	52	59	18	24	deze week is al verschillende keren m'n balpen zoek geraakt.	de gegooide asbak raakte hem gelukkig net niet.
+voet	N	29	35	26	32	als je binnenkomt moet je je voeten vegen.	zij loopt altijd op blote voeten.
+laten	V	11	17	0	4	de leeuwen lieten de botten aan de gieren en de jakhalzen.	laat me weten wanneer het zover is.
+troep	N	4	9	17	22	Een troep spullen.	Deze computer is troep, er deugt niets van.
+trekken	V	4	9	0	4	zij trekt wel wat op onze dochter.	trek maar aan het touwtje, en de lucht wordt fris.
+figuur	N	22	28	54	60	moeder is de centrale figuur in huis.	in Friesland is de volksheld Grote Pier een mythische figuur.
+meegaan	V	20	27	33	40	daarin kan ik met U meegaan.	die jas zal nog wel enkele jaren meegaan.
+verloop	N	4	11	4	11	Het verloop van de gang.	Het verloop van de badplaats nam alleen maar toe.
+handhaven	V	32	43	3	11	de maatregelen blijven nog even gehandhaafd.	ik handhaaf volledig mijn bezwaren tegen inbreken in de CAO.
+verlopen	V	11	19	29	37	Die winkel verloopt door de crisis. Hij verliest steeds meer klanten.	Door de hitte gaan de buizen verlopen.
+troep	N	3	8	4	9	De troep kwam pas laat terug bij de verkennerij van hun tocht door het bos.	Een troep spullen.
+terrein	N	16	23	24	31	dat ligt op het terrein van de huisarts.	de soldaten moeten open terrein oversteken.
+tonen	V	15	20	11	16	ik zal je even tonen hoe ik dat gedaan heb.	die ruimte toont groter/kleiner dan ze in werkelijkheid is.
+tikken	V	33	39	41	47	zou je die brief voor mij kunnen tikken?	waar heb jij geleerd met tien vingers te tikken?
+flank	N	32	37	10	17	hij werd door twee kogels in de flank geraakt.	met op de flanken twee opkomende backs.
+schade	N	31	37	20	26	de verzekeringsexpert heeft de schade op f.4000 vastgesteld.	de storm heeft veel schade aangericht.
+reserveren	V	4	15	54	66	hij reserveerde een tafel voor twee personen in één van de duurste restaurants van Brussel.	een groot deel van het vroegere militaire domein werd gereserveerd voor de landbouw.
+pijn	N	8	12	14	18	ik voel pijn in mijn linkerknie.	waar doet het pijn?
+brand	N	28	33	29	34	op een aantal plaatsen brak brand uit.	allebei de schepen vlogen in brand.
+flexibiliteit	N	53	66	19	32	In dit materiaal zijn de sterkte van glasvezel en de flexibiliteit van kunststof gecombineerd.	Een combinatie van flexibiliteit, balans en kracht resulteert in een prachtige act.
+betekenis	N	3	12	35	44	de betekenis van woorden vind je in een woordenboek.	aan zijn mening hecht ik echt geen betekenis meer.
+opzetten	V	41	49	30	38	hij wil samen met zijn broer een bedrijf opzetten.	morgenavond komt er bewolking opzetten.
+affaire	N	3	10	48	55	de affaire rond de vermeende smeergeldpraktijken van dit bedrijf.	we hebben flink wat schade geleden door de hele affaire.
+werkdag	N	20	27	27	36	als ze na een lange werkdag thuiskomt, leest ze eerst even de krant.	deze trein rijdt alleen op werkdagen.
+afnemen	V	34	43	32	39	de politie heeft alle steekwapens afgenomen.	welke leerkracht zal de examens afnemen?
+beletten	V	20	25	4	9	de huidige situatie belet een verdere economische groei.	wat belet je nog morgen naar dat concert te gaan?
+vlees	N	22	27	20	25	zij eet niet elke dag vlees.	is zij een mens van vlees en bloed?
+degraderen	V	42	54	12	23	na die misstap heeft men haar twee rangen gedegradeerd.	de generaal degradeerde de luitenant tot soldaat.
+keren	V	21	26	10	15	als zijn geld op is, keert hij naar huis.	bij vloed keren de sluizen het water van de Waddenzee.
+overgaan	V	68	76	35	45	Op dit kruispunt direct rechts afslaan de KORENDRAGERSTRAAT in, die overgaat in de KERKSTRAAT.	vrijwel overal in Nederland is men overgegaan op kabeltelevisie.
+punt	N	7	11	16	20	op dat punt buigt de weg scherp naar rechts.	ik ga niet mee, punt uit!
+aantekening	N	20	33	18	31	deze uitgave is van aantekeningen voorzien door dr. A.B.C. Jansen.	later werk ik die aantekeningen wel op mijn gemak uit.
+slag	N	42	46	22	26	na tien keer oefenen had hij eindelijk de slag te pakken.	dat was een gevoelige slag voor hem.
+presenteren	V	15	27	14	26	in deze lezing presenteerde hij de resultaten van zijn recentste onderzoek.	de vereniging presenteerde vanmorgen in Den Haag haar rapport over de ontwikkelingen van het afgelopen jaar.
+kwaliteit	N	10	19	34	43	in [zijn] kwaliteit van penningmeester heeft hij de boekhouding gedaan.	deze chocoladeletter is van goede kwaliteit.
+leven	N	23	28	14	19	hij leidt een geregeld leven.	Hij leidt het leven van een zakenman.
+tijd	N	17	21	23	27	gisteren om deze tijd lag ik nog in bed.	ik zie haar de laatste tijd nog maar weinig.
+schrijven	V	39	48	39	49	hij heeft vroeger nooit leren lezen en schrijven.	hij heeft me vorige week nog een brief geschreven waarin hij al zijn problemen uit de doeken deed.
+verwerken	V	53	61	4	13	ze heeft de dood van haar echtgenoot nog altijd niet verwerkt.	hij verwerkte verschillende soorten materialen in zijn kunstwerken.
+minuut	N	11	17	16	22	Heb je een minuut. Ik ben zo terug.	de akte ligt in minuut bij de notaris.
+rouleren	V	3	11	3	11	er rouleren veel valse bankbiljetten/munten.	er rouleert een foto door de klas.
+overtuigen	V	28	37	31	42	hij had zijn vriendin ervan overtuigd dat vertrekken de enige goede oplossing was.	de argumenten van de vakbonden overtuigden premier Kok niet.
+werk	N	55	59	18	22	de altvioolsonate van Sjostakovitsj is een schitterend werk.	het bedrijf biedt werk aan meer dan 400 mensen.
+trap	N	14	18	27	33	zij kreeg een trap van haar paard.	pap staat op een wiebelend trapje het schilderij op te hangen.
+centimeter	N	20	30	16	26	het ijs is vijftien centimeter dik.	dit moet met de centimeter gemeten worden.
+contact	N	14	23	22	31	de bilaterale contacten tussen Duitsland en Frankrijk.	mensen met wisselende contacten vormen een risicogroep.
+reserveren	V	36	46	4	15	voor dit concert kan je best vooraf reserveren, want de kans is groot dat er geen kaarten meer over zullen zijn op de avond zelf.	hij reserveerde een tafel voor twee personen in één van de duurste restaurants van Brussel.
+spel	N	4	8	14	18	Het spel was bijna afgelopen toen er nog werd gescoord.	Het grandioze spel van de acteurs werkt betoverend.
+aanleiding	N	5	15	8	18	naar aanleiding van uw brief heeft de gemeente besloten de bomen nog niet te kappen.	dat gaf aanleiding om de zaal te verlaten.
+concept	N	33	40	33	40	het kabinet sleutelt nog aan het concept.	de trekschuit is een achterhaald concept.
+eis	N	22	27	20	25	de rechter heeft alle eisen van de buurtbewoners toegewezen.	topsport stelt hoge eisen aan het menselijk lichaam.
+riskeren	V	26	35	18	26	door met de fiets te gaan riskeerde ze te laat aan te komen.	door deze houding riskeert de minister een conflict met de eigen partij.
+ontmoeten	V	50	59	8	15	laten we afspreken dat we elkaar morgen om 12 uur ontmoeten aan het station.	vandaag ontmoet de premier de president van de V.S.
+neerhalen	V	46	57	42	53	de spits werd net buiten het strafschopgebied neergehaald.	ze hebben de muur tussen de twee gebouwen neergehaald.
+aanleiding	N	26	36	8	18	zijn bericht was voor mij aanleiding om hem te bellen.	dat gaf aanleiding om de zaal te verlaten.
+neigen	V	64	70	22	27	Hij hoopt veel innovatieve en creatieve inzendingen te zien die neigen naar een nieuwe manier van marketing bedrijven.	die manier van werken neigt volgens mij naar corruptie.
+hoofdlijn	N	3	12	3	14	de hoofdlijn van haar betoog was niet zo makkelijk te volgen.	in hoofdlijnen komt het rapport op het volgende neer.
+plas	N	14	18	9	13	badend in een plas bloed werd het slachtoffer aangetroffen.	De diepe plas in de bouwput moet iedere avond worden leeggepompt.
+bestek	N	24	30	52	58	Iedere dag moet hij het bestek maken op het schip en wordt de koers aangepast.	dit nog uitvoeriger te moeten doen, valt buiten ons bestek.
+excuus	N	4	10	5	11	het excuus dat de brug open was maakte geen indruk.	welk excuus gaf hij op?
+bouw	N	19	23	22	26	het is verboden de bouw zonder helm te betreden.	hij is heel breed van bouw.
+luisteren	V	3	12	12	22	ik luisterde aan zijn borst en hoorde zijn ademhaling piepen.	de kinderen luisterden nieuwsgierig aan de deur.
+punt	N	49	55	7	11	deze wandeling voert ons naar een van de mooiste punten van het land.	op dat punt buigt de weg scherp naar rechts.
+huurcontract	N	12	24	7	19	volgens het huurcontract betalen we ook voor het onderhoud van de trap en galerij.	in elk huurcontract staat te lezen dat de bewoners zelf verantwoordelijk zijn voor reiniging van de schoorstenen.
+aankomst	N	8	16	4	12	kort na aankomst gaf ze een persconferentie.	bij aankomst krijgt u een welkomstdrankje.
+rustplaats	N	15	25	37	47	Zij zoeken een rustplaats op om te slapen.	Voor zonsopgang keren hazen naar hun rustplaats terug.
+pil	N	3	9	11	14	De pillen kunnen zo verwerkt worden maar de andere zaadjes niet.	het is een pil van een rapport geworden.
+laag	N	8	13	26	31	haar in lagen knippen.	behalve deze zijn er meer lagen in de film aanwezig.
+pluim	N	27	32	30	37	Sommige mensen scheren hun pluim.	Op de praalwagen zaten groete pluimen.
+perceel	N	39	47	8	16	de brand sloeg over naar de belendende percelen.	land in percelen verhuren.
+jonkie	N	61	67	15	22	wat verbeeld die nieuwe jongen zich wel, hij is nog maar een jonkie.	de cavia heeft jonkies.
+indruk	N	22	28	11	17	hij was zeer onder de indruk van haar charmes.	kun je een indruk geven van de omvang van de ramp.
+sprint	N	62	68	30	36	Ritsma is sterk op de lange afstand, maar heeft ook een goede sprint in de benen.	de atleet werd kampioen op de sprint.
+opletten	V	17	25	16	23	je moet (ervoor) opletten dat de dingen hier niet uit de hand lopen.	dames en heren, opgelet, nu het volgende optreden!
+paar	N	18	22	3	7	ik heb er nog een paar (van) liggen.	de paar keren dat ik hem heb gezien.
+reserveren	V	45	57	48	60	aangezien het boek uitgeleend was heb ik het gereserveerd.	het gemeentebestuur had dat geld oorspronkelijk gereserveerd voor het onderhoud van het park.
+schuilen	V	3	11	20	28	er schuilen reële bedreigingen in de geplande maatregelen.	we mochten allemaal schuilen onder zijn paraplu.
+hebben	V	37	43	19	25	waar hij ook uithangt, we zullen hem hebben.	de buurvrouw en ik hadden het juist over het weer.
+glans	N	44	49	34	39	de dopingaffaire ontnam de overwinning zijn glans.	het lampje verspreidde een flauwe glans.
+flitsen	V	27	35	53	61	allerlei gedachten/beelden flitsten door mijn hoofd.	de politie heeft vannacht een tiental automobilisten geflitst, die zich niet aan de snelheidsbeperkingen hielden.
+instellen	V	52	61	50	59	de Nederlandse regering heeft nu een landingsverbod ingesteld voor die luchtvaartmaatschappij.	ik had me al helemaal op dat feestje van vanavond ingesteld.
+koesteren	V	16	25	4	13	op die leeftijd koesterde ik nog hoge verwachtingen voor de toekomst.	hij koesterde nog steeds de hoop dat hij haar opnieuw zou ontmoeten.
+mishandelen	V	20	30	55	66	dat kind werd thuis mishandeld.	ga hem eens zeggen dat hij moet ophouden zijn viool te mishandelen.
+dienen	V	14	20	2	7	een oud laken diende als zeil.	u dient te weten dat dat bij de wet verboden is.
+vergoeden	V	16	24	51	58	het ziekenfonds vergoedt 80 procent van de kosten van de operatie.	ik krijg de reiskosten van het sollicitatiegesprek vergoed.
+verspreiden	V	43	55	15	26	ze werden gearresteerd omdat ze pamfletten verspreidden.	de schoorsteen verspreidde een penetrante geur.
+argwaan	N	28	35	58	65	hij koesterde absoluut geen argwaan tegen haar.	ondanks alle tekenen aan de wand, had hij nog steeds geen argwaan.
+dromen	V	16	24	25	33	ik heb vannacht gedroomd dat ik de lotto won.	ik heb vannacht over jou gedroomd.
+verhouding	N	22	32	10	20	het aantal jongens in verhouding tot het aantal meisjes.	de scheve verhouding tussen Noord en Zuid.
+schaal	N	30	36	9	15	hij had beter op een kleinere schaal kunnen beginnen.	In welke schaal staat dit stuk van Wayne Shorter?
+brengen	V	39	46	16	22	ik kan hem maar niet aan zijn verstand brengen dat er gewoon geen geld voor is.	wat voor nieuws brengt de krant ons vandaag?
+groeperen	V	13	24	14	25	de toeristen groepeerden zich rond de gids.	de werknemers groepeerden zich in een vakbond.
+reageren	V	18	26	14	23	deze twee stoffen reageren gemakkelijk met elkaar.	de voorzitter reageerde verontwaardigd.
+arm	N	24	27	15	20	ik zit met een gebroken arm.	hij sloeg zijn armen om haar heen.
+vernemen	V	22	30	3	11	de meeste betrokkenen vernamen het nieuws pas de volgende dag.	we vernamen dat de vergadering met de ministers is afgelopen.
+duiden	V	27	33	25	30	wie die verschijnselen kan duiden heeft een voorsprong op de concurrentie.	hoge koorts en spierpijn duidt op griep.
+verzet	N	32	38	26	32	deze beslissing stuitte op veel verzet binnen de partij.	zij hebben allebei in het verzet gezeten.
+probleem	N	51	60	7	16	met name door drank en drugs zit zij nu diep in de problemen.	als je problemen maakt bellen we de politie.
+eindronde	N	44	53	38	47	Nederland wist zich te kwalificeren voor de eindronde.	België plaatste zich eveneens voor de eindronde.
+wegvagen	V	42	52	53	63	in een paar dagen had het leger de vijand weggevaagd.	onder voortdurend gefluit werd de thuisclub compleet weggevaagd.
+rusten	V	65	71	19	25	tussen de twee onderdelen in mogen de deelnemers een half uurtje rusten.	zij liet haar blik rusten op het antieke tafeltje dat bij de ingang stond.
+editie	N	32	38	5	11	bij het ter perse gaan van deze editie was de uitslag nog niet bekend.	deze editie is verzorgd door prof. Maartje Draak.
+leeftijd	N	31	39	15	23	er goed/jong uitzien voor zijn leeftijd.	ze is nu op de leeftijd gekomen dat ze van alles gaat vragen.
+figuur	N	14	20	22	28	deze markante figuur gebruikte plakjes bacon als boekenleggers.	moeder is de centrale figuur in huis.
+haan	N	3	7	17	21	De haan op de kerktoren tolde rond in de fladderende wind.	Hij is een echte haan als het om vrouwen gaat.
+herinnering	N	17	28	43	56	een monument ter herinnering aan de slachtoffers van de vliegramp.	ze zaten samen bij een goed glas wijn oude herinneringen op te halen.
+probleem	N	51	60	41	49	met name door drank en drugs zit zij nu diep in de problemen.	als er een plaats is in de crèche is het probleem opgelost.
+paar	N	15	19	18	22	ik heb er twee paar van.	ik heb er nog een paar (van) liggen.
+hoeveelheid	N	52	64	37	48	gebruik dit soort voedingsmiddelen altijd in kleine hoeveelheden.	bij die reactie komt een gigantische hoeveelheid energie vrij.
+pas	N	22	25	39	42	een kreet deed mij de pas inhouden.	er loopt altijd wel een soldaat uit de pas.
+flankeren	V	22	31	18	29	twee rijen populieren flankeren de weg.	de president werd geflankeerd door twee stevige lijfwachten.
+hoogte	N	27	33	22	28	Hij staarde naar de blauwe hoogte.	De loodlijn geeft een hoogte van 10 meter aan.
+ontnemen	V	20	28	41	49	dat zal hem de lust ontnemen nog meer onheil aan te richten!	je kan die mensen dat recht niet zo maar ontnemen.
+ernst	N	8	13	13	18	iets in ernst overwegen.	hij kan zijn ernst niet bewaren.
+plakken	V	10	15	50	57	zijn hemd plakt aan zijn lijf.	als hij bij mij op bezoek komt, blijft hij altijd plakken tot in de late uurtjes.
+opletten	V	23	31	16	23	je moet maar eens goed opletten wat er gebeurt als je die twee stoffen mengt.	dames en heren, opgelet, nu het volgende optreden!
+verbazing	N	15	24	84	93	zij sprak haar verbazing uit over het feit dat dat niet in VN-verband zou gebeuren.	het feit dat borstvoeding voordelen oplevert op ander dan voedingsgebied hoeft geen verbazing te wekken.
+gezicht	N	63	70	11	18	bij het horen van hun verhaal, vertrok hij geen spier van zijn gezicht.	zij is het gezicht van de organisatie.
+beletsel	N	35	43	20	28	een drukke baan vormt dikwijls een beletsel om een geregeld leven te leiden.	de diepte vormt een beletsel voor de doorvaart.
+element	N	17	26	29	38	Hij schakelde de elementen parallel om meer vermogen te krijgen.	er bevinden zich veel ongure elementen in de binnenstad.
+prijsgeven	V	60	72	28	38	de piramides van Gizeh hebben nog lang niet al hun geheimen prijsgegeven.	ze hebben de enclave moeten prijsgeven aan de vijandelijke troepen.
+weten	V	4	8	12	16	hij weet veel over de politieke situatie in de VS.	voor je het weet, ben je al je spullen kwijt.
+gang	N	21	25	8	16	hij is lekker aan de gang.	Met dit gangetje komen we het nooit.
+zijde	N	27	32	28	33	iets vernemen van bevoegde zijde.	iets vernemen van bevriende zijde.
+campagne	N	17	25	21	29	Greenpeace voert campagne tegen de zeehondenjacht.	Greenpeace start een campagne tegen de walvisvaart.
+sturen	V	7	13	60	68	de bus stuurt slecht.	het was al weer een tijdje geleden dat hij me nog een brief gestuurd heeft.
+hilariteit	N	43	53	18	28	ze viel achterover de vijver in, tot grote hilariteit van de omstanders.	er ontstond grote hilariteit toen de spreker de verkeerde tekst voor zich bleek te hebben.
+krimpen	V	26	35	77	84	mijn T-shirt is in de was gekrompen.	we mogen er van uit gaan dat het wagenpark in de komende jaren niet meer zal krimpen.
+pijn	N	28	32	17	21	dat medicijn helpt tegen de pijn.	een middel om de pijn tegen te gaan.
+stap	N	16	20	35	39	een belangrijke stap in het democratiseringsproces.	deze verkiezingen vormen de eerste stap op weg naar de democratie.
+rug	N	3	6	3	6	De rug van de jas is versleten.	De rug van de stoel zit niet lekker.
+renderen	V	60	68	25	33	het lijkt erop dat die investeringen/inspanningen toch gaan renderen.	het nieuwe winkelcentrum rendeert nauwelijks.
+feliciteren	V	4	16	10	23	hij feliciteerde me met het behaalde resultaat.	hartelijk gefeliciteerd met je verjaardag!
+reserveren	V	43	53	54	66	zal ik voor jou ook een plaats in de opera reserveren?	een groot deel van het vroegere militaire domein werd gereserveerd voor de landbouw.
+rusten	V	10	16	38	44	zijn hand rustte op haar schouder.	na het middagmaal ging hij altijd wat rusten.
+idee	N	19	25	17	21	hij heeft allerlei ideeën omtrent/over leven en dood.	ze heeft er geen idee van hoe dat in zijn werk gaat.
+voorafgaan	V	30	40	30	42	hij bestudeert de periode die voorafging aan de wereldoorlog.	de optocht wordt door politie voorafgegaan.
+hoogtepunt	N	30	40	63	73	de epidemie lijkt nu over het hoogtepunt heen.	de ruzie tussen beide partijen bereikte gisteren een voorlopig hoogtepunt.
+raden	V	4	9	22	27	hij raadt ons op tijd te komen.	de kandidaten moesten raden hoeveel dit apparaat kost.
+tonen	V	11	16	4	9	die ruimte toont groter/kleiner dan ze in werkelijkheid is.	hij toont in dat pak dikker dan hij is.
+materiaal	N	23	32	5	14	Er zit veel schadelijk materiaal in dit speelgoed.	Goed materiaal gebruiken is het halve werk.
+drijven	V	20	26	13	20	een dikke laag olie drijft op het water.	Afvalstoffen drijven naar zee.
+klap	N	19	23	40	44	er klonk een harde klap.	Het verlies van zijn zoon was een zware klap die hij nooit meer te boven is gekomen.
+meemaken	V	57	65	41	49	u heeft er geen idee van wat wij hier allemaal dagelijks meemaken.	mijn dochter zwanger, dat ik dit nog mag meemaken!
+pas	N	11	14	15	18	Zonder een pas kom je het land niet in.	toe we over de pas waren ging het steil naar beneden.
+leiding	N	53	60	21	28	op twee speeldagen van het einde heeft Anderlecht de leiding overgenomen van Lierse.	wie heeft er hier de leiding?
+schijn	N	50	56	16	22	hij kwam zijn verontschuldigingen aanbieden onder schijn van oprechtheid.	de VS wekken de schijn de actie te steunen.
+belang	N	9	15	22	28	ik hecht belang aan correct taalgebruik.	wat is eigenlijk jouw belang bij zo'n regeling?
+daling	N	22	28	50	56	na morgen zien we een daling van temperatuur.	Het verkeersbord waarschuwde voor een gevaarlijke daling.
+fundament	N	15	24	21	32	het financiële fundament voor een ingreep in de sociale zekerheid.	vader Drees heeft de fundamenten van de verzorgingsstaat gelegd.
+overleven	V	81	90	81	90	de Belgische voetbalploeg heeft de eerste ronde van het wereldkampioenschap niet overleefd.	alleen door de bijzondere vorm van subsidiëring kunnen deze bedrijven financieel overleven.
+lijn	N	3	7	31	37	De lijn voor de produktie kan een stuk korter.	de bal bleef nog net binnen de lijnen.

@@ -1,0 +1,198 @@
+matrimonio	N	0	10	0	10	matrimonio egualitario, tra due persone del medesimo sesso biologico.	matrimonio rato e non consumato, quello canonico a cui non segue il compimento di un rapporto sessuale e che può quindi essere sciolto.	1
+matrimonio	N	0	10	0	10	matrimonio egualitario, tra due persone del medesimo sesso biologico.	matrimonio misto, tra coniugi di fede diversa.	1
+matrimonio	N	0	10	0	10	matrimonio canonico, contratto alla presenza di un prete cattolico.	matrimonio rato e non consumato, quello canonico a cui non segue il compimento di un rapporto sessuale e che può quindi essere sciolto.	1
+medicina	N	0	8	23	31	medicina sociale: ramo che tratta di problemi medici inerenti comunità più o meno ampie di persone.	Il premio Nobel per la medicina e la fisiologia 2013 è stato vinto da Thomas Südhof, James Rothman e Randy Schekman.	1
+medicina	N	0	8	0	8	medicina estetica, che si occupa di correggere o eliminare gli inestetismi del corpo con trattamenti poco invasivi.	medicina nucleare: che si occupa di diagnosi e terapia attraverso l'uso di isotopi radioattivi.	1
+medicina	N	0	8	0	8	medicina dello sport: che si occupa dell'idoneità di un individuo alla pratica di un certo sport e dei problemi legati all’esercizio dell’attività sportiva.	medicina legale: che si occupa di aspetti della scienza medica rilevanti sul piano giudiziario.	1
+libro	N	32	37	39	44	in base al metodo di scrittura: libro a stampa, libro manoscritto.	in base alle sue condizioni esteriori: libro nuovo, libro usato.	1
+libro	N	33	38	37	42	in base al metodo di rilegatura: libro sciolto, libro in brochure.	in base al periodo di pubblicazione: libro antico, libro nuovo.	1
+statistica	N	0	10	0	10	statistica multivariata: ramo della statistica dove l'oggetto di studio è per sua natura formato da almeno due componenti.	statistica industriale: disciplina che studia gli aspetti quantitativi e qualitativi dei procedimenti operativi e tecnici dell'industria.	1
+statistica	N	0	10	0	10	statistica multivariata: ramo della statistica dove l'oggetto di studio è per sua natura formato da almeno due componenti.	statistica sociale: disciplina che studia gli aspetti quantitativi e qualitativi dei fenomeni che riguardano la società.	1
+libro	N	32	37	22	27	in base al numero delle pagine: libro sottile, libro grosso.	in base al contenuto: libro scientifico, libro di storia.	1
+cambiare	V	37	43	5	13	è una persona volubile, il suo umore cambia improvvisamente.	sono cambiato veramente, ho abbandonato tutti i miei vecchi vizi.	1
+cambiare	V	0	8	0	8	cambiare posto a teatro, sull'autobus.	cambiare banco, classe, scuola.	1
+cambiare	V	24	30	37	43	il colore di un oggetto cambia a seconda della luce.	è una persona volubile, il suo umore cambia improvvisamente.	1
+elemento	N	0	8	0	8	elemento giuridico: principio, regola, canone.	elemento logico: criterio di ragionamento.	1
+elemento	N	0	8	0	8	elemento logico: criterio di ragionamento.	elemento magico: forza oscura ed invisibile.	1
+cedere	V	3	7	34	40	ti cedo la mia automobile, a me non serve più.	la proprietà della fabbrica venne ceduta dal padre al figlio.	1
+morte	N	15	20	8	13	certificato di morte: atto che certifica la morte di una persona che viene rilasciato dal medico che ne ha constatato il decesso.	atto di morte: atto che certifica la morte di una persona che viene rilasciato dall'ufficio comunale di stato civile.	1
+mercato	N	15	22	0	7	concorrenza di mercato: tra società differenti per prodotti simili.	mercato del lavoro: complesso delle risorse, dell'operativo delle società, degli impieghi.	1
+elemento	N	0	8	0	8	elemento fisico: ciò che, al variare di fattori e stimoli, produce moto, energia, corrente elettrica.	elemento scientifico: principio e parte delle regole e cognizioni di una disciplina o scienza.	1
+spillo	N	0	6	25	31	spillo di sicurezza: in alcune bombe e armi da fuoco, filo d'acciaio che, opportunamente inserito in un foro, ne impedisce lo scoppio accidentale.	essere appuntato con gli spilli: di argomento o discorso privo di solide basi, illogico, campato per aria.	1
+morte	N	0	5	0	5	morte biologica: si verifica quando gli organi, le cellule e l'organismo di un uomo sono irreversibilmente danneggiati.	morte istantanea: come la morte improvvisa, ma che avviene in un tempo quantificabile in pochi secondi dal presentarsi dei primi sintomi.	1
+cioncare	V	0	8	0	7	cioncare il braccio, la gamba a qualcuno.	cioncar le tazze.	1
+morte	N	0	5	0	5	morte biologica: si verifica quando gli organi, le cellule e l'organismo di un uomo sono irreversibilmente danneggiati.	morte improvvisa: che avviene in maniera inattesa in individui sani oppure con malattie non gravi, in un tempo quantificabile in diverse ore dal presentarsi dei primi sintomi.	1
+ridere	V	0	6	26	32	ridere veramente.	a scuola è quasi proibito ridere di gusto...	1
+spillo	N	7	13	2	8	arma a spillo: vecchio tipo di arma dotata di un dispositivo di perforazione della capsula di innesco del proiettile.	a spillo: di oggetto a forma di spillo, sottile e appuntito.	1
+fisica	N	0	6	0	6	fisica classica: meccanica, termodinamica, elettromagnetismo.	fisica tecnica: insieme delle applicazioni pratiche delle trasformazioni dell'energia e delle interazioni di quest'ultima con la materia.	1
+cedere	V	31	37	3	7	le fondamenta della casa hanno ceduto per (o al) peso eccessivo.	ti cedo la mia automobile a prezzo di costo.	1
+cedere	V	40	46	3	7	il fianco destro dell'armata iniziava a cedere per (o ai) continui attacchi dei nemici, e la formazione a scomporsi.	ti cedo la mia automobile, a me non serve più.	1
+chimica	N	0	7	0	7	chimica generale: ramo della chimica che studia la struttura degli atomi e dei loro legami.	chimica inorganica: ramo della chimica che studia le caratteristiche degli elementi al di fuori del carbonio e dei loro composti.	1
+fiato	N	6	11	11	16	avere fiato, avere vita.	tutto d'un fiato, senza interruzione.	1
+chimica	N	0	7	10	17	chimica generale: ramo della chimica che studia la struttura degli atomi e dei loro legami.	industria chimica: ramo dell'industria manifatturiera che produce prodotti chimici.	1
+retta	N	36	41	0	5	per due punti passa una ed una sola retta.	rette parallele: non si intersecano mai; si intersecano "all'infinito"; oppure sono coincidenti (una sopra l'altra).	1
+retta	N	0	5	0	5	rette perpendicolari (o normali): sono incidenti e formano quattro angoli retti.	rette sghembe: nello spazio tridimensionale, non si incontrano mai, ma non giacciono sullo stesso piano.	1
+mercato	N	30	37	15	22	"Pur secondo le direttive del mercato libero, la Leoncino resta appunto comunque assai simile alla Scrambler".	concorrenza di mercato: tra società differenti per prodotti simili.	1
+assemblea	N	0	9	0	9	assemblea scolastica/della scuola: soprattutto per gli insegnanti ed i genitori oppure in occasione di conferenze, ecc.	assemblea di studio: sebbene sia un'espressione rara, indica un incontro per confrontarsi su materie d'interesse di vario genere a seconda dei casi.	1
+preferire	V	0	10	0	10	preferisco morire che vivere così.	preferirei che tu non te ne andassi.	1
+affinità	N	0	8	0	8	affinità prospettiva.	affinità omologica.	1
+repubblica	N	0	10	0	10	repubblica socialista, guidata da enti legislativi ed esecutivi in mano a un solo partito d'ispirazione socialista o comunista (es. Cina).	repubblica islamica, dove la legislazione si attiene almeno in parte ad alcuni aspetti della legge dell'islam (es. Iran).	1
+controbilanciare	V	0	16	80	96	controbilanciare un peso.	abbiamo dovuto aggiungere dei pesi sull'estremità anteriore dell'automobile per controbilanciare il carico nel bagagliaio.	1
+copia	N	0	5	49	54	copia manoscritta, copia dattiloscritta, copia fotostatica.	gli alunni hanno ricopiato il loro tema in bella copia.	1
+affastellare	V	4	16	32	44	hai affastellato i tuoi panni sulla sedia; metti subito in ordine!	trovò quel suo amico intento ad affastellare alcuni oggetti in un baule.	1
+seno	N	27	31	36	40	il porto era situato in un seno naturale della costa.	quel ramo del lago di Como, tutto a seni e a golfi...	1
+caricaturare	V	0	12	0	12	caricaturare il volto, il naso, i vizi di qualcuno.	caricaturare i difetti della borghesia.	1
+armonia	N	29	36	52	59	come viene ad orecchia dolce armonia da organo (Dante).	Né da te, dolce amico, udrò più il verso e la mesta armonia che lo governa (Foscolo).	1
+curare	V	0	6	0	6	curare gli affari dello stato.	curare lo sviluppo fisico e mentale di un bambino.	1
+meccanica	N	0	9	0	9	meccanica razionale: studio del numero massimo di gradi di libertà del moto dei corpi.	meccanica applicata: insieme delle applicazioni pratiche della meccanica.	1
+castagna	N	24	32	14	22	l'ha mandato KO con una castagna nel terzo round.	ha tirato una castagna sul palo.	1
+litania	N	0	7	0	7	Litania del Sole: di tipo funerario e dedicato a Ra.	Litania di Osiride: preghiera inclusa nel papiro di Ani.	1
+denudare	V	0	8	0	6	denudare la facciata di un palazzo.	denudò o demolì i templi dell'Oriente, e trasportò negli ereditari suoi regni l'oro e l'argento.	1
+pennarello	N	38	48	2	12	la Stabilo fa anche una scatola da 50 pennarelli.	i pennarelli speciali Uniposca costano abbastanza.	1
+frode	N	28	33	0	5	si è macchiato del reato di frode fiscale.	frode allo stato.	1
+articolo	N	0	8	0	8	articolo indeterminativo.	articolo partitivo.	1
+tavola	N	4	10	4	10	una tavola da dodici coperti.	una tavola imbandita risveglia sempre l'appetito.	1
+superfamiglia	N	21	34	42	55	gli apoidei sono una superfamiglia dell'ordine degli Imenotteri.	i cercopiecoidei e gli ominoidei sono una superfamiglia del parvordine delle Catarrine.	1
+prima persona	N	35	48	23	36	I pronomi personali italiani della prima persona sono: io, me, mi, noi, ce, ci.	Le forme verbali nella prima persona dell'indicativo presente del verbo temere sono: temo, temiamo.	1
+estendere	V	3	9	18	27	ha esteso il suo impero economico dal cibo in scatola per cani fino alla robotica.	abbiamo deciso di estendere anche a domani il tempo utile per giungere a una decisione.	1
+aggiogare	V	31	38	17	24	anche all’auriga che i cavalli aggioga al carro asperso ancor del sangue d’ieri.	rientrò a casa e aggiogò i buoi.	1
+percorrere	V	11	19	78	86	Un brivido percorre la natura / e rigido mi corre per le membra / al soffiare del vento. (Carlo Michelstaedter, Volo per altri cieli è la mia vita).	quando immerse i piedi nell'acqua gelata, un tremore, quasi un singhiozzo, lo percorse fino al cuoio capelluto.	1
+spillo	N	8	14	9	15	capo di spillo: capocchia.	colpo di spillo o puntura di spillo: provocazione, punzecchiatura.	1
+tedesco	N	21	28	23	30	seguiamo un corso di tedesco.	in Svizzera si parlano tedesco, francese, italiano e romancio.	1
+avventurare	V	0	9	17	28	avventurò la sua intera carriera e tutti i suoi averi in quel losco affare.	ciascun passo le avventurava ad insulti e pericoli.	1
+lutto	N	0	5	0	5	lutto di corte della durata di pochi mesi.	lutto vedovile della durata di trecento giorni.	1
+canto	N	0	5	10	15	canti carnascialeschi.	il quinto Canto dell'Inferno di Dante.	1
+riviera	N	22	29	28	35	"I paparazzi vanno in riviera per i VIP della televisione, dello sport e del cinema? Per esempio a Santa Margherita e Portofino?".	gli esperti pescatori della riviera ed i suoi vigneti ne danno un'onirica ancestrale bellezza.	1
+modo	N	0	4	15	19	modi verbali.	complemento di modo.	1
+burro	N	0	5	0	5	burro nero: letame di stalla decomposto.	burro di cacao: grasso ricavato per spremitura dai semi di cacao.	1
+aggravare	V	15	22	8	15	il clima umido aggravò la febbre del poveretto.	l'ansia aggrava il dolore.	1
+consacrare	V	25	35	25	35	il vescovo in persona ha consacrato l'altare di questa chiesa.	questo tempio romano era consacrato al culto di Giove.	1
+spagnolo	N	18	26	22	30	ho incontrato uno spagnolo sull'aereo.	so parlare un poco di spagnolo.	1
+suolo	N	0	5	0	5	suolo pubblico, area di proprietà statale o comunale.	suolo edificabile, su cui può essere creato un edificio.	1
+retta	N	36	41	0	5	per due punti passa una ed una sola retta.	rette sghembe: nello spazio tridimensionale, non si incontrano mai, ma non giacciono sullo stesso piano.	1
+incrociare	V	0	10	0	10	incrociare due barre di metallo.	incrociare le braccia.	1
+brancicare	V	0	10	0	10	brancicare un oggetto per saggiarne la consistenza.	brancicava nervosamente le monete che aveva in tasca.	1
+canzone	N	7	14	0	7	quella canzone è la mia preferita.	canzone d'amore: dedicata all'amata.	1
+morso	N	8	13	22	27	dare un morso a qualcosa.	il cane mi ha dato un morso.	1
+adacquare	V	78	86	94	103	per esso naviglio (...) ne segua molti beni per il macinar delli mulini e per adacquar li prati.	si ricoprono con alcuni centimetri di terra i rami così disposti, avendo cura d’irrigare o di adacquare spesso.	1
+imbrigliare	V	0	11	17	28	imbrigliare uno spirito ribelle.	gli argini hanno imbrigliato il corso del fiume, evitando le esondazioni.	1
+omicidio	N	0	8	0	8	omicidio premeditato: omicidio organizzato secondo un piano perfettamente preparato.	omicidio passionale: omicidio dettato dalla gestione problematica dei rapporti familiari.	1
+torcere	V	0	7	7	14	torcere un braccio.	potrei torcere una sbarra d'acciaio con la sola forza del pensiero.	1
+gracilità	N	61	70	47	56	un romanzo ben scritto, cui non si può tuttavia perdonare la gracilità della trama.	Pietro era grasso, ma pallido e con un'aria di gracilità (Federigo Tozzi, Con gli occhi chiusi).	1
+nonnulla	N	20	28	20	28	si preoccupa per un nonnulla.	perde tempo su ogni nonnulla che gli si presenta.	1
+cioncare	V	0	8	0	7	cioncare una bottiglia intera.	cioncar le tazze.	1
+contrattacco	N	12	24	3	15	lanciare un contrattacco.	il contrattacco nemico li colse di sorpresa.	1
+immergere	V	0	9	6	13	immergere le mani nell'acqua, un biscotto nel latte.	se si immerge un corpo nell'acqua, questo riceve una spinta verso l'alto pari alla propria massa.	1
+geosinonimo	N	15	26	12	23	l'anguria è un geosinonimo perché si usa solo nell'Italia del nord mentre i lemma corretto è cocomero.	cencio è un geosinonimo toscano di straccio.	1
+estendere	V	31	37	18	27	il lungo e difficile conflitto estese i territori e nel contempo prosciugò le finanze del regno.	abbiamo deciso di estendere anche a domani il tempo utile per giungere a una decisione.	1
+ridere	V	0	6	4	8	ridere veramente.	non ridi ormai da tanto tempo.	1
+atomo	N	2	7	25	30	l'atomo è formato da tre particelle: protoni, neutroni, elettroni.	l'atomismo concepiva gli atomi come parti puntiformi.	1
+effondere	V	0	9	20	29	effondere nell'aria un suono.	parea per gli occhi effondere / il sorriso dell’alma (Carducci).	1
+dialetto	N	0	8	107	115	dialetto lombardo, toscano, siciliano, salentino, napoletano, veneto.	maggiore è la vicinanza di una regione d'Italia con l'Europa centrale, maggiore è la somiglianza di un suo dialetto col tedesco.	1
+speme	N	16	21	6	11	Questo di tanta speme oggi mi resta! (Foscolo, Sonetti).	Altra speme non resta / che terminar la vita (Metastasio).	1
+gemelli	N	2	9	13	20	i gemelli oggi sono favoriti.	mio zio è un gemelli.	1
+abbaiare	V	19	27	12	20	si sentiva un cane abbaiare contro le persone.	il sergente abbaiava ordini ai soldati.	1
+estromettere	V	33	43	41	51	l'ottimo campionato del Milan ha estromesso la Fiorentina dalla Champions League.	dalla sua faccia si direbbe che si sente estromesso dalla conversazione oppure che sta per sentirsi male.	1
+deduzione	N	59	68	30	39	nei gialli di Agatha Christie la soluzione è raggiunta per deduzione.	Einstein ebbe molte brillanti deduzioni.	1
+avvezzare	V	0	9	0	9	avvezzare il corpo alle fatiche, alle privazioni.	avvezzare un ragazzo allo studio.	1
+guerra	N	24	30	27	33	quei due sono sempre in guerra.	"Ma basta! Siete sempre in guerra".	1
+canticchiare	V	0	12	7	17	canticchiare una canzone.	spesso canticchia sotto la doccia.	1
+errore	N	28	34	48	54	gli hacker spesso sfruttano errori negli antivirus per accedere ai sistemi operativi protetti.	ciò che Ulisse sofferse a Troia e poi nel lungo errore.	0
+errore	N	104	110	11	17	nel medioevo i catari sostenevano il dualismo tra materia e spirito, che per la chiesa cattolica era un errore.	è stato un errore lieve, una trasgressione involontaria...	0
+errore	N	0	6	48	54	errore grammaticale (mancata aderenza ai principi della grammatica).	ciò che Ulisse sofferse a Troia e poi nel lungo errore.	0
+cambiare	V	0	8	0	8	cambiare nome all'anagrafe, domicilio, indirizzo.	cambiare posto a teatro, sull'autobus.	0
+cambiare	V	0	8	0	8	cambiare volto, aspetto, voce.	cambiare banco, classe, scuola.	0
+cambiare	V	0	8	37	43	cambiare strada.	è una persona volubile, il suo umore cambia improvvisamente.	0
+giocare	V	10	17	0	7	i cardini giocano troppo, e di conseguenza la porta traballa.	giocare un cavallo, la regina (negli scacchi).	0
+giocare	V	0	7	16	23	giocare con la palla, a nascondino, ad un gioco di società.	hai sbagliato a giocare adesso la briscola, non c'erano punti da prendere!	0
+torcere	V	0	7	36	43	torcere le lenzuola appena lavate prima di stenderle ad asciugare.	la bruttezza di questo quadro mi fa torcere bocca e naso.	0
+seno	N	31	35	15	19	il ragazzo poggiò la testa sul seno del padre.	nudo uscii dal seno di mia madre, e nudo vi ritornerò.	0
+torcere	V	36	43	7	14	la bruttezza di questo quadro mi fa torcere bocca e naso.	potrei torcere una sbarra d'acciaio con la sola forza del pensiero.	0
+acqua	N	0	5	9	14	acqua piovana: raccolta in un luogo apposito.	numero d'acqua: il numero che identifica la corsia.	0
+seno	N	27	31	60	64	il porto era situato in un seno naturale della costa.	la tangente di un angolo è definita come il rapporto tra il seno e il coseno dell'angolo stesso.	0
+acqua	N	3	8	19	24	le acque del Veneto.	abbiam preso tanta acqua.	0
+torcere	V	38	46	85	92	l'intruglio che ingurgitava gli stava torcendo le budella.	Dimostro com’egli fosse trascinato da un pregiudizio opposto a quello di Berzelius a torcere spesso i fatti (Stanislao Cannizzaro, Sunto di un corso di filosofia chimica).	0
+seno	N	3	7	3	7	il seno intermammario si trova in corrispondenza dello sterno.	il seno mascellare (w.) è uno dei quattro seni paranasali (w.).	0
+cedere	V	3	7	17	24	ti cedo la mia automobile a prezzo di costo.	infine, la porta cedette alle nostre spinte e si aprì.	0
+scherzo	N	7	14	7	14	quello scherzo gli cambiò la vita...	quello scherzo permise di capire la natura della loro amicizia.	0
+scherzo	N	20	27	7	14	la guerra non è uno scherzo o un gioco...	"bello scherzo, eh...".	0
+giocare	V	0	7	41	48	giocare a calcio, a tennis, a pallacanestro.	credevano di essere furbi, ma sono stati giocati da qualcuno più furbo di loro.	0
+acqua	N	16	21	40	45	il sangue non è acqua.	Talete è il filosofo che riteneva che l'acqua fosse il principio della vita e del cosmo.	0
+cedere	V	22	28	38	44	il suo corpo inizia a cedere, se la febbre non passa potrebbe morire.	i miei genitori si trasferiscono e mi cedono la casa.	0
+cedere	V	67	71	3	7	la catena degli Altai è una delle più imponenti dell’Asia e non la cede che a quella dell’Imalaja.	ti cedo la mia automobile, a me non serve più.	0
+lavoro	N	36	42	25	31	pur essendo in ferie sono andato al lavoro a trovare i colleghi.	"Bravo, ha fatto un buon lavoro!".	0
+minaccia	N	0	8	15	23	minaccia di morte.	ha nascosto la minaccia fatta per ben 3 anni.	0
+scherzo	N	20	27	13	20	la guerra non è uno scherzo o un gioco...	"...ma è uno scherzo del destino!?".	0
+amore	N	11	16	21	26	un intenso amore ed un rispetto equilibrato fortificano molto anche la fede.	quella mansarda è un amore.	0
+elemento	N	0	8	0	8	elemento magico: forza oscura ed invisibile.	elemento naturalistico: bellezza naturale del paesaggio o patrimonio di bellezze di una entità geografica.	0
+amore	N	0	5	21	26	amore per la Terra d'origine.	quella mansarda è un amore.	0
+elemento	N	0	8	0	8	elemento magico: forza oscura ed invisibile.	elemento architettonico: parte dei componenti orizzontali e verticali di un edificio o di una struttura.	0
+mezzo	N	4	9	19	24	Nel mezzo della stanza c'era una pozzanghera di sangue.	Se ne andò nel bel mezzo della festa.	0
+minaccia	N	9	17	19	27	sotto la minaccia di una pistola fu costretto a rivelare la combinazione della cassaforte.	usava incedere con minaccia contro persone indifese.	0
+passaggio	N	51	59	16	25	partendo dall'equazione data, dopo alcuni semplici passaggi otteniamo il quadrato di un binomio.	leggiamo ora il passaggio in cui il Manzoni parla della peste a Milano.	0
+passaggio	N	3	12	0	9	un passaggio di uno spot durante la finale di Champions League costa 100000 euro.	passaggio di prima, fatto toccando una sola volta il pallone.	0
+passaggio	N	0	9	16	25	passaggio di prima, fatto toccando una sola volta il pallone.	leggiamo ora il passaggio in cui il Manzoni parla della peste a Milano.	0
+contare	V	12	17	4	9	la nonna mi conta sempre delle bellissime storie.	non conta quello che hai, ma quello che sei.	0
+minaccia	N	6	14	32	40	è una minaccia esplicita il tuo modo di inveire.	gli sembrò di essere oggetto di minaccia altrui ma poi verificò che ciò era impossibile.	0
+contare	V	18	23	5	12	l'esercito nemico conta molti uomini bene armati.	puoi contare quante persone ci sono in sala?	0
+elemento	N	0	8	0	8	elemento scientifico: principio e parte delle regole e cognizioni di una disciplina o scienza.	elemento chimico: sostanza semplice costituita di atomi della stessa natura.	0
+amore	N	21	26	28	33	quella mansarda è un amore.	andrò in vacanza con il mio amore.	0
+speranza	N	4	12	33	41	con speranza si rimise a cercar lavoro.	sembrava avesse abbandonato ogni speranza: non rideva più.	0
+contrarre	V	0	9	0	9	contrarre un'infezione batterica.	contrarre un muscolo.	0
+tavola	N	42	48	10	16	tutti i suoi mobili erano stati fatti con tavole di ciliegio.	servire a tavola.	0
+iconoclasta	N	37	48	6	17	nulla viene risparmiato dalla rabbia iconoclasta.	mania iconoclasta.	0
+crisi	N	30	35	51	56	è il suo cruccio: è spesso in crisi.	"Beh, senza guerre mi pare ovvio che ci siano meno crisi".	0
+incisione	N	23	32	2	11	Doré è un maestro nell'incisione.	l'incisione che hai appeso al muro è bellissima.	0
+monastero	N	38	47	29	38	in luoghi con una natura ricca, molti monasteri sono noti per liquori deliziosi e preparazioni alimentari molto rare.	il giovane monaco ritornò al monastero.	0
+attaccare	V	12	21	3	12	Carlo mi ha attaccato il raffreddore.	Ho attaccato un quadro al chiodo nel muro.	0
+brigante	N	22	30	26	34	è un avventuriero, un brigante pronto a tutto.	quel bambino è proprio un brigante!	0
+collezione	N	7	17	27	37	faccio collezione di figurine dei calciatori italiani.	quest'opera fa parte della collezione Einaudi di classici greci e latini.	0
+interesse	N	32	41	10	19	ho ottenuto un prestito a basso interesse.	agire per interesse.	0
+deporre	V	25	32	0	7	un vecchio pugile che ha deposto i guantoni ormai da anni (che ha smesso di fare il pugile).	deporre un sovrano, un imperatore.	0
+sposare	V	6	11	34	39	il re sposò suo figlio alla principessa di Spagna.	dopo tante peripezie infine Renzo sposò Lucia.	0
+denudare	V	0	8	15	25	denudare la facciata di un palazzo.	gli infermieri denudarono il ferito, e gli applicarono una medicazione su tutto il corpo.	0
+chetare	V	0	7	0	7	chetare i vagiti di un bimbo o chetare un bambino che piange.	chetare gli animi.	0
+carne	N	38	43	26	31	il cervello e gli occhi sono pezzi di carne, ma con funzioni né metaboliche né motorie.	lo spirito è forte, ma la carne è debole.	0
+strillare	V	28	37	58	67	aveva una terribile otite e strillava, inizialmente senza che se ne capisse la ragione.	Disse il padre agitato ma con fermezza: "Smetti subito di strillare!".	0
+asso	N	0	4	0	4	asso dell'aviazione.	asso di cuori/quadri/fiori/picche (nelle carte francesi o da poker).	0
+biancheria	N	0	10	0	10	biancheria di seta, di cotone.	biancheria da cucina, da letto, da bagno.	0
+fame	N	3	7	3	7	la fame in tempi di guerra.	ho fame di te.	0
+portare	V	30	37	0	7	la laurea in filosofia non ha portato i frutti sperati.	portare le lenti a contatto.	0
+giorno	N	38	44	54	60	cerchiamo di finire questo lavoro "di giorno" (cioè in fretta, entro breve tempo).	(domanda) Ti è chiaro il concetto? (risposta) come il giorno.	0
+sentire	V	0	5	4	9	Senti quanto è liscio?	Non senti questa puzza?	0
+casa	N	50	54	36	40	alla tua nascita Saturno si trovava nella settima casa.	ha dovuto ricoverare sua zia in una casa di riposo.	0
+finta	N	14	19	42	47	nel calcio la finta è nata da un'insicurezza in attacco.	credevo fosse mio amico, ma era tutta una finta.	0
+ammirare	V	26	34	9	15	un vero leader può essere ammirato soltanto se senza pecca.	or quì t'ammira in ciò ch'io ti replico (Dante).	0
+concionare	V	0	11	13	23	concionando accendeva gli animi loro a combattere.	sta sempre a concionare, ma all'atto pratico non è di alcun aiuto.	0
+design	N	0	6	0	6	design dell'auto.	design moderno.	0
+mezzo	N	19	24	39	44	Se ne andò nel bel mezzo della festa.	"Tu non sei mia amica, sei soltanto un mezzo per tradirmi!".	0
+crepitare	V	9	18	23	34	il fuoco crepitava nel camino.	le foglie degli alberi crepitavano per la leggera brezza.	0
+specie	N	26	32	3	9	un briccone della peggior specie.	La specie umana si è originata in Africa orientale più o meno 2 milioni di anni fa.	0
+capitale	N	13	21	3	11	Sanremo è la capitale dei fiori.	La capitale del Regno Unito è Londra.	0
+obiettivo	N	31	40	14	23	l'ira offusca la visione degli obiettivi.	Non è un vero obiettivo: si tratta di uno specchietto per allodole.	0
+urlare	V	36	43	7	11	il corriere mi ha salutato contento urlando un po' ma mi ha fatto piacere.	non si urla contro le donne.	0
+impegno	N	13	20	13	20	maggiore è l'impegno più forte è la sensazione di non essersi applicati abbastanza.	Lavorava con impegno.	0
+segreto	N	26	33	19	26	non tutti sanno tenere un segreto.	quello è un famoso segreto della magia nera.	0
+ululare	V	22	29	7	16	la ragazza piangeva e ululava inconsolabilmente.	i lupi ululavano sui monti.	0
+spingere	V	10	18	10	16	ha dovuto spingere il carretto fino alla rimessa.	era stato spinto a favore della loro opinione.	0
+tavola	N	16	22	9	15	i piaceri della tavola.	"tutti a tavola, il pranzo è servito!".	0
+presagire	V	49	58	44	54	agli inizi del Novecento, pochi avrebbero potuto presagire le due guerre mondiali.	l'andamento della borsa negli ultimi giorni presagisce lo scoppiare di una bolla economica.	0
+spingere	V	17	25	21	29	Domani andiamo a spingere a Las Vegas !	il capoufficio vuole spingere per farmi ottenere il trasferimento.	0
+enigma	N	57	63	2	8	come tu sia riuscito a farti promuovere per me è un vero enigma.	l'enigma della sfinge venne risolto soltanto da Edipo.	0
+articolo	N	0	8	2	10	articolo partitivo.	l'articolo 3 della legge...	0
+contare	V	16	21	16	23	la mia opinione conta quanto la tua.	non sai nemmeno contare? due più tre fa cinque!	0
+classe	N	57	63	31	37	maggiore è la scolarità dei genitori degli alunni di una classe a scuola, maggiore è la percentuale di alunni in grado di essere promossi.	l'Homo sapiens appartiene alla classe dei mammiferi e all'ordine dei Primati.	0
+polso	N	39	44	3	8	il medico prese accuratamente nota del polso del paziente (o semplicemente prese il polso).	il polso di un essere umano in buone condizioni è capace di flettersi sia lateralmente che verticalmente al proprio asse.	0
+marchiare	V	0	9	17	26	marchiare il bestiame.	le sue azioni lo marchiano come persona inaffidabile.	0
+linea	N	0	5	12	17	linea aperta: il punto iniziale è diverso dal punto finale.	Traccia una linea retta.	0
+convinzione	N	39	50	6	17	le sue parole testimoniarono la nostra convinzione.	ho la convinzione che loro stanno agendo in questo modo.	0
+design	N	0	6	0	6	design moderno.	design della nautica.	0
+unità	N	45	50	32	37	I confini del sistema solare sono posti a 50 unità astronomiche, ossia a cinquanta volte la distanza tra la Terra e il Sole.	cooperazione internazionale tra unità terrestri.	0
+scoglio	N	12	19	21	27	superare lo scoglio della maturità.	picchiare contro gli scogli.	0
+colpire	V	5	12	21	28	L'ha colpito con un calcio.	La sua bravura mi ha colpito.	0
+lasciare	V	7	13	14	22	non vi lascio, non andrò via per sempre.	ieri Carlo ha lasciato la città.	0
+pittore	N	34	41	11	18	rispetto al passato, oggigiorno i pittori raggiungono guadagni economici maggiori.	conosco un pittore che ha compiuto una vera opera d'arte che ritrae il muso di un cane da caccia.	0
+disporre	V	10	17	12	19	l'azienda dispone di ingenti capitali.	il generale dispose le truppe in vista della battaglia.	0
+gadget	N	28	34	22	28	mia sorella ha la fissa dei gadget però sono divertenti.	si trovano tantissimi gadget della Ducati e della Ferrari.	0
+avviluppare	V	12	23	20	33	l'ansia gli avviluppava i pensieri e non gli consentiva di ragionare.	il fuoco, le fiamme avvilupparono l'edificio.	0
+lager	N	53	58	4	9	è probabile che siano stati presenti luoghi simili a lager proprio in Africa, ormai parecchi decenni dopo la fine della seconda guerra mondiale.	nei lager lo stento era tale per cui qualsiasi gesto di misericordia verso altri prigionieri veniva presto punito.	0

@@ -1,0 +1,852 @@
+gratisavis	N	32	42	21	31	fremtiden er den annoncebetalte gratisavis.	Den husstandsomdelte gratisavis Dato taber ifølge analytikere mere end en mio. kr. om dagen.	1
+google	V	40	47	68	75	Man søger ikke efter noget længere, man googler det.	en stadig voksende del af befolkningen sidder foran deres skærme og googler.	1
+indie	N	91	96	55	60	Jyske troubadurer er i København omtrent lige så smarte som hvide tennissokker i hyttesko. Indie, fusions-jazz eller cubansk hip-hop .. er langt mere hipt.	[gruppen] epo-555 kan om nogen leve op til betegnelsen indie .. for gruppen spiller selvbevidst, alternativ rock af den slags, som har svært ved at blive forstået på de internationale pladeselskabers direktionsgange.	1
+bringe	V	15	21	17	23	Tanken om Leon bragte blodet op i hendes kinder.	Et års nabostrid bragte mig i går på skadestuen og tvang mig til at blive hjemme fra mit arbejde.	1
+gratisavis	N	44	56	15	27	det [er da] et udmærket initiativ med de to gratisaviser Urban og MetroXpress, men desværre bliver de efter endt læsning smidt på gader og stræder.	Abbonenter som gratisavisen Weekend Fyn kunne være en løsning, men det blokerer RB's struktur som interessentskab og de store bladhuses egeninteresser for.	1
+indie	N	64	69	107	112	det hotteste og mest hippe i hidsig, hypnotisk house, techno og indie på scenen.	Navnet Fight For Glory er lidt at tage pis på os selv og hele den der ting med, at det er så hårdt at være indie, og man skal kæmpe for at komme frem og så videre.	1
+ballondans	N	61	71	31	41	efter maden blev der afholdt forskellige konkurrencer, bl.a. ballondans.	Sørøver-Lotte havde arrangeret ballondans, som også var delt op i forskellige alders grupper så ingen blev snydt.	1
+gratisavis	N	15	27	15	27	angsten for at gratisavisen MetroXpress sluger annoncer fra Berlingskes flok af aviser, har fået koncernen til at slå igen med Urban.	Abbonenter som gratisavisen Weekend Fyn kunne være en løsning, men det blokerer RB's struktur som interessentskab og de store bladhuses egeninteresser for.	1
+ballondans	N	14	24	95	105	Om det så var ballondans eller sæbebobler, der var på programmet, så var børnehavebørnene ivrige til at deltage.	Efter kædedansen blev der afviklet diverse konkurrencer såsom appelsindans, sangkonkurrence og ballondans.	1
+tale	V	15	20	80	84	'For faen, han taler med pigestemme! Er du et pigebarn, dit lange rær?'.	Journalisten fra Danmarks Radio førte mikrofonen hen til mig, og jeg prøvede at tale.	1
+indie	N	65	70	55	60	Indieklubben byder på de faste DJ's, der vil spille gammel og ny indie.	[gruppen] epo-555 kan om nogen leve op til betegnelsen indie .. for gruppen spiller selvbevidst, alternativ rock af den slags, som har svært ved at blive forstået på de internationale pladeselskabers direktionsgange.	1
+sige	V	7	11	59	63	jeg må sige at cyklisterne lever livet farligt.	Søren Østergaard [er] næsten altid glad, når han selv skal sige det.	1
+fastpris	N	24	34	123	131	Kolonihaveforbundet har fastpriser på grundene, der betyder, at prisen ofte ligger langt under den reelle værdi.	Softwarekontrakter og de forskellige afregningsmetoder er et uhyre komplekst område. Skal der afregnes efter forbrug eller fastpris?	1
+ballondans	N	61	71	33	43	efter maden blev der afholdt forskellige konkurrencer, bl.a. ballondans.	Programmet står denne tirsdag på ballondans og historiefortælling fra Det Gamle Testamente om Samson og Dalila.	1
+bilassistent	N	63	78	0	12	172 politirapporter var resultatet af 30 motorcykelbetjente og bilassistenters massive trafikrazzia.	Bilassistent Fl. Ovesen siger, at lygtefejl er den alvorligste mangel på køretøjerne denne vinter.	1
+godhedsindustri	N	0	15	56	71	Godhedsindustri ? ordet er et ulækkert produkt af tidens egoisme og fremmedfjendskhed og en hån mod mennesker, der ønsker at hjælpe andre og at vise tolerance og medmenneskelig forståelse.	Ulandshjælp var på vej til at udvikle sig til en elitær godhedsindustri uden folkelig opbakning. Danskerne betalte aflad over skatten, og ulandsorganisationerne blev kørt af professionelle ulandsfunktionærer.	1
+godhedsindustri	N	71	88	56	71	Egoismens evangelium blæses ud med det efterhånden velkendte angreb på godhedsindustrien, som skal forstås som de personer og institutioner der for tiden i strid modvind søger at mildne luften for de klippede får.	Ulandshjælp var på vej til at udvikle sig til en elitær godhedsindustri uden folkelig opbakning. Danskerne betalte aflad over skatten, og ulandsorganisationerne blev kørt af professionelle ulandsfunktionærer.	1
+windbreake	N	29	40	109	120	Galvin Green har lavet en ny windbreaker i det tynde materiale, soft shell, der ifølge butiksbestyrer i Tee Stedet i Hørsholm, Kim Lysholt, stadig er varmt og helt vindtæt.	Jeg gik en tur på tre timer og mødte kun ét menneske. Husk at tage vand med ? og måske en vest eller en tynd windbreaker.	1
+børnehøjde	N	33	43	69	79	DUI-Leg og Virke vil se verden i børnehøjde og kæmpe for børnenes sag både herhjemme og i udlandet.	Når mor drikker ? engelsk dokumentar, der viser alkoholproblemer fra børnehøjde.	1
+trække	V	4	11	66	73	man trækker nogle kort, og den der kommer nærmest enogtyve har vundet puljen.	Både censor og eksaminator skal være til stede, når en eksaminand trækker et spørgsmål.	1
+børnehøjde	N	127	137	53	64	Børneafdelingerne i toiletbygningerne sætter helt nye standarder på danske campingpladser med badekar i bordhøjde, toiletter i børnehøjde og varme i gulvet.	da vi skulle opbygge rørebassinerne og have vurderet børnehøjden på bassinkanten, havde han lige størrelsen, vi kunne måle efter.	1
+bredbånd	N	109	117	10	18	Et højkvalitets tv-billede kræver en kapacitet, som er mere end 1.000 gange højere end en talekanal ? det er bredbånd.	Europæisk bredbånd inden 1995.	1
+fugleinfluenza	N	44	60	32	48	Vietnam er det land, der er hårdest ramt af fugleinfluenzaen eller virus H5N1, som i Asien har kostet 46 mennesker livet.	Forskere ser meget alvorligt på fugleinfluenzaen H5N1, fordi de frygter, at den dødelige virus vil mutere, så den kan smitte direkte mellem mennesker.	1
+bredbånd	N	4	14	37	45	med bredbåndet kan man for eksempel hente en hel film på internettet på få sekunder.	I TDC fokuserer vi på vækstområderne bredbånd og mobiltelefoni.	1
+få	V	4	7	11	14	Jeg fik sat maden over og hygget lidt med ungerne.	betjentene fik ham overtalt til at følge med.	1
+adhd	N	45	49	42	46	for tidlig fødsel kan være med til at udløse ADHD både hos de børn, som er genetisk disponerede og hos de børn, hvor det ikke er tilfældet.	Hyperaktivitetssygdommen DAMP kaldes også ADHD ? det står for Attention Deficit Hyperactivity Disorder. Børn med denne lidelse har svært ved at koncentrere sig. De farer rundt og lider af en konstant rastløshed. Senere får børnene svært ved at læse og skrive, da de ikke kan koncentrere sig om opgaverne, der skal lære dem disse færdigheder.	1
+stykke	N	51	58	73	80	De 380 ansatte slagtede og bearbejdede dagligt 200 stykker kvæg og 500 svin.	Hvad kan jeg gøre mod mine rynker? Jeg er en pige på 23 år og har et par stykker i panden.	1
+skrubbecreme	N	8	20	36	48	Duftfri skrubbecreme med fintmalet majsmel og naturlige ekstrakter, der fjerner død hud og forfrisker.	Gentle Exfoliator'en er en plejende skrubbecreme, der skulle kunne dæmpe tørhedsrynker.	1
+skyde	V	19	23	4	10	Hun rankede sig og skød hagen frem i demonstrativ foragt.	jeg skyder nysgerrigt hatten tilbage i nakken.	1
+adhd	N	85	89	45	49	Vi ser i disse år et boom af henvisninger af børn, som diagnosticeres med tilstanden ADHD, tidligere kaldet DAMP. Disse børn har vanskeligheder med hyperaktivitet, impulsivitet og koncentrationsevne.	for tidlig fødsel kan være med til at udløse ADHD både hos de børn, som er genetisk disponerede og hos de børn, hvor det ikke er tilfældet.	1
+børnefridag	N	82	94	40	52	vi har forsøgt at skabe et mere familievenligt arbejdsmarked med orlovsordninger, børnefridage blandt andet.	Den hidtidige ene feriefridag og de tre børnefridage afløses af fem feriefridage for samtlige ansatte med mindst ni måneders anciennitet.	1
+windbreake	N	26	37	103	114	Er det rigtig koldt er en windbreaker sagen.	Hver spiller skal have tre sæt tøj til at træne i - det består af strømper, knickers, en svedtrøje, en windbreaker , svedtransporterende undertøj.	1
+idealvægt	N	51	60	112	121	Man er overvægtig, hvis man vejer 10 pct. over sin idealvægt, og regulært fed hvis man vejer 20 pct. mere end idealvægten.	har man først fået 25 eller måske 40 kilo for meget på sidebenene, er det ikke sandsynligt, at man ender på sin idealvægt, viser forskningen. Overvægten kan reduceres, men mere end 10 procent er som regel ikke realistisk.	1
+få	V	24	28	11	14	Jeg har for to år siden fået repareret starteren hos Volvo her i Køge.	betjentene fik ham overtalt til at følge med.	1
+dele	V	17	22	41	46	For 400 år siden delte den danske konge Island i 20 handels-områder med hver sin havn.	En brandmur stoppede ildens fremmarch og delte den gamle bygning i to.	1
+idealvægt	N	46	57	51	60	jeg skal tabe omkring 15 kilo for at komme på idealvægten.	Man er overvægtig, hvis man vejer 10 pct. over sin idealvægt, og regulært fed hvis man vejer 20 pct. mere end idealvægten.	1
+indsætte	V	10	18	10	16	De fleste indsatte i de danske fængsler er unge, uuddannede mænd.	de to var indsat i fængslet i Jyderup.	1
+bog	N	30	33	50	55	Den indbundne og illustrerede bog er på 416 sider og koster 398 kr.	Så skal jeg på biblioteket og aflevere og genlåne bøger.	1
+google	V	40	47	9	16	Man søger ikke efter noget længere, man googler det.	Hvis man googler ham, får man hundredtusindvis af henvisninger.	1
+bilassistent	N	78	90	0	12	'Den senere tids kontrol har afsløret alt for mange livsfarlige biler,' siger bilassistent Folke Petersen, Statens Bilinspektion.	Bilassistent Fl. Ovesen siger, at lygtefejl er den alvorligste mangel på køretøjerne denne vinter.	1
+slippe	V	4	11	30	34	Han slipper et suk.	'Hør så her,' afbrød Marco og slap en enorm bøvs.	1
+finde	V	11	17	14	19	Regeringen finder det .. vigtigt at få gennemført både administrative og lovmæssige ændringer.	rigtige læger fandt det under deres stand at drikke øl.	1
+synes	V	4	9	42	47	Det synes helt umuligt at fravriste Lemond den titel, han i dag kan vinde for tredje gang.	Han har et rygte, der får Casanova til at synes som en munk.	1
+passe	V	24	30	13	19	social adfærd, der ikke passer ind i systemet, kaldes for afvigelse.	Beskrivelsen passer sikkert mange steder i landet, men ikke her i kommunen.	1
+skrubbecreme	N	41	53	8	20	Eksfolier huden. Hvad enten du bruger en skrubbecreme eller en svamp, så gælder det om at fjerne de døde og gamle hudceller, så den bløde, nye hud kommer frem.	Duftfri skrubbecreme med fintmalet majsmel og naturlige ekstrakter, der fjerner død hud og forfrisker.	1
+bog	N	50	55	53	58	Så skal jeg på biblioteket og aflevere og genlåne bøger.	Jeg kan i min levetid ikke overkomme at læse alle de bøger jeg gerne vil læse.	1
+fugleinfluenza	N	32	48	21	35	Forskere ser meget alvorligt på fugleinfluenzaen H5N1, fordi de frygter, at den dødelige virus vil mutere, så den kan smitte direkte mellem mennesker.	Ved en konference om fugleinfluenza i Ho Chi Minh By i sidste uge advarede Verdenssundhedsorganisationen WHO om, at der er alvorlig fare for en epidemi.	1
+tale	V	48	52	51	55	SF har i alle de år, vi har debatteret det her, talt imod tilslutning til den økonomisk-monetære union.	Kaj Fischermann er en ivrig debattør, der ofte har talt politikerne imod.	1
+sige	V	14	19	19	23	Alt, som skal siges i denne sag, er sagt i telefaxen fra Eddie.	Airbag er populært sagt en ballon, der er placeret i rattet og pustes op ved sammenstød.	1
+græs	N	35	39	75	82	Jeg elsker at gå barbenet på grønt græs.	han måtte længere og længere væk for at finde brugbar græsning til køerne. Græsset var gult og groede ikke.	1
+støjværn	N	105	113	4	12	I forbindelse med en ny udstykning på Vestervænget i Tvingstrup er der fremkommet ønske om etablering af støjværn for at begrænse støjen fra gennemkørende tog.	Nye støjværn og ny asfalt på strækningen fra Jyllingevej til Jægersborg fjerner meget af den støj, boligområderne tættest på vejen har lidt under.	1
+spøgelsesforfatter	N	126	144	125	144	I en alder af blot 33 år har Tori Spelling besluttet sig for at skrive sine erindringer, formentlig uden hjælp fra en såkaldt spøgelsesforfatter, som stjernerne normalt benytter, så man kan forstå, hvad de skriver.	Videnskabelige artikler i medicinske tidsskrifter er ikke altid skrevet af de læger og forskere, som lægger navn til, men af spøgelsesforfattere, betalt af medicinalindustrien.	1
+skyde	V	16	22	36	42	Appelsintræerne skyder ny skud, og det ny løv er meget lysere grønt end det gamle.	jord kastes hen over en gren og den skyder påny.	1
+fastpris	N	123	131	135	143	Softwarekontrakter og de forskellige afregningsmetoder er et uhyre komplekst område. Skal der afregnes efter forbrug eller fastpris?	Der blev spurgt til gasprisen i relation til den meget høj oliepris over 50 $, hvortil det blev oplyst, at der er indgået kontrakt med fastpris for hele 2004 / 2005.	1
+adhd	N	85	89	132	136	Vi ser i disse år et boom af henvisninger af børn, som diagnosticeres med tilstanden ADHD, tidligere kaldet DAMP. Disse børn har vanskeligheder med hyperaktivitet, impulsivitet og koncentrationsevne.	I Norge, Sverige og Amerika er forskningen på DAMP området længere fremme. Amerikanerne arbejder med en tilsvarende diagnose kaldet ADHD.	1
+indsætte	V	10	16	11	20	man [har] indsat helt nye vinduer både her og i etagen nedenunder.	Pacemakere indsættes, hvis hjertet slår for langsomt.	1
+bilassistent	N	0	16	78	90	Bilassistenterne er især gode til at tjekke dæk, bremser og styretøj ? kort sagt alt det tekniske.	'Den senere tids kontrol har afsløret alt for mange livsfarlige biler,' siger bilassistent Folke Petersen, Statens Bilinspektion.	1
+passe	V	55	61	29	35	Du kan følge kurserne på trin 11 i den rækkefølge, der passer dig.	jeg er fritstillet -- og det passer mig udmærket lige i øjeblikket.	1
+vende	V	26	32	61	67	Han hævede øjenbrynene og vendte skrivelsen på hovedet, indtil det endelig gik op for ham, at den var spejlvendt.	Hver tredje time døgnet rundt kommer sygeplejerskerne ind og vender hende, så hun ikke får liggesår.	1
+lave	V	21	25	24	29	Jeg har tænkt mig at lave lækre frikadeller af hakket lammekød, kartofler og svøbte porrer til aftensmad.	Jeg har en fisk, som er lavet til i forvejen.	1
+windbreake	N	26	37	41	52	Er det rigtig koldt er en windbreaker sagen.	omklædt ville sige i strømper, knickers, windbreaker, hue og vanter. Og på fødderne... løbesko.	1
+hokkaido	N	6	16	12	20	Skræl hokkaidoen, fjern kernerne og skær kødet i små tern.	Smagen i rå hokkaido er svag og lidt sødlig, konsistensen er som i små faste courgetter.	1
+grave	V	24	31	37	43	De tre flygtende fanger gravede sig ud i friheden gennem dette hul på kun 42 gange 30 cm.	Toget var kørt fast i sneen og måtte graves fri af en hærskare mænd.	1
+debattere	V	46	56	37	47	En dialog kræver aktiv medvirken fra dem, der debatterer.	Det er godt og nødvendigt, at skolen debatteres.	1
+besiddelse	N	27	37	50	60	i 1968 blev de anholdt for besiddelse af cannabis.	En stor del af deres tyvekoster er fundet i deres besiddelse.	1
+fede	V	43	48	62	69	Grønsager er mad til rimelige priser og de feder ikke.	Hvis man .. panerer og frituresteger torskerognen, får man et fedende produkt i stedet for sundt og magert pålæg.	1
+skive	N	25	31	20	26	Kagen skæres i ret tynde skiver med en skarp kniv.	Gulerødder og løg i skiver brunes i smør.	1
+bestille	V	44	51	22	30	Politiets små, brune kranvogne får virkelig bestilt noget.	Hvad havde hun her at bestille, i skoven midt om formiddagen.	1
+lukke	V	25	31	82	88	'Godnat,' hvisker hun og lukker øjnene.	Der var ingen færdsel gennem porten, og der var endnu to-tre timer til den skulle lukkes.	1
+analysere	V	39	48	12	23	eleverne udvikler deres færdighed i at analysere, fortolke og vurdere tekster.	da politiet analyserede asken fra hans kakkelovn, viste den sig at stamme fra et menneske.	1
+sikre	V	100	106	16	22	På banegården stod min cykel heldigvis stadig godt fastlåst til stativet. De tre låse har indtil nu sikret mod diverse overgreb.	plejepersonalet sikres med kittel og handsker.	1
+tage	V	16	21	7	10	Efter kogningen tager man kødet op og sier suppen.	Farmor tog sin salmebog i tasken.	1
+blad	N	12	17	11	16	Kalenderens blade er tomme.	hvor mange blade er der på en rulle lokumspapir.	1
+støjværn	N	91	99	103	111	Beboerne i det sociale boligbyggeri fra 1950 har i 22 år forgæves bedt myndighederne om et støjværn.	Vi plantede hæk, grantræer og lavt buskads bestående af sirbuske og stedsegrønt, der nu danner et fint støjværn mod nord.	1
+afmærke	V	31	39	31	39	Linjen mellem disse to punkter afmærkes med kridtsnor.	Stien er tydeligt, men diskret afmærket med lave pæle.	1
+mand	N	26	30	4	8	Han er missionær, en Guds mand, mon ikke det skulle borge for kvaliteten?	Vor mand i Paris sender en rapport.	1
+stemme	N	53	59	18	24	Har du ikke hørt det? spurgte han med sin grådkvalte stemme. -- Han er død.	Hanne Boel har en stemme, der kan forgylde en hvilken som helst sang.	1
+bredbånd	N	37	45	10	18	I TDC fokuserer vi på vækstområderne bredbånd og mobiltelefoni.	Europæisk bredbånd inden 1995.	1
+sko	N	41	44	45	48	Hun skulle aldrig have lånt moderens nye sko, der var et nummer for små.	Man træder .. ikke ind på templets grund med sko på.	1
+barriere	N	61	70	28	36	Langli var landfast med Ho-landet indtil en storm gennembrød barrieren i 1634.	Et tæt lag af hår danner en barriere, så skadelige insekter, pupper eller larver ikke kan trænge ind i bladene.	1
+trække	V	3	7	9	16	de trak penge på organisationens konto, uden at det øvrige forretningsudvalg var orienteret.	Kommunen trækker i de ansattes løn for første sygedag.	1
+spil	N	25	29	64	68	Dansk tipning får et nyt spil. Spillet får navnet 'Super 5'.	Selv om han lige har vundet den store gevinst, er han parat til spil igen.	1
+fætter	N	73	79	52	58	Journalisten kommer klædt i gråt. Brintet, plydset hår og fipskæg. Spøjs fætter.	Mester, der i privatlivet skal have været en lystig fætter, var på arbejdspladsen en eddikesur agurk.	1
+afsløre	V	9	18	44	52	politiet afslørede en større hælerring.	Den optimistiske, tilforladelige landsfader afsløres som et menneske med en belastende karakterbrist.	1
+møde	N	42	46	0	5	Vi giftede os to måneder efter det første møde.	Mødet med en sort kat varsler ulykke, siger man.	1
+udsalg	N	35	41	0	8	Kom op af starthullerne!! Sikke et udsalg vi har. Alt til 1/2 pris.	Udsalget er det eneste rigtige tidspunkt at købe sko på.	1
+angst	N	50	55	24	29	'Jeg er bange', hvisker Simone og omfavner Tom. I angst knuger de sig ind til hinanden.	de tænder ikke bålet af angst for, at røgen skal røbe dem.	1
+hætte	N	12	18	62	67	Han skruede hætten på flasken, lagde den tilbage i skuffen.	hans fars Remington [stod] beskyttet mod støv under sin gamle hætte.	1
+antal	N	17	22	35	40	der .. kræves et antal på tolv deltagere for oprettelse af et hold.	Berammede tvangsauktioner falder i antal.	1
+roadshow	N	43	51	26	34	i ferierne drager ungdomsskolen ud med sit roadshow, hvor de unge sammen med elever fra dagskolen og unge arbejdsløse, gøgler, synger og spiller.	Vi laver et landsdækkende roadshow, hvor vi vil lave små lønseminarer for vores kvindelige medlemmer.	1
+tæppe	N	73	79	68	73	Der var en udbredt skovtursstemning over grundlovsmødet. Publikum sad på tæpper i græsset.	Da hun følte sig døsig, lagde hun sig i sofaen og tog det nye uldne tæppe over sig.	1
+ansøge	V	28	35	103	110	For at få bekræftet teorien ansøgte forskerne om tilskud fra forskellige fonde til køb af teknisk udstyr.	[han har] foreslået, at kommunen yder 78.500 kroner i tilskud til Radio Skive. Det er halvdelen af det ansøgte beløb.	1
+barn	N	0	7	23	27	Børnene legede med legetøj, som de selv havde snittet af træstumper.	jeg glædede mig som et barn til juleaften.	1
+låne	V	61	65	40	44	Hun var en af klassens dårligste elever -- Lise skulle altid låne hende sine oversættelser.	'Far skal bruge sin boremaskine, har du lånt den ud?'.	1
+kontor	N	43	49	49	55	Liva tog sin realeksamen, og så kom hun på kontor.	Jeg ringede og fik besked på at komme op på hans kontor, hvor jeg fik at vide, at jeg var fyret.	1
+afsats	N	28	34	24	30	det lykkedes os at finde en afsats et par hundrede meter over søen, hvor vores telte kunne stå.	Uden for vinduet løb en afsats, som duerne balancerede på.	1
+falde	V	18	23	43	48	Inden kommunismen faldt, havde han besøgt samtlige østlande.	Jeg ønsker, at Schlüterregeringen snart må falde.	1
+tvinge	V	30	35	13	20	Manden hev hende af cyklen og tvang hende med ind i et krat.	vintervejret tvinger lystfiskeren til at være indendørs.	1
+kassere	V	71	79	55	63	Gulerødderne står godt i år, normalt har vi orm i dem, så halvdelen må kasseres.	kapitalismen er et særdeles ineffektivt system. Det må kasseres.	1
+skade	V	29	35	16	23	Peter Nielsen er påny blevet skadet og må se en million-kontrakt briste som en sæbeboble.	Bortset fra den skadede Bjarne Linnet er alle meldt spilleklar.	1
+sædkvalitet	N	91	102	14	25	Ifølge Lone Petersen har hver femte par problemer med at få børn ? Det skyldes især dårlig sædkvalitet. I en tredjedel af tilfældene skyldes den manglende graviditet mændenes dårlige sædkvalitet.	Danske orners sædkvalitet er ikke blevet forringet med årene, selv om de spiser pesticidforurenet korn og drikker pesticidforurenet vand.	1
+græs	N	83	90	46	50	Grundet overstået højtryks- og lavtrykssammenstød var gårdspladsen en mudderpøl og græsset et øhav.	Maleriet forestillede et landskab med køer på græs, fugle i flugt og et stråtækket bondehus i baggrunden.	1
+please	V	63	69	75	82	jeg står lidt uden for de kredse, som man kan være nødt til at please for måske at opnå noget.	[tv-programmet] 'Emmas Dilemma' blev kult, fordi det er helt sit eget. Det pleaser ingen og skal ikke nødvendigvis forstås.	1
+jordfarve	N	84	94	41	52	modellerne .. defilerede forbi, først i afslappede, eksklusive silkedragter i blide jordfarver, siden i stadig skønnere aftencreationer.	Rom .. er blevet berømmet for sine varme jordfarvers stille glød af ælde og værdighed.	1
+afprøve	V	8	15	6	14	Husk at afprøve HFI-afbryderen mindst én gang om året.	[man] afprøver ny vaccine på chimpanserne.	1
+smule	N	46	51	25	30	vi spiser mest grønsager, pasta og ris med en smule kød til.	Ingen kvinde med bare en smule selvrespekt finder sig i at blive tæsket af en mand.	1
+træ	N	27	32	49	56	Efter blomstring sætter .. træet små, smukke frugter.	Det var godt koldt, og der var .. ingen blade på træerne.	1
+kontor	N	37	45	43	49	De har 55 ansatte, som er fordelt på kontorer i København, Odense og Århus.	Liva tog sin realeksamen, og så kom hun på kontor.	1
+artikel	N	43	51	55	63	Aarhuus Stiftstidende beskæftiger sig i to artikler med Niels Bohrs revolutionerende fysiske opdagelser.	min forskning [indebar], at jeg konstant skulle skrive artikler om mine resultater til engelsksprogede blade.	1
+afbigt	N	41	47	66	72	han kunne [betale] et rimeligt beløb som afbigt for sin manglende effektivitet.	Straks efter juletidens kulinariske udskejelser skal der så gøres afbigt, hos nogle i form af nytårsforsætter.	1
+økonomi	N	0	9	89	98	Økonomien er baseret på landbrug og minedrift.	Ideen i denne politik er at liberalisere .. og at lade markedskræfternes frie spil styre økonomien.	1
+udsætte	V	68	73	42	50	To statuer i Nørrebroparken i København blev tidligt torsdag morgen udsat for groft hærværk.	Æblers kvalitet nedsættes hurtigt, når de udsættes for store temperatursvingninger.	1
+spaghetti	N	11	22	50	59	Jeg smider spaghettien i, bøjer den ned under vandet med en gaffel, rører rundt og lader den koge i ti minutter.	De tyggede og tyggede og da de var færdige med én spaghetti, tog de en til.	1
+historie	N	62	70	141	150	Knud Rasmussen er ubestridt den største folkehelt i Grønlands historie.	Ronald Reagan kaldte i sin tale Nixon for en patriot og sagde, at hvad han havde opnået udenrigspolitisk havde skaffet ham en særlig plads i historien.	1
+styrtdyk	N	65	73	43	51	Hastigheden når op på 200-300 km/t, mens [falken] i et svimlende styrtdyk kaster sig over bytte-attrappen.	Danske krimier. Jan Stage tager sit årlige styrtdyk ned i et af verdens brændpunkter [: Østtyskland].	1
+tvinge	N	93	98	59	64	folkeafstemninger er hemmelige. Det sikrer, at man stemmer efter overbevisning og ikke under tvang.	Sigtet for voldtægt, ulovlig frihedsberøvelse og forsøg på tvang blev en 20-årig mand .. varetægtsfængslet.	1
+være	V	8	10	7	12	Mit tøj er i skabet ved døren.	Har du været på Bornholm, Lise?	1
+standardmelodi	N	81	95	92	106	som det fremgår af gruppens plade, kan hun også blive fristet til at fortolke en standardmelodi som 'Over The Rainbow'.	Så gav han sig til at spille, stille og nænsomt, ofte de rene improvisationer, sjældnere en standardmelodi.	1
+vilkår	N	74	83	8	14	Til alle tider har mennesker søgt bort fra deres egen stamme og jord, når vilkårene var hårde og tvang dem til det.	De ydre vilkår er gunstige for dansk økonomi.	1
+timeglas	N	0	8	29	37	Timeglas blev gradvist almindelige som prydgenstand i købstadshjemmene.	jeg erkender at sandet i mit timeglas rinder ud inden længe.	1
+børnefridag	N	82	94	43	57	vi har forsøgt at skabe et mere familievenligt arbejdsmarked med orlovsordninger, børnefridage blandt andet.	det er pensionen, der kommer til at betale børnefridagene.	1
+opdele	V	41	47	69	75	Arbejderne blev anbragt i lange barakker opdelt i ganske små rum, som husede en hel familie.	Som i de fleste vesteuropæiske lande, er Danmark ved at blive skarpt opdelt i sociale lag.	1
+kongerige	N	51	60	49	58	Når jeg skriver romaner, er jeg hersker i mit eget kongerige, svarer Bjarne Reuter.	Lindy har rystet den blanke cocktailshaker i sit kongerige bag bardisken siden . . . 1946!	1
+frikadellevin	N	60	73	0	13	I de danske supermarkeder er alsacevin for længst blevet en frikadellevin af typen tag-tre-for-en-hund.	Frikadellevin er nærmest blevet indbegrebet af let, billig og ligegyldig vin, der bare skal have frikadellen til at glide ned.	1
+tom	N	22	27	68	73	Vi endevendte hver en tomme af kroen.	Han holder på det, han mener er hans ret, og han rokker sig ikke en tomme.	1
+tæppebelægning	N	63	77	32	46	Der er sat nye lofter op, og linoleumsgulvet er skiftet ud med tæppebelægning.	De to værelser i overetagen har tæppebelægning på gulvet, mens resten af opholdsrummene har et meget smukt egetræsgulv.	1
+mission	N	32	39	43	50	Jeg bliver sendt ud i en vigtig mission, der kan betyde liv eller død for vor stat.	Som arrangør af ROCKSHOW ser vi det som en mission at forbedre showet år for år.	1
+sindssygeanstalt	N	105	121	84	100	Jernbanen kom til Viborg i 1863, og i første omgang blev banegården bygget på et areal ved den daværende sindssygeanstalt, nu Søndersøparken.	Hvis en kvinde for 50 år siden blev ramt af depression, blev hun spærret inde på en sindssygeanstalt.	1
+penge	N	33	38	28	36	han var nærig og kunne kun bruge penge på sig selv.	'Ingen bliver forfatter for pengenes skyld,' fortsatte [Finn] Søeborg, 'det er en af de mest besværlige måder at tjene penge på.'.	1
+bygningsfejl	N	47	59	30	42	det er muligt at korrigere for langsynethed og bygningsfejl.	hans knæled var deforme -- en bygningsfejl han havde efter faderen.	1
+samspilsproblem	N	61	80	116	133	Skatteaftalen mellem Sverige og Danmark har løst en række af samspilsproblemerne.	Forleden modtog børnetelefonen 25 opkald på en enkelt dag, og de drejede sig om alvorlige emner som vold, incest og samspilsproblemer.	1
+erhvervsarbejde	N	50	65	35	50	Med mere støtte kunne eliteidrætsfolk tage mindre erhvervsarbejde og få mere tid til træning.	Prostitution er ikke anerkendt som erhvervsarbejde.	1
+vikle	V	28	34	4	10	de vinterblege københavnere vikler sig ud af halstørklæder og tykke frakker og springer kåde ud i solskinnet.	hun vikler tørklædet af håret og stopper det i pelsens lomme.	1
+skulder	N	43	50	9	16	Sweateren er i raglansnit med ekstra brede skuldre.	Sy højre skulder sammen med maskesting.	1
+rinde	V	49	57	38	43	Før kogningen skylles rejerne i et dørslag under rindende koldt vand.	Hun gemte sig i hans arme, og tårerne randt ned ad Eriks ansigt.	1
+ligne	V	45	51	7	13	Min ældste, Mads, er en indesluttet fyr. Han ligner sin far.	Finsk, ligner det russisk så? -- Nej, det ligner ungarsk.	1
+hjælpemiddel	N	37	49	64	76	Kontaktlinser er et effektivt optisk hjælpemiddel for mange mennesker med synsproblemer.	På vore meget korte teorikurser har vi ingen læseferie og ingen hjælpemidler til eksamen.	1
+identitet	N	44	53	47	56	Danskerne er meget bange for at miste deres identitet i mødet med Europa.	Det smukke udseende er en livsbetingelse og en identitet for yuppien.	1
+brænde	V	53	60	14	23	Snart var hele landsbyen et stort kaos .. Mange huse brændte, og dyrene løb forvirrede omkring.	et område med brændende olie bevæger sig i øjeblikket langs kysten.	1
+farve	N	59	65	20	26	Hun trådte ind i et kæmpestort soveværelse i lyse blålilla farver.	Valmuen knejser med farver i rød, purpur, rosa, lilla og lyseblå.	1
+bund	N	43	47	15	21	Det vil være en god idé at anlægge en fast bund under pavillonen, fx af fliser.	[en] nat faldt bunden ud af den seng, min ægtemand sov i.	1
+hedde	V	24	30	13	19	Alfred er østriger. Han hedder Brendel til efternavn, han er verdensberømt pianist.	'Det 4. Bud' hedder et nyt teaterstykke for børn.	1
+teste	V	17	23	7	13	Donorblod bliver testet for smitsom leverbetændelse.	Når vi tester barnet, måler vi barnets evne til at registrere, sortere og sammenholde sanseindtryk.	1
+begære	V	44	50	23	30	to mennesker af samme køn kan lige så fuldt begære hinandens krop og forelske sig i hinanden som to af hver sit køn.	Du elsker mig ikke. Du begærer mig kun.	1
+gummi	N	45	50	10	15	Da britiske plantage-ejere begyndte at dyrke gummi i 1800-tallet, var det svært at finde folk til det hårde arbejde.	De tapper gummi, plukker paranødder og andre af skovens frugter og går på jagt.	1
+elfenbe	N	40	48	60	68	Tangenterne til det japanske orgel er i elfenben.	Krybskytter skyder elefanterne for at få fat i det kostbare elfenben, som kan indbringe enorme summer.	1
+barista	N	52	61	27	36	Maskinen styrer ganske vist tryk og temperatur, men baristaen skal kende den rigtige mængde kaffe, han skal kunne trykke kaffen helt rigtigt, få den helt rigtige gennemløbstid osv.	Personalet er uddannet som baristaer, og de kan fremtrylle kaffedrinks i den omfattende kaffemenu, brygget på udvalgte kaffebønner fra de bedste kaffeområder i verden.	1
+fløjl	N	33	38	26	31	I min gæstestue har sofaen lilla fløjl.	Mos er smukt, når det som fløjl dækker en træstub.	1
+dør	N	63	68	22	25	Telefonen kimer hvert femte minut, og folk render ind og ud ad døren.	Fru Jensen står i sin dør og pudser dørhåndtaget og brevsprækken af messing.	1
+baggrundsbillede	N	96	112	91	108	billederne kan både sendes videre som MMS-beskeder, e-mail eller anvendes som screensaver eller baggrundsbillede.	de kæmpede alle bravt bevæbnet med brochurer, powerpoint-præsentationer, små flag og store baggrundsbilleder.	1
+stopdans	N	28	36	26	34	Koncerten slutter af med en stopdans, hvor børnene 'dør', hvis de danser videre, når musikerne holder inde.	'Skal vi lege byen sover, stopdans eller morder, når I er færdige med at spise,' spørger Jeanett.	1
+hang	N	63	67	90	94	Pia har samfundsfag på højt niveau hvilket hun valgte pga. sin hang til politiske diskussioner.	Vævning, knipling, stoftryk, dukker .. er nogle af de mange spændende kurser for folk med hang til stoffer.	1
+indhold	N	40	47	8	15	Siden forrige århundrede er atmosfærens indhold af kuldioxid steget med 25 %.	Bladets indhold må ikke anvendes i erhvervsøjemed.	1
+fatning	N	41	50	70	79	Når ledninger skal monteres i stik eller fatninger, er det vigtigt, at det gøres både rigtigt og omhyggeligt.	Fire af oprindelig seks røde glasperler sidder endnu på plads i deres fatninger.	1
+defekt	N	30	36	14	22	En hesteskonyre er en medfødt defekt, hvor de to nyrer er forbundet med hinanden.	de indbyggede defekter ved den socialistiske planøkonomi .. drev systemet ud i bankerotten.	1
+pashmina	N	36	44	141	149	Hver ged giver kun omkring 250 gram pashmina om året, og det er grunden til produktets sjældenhed.	I et af de to små behandlingsrum bliver du bedt om at smide sko og tøjet på overkroppen, hvorefter du bliver svøbt i en kåbe af det blødeste pashmina.	1
+isslag	N	61	67	8	14	Føret bliver sjasket, og visse steder vil nedbøren falde som isslag lidt afhængigt af de lokale forhold.	der var isslag på vejen, og vognen skred ud i en kurve.	1
+mærke	N	8	14	32	38	Der var mærker på gulvet fra den store, tunge seng.	Som hun går laver hendes fødder mærker i sandet.	1
+gear	N	111	115	15	19	Uden hjælp fra roadier og andet hyret mandskab, slæbte gasserne [: medlemmerne af 'Gasolin'] af sted med deres gear.	Jeg pakker mit gear / jeg pakker mit grej / Vi havde det o.k. sammen / men måske bedre hver for sig.	1
+kåre	V	44	48	27	32	Det demokratiske Partikonvent [vil i aften] kåre guvernør Bill Clinton fra Arkansas som partiets præsidentkandidat.	Dansen med Regitze .. blev kåret som bedste danske film og løb med alle priserne ved årets Bodil-fest.	1
+trække	V	21	25	4	8	Damplokomotivet Odin trak togstammen på 11 vogne.	Hun trak brevet op af frakkelommen.	1
+pølse	N	40	45	85	91	Min madpakke bestod af to halve, en med pølse og den anden med leverpostej.	foruden en stor butik omfattede [virksomheden] et røgeri i gården med lange rader af pølser og skinker.	1
+hale	N	47	52	53	58	Jo ivrigere hunden bliver, desto højere løftes halen i vejret.	der svømmer en kæmpe blåhval rundt og den basker med halen og laver et ordentligt springvand.	1
+fyrste	N	44	50	39	45	den ofte afbildede person er Odin, gudernes fyrste.	Youssou N'Dour er den afrikanske sangs fyrste, det store håb for World Music.	1
+hugge	V	24	30	74	80	Runerne er flere steder hugget ind over talrige skålformede fordybninger.	Ikke en trækning i det furede ansigt røbede, hvad hun tænkte. Det var som hugget i sten.	1
+bøjle	N	45	51	43	48	En undersøgelsesbriks er forsynet med et par bøjler til knæhaser eller fødder.	heldragt [: badedragt] af bomuld/lycra med bøjle i BH'en. Sådan en bøjle giver fin pasform og flot barm.	1
+morgenmad	N	4	13	80	89	Min morgenmad bestod som sædvanlig af en ostemad med et krus kaffe og et stort glas sødmælk.	Billigste ferie i Cairo koster 2795 kr., som dækker en uge på simpelt hotel med morgenmad.	1
+opøve	V	15	21	14	20	Udover balance opøves også styrke i ben og fødder med denne øvelse.	eleverne skal opøves til at lytte og lære.	1
+udvandre	V	21	31	72	80	Under de Klerks tale udvandrede 39 medlemmer af det ultra-konservative parti, CP, fra parlamentet.	Det er direkte uforskammet af et publikum over for kunstner/orkester at udvandre, så længe kunstneren er på scenen.	1
+nød	N	40	45	61	64	Mange af os føler os magtesløse overfor nøden i den 3. verden.	Formålet med vores fælles arbejde er at hjælpe dem, der er i nød, især de hjemløse.	1
+kabine	N	40	46	85	92	et flertal af SAS' kunder ønsker røgfri kabine.	Karlsen gav sig til at læse i DSB's nyeste reklameblad der lå til fri afbenyttelse i kabinen.	1
+høstak	N	22	28	37	43	den nat sov [vi] i en høstak efter at have spist det sidste af den proviant, vi havde med hjemmefra.	Nillers frisure .. minder mest om en høstak med proptrækkerkrøller.	1
+art	N	32	37	83	86	Problemet er, at udryddelsen af arter, fx i de tropiske regnskove, er uoprettelig.	hvert dyr og hver plante har et latinsk dobbeltnavn, der entydigt angiver slægt og art, genus og species.	1
+smerte	N	42	49	38	44	Hold de skoldede områder i vandet, indtil smerten er overstået.	han havde ondt i hovedet, en flad dum smerte i baghovedet.	1
+mønt	N	41	47	26	32	Jeg tog pungen frem og rystede de sidste mønter ud i hans hånd for at blive fri for ham.	Her .. ligger forskellige mønter: 1-kroner, 5-kroner og 25-ører.	1
+autorisere	V	35	46	52	63	Hvis han eller hun ønsker at blive autoriseret til at kalde sig for læge og øve læges gerning, skal lægeløftet aflægges.	Arbejde på husinstallationerne må kun udføres af en autoriseret VVS-installatør.	1
+dragt	N	41	46	33	38	Dalai Lama [var] iført sin traditionelle dragt i mørkerødt og safrangult.	Anders Sundstrup trækker i Frems dragt på søndag mod Viborg.	1
+integration	N	60	71	46	57	Det væsentligste og mest afgørende element for en vellykket integration er, at udlændingene kan det danske sprog.	I slutningen af 2. semester kan der etableres integration med beslægtede fag.	1
+vikle	V	25	30	39	45	kæden kan lige pludselig vikle sig ind i baghjulet, og risikere at ødelægge egerne.	odderne bliver i deres jagt efter fisk viklet ind i ruserne og drukner.	1
+tippe	V	39	45	30	36	Det er .. helt tilfældigt, hvornår jeg tipper.	Det utrolige er sket. Hun har tippet 13 rigtige. Vundet 53.000 aldeles uventede kroner.	1
+nynne	V	32	38	7	14	Under pardannelses-ceremonierne nynner nattergalehannen en svag bejlesang.	vinden nynnede en stille sang i granerne.	1
+trit	N	46	50	41	45	En af de mindre forseelser var at komme ud af trit, når man taktfast marcherede rundt i gymnastiksalen.	Jeg måtte virkelig oppe mig for at holde trit med ham, som han storkede af sted.	1
+vinke	V	37	44	70	75	Da han kørte, stod hun og smilede og vinkede til ham.	min toårige søn .. bød mig velkommen hjem fra en længere rejse ved at vinke med et lille flag.	1
+bid	N	25	28	35	38	[Han] har brugt en lille bid af sin formue på et krydstogt langs Norges kyst.	Forfatter kortlægger Sønderjylland bid for bid.	1
+krybe	V	3	7	59	63	De krøb frem fra deres skjul og begyndte ganske langsomt at nærme sig antilopen.	som den naturligste ting satte hun sig i sofaen hos ham og krøb ind i hans favn.	1
+fjumreår	N	3	11	63	71	Et fjumreår er okay, men fire fjumreår til at tosse rundt er ikke okay, for det er at spilde både de unges egen tid og deres eget talent.	Har vi råd til at lade unge bruge endnu flere år på højskoler, fjumreår og humanistisk fordybelse?	1
+bonusmor	N	9	17	20	28	Stedmor, bonusmor, papmor, plastikmor, reservemor. Uanset hvilken betegnelse man foretrækker for fars nye kone eller kæreste, så er hun bagud fra start i forhold til mandens børn.	både min far og min bonusmor kommer til fødselsdagen.	1
+bruschetta	N	43	53	47	57	Vil du have en billig forret, kan du få en bruschetta med tomat eller svampe til under 30 kr.	Vi lægger ud med en italiensk klassiker nemlig bruschetta.	1
+gadesygeplejerske	N	0	18	105	123	Gadesygeplejersker og opsøgende socialarbejdere er midlet, hvis antallet af narkodødsfald skal bringes ned.	Maria Kirken er stofmisbrugernes helle på Vesterbro. Her kan de få varmen, en kop kaffe og kigge ind hos gadesygeplejersken Nina.	1
+prik	N	117	124	58	62	hun har gennem alle tre år været meget glad for farver -- hun møder altid farvestrålende op i gult, lilla striber og prikker.	vi ser ham aldrig i nærbillede, vi ser kun en lille bitte prik i det fjerne.	1
+indflydelse	N	53	64	44	55	jeg er holdt op med at ryge! Jeg tror, du har en god indflydelse på mig!	rå mælk fra et rent landbrug har en gavnlig indflydelse på allergi og andre skavanker.	1
+styr	N	18	22	12	16	Hvordan holder du styr på så mange knægte i den alder?	Nu skal der styr på den vildtvoksende boligpolitik med dens virvar af tilskud til lejeboligerne.	1
+vifte	V	52	59	7	14	Dronningen fik en varm velkomst. 150 var mødt op og viftede med flag og sang.	Hesten viftede irriteret med halen, men stod ellers helt rolig.	1
+whistleblowe	N	28	41	110	123	Han er blevet Danmarks egen whistleblower. Den første sangfugl i efterretningstjenestens historie.	Duckwitz, dengang en forholdsvis lavt rangerende funktionær i den tyske besættelsesmagt, var måske den første whistleblower i Danmark i nyere tid. Han lækkede en oplysning, hvorved over 7.000 mennesker blev reddet til Sverige.	1
+måde	N	47	52	36	40	Samfundet er opbygget af nogle ganske bestemte måder at gøre tingene på.	jeg er ikke kammerat eller på anden måde i familie med Hr. Hans Jørgen Lundbye.	1
+akutbil	N	7	14	8	15	Den ny akutbil skal ligesom de eksisterende fungere som fremskudt skadestue og sikre, at alvorligt tilskadekomne hurtigt kommer under sundhedsfaglig behandling.	Den nye akutbil i Skagen Kommune har betydet hurtigere hjælp. Akutbilen er nemlig fremme længe før ambulancen.	1
+inflation	N	0	11	20	29	Inflationen udhulede gældens værdi og gjorde det lettere at klare renter og afdrag.	Med verdens laveste inflation og overskud på betalingsbalancen hører dansk økonomi til i første division.	1
+luske	V	94	101	70	76	Da kriminalbetjentene .. var færdige med at afhøre en 14-årig for et biltyveri og lod ham gå, luskede de lige så stille efter ham.	Efterhånden har der samlet sig en hærskare af sjakaler og hyæner, som lusker rundt for at få del i byttet.	1
+slynge	V	38	45	88	95	Alle ægtefolk får anfald af raseri og slynger de værste beskyldninger mod hinanden.	Vi må altså konstatere, at statsministeren uden baggrund i nogen konstateret statistik, slynger ud, at arbejdsløsheden er faldende.	1
+afdeling	N	79	87	50	58	Fra spisestuen har man et fint kig ind på endnu en spiseplads, nemlig en lille afdeling i dagligstuen.	det med bleer og sutteflaske bliver ikke helt min afdeling, griner Ole Eskildsen.	1
+børnefridag	N	42	54	43	57	der er nogle, som f.eks. synes at tro, at børnefridage er børnefri dage.	det er pensionen, der kommer til at betale børnefridagene.	1
+panik	N	42	47	22	27	Prøver at presse døren op igen. Kan ikke. Panik igen. Har hørt, at man skal bevare fatningen.	Ved påkørslen gik der panik i hestene. To af dem fortsatte direkte over i de to modsatte vejbaner.	1
+markere	V	36	44	18	27	de 'farlige' blå farver [på kortet] markerer dybder under 2 m på grunde og ved småøer.	Inden operationen markerede kirurgen med streger, hvor hun skulle skæres.	1
+føde	N	24	28	22	26	Rørhønen kan ikke finde føde nok ad naturlig vej i frostvejr, så den dør af sult, hvis den vante fodring pludselig hører op.	Mennesket kan undvære føde i flere dage, men kun vand i få dage.	1
+lede	V	34	39	18	23	De standsede på tredje sal og hun ledte i sin taske efter nøglen.	Jeg kunne se, han ledte i sin hjerne efter noget at sige.	1
+konvergenskrav	N	24	38	0	17	Ifølge ØMU'ens såkaldte konvergenskrav må gælden højst udgøre 60 procent af bruttonationalproduktet.	Konvergenskravene går ud på, at de vigtigste økonomiske indikatorer i medlemslandene skal nærme sig ? konvergere mod ? hinanden.	1
+afslappe	V	76	85	28	39	Under systolen trækker for- og hjertekamrene sig sammen, og under diastolen afslappes hjertet.	Kraftige vibrationer virker afslappende på musklerne.	1
+hjertesalat	N	43	54	66	77	Rå, sprød, snittet rødkål og krøllet, grøn hjertesalat blandes med letristede rødløg og champignoner.	Fem salattyper, friséesalat, Lollo Rossa, Radicchio, bindsalat og hjertesalat, deltager i kampagnen »Salatsymfoni«, der skal sætte kulør på danskerens salatskål.	1
+mærke	V	60	66	4	11	Han går hen ad den fugtige gade i sine sko uden strømper og mærker vinden og regnen mod sin hud.	jeg mærkede tårerne snige sig op i øjenkrogene.	1
+ben	N	49	55	26	29	Han var så træt, at han næsten ikke kunne stå på benene.	alle insekter har tre par ben.	1
+styrte	V	4	12	33	40	Jeg styrtede rundt efter et toilet i de dunkle, snørklede gange, men det var håbløst.	i håb om at finde fred i sjælen, styrter hun fra den ene østerlandske guru til den næste.	1
+rente	N	33	38	18	23	Kreditforeningslån ydes med fast rente. Det vil sige, at renten er den samme i hele løbetiden.	11,75 pct. p.a. i rente er hvad Sydbank Sønderjylland nu garanterer investorerne.	1
+tiltale	V	45	52	0	8	ægteparret [blev] først suspenderet og siden tiltalt for underslæb og mandatsvig.	tiltalte nægtede at have forbrudt sig seksuelt mod den 48-årige.	1
+råd	N	51	54	55	58	at spise ude var ganske enkelt ikke noget, der var råd til i en ganske almindelig familie med børn.	Vi har moderniseret huset, efterhånden som vi har haft råd.	1
+vilkår	N	81	87	67	73	Kristensen .. tilbød ham derpå kompagniskab i sin forretning på yderst favorable vilkår: han behøvede ikke engang lægge penge på bordet.	hans afsoning af livstidsstraffen kan fortsætte hjemme  på danske vilkår.	1
+skaffe	V	4	12	24	30	han skaffede sig et job i byggebranchen.	Den almindelige måde at skaffe sig stauder på er ved deling.	1
+fugtighed	N	93	102	85	94	lige nu byder naturen .. ikke alene på mange soltimer og unormal dagvarme, der er også meget fugtighed i jorden.	Den hudvenlige ph-værdi forhindrer udtørring af hovedbunden og bevarer den naturlige fugtighed.	1
+uniform	N	34	41	35	44	Nazisterne marcherede ind, alle i uniform. 288 brune skjorter med skrårem. 576 lange sorte støvler.	Stewarderne opvartede også i hvide uniformer med guldbroderi.	1
+afslutte	V	4	13	10	20	jeg afslutter det huslige arbejde med at støvsuge gulvene.	Henriette afsluttede sin skolegang med studentereksamen.	1
+hokkaido	N	60	68	34	44	Det er højsæson for den dekorative japanske græskarvariant, hokkaido. Den er billig, sund og velsmagende, så den er nok værd at tage ind i det danske køkken.	Det er ikke nødvendigt at skrælle hokkaidoen, hvis skrællen ellers er orange og rimelig ren og glat.	1
+begunstigelse	N	73	87	50	64	Til godset hørte 76 gårde og fire møller samt forskellige rettigheder og begunstigelser.	skjulte netværk af partikammerater giver hinanden begunstigelser til skade for den menige borgers retsstilling.	1
+stabsfunktion	N	40	53	63	76	Controllerne er som regel placeret i en stabsfunktion på højt niveau i kommunen eller som en del af topledelsens sekretariat, ofte med direkte reference til kommunaldirektøren.	Det at vi kan gå på tværs, gør os velegnede til at bestride en stabsfunktion. Som tværfagligt uddannede udfylder vi et 'hul' ? et behov, der altid har været der.	1
+vægt	N	24	28	31	37	Bente Holm flyttede sin vægt fra den fod til den anden.	alle spøgelserne de sank under vægten af hans ord og Fanden selv måtte give op.	1
+standardsituation	N	22	43	28	47	i moderne fodbold kan standardsituationerne afgøre kampene.	RIF viste farlighed i flere standardsituationer udløst af flere af de mange frispark.	1
+boble	V	42	49	14	21	På vejen op gennem de store svenske skove boblede jeg ligefrem af lykke.	hendes hjerte boblede af glæde, da hun hørte lægens ord: -- Til lykke, fru Jacobsen. Du skal være mor.	1
+verdensbillede	N	10	24	70	84	Det gamle verdensbillede med, at himlen er opad og helvede nedad, duer jo ikke rigtigt mere, da det jo efterhånden er sivet ud, at vi befinder os på en klode, der svæver frit i et uendeligt verdensrum.	For landsbytyrkere optager familieæren en stor plads i det personlige verdensbillede.	1
+fag	N	82	87	20	23	15 år gammel satte hans forældre ham i lære hos en maler i Hamburg. Her lærte han faget fra grunden.	Han var skomager af fag.	1
+fiasko	N	67	73	54	60	Den 25-årige Nils Malmros vidste godt, at hvis han lavede endnu en fiasko, var han færdig med filmmediet.	Er Brøndby blevet en økonomisk succes og en sportslig fiasko? Hør hvad formand Per Bjerregaard siger.	1
+opdragelse	N	37	47	18	28	De fleste børn får i dag en mere fri opdragelse end tidligere.	Han fik en streng opdragelse med mange klø.	1
+forbinding	N	43	57	11	21	jeg så på hans sår, som blødte gennem alle forbindingerne.	hun fik en forbinding om brystet, fordi hun havde brækket nogle ribben.	1
+usikkerhed	N	12	22	38	48	der hersker usikkerhed om hans identitet.	Statistikken er .. behæftet med nogen usikkerhed.	1
+forsvarssystem	N	43	57	45	59	Lymfeknuderne er en vigtig del af kroppens forsvarssystem ved infektioner.	Et hangarskib råder foruden sine fly og eget forsvarssystem over et utal af støtteskibe.	1
+flæsk	N	5	12	42	47	Skær flæsket i tern og rist det langsomt, til det er sprødt.	Han elskede øl, fodbold og gule ærter med flæsk.	1
+søgemaskine	N	12	24	0	12	Hvis man på søgemaskinen Google søger på den eksakte sætning Operacion Puerto får man 249.000 hits.	Søgemaskiner som Google, MSN og Jubii har hver dag millioner af besøgende verden over, også i Danmark.	1
+skubbe	V	29	37	7	15	Jeg satte ungen på gyngen og skubbede til den, væk fra mig, hele tiden væk fra mig når den kom tilbage.	Jeanne skubbede sin stol ind under bordet og belavede sig på at tage afsted.	1
+skov	N	51	55	16	20	Se, Malene! råbte Wicky og pegede i retning af den skov af skibsmaster, der spærrede udsynet til vandet.	En uoverskuelig skov af arme strakte sig under høje hyl mod himlen.	1
+sikre	V	70	75	28	34	Kommunen har netop lavet en revision af reglerne for skiltning for at sikre kvaliteten i gademiljøet.	En frihøjde på næsten 25 cm sikrer, at ørken-Citroen'en kan komme over de store pukler uden at hænge fast.	1
+overføre	V	26	35	8	17	Trommehindens svingninger overføres gennem nogle øreknogler til det indre øre.	Kraften overføres via en 4-trins gearkasse.	1
+dispensation	N	21	33	49	61	Molen blev bygget på dispensation fra fredningskendelsen.	Pia er den eneste blinde i Danmark, som har fået dispensation til at deltage i ridekonkurrencer på lige fod med seende.	1
+angst	N	50	55	29	34	'Jeg er bange', hvisker Simone og omfavner Tom. I angst knuger de sig ind til hinanden.	tanken om det ukendte skaber angst og frygt.	1
+drag	N	91	95	23	27	Uden at spørge mig skænkede han en snaps op og stak glasset i min hånd. Jeg tømte det i ét drag.	Hendes mor tog et dybt drag af cigaretten, før hun svarede.	1
+støjværn	N	53	61	3	11	regeringen har sløjfet en årlig pulje på 20 mio. til støjværn på eksisterende motorveje.	Et støjværn af kæmpe dimensioner skal sikre, at beboerne i Sanddal kan sove om natten, hvis der anlægges en trailerterminal i den nuværende lystbådehavn.	1
+hangaround	N	3	13	97	107	En hangaround skal bl.a. opvarte rockerne, gøre rent i rockerborgen og forestå udvendig vedligeholdelse af bygningen.	Min uvidenhed om kunst blev for alvor blottet, da jeg mødte min forlovede. Hun har en fortid som hangaround til ferniseringer.	1
+børste	N	35	41	37	43	Håret redes forsigtigt med en blød børste.	Levende krabber skrubbes med en stiv børste under rindende vand.	1
+tørlægge	V	62	69	62	70	Alkohol-regler: Arbejdsformidlingen i Storkøbenhavn er totalt tørlagt fra den første januar.	vi turede byen rundt sammen og forsøgte ved fælles indsats at tørlægge en stribe obskure buler.	1
+standardmelodi	N	81	95	68	84	som det fremgår af gruppens plade, kan hun også blive fristet til at fortolke en standardmelodi som 'Over The Rainbow'.	Trioen blander kompositioner af Butch Lacy med et udpluk af jazzens standardmelodier.	1
+gadesygepleje	N	0	13	145	158	Gadesygepleje er baseret på ideen om at komme brugerne i møde og flytte sygeplejeydelserne ud, hvor brugerne er.	Sygeplejersker og behandlere skal opsøge narkomanerne på gaden og hjælpe dér. Erfaringerne fra Århus og København viser, at netop denne form for gadesygepleje kan lindre narkomanernes lidelser og forhindre dødsfald.	1
+inspirere	V	51	61	53	62	[Bohrs] forunderlige varme menneskelige egenskaber inspirerer også nu gennem de erindringsbøger, som i disse år udkommer i mange lande.	På det seneste har Dronningen i sit maleri ladet sig inspirere af Per Kirkeby.	1
+omgangsform	N	41	54	5	16	Arbejdet var ikke alt for spændende, men omgangsformen og tonen på kontoret var til gengæld meget munter.	Hans omgangsform var altid høflig og beleven.	1
+skovle	V	15	22	69	76	kunsthandleren skovler millioner ind, mens kunstneren sidder fattig på sin kvist.	De studerende frygter, at universiteterne bliver et system, der bare skovler studerende igennem.	1
+trefod	N	20	26	92	98	Placer skålen på en trefod og ophed perlerne i nogle minutter med en bunsenbrænder.	de .. lod sig fotografere på torvene af gamle hvidjakkede mænd med kassekamera opstillet på trefod.	1
+eksemplar	N	46	57	39	50	det sjældne Sumatra-næsehorn [er der kun] 400 eksemplarer tilbage af.	Maskinen er foreløbig bygget i bare 25 eksemplarer.	1
+dollar	N	0	6	33	41	dollar, pund og yen [er] faldet i kurs på de internationale valutamarkeder.	Pigerne elskede amerikanere, for dollaren stod i høj kurs det år.	1
+dække	N	56	65	92	101	Skalcem 100 er en indfarvet facademaling med en så stor dækkeevne, at den bogstaveligt talt kan forvandle sort til hvid i én arbejdsgang.	Der findes ikke noget krav om deklaration, der kan give brugerne et fingerpeg om en malings dækkeevne og holdbarhed.	1
+pashmina	N	92	100	3	11	Trods varmen havde mor insisteret på at sidde og gafle Amokkas chokoladekage iført helulden pashmina.	en pashmina er ikke et tørklæde beregnet på sammenvikling. Det er et sjal.	1
+fatte	V	4	10	22	27	jeg fatter ikke et suk af, hvad de synger om, men jeg elsker musikken.	Hun kunne stadig ikke fatte, at hendes kæreste var død.	1
+hakke	V	39	47	15	23	Måske var det rejsen i den overfyldte, hakkende bus gennem bjergene til Merida, der vækkede ham.	rytmen var for hakkende til, at der kunne tales om fodboldspil på højt internationalt niveau.	1
+byggemateriale	N	34	48	6	21	Mursten er et stærkt og velprøvet byggemateriale.	Nogle byggematerialer, f.eks. beton, tegl, keramik og gips, kan indeholde radon.	1
+opvækst	N	71	78	17	24	Vi skal ikke kun give vore børn mad og tøj på kroppen. De skal have en opvækst i kærlighed og tryghed.	Under hele deres opvækst i Odense havde de to tvillingesøstre fulgtes ad i tykt og tyndt.	1
+forrente	V	30	39	13	22	Lånet, hvis løbetid er 20 år, forrentes og afdrages med en fast halvårlig ydelse.	Obligationen forrentes med 7 % p.a.	1
+sus	N	52	57	41	46	Højt oppe flyver en flok vildgæs, og hun lytter til suset fra deres vingeslag.	Han lyttede længe, men hørte kun vindens susen og træernes knagen.	1
+annonce	N	18	25	17	25	Jeg indrykkede en annonce i et par københavneraviser, og han reflekterede på en af dem.	I flere og flere annoncer for rejser med bus bemærkes det nu om dage, at 'bussen er røgfri'.	1
+vandre	V	10	17	30	37	hans blik vandrer søgende hen over hendes ansigt.	kviksølvet i amalgamplomberne vandrer ud i kroppen.	1
+stigedommer	N	0	13	86	97	Stigedommeren har ansvaret for hele holdet af linjedommere og bolddrenge, der bliver skiftet ud hvert femte kvarter.	tjekkens første serv var mindst en halv meter for lang ? uden at hverken linje- eller stigedommer fandt anledning til at dømme fejl.	1
+vidnesbyrd	N	84	94	11	21	Amerikas teknologiske krigsmaskine er velsmurt og i topform. Det fik hele verden et vidnesbyrd om, da Golf-krigen brød ud.	Det eneste vidnesbyrd om hjortenes stilfærdige morgenvandring er nogle afgnavede grene og spor i den fugtige skovbund.	1
+gribe	V	17	21	27	32	Han sprang op og greb hende om livet.	vogteren havde held til at gribe fat i den flygtende gangsterchefs buksebag.	1
+udsmykke	V	19	29	33	43	For kunstnerne som udsmykkede de græske vaser, var Dionysos-festerne de mest populære af alle motiver.	Heste, æsler og kameler har fint udsmykkede hovedtøjer og sadler med mønstre og kvaster i alle mulige kulører.	1
+vugge	V	17	24	24	31	den store kvinde vuggede forbi hende.	Mormor lukkede døren og vuggede ind i stuen.	1
+fortrin	N	22	29	42	49	Det bestående har det fortrin frem for alle drømme, at det er til.	personalekyndige [har] fremhævet de mange fortrin, de lidt ældre normalt har i forhold til de yngre.	1
+begynde	V	26	34	4	12	Hun flyttede til Århus og begyndte på arkitektskolen.	Jeg begyndte som arbejdsdreng i et malerværksted.	1
+sats	N	38	44	29	35	Deres førtidspension fastsættes efter satsen for enlige personer.	Ved kørsel over 10.000 km er satsen 1/3 af det beregnede beløb, dog højest 1,50 kr. pr. km.	1
+sprede	V	19	26	15	23	Rita er blind, men spreder livsglæde med sin harmonika.	Hvordan pokker spredtes den slags? De lod til at vide alt om, hvor han var, og hvorfor han var der.	1
+godhedsindustri	N	39	56	56	71	hvis man gerne vil gøre det muligt for godhedsindustrien at ansætte endnu flere medarbejdere, som kan komme på spændende rejser verden rundt, så skal man naturligvis støtte den annoncerede indsamling.	Ulandshjælp var på vej til at udvikle sig til en elitær godhedsindustri uden folkelig opbakning. Danskerne betalte aflad over skatten, og ulandsorganisationerne blev kørt af professionelle ulandsfunktionærer.	1
+primærperson	N	36	48	53	65	Ved besøget modtages barnet af dets primærperson, som orienterer om børnehuset Grankoglen, viser rundt og besvarer spørgsmål.	Efter morgenmødet går jeg ind hos de beboere, jeg er primærperson for og tilrettelægger dagen sammen med dem.	1
+klokke	N	0	9	47	53	klokkerne bimler til gudstjeneste søndag formiddag.	formanden har åbnet mødet ved at ringe med sin klokke.	1
+bankcheck	N	28	37	112	121	pengene lå der i form af en bankcheck den 17. om morgenen.	billetterne skal betales til organisationskomiteen inden syv dage efter bestillingen med enten kreditkort eller bankcheck.	1
+tæppebelægning	N	32	46	0	16	De to værelser i overetagen har tæppebelægning på gulvet, mens resten af opholdsrummene har et meget smukt egetræsgulv.	Tæppebelægninger er normalt en af hovedårsagerne til allergi på grund af husstøvmider.	1
+mangle	V	22	30	23	30	Vi førte 1-0, til der manglede 10 minutter, hvorefter hjemmeholdet fik straffespark.	der er nogle ting, som mangler at blive besvaret.	1
+antaste	V	17	25	53	61	Ved stoppestedet antaster en spritter en pæn ældre dame. -- Damen har vel ikke et par kroner til en busbillet?	På vej tilbage til stranden blev hun ved 11.30-tiden antastet af voldtægtsforbryderen på Nurdugsvej.	1
+skrubbecreme	N	8	20	37	49	Duftfri skrubbecreme med fintmalet majsmel og naturlige ekstrakter, der fjerner død hud og forfrisker.	Man får flot hud, hvis man bruger en skrubbecreme på huden et par gange om ugen og giver huden masser af fugt bagefter.	1
+indsætte	V	36	44	36	45	Sætninger kan gøres negative ved at indsætte ikke eller aldrig.	Der kan eventuelt i de enkelte love indsættes en bestemt tidsfrist, inden hvilken der skal gives underretning.	1
+fod	N	9	17	21	29	Hun stak fødderne i et par halvlange, spidse støvler med syninger i siderne.	De stampede sneen af fødderne og satte træskoene i forstuen.	1
+kant	N	20	24	41	47	vi boede i hver sin kant af byen.	Mexicanske film er en sjældenhed på vore kanter.	1
+coache	V	16	22	127	133	Jeg har lært at coache svømmerne. Det vil sige, at jeg skal spørge dem: Hvad kan du gøre for at forbedre dine arme i crawl?	Michael Boje, der har haft en kometagtig karriere med først Amagers damer og nu med herreholdet, skal fra næste sæson træne og coache damelandsholdet.	1
+opridse	V	36	44	28	36	Spisescenen her, som P. A. Plum har opridset 5. juli 1845 [er] lidt af en sjældenhed.	En AIDS-konference i Afrika opridser uhyggelige perspektiver for det afrikanske kontinent.	1
+depositum	N	16	25	12	21	Meningen med et depositum er, at udlejeren er økonomisk garderet, hvis du ødelægger noget eller stikker af uden at betale husleje.	Vi lagde et depositum på 200,- for nøglen (til instituttet).	1
+rand	N	18	24	63	67	Gennem arbejdet i randen af den opdyrkede natur fik mænd en særlig tilknytning til vildmarken.	Dernæst ser hun et andet ansigt, en næsten skaldet isse med en rand af sort hår.	1
+indtræffe	V	14	21	57	66	I stenalderen indtraf en ny klimaforbedring.	der var en vis risiko for, at en ny hjerneblødning kunne indtræffe.	1
+anciennitet	N	21	32	48	59	Manden havde tre års anciennitet som hospitalslæge.	Værelserne er ret forskellige, og man har efter anciennitet ret til at flytte internt, når noget bliver ledigt.	1
+fyrværkeri	N	66	76	58	68	Hvordan kan man slutte en dejlig dag bedre af end med et festligt fyrværkeri? 4 elever fra 3g havde samlet et utroligt udvalg af raketter, sole og romerlys til næsten ½ times illumination.	vi tre var en lille tur rundt i kvarteret for at kigge på fyrværkeri, vi havde også selv en pakke skyts at underholde os med.	1
+stang	N	10	15	12	19	Der lå en stang sæbe, hun selv havde kogt, ved siden af zinkbaljen.	Kul i tynde stænger kan .. bruges som tegneredskab.	1
+misbrug	N	13	20	27	34	Heldigvis er misbrug af Dankort ikke nær så omfattende som misbrug af checks.	han blev dømt for seksuelt misbrug af fire drenge i alderen 7-11 år.	1
+strække	V	6	14	9	17	Mødet strækker sig over to dage, så der er inkluderet overnatning.	Perioden strækker fra engang i 1800-tallet til midten af 1960'erne.	1
+betingelse	N	0	13	62	73	betingelserne for at gå på efterløn fra 60 år strammes.	[de] indvilligede i mødet -- hvis det kunne afvikles på deres betingelser: Kun otte skulle inviteres.	1
+mandfolk	N	4	12	18	26	Kun mandfolk tror, man kan løse problemer ved at slås eller spille kort.	for hende er alle mandfolk de samme bæster, den ene ikke bedre end den anden.	1
+slippe	V	35	41	16	23	Nyrestenspatienter kan i fremtiden slippe for operation.	heldigvis er vi sluppet for større uheld.	1
+synes	V	4	9	48	53	Det synes helt umuligt at fravriste Lemond den titel, han i dag kan vinde for tredje gang.	En verden er styrtet sammen for os. Tilværelsen synes uden mening.	1
+bearbejdning	N	0	12	18	30	Bearbejdning af landbrugets afgrøder .. er levnedsmiddelindustriens arbejdsområde.	Jeg efterlyser en bearbejdning af dette materiale. [man må] tage stilling til, hvad der er samlet ind.	1
+dække	N	92	101	93	102	Der findes ikke noget krav om deklaration, der kan give brugerne et fingerpeg om en malings dækkeevne og holdbarhed.	Hun udstiller to forskellige typer maling, hvoraf den ene er bedre end den anden, hvad angår dækkeevne og glans.	1
+standardmelodi	N	92	106	68	84	Så gav han sig til at spille, stille og nænsomt, ofte de rene improvisationer, sjældnere en standardmelodi.	Trioen blander kompositioner af Butch Lacy med et udpluk af jazzens standardmelodier.	1
+vige	V	35	38	7	10	Hans familie vågede hos ham, og de veg ikke fra hans leje.	Hunden veg ikke fra hende.	1
+detalje	N	57	65	66	74	Tegningerne skal være enkle og tydelige uden overflødige detaljer.	politikere [kan nemt] fristes til at fortabe sig i administrative detaljer.	1
+femikrimi	N	61	72	10	21	'Bare en luder' er titlen på (endnu) et forsøg på at lancere femikrimien i Danmark. Denne gang med udgangspunkt i Esbjerg og et prostitutionsmiljø.	de bedste femikrimier fokuserer netop på kvindernes analytiske sans og følelsesmæssige styrke, hvor der benyttes metoder som intuition, medmenneskelighed, samtale, lytten, social bevidsthed osv.	1
+berøre	V	36	43	45	51	racismen er et problem, der direkte berører alle.	En væsentlig del af dansk industri vil blive berørt af de nye udviklinger inden for bioteknologien.	1
+akutbil	N	7	14	0	9	Den ny akutbil skal ligesom de eksisterende fungere som fremskudt skadestue og sikre, at alvorligt tilskadekomne hurtigt kommer under sundhedsfaglig behandling.	Akutbilen transporterer ikke patienter til sygehusene, men f.eks. ved ulykker eller hjertestop kan ambulanceredderen påbegynde behandlingen og gøre patienten klar til transport.	1
+anvende	V	21	29	4	12	Fibrene i stænglerne anvendes til reb og tekstiler.	Der anvendes store midler på behandling af misbrug.	1
+rædsel	N	76	83	27	33	jeg havde uendelige mareridt, hvor jeg oplevede min egen død og begravelse, rædslen, når de begyndte at dække mig til med jord.	de [mindes] skoletiden med rædsel, og det med bøger er bare ikke dem. De vil bestille noget -- bruge hænderne.	1
+nedetid	N	175	182	41	48	Jo større afhængighed en virksomhed har af adgangen til et effektivt produktionsapparat, edb-system eller andet, jo større bliver kravene om en optimal drift med mindst mulig nedetid.	i et telefonsystem kan blot få minutters nedetid betyde, at potentielle kunder billedligt talt ringer til konkurrenten i stedet.	1
+sandpapir	N	46	55	12	21	Når lakken er tør, slibes overfladen glat med sandpapir.	Han var som sandpapir langt ned i halsen, gik ud i køkkenet og fandt en cola.	1
+lave	V	5	10	36	40	Hvad laver man i en børnehaveklasse, kan du huske det?	vi ville gerne have haft tid til at lave andre ting end at hvile ud, når vi kom hjem.	1
+etnolekt	N	92	100	40	50	Mens de danske dialekter langsomt lider en stille død, begynder flere og flere unge at tale etnolekt.	vi har fået [nye sprogformer] i form af etnolekter, forskellige indvandreres varianter af dansk.	1
+oplevelsescenter	N	16	32	70	86	Økolariet er et oplevelsescenter for hav, skov og by. Her er det for eksempel muligt at gå en tur på havbunden, smage hvor salt saltvand er i forhold til fersk vand og få at vide, hvilke fisk, der findes hvor.	et flertal i kommunalbestyrelsen [pønser] på at bygge et stort anlagt oplevelsescenter ude ved klinten, så man kan lære, opleve, spise og underholde sig lidt på samme tid.	1
+strække	V	4	10	68	76	Med strakt vrist førte jeg foden i skoen.	Hun er lidt fortumlet efter den lette søvn og står lidt og gaber og strækker sig.	1
+begynde	V	29	37	33	41	Er I færdige? spurgte han og begyndte at rydde bordet.	Jeg står op hver dag kl. 5.45 og begynder på arbejdet.	1
+vise	V	63	67	4	9	Næsten alle børn med ondt i maven peger på navlen, når de skal vise, hvor de har ondt.	han viste Juline hvordan man red i trav, hvordan man tilpassede sig hestens rytme.	1
+seniormedlem	N	89	101	3	15	Man kan være medlem af JC til man fylder 40 år, derefter kan man eventuelt fortsætte som seniormedlem uden stemmeret.	Et seniormedlem af IOC sagde, at begge værtsbykandidater havde brudt de olympiske regler.	1
+nord	N	20	24	41	45	Et stort vindue mod nord giver det mest uforanderlige og rolige arbejdslys.	I løbet af dagen klarer det måske op fra nord.	1
+butterflykniv	N	3	16	30	43	En butterflykniv er en kniv, hvor bladet lynhurtigt kan svinges ud af det todelte skaft.	Danskeren blev stukket med en butterflykniv i ryggen. Stikket var ti centimeter dybt, gik ind i lungen.	1
+fabrik	N	0	9	9	18	Fabrikken producerede såvel margarine som hudsalver og cremer.	På mange fabrikker strejkede de, fordi de ville have mere i løn.	1
+niveau	N	82	88	61	67	[etruskerne] hævede den ikke-græske del af den italiske halvø op til et kulturelt niveau, der kunne måle sig med de græske kolonier.	I Tyskland ligger brugtbådspriserne 10-15 % under det danske niveau.	1
+føre	V	24	28	49	54	det lod sig kun gøre at føre en samtale med ham, hvis han brugte sit hørerør, og man talte direkte ind i det.	de kan ikke længere acceptere det liv, deres mor fører.	1
+bemyndigelse	N	21	33	8	20	skatteministeren får bemyndigelse til at fastsætte særlige regler om afgiftsfritagelse.	Jeg fik bemyndigelse til at underskrive direktørens egne checks.	1
+whistleblowe	N	28	41	24	37	Han er blevet Danmarks egen whistleblower. Den første sangfugl i efterretningstjenestens historie.	Jeg tror, vi har med en whistleblower at gøre, sagde Karin. ? En hvad for én? ? Det er sådan én, som blæser i fløjten, så omgivelserne vågner op. Én, som bag ledelsens ryg afslører råddenskab i firmaet eller afslører, at man bruger giftige stoffer.	1
+indrømme	V	4	13	58	66	hun indrømmer, at hun tit savner Australien.	lidt har du nu altså skræmt os alligevel, Per, det må jeg indrømme.	1
+ske	V	36	40	5	9	Kommaer! Har I glemt det eller hvad sker der for jer? Vi må have et kommakursus inden eksamen.	Hvad sker der for NATO, hvis man må trække sig ud, uden at det lykkes at få Milosevic til forhandlingsbordet?	1
+ricotta	N	79	86	43	50	Auberginer lægges lagvis i et smurt ovnfast fad med tomater, reven parmesan og ricotta eller mozzarella.	Min frue valgte en hjemmelavet souffle med ricotta og et hjerte af hvid chokolade, let og dog ret intens.	1
+shopper	N	57	65	30	38	Man må kæmpe sig frem mellem højrøstede turister, travle shoppere og tøjstativer med neonfarvede tilbudsskilte.	Strøgets butikker myldrede af shoppere.	1
+fastpris	N	29	37	40	48	TDC vil næste år introducere fastpris på mobiltelefoni på det danske marked og følger dermed efter konkurrenterne TeliaSonera og Sonofon.	75 pct. af bøgerne herhjemme sælges til fastpris, mens den resterende del af salget er flyttet til supermarkeder, tankstationer og andre steder.	1
+radarbarn	N	30	39	0	12	Han betegner moderne børn som radarbørn, fordi de er yderst kompetente til hele tiden at pejle sig ind på, hvad der kan betale sig.	Radarbørnene indretter sig fuldstændig efter omgivelserne istedet for at mærke efter i sig selv og finde ud af hvad de vil og hvem de er.	1
+jura	N	100	106	66	72	14 år senere blev han præsident for landsretten. Han har været meget aktiv inden for retsvæsenet og juraen.	Siden hans to gårde i 1983 gik på tvangsauktion, har han gransket juraen omkring begrebet brugeligt pant.	1
+muslim	N	0	8	22	30	Muslimen skal bede fem bønner om dagen for at vise, at han .. underkaster sig Gud.	Der bor næsten 58.000 muslimer i Danmark. Islam er landets næststørste religion.	1
+foregå	V	12	19	24	31	Hvad fanden foregår her, råber gadebetjenten på ravjysk.	Når børnene legede ude, foregik det ofte på fortovet eller gaden.	1
+erstatte	V	13	21	22	30	Lejeren skal erstatte al skade, som hans husstand .. ved vanrøgt eller forsømmelse volder på det lejede.	pengene kan jo aldrig erstatte tabet af min førlighed, siger han.	1
+figur	N	0	5	56	63	Figur 4.1. viser vareeksportens fordeling.	Mælkebøtte er en flerårig urt med fjerfligede blade (se figuren side 11).	1
+kradse	V	19	27	48	55	.. tyveriet? Ordet kradsede i Ottilies øre. Pludselig var det hele så groft og ubehageligt.	Massefyringer står for døren i SAS, hvor krisen kradser alvorligt.	1
+deling	N	63	69	33	39	Hvis et hold .. omfatter mere end 17 elever, vil der kunne ske deling af holdet.	Mikroorganismer formerer sig ved deling.	1
+fimre	V	40	45	15	22	det har nu også sin helt egen charme at fimre rundt på skolen muttersalene.	en tynd røg .. fimrede ud fra en af lejlighederne nede i stuen.	1
+frigøre	V	14	20	15	22	Hvis man ikke frigør sig fra sine forældre, så bliver man sgu aldrig voksen.	Bare jeg kunne frigøre mig for den nervøsitet, der griber mig.	1
+fastprissystem	N	111	125	12	26	Rygerne kan se frem til priskonkurrence fra nytår på cigaretter og andre tobaksvarer, efter at det 79 år gamle fastprissystem for tobaksvarer har fået dødsstødet.	Apotekernes fastprissystem, der betyder, at medicin koster det samme på alle landets apoteker bevares.	1
+indtræde	V	32	41	30	39	Hun elsker den hygge og ro, der indtræder, når juleræset er overstået.	Hun sagde ikke noget, men der indtrådte en pause, der virkede som et spørgsmålstegn.	1
+bemande	V	36	45	13	21	USA foretog med Apollo 8 den første bemandede rumflygning rundt om Månen.	Klinikken er bemandet med ca. 15 dyrlæger og studerende.	1
+snuble	V	81	87	27	36	Marcello Mariuccini. Hun sagde navnet med den rette italienske accent og uden at snuble.	Hun talte meget hurtigt og snublende.	1
+assistere	V	30	39	30	40	Hjælpebiler holdt klar til at assistere de tre rallybiler.	Forretningsudvalget varetager assisteret af sekretariatet de daglige forretninger.	1
+forekomme	V	60	70	21	31	Flere større hajarter vides også at æde små marsvin, men de forekommer meget sjældent nær Danmark.	Ved astma og høfeber forekommer der åndenød, nysen, røde øjne og løbende næse.	1
+gulv	N	46	52	34	38	et orkester [begyndte] at spille til dans, og gulvet blev hurtigt fyldt af dansende par.	Kampens første øvelse, øvelser på gulv, fik hjemmeholdet som vinder.	1
+blod	N	0	6	30	34	Blodet pumpes fra hjertet gennem pulsårerne ud til alle dele af kroppen.	Han havde mistet et par liter blod fra snitsår i højre arm.	1
+beslag	N	54	60	31	37	En metalskorsten skal være solidt fastgjort med sikre beslag.	Skjoldene var lavet af træ med beslag af metal.	1
+bo	V	4	7	14	17	jeg bor sammen med mine forældre.	Mine forældre bor i Dianalund mellem Sorø og Slagelse.	1
+trin	N	50	54	5	9	de to mænd var på vej op ad trappen. Deres usikre trin fik den skrøbelige trappe til at knage i træværket.	Hans trin rungede i den lange stengang.	1
+cutter	N	30	38	6	13	I sin udviklede form opfylder cutteren alle de klassiske tegn på afhængighed: Hun har en stærk trang til at skære sig, og hendes tanker kredser konstant om muligheden for at føre det ud i livet.	Mange cuttere har en smertefuld følelse af tomhed eller følelsesløshed, som kan være næsten uudholdelig.	1
+nerve	N	5	11	40	46	Hans nerver kunne ikke holde til presset længere. Han havde blodskudte øjne. Sov ikke. Rystede på hænderne.	Mor tog en lille lyserød pille for sine nerver.	1
+adrenalin	N	107	116	0	11	I den første fase [: af kroppens reaktion ved stress] stimuleres binyrerne til øget produktion af hormonet adrenalin også kaldet kamphormonet.	adrenalinen steg kolossalt hos CD's ordfører, sidste gang ordføreren var på talerstolen.	1
+vest	N	28	32	44	48	Et enkelt vindue vendte mod vest.	vinden bliver efterhånden jævn til hård fra vest og nordvest.	1
+due	N	0	6	20	26	duerne kurrede i tagrenden lige udenfor.	Ude på pladsen slår duerne ned som sorte uvejrsskyer der åbner sig.	1
+skabe	V	42	48	63	68	Man må ikke glemme, at offentligt byggeri skaber velstand i en befolkning.	Du er ved at rive dig løs fra dine ret dominerende forældre og skabe dig dit eget liv.	1
+køre	V	51	56	77	82	Tilsæt olien i en tynd stråle, mens blendermotoren kører på højeste hastighed.	i den to-værelses lejlighed er støjniveauet ret højt. Både fjernsyn og radio kører for fuld styrke.	1
+advokat	N	7	14	13	20	Købers advokat udfærdiger skøde, pantebreve og refusionsopgørelse på grundlag af den underskrevne slutseddel.	Den 39-årige advokat er ekspert i sø- og handelsret, samt i forsikringsret.	1
+bundt	N	44	49	3	10	Alle breve var kasseret, brændt undtagen et bundt med en snor omkring.	10 bundter lækkert blødt norsk naturgarn i smukke farver til 170 kr.	1
+farve	N	42	47	48	53	Svits flæsket i en gryde, til det får let farve.	Sautér først løgene i smørret, uden at de tager farve.	1
+aftage	V	13	20	10	15	temperaturen aftager med 6 ° C for hver km højde.	Flammerne aftog, men det glødede stadig.	1
+ukrudt	N	25	31	20	26	landmanden sprøjter imod ukrudt og svampeangreb for at sikre optimal vækst i forsommeren.	hendes hår gror som ukrudt, hvorfor hun har nået at være skiftevis karseklippet og langhåret i de 3 år vi har kendt hende.	1
+oppetid	N	84	91	107	114	Vi skal sørge for, at vores kunde ikke får produktionstop, men derimod har 100 pct. oppetid.	I min tid som operatør, driftsplanlægger og driftschef har jeg oplevet edb-chefer, som mente at de 97 pct. oppetid, de havde opnået, var fint. Men 97 pct. oppetid svarer jo til 3 pct. nedetid, og det lyder knapt så tiltalende.	1
+eksamensbord	N	34	48	105	119	Til sommer har I en halv time ved eksamensbordet.	Det er urimeligt, når ellers dygtige elever skal trækkes med dårlige karakterer, fordi de fik nerver ved eksamensbordet.	1
+internetfirma	N	19	32	88	103	Årsagen til, at et internetfirma også eksisterer i 'den virkelige verden', er auktionsloven. De genstande, der udbydes, skal rent fysisk kunne beses, hvis man ønsker det.	Forbrugerklagenævnet modtager dagligt klager fra forbrugere, der har haft problemer med internetfirmaer.	1
+tilsætning	N	45	55	62	72	vores pølser er fedtfattige og uden farve og tilsætning.	udtrækket af urten .. kan også bruges som gurglemiddel og som tilsætning til badevandet.	1
+brøkdel	N	5	12	44	51	I en brøkdel af et sekund fik han et glimt af et ansigt, der lynhurtigt forsvandt fra ruden.	udenlandske film og serier .. koster kun en brøkdel af, hvad de danske produktioner løber op i.	1
+seniorbolig	N	34	45	17	28	de ældre, som flytter i en mindre seniorbolig, efterlader typisk en større familiebolig, som er attraktiv for tilflyttere.	Jeg satser på en seniorbolig i Hvidovre, når benene ikke kan holde til trapperne mere. Så skal jeg have en stuelejlighed.	1
+råderum	N	31	38	4	11	Politiet gav dem kun begrænset råderum, på mange gader måtte de ikke vise sig.	Det råderum, der er i økonomien, skal bruges så målrettet som muligt til investering, privat og offentligt.	1
+dagsorden	N	32	41	48	57	Folketinget vedtog en motiveret dagsorden, der opfordrede regeringen til at fortsætte arbejdet, som .. er nedfældet i regeringens handlingsplan for ligestilling fra 1986.	[det skal] huskes, at folketingsflertallet i en dagsorden har pålagt regeringen at lette kommunernes muligheder for at fjerne ventelister.	1
+rygte	N	22	28	93	98	Han var klar over, at rygtet om hans tilbagekomst var ved at spredes.	Men russerne ... de gik jo ikke i land på Sjælland, da de besatte Bornholm. Det var et falsk rygte, viste det sig.	1
+roadshow	N	27	35	22	30	Valgkampen startede med et roadshow hvis lige ikke er set i Sydafrikas historie. Præsidenten ude blandt almindelige mennesker. Hilser og snakker. Kysser småbørn. Besøger plejehjem.	Novo Nordisk tager på roadshow til godt en håndfuld byer mindst en gang årligt ? og til de vigtige markeder ? London, København og New York ? to gange om året.	1
+hulrum	N	52	58	44	50	Fuglene yngler i huler eller revner i fjeldet eller hulrum under store sten.	Det indre øre består af en række kanaler og hulrum omgivet af knoglevæv og indeholdende såkaldt perilymfe.	1
+afkræve	V	13	20	14	22	Politiet vil afkræve hende en forklaring.	Jeg er blevet afkrævet to gange 500 kr. i rykkergebyr.	1
+bolsjebutik	N	26	37	93	104	Det offentlige er en stor bolsjebutik med et meget bredt sortiment, og derfor er opgaverne og arbejdsgangene så forskellige.	I de rige vestlige lande er valget ikke længere begrænset .. Uddannelsesvalget er om ikke en bolsjebutik så dog langt mere valgfrit end i tidligere generationer.	1
+fladskærm	N	58	67	53	62	Tastatur og mus er selvfølgelig trådløse og skærmen er en fladskærm.	Informationerne står i kø for at komme til på den ny fladskærm, der er installeret på væggen i Musikteatret Vejles foyer.	1
+værd	N	42	46	41	45	Hun hvilede i sig selv og kendte sit eget værd.	Humanisme er, at ethvert menneske har et værd, har krav på respekt og agtelse.	1
+sælge	V	11	16	29	35	pladen har solgt mere end 30.000 eksemplarer i England.	En sød, ukunstlet plade, som solgte i næsten 10.000 eksemplarer.	1
+undgå	V	5	11	51	57	Tyve undgår helst at smadre ruder på grund af støjen.	[bogen] blander nydeligt fantasi og virkelighed og undgår de obligate børnebogsklicheer.	1
+pedalspand	N	75	85	32	44	Det hele begyndte med en mand, der for godt 60 år siden lavede en praktisk pedalspand til sin kones frisørsalon. Spanden er stadig i familiens eje, og i dag markedsføres den efter en global brandingstrategi.	Affald: Onsdag og fredag tømmes pedalspanden på køkken og toilet.	1
+fortære	V	59	67	13	20	Ved køb af drikkevarer i cafeteriet, kan medbragt mad også fortæres udenfor ved cafeteriets borde.	Småfugle kan fortære store mængder overvintrende larver.	1
+reflektere	V	69	82	24	35	man nærmest morede sig over hendes forsøg på at være intellektuel og reflekterende.	I denne introduktion .. reflekterer Carsten Jensen over forholdet mellem TV og tilskueren.	1
+video	N	6	11	42	49	En ny video for 'gør det selv folket' giver oplysninger om de mest almindelige småreparationer på bilen.	Weekenden var fred og hygge, tegneserier, videoer, tv, slik og lommepenge.	1
+powernap	N	41	49	20	28	medarbejderne skal tage sig 20 minutters powernap ? eller det, der i gamle dage hed middagssøvn ? midt på dagen. De har mere power bagefter, hævder både arbejdsgiveren og medarbejderne.	har man brug for et powernap, så dump ned i de fede, flødefarvede chaiselonger og luk øjnene.	1
+inspirere	V	53	62	61	73	På det seneste har Dronningen i sit maleri ladet sig inspirere af Per Kirkeby.	forstander Bent Ingerslev [holdt] en yderst tankevækkende og inspirerende tale til de unge.	1
+roadshow	N	43	51	27	35	i ferierne drager ungdomsskolen ud med sit roadshow, hvor de unge sammen med elever fra dagskolen og unge arbejdsløse, gøgler, synger og spiller.	Valgkampen startede med et roadshow hvis lige ikke er set i Sydafrikas historie. Præsidenten ude blandt almindelige mennesker. Hilser og snakker. Kysser småbørn. Besøger plejehjem.	1
+omverden	N	34	42	35	45	Barnets opfattelse af den fysiske omverden er direkte og umiddelbar.	Armeniens præsident appellerer til omverdenen om at hjælpe republikken med humanitær hjælp og brændsel.	1
+måde	N	36	40	58	62	Du har en elskværdig og charmerende måde at være uforskammet på, men du slipper næsten altid godt fra det.	Han tog en øl op af sin taske og åbnede den. 'Tak for din måde at være på. Og skål.'.	1
+kontor	N	37	45	49	55	De har 55 ansatte, som er fordelt på kontorer i København, Odense og Århus.	Jeg ringede og fik besked på at komme op på hans kontor, hvor jeg fik at vide, at jeg var fyret.	1
+containersalg	N	33	46	40	53	Varerne havner i sidste ende ved containersalg eller brandudsalg, hvor de sælges til forbrugerne langt under normalprisen.	centret [har] en gang imellem decideret containersalg, hvor varerne kommer ind i containere eller på paller og sælges til spotpris.	1
+indtrænge	N	47	57	8	18	Klokken er nu 16.35. De er anholdt for ulovlig indtrængen i computeranlægget hos den franske filial af firmaet Philips.	Manuels indtrængen i hendes liv trak brudfladerne i det knuste verdensbillede op.	1
+tur	N	19	24	55	58	Vi regnede med, at turen til Pakistan ville tage en uges tid, da vi ikke kunne køre om natten.	Natalie vil være journalist. Men først skal hun nok en tur til Australien.	1
+brødføde	V	17	25	18	27	Athen kunne ikke brødføde sig selv, men måtte importere korn.	Danmarks kommuner brødføder 500.000 af de i alt 700.000 offentligt ansatte.	1
+gynge	V	33	40	46	53	når vejret blev uroligt og båden gyngede, måtte jeg gå ud i det fri for ikke at blive søsyg.	Julie .. smed sig på vandsengen, så madrassen gyngede voldsomt.	1
+værelse	N	20	30	18	26	Der var lys i et af værelserne på første sal.	Slottet har mange værelser og lange korridorer.	1
+hænge	V	31	37	61	66	Der var en litauer, der skulle hænges for flugtforsøg.	Selv min livrem tog de fra mig i arresten, så jeg ikke kunne hænge mig.	1
+handelsfolk	N	29	40	31	44	Man skelnede mellem to slags handelsfolk, lokale detailhandlere og engroshandlere, der importerede varer fra andre byer.	Bevægelighed karakteriserer .. handelsfolket fra middelalderen og fremefter.	1
+terrasse	N	100	109	81	90	Da taxien var kørt, begyndte journalisten vandringen op til landsbyen. Han gik mellem majsmarker og terrasser med grønsager.	I det fjerne kan vi se skrænter, hvor jorden har forskubbet eller aflejret sig i terrasser.	1
+fryd	N	135	139	35	39	Bogens flotte illustrationer giver ekstra drama til historien. Der er især leget med de lilla, blå og grønne farver, så det er en sand fryd.	Lars Wåges smukke basstemme var en fryd for øret.	1
+fiske	V	48	53	66	71	Han slapper af ved at sejle ud i Ho Bugt for at fiske.	På den tid var fiskeri endnu ikke blevet et egentligt erhverv. At fiske sild, var noget alle mennesker kunne gøre.	1
+kål	N	49	52	29	32	grovbrød, ris og grove grønsager som gulerødder, kål, porrer og frugt .. indeholder mange kostfibre.	Hakket lammekød med pasta og kål er både spændende, delikat og sund gæstemad.	1
+klode	N	66	72	72	78	der vil gå millioner af år, før sonden kommer i nærheden af andre kloder.	når dette år er omme, er vi blevet ca. 100 millioner flere mennesker på kloden.	1
+efterlade	V	50	62	28	38	han døde .. fattig, forgældet og desillusioneret, efterladende sig kone og tre små børn.	Det er en stor hjælp for de efterladte, om der efter den afdøde foreligger bestemmelser om, hvordan bisættelsen skal foregå.	1
+transportmiddel	N	21	36	49	64	Cyklen er et genialt transportmiddel, som 1 million danskere benytter til hverdag.	Ved varetransport var lamaen inkaernes vigtigste transportmiddel.	1
+arbejde	N	55	63	16	23	Selvfølgelig er det ikke rimeligt, at du skal gøre alt arbejdet hjemme, når du også har udearbejde.	Det er et stort arbejde at skrive den større opgave i 3. g.	1
+tale	V	38	43	44	48	Hun tvang sig til at være tålmodig og talte blødere end nogensinde.	Man behøver ikke at være arbejdsmand for at tale med flade A'er.	1
+bilsagkyndig	N	78	90	74	87	'Vi skønner, at omkring 100.000 biler ikke vil kunne klare et syn,' fortæller bilsagkyndig Mogens Petersen fra Statens Bilinspektion.	Cirkulære om organisationsaftale for bilprøveassistenter, bilassistenter, bilsagkyndige og synsledere.	1
+fodnote	N	26	34	30	37	nøgternt og akademisk med fodnoter og appendiks beskriver [han] den ulykkelige litteraturforskers sygdomsforløb.	Danmark har fået indført i en fodnote til traktaten, at vi kan opretholde vores hidtidige regler for ferieboliger.	1
+bestemme	V	20	28	37	46	Han har ikke kunnet bestemme dødsårsagen.	Ved målinger på billedet kan vinklen bestemmes til ca. 45°.	1
+brodere	V	37	45	64	71	Kjolen, der koster 10.000 kr., er .. broderet med en rigdom af perler og brillanter.	Der gik en vikingefeber over landet, og gamle damer begyndte at brodere sofapuder med mønstre i vikingestil.	1
+enmandshær	N	65	75	40	51	Han satte seks mål ind i første halvleg, hvor han nærmest var en enmandshær for Århus GF.	90 pct. af alle designervirksomheder er enmandshære med ejeren som eneste ansatte.	1
+fodfolk	N	96	105	24	31	Der var ikke mange andre cyklister; gadebilledet på denne tid af dagen er præget mest af alt af fodfolket.	Som frie fugle ynder vi fodfolk og cyklister at færdes i naturen fjernt fra alfarvej for at opleve landskaberne.	1
+cutter	N	30	38	4	12	I sin udviklede form opfylder cutteren alle de klassiske tegn på afhængighed: Hun har en stærk trang til at skære sig, og hendes tanker kredser konstant om muligheden for at føre det ud i livet.	Når cutteren oplever smerte, udløses kroppens egne smertedæmpende og lystfremkaldende stoffer, der fuldstændig svarer til morfin eller heroin. Personen får et kick og oplever en intens lyst.	1
+tegning	N	0	9	33	42	Tegningen viser en strømførende vinding anbragt i et magnetfelt.	Elsa Nielsen [udstiller] i år 18 tegninger og raderinger.	1
+beslutte	V	4	14	39	50	Han besluttede at rejse til Kerteminde og gifte sig med Holcha.	den romerske folkeforsamling havde kun besluttende myndighed.	1
+kop	N	39	42	37	40	vi satte os ved køkkenbordet og fik en kop varm kakao.	Læg tomatskiver med salt, peber og ½ kop reven ost øverst og sæt fadet i ovnen ved 200 gr i ca. 15 min.	1
+risiko	N	68	76	0	8	Jeg er imod enhver yderligere atomoprustning i Europa, for den øger risikoen for krig.	Risikoen for at blive dræbt i tordenvejr er meget lille.	1
+manga	N	0	9	42	49	Mangaerne er for alvor slået igennem ? med Filmhusets tegnefilmsfestival .. og Carlsen Comics to lange fortsatte album-serier.	den japanske kunstner Tezuka .. har lavet mangaer i tusindvis.	1
+krydderi	N	34	44	90	100	Kødet røres til ret fast fars med krydderier, soya, kartoffelmel, æg og klippet purløg.	Fra Kina kom skibe til Trankebar med porcelæn og silke. Fra andre lande kom te, salpeter, krydderier og bomuld.	1
+få	V	4	7	82	85	Jeg fik læst en del papirer og fik også sovet lidt.	det havde også sin betydning, at vi, som til daglig arbejdede sammen, ind imellem fik en festlig stund sammen.	1
+hobby	N	79	84	36	41	Mindst en gang om ugen har enhver avis med respekt for sig selv nogle sider om hobby.	filatelien er verdens mest udbredte hobby.	1
+forklare	V	19	27	33	43	Du behøver ikke at forklare mig det, jeg har faktisk studeret det i årevis.	Hun viste os sit lille tempel og forklarede om buddhismen.	1
+problem	N	46	57	91	100	Politikerne er verdensmestre i at forflygtige problemerne.	Indenrigsministeren har .. planer om at nedsætte et etisk råd til at beskæftige sig med de problemer, den genetiske og biotekniske forsknings resultater rejser.	1
+motor	N	14	19	83	90	Den el-drevne motor har nu de fleste steder afløst dampmaskinen som trækkraft.	Kameraet kan indstilles til tre på hinanden følgende billeder, så man ved hjælp af motoren kan lave seriefotografering.	1
+rulle	V	34	41	18	24	Havet med de store dønninger, der rullede ind mod de brede sandstrande.	En varmfront, der ruller ind over Danmark kan på denne årstid give kraftigt snefald.	1
+trykke	V	16	23	28	34	Omkring planten trykkes jorden forsigtigt sammen.	man tænder for lyset ved at trykke på en kontakt.	1
+kerne	N	11	17	41	46	Antabus er kernen i al alkoholbehandling.	den befæstede diktator gemmer sig bag en kerne af loyale tilhængere for at imødegå nye kupforsøg.	1
+få	V	24	28	4	7	Jeg har for to år siden fået repareret starteren hos Volvo her i Køge.	han fik tre års fængsel for røverier.	0
+bund	N	68	74	46	50	Formanden for Danske Slagterier .. tror, at prisen på svin har nået bunden.	Som jeg ser det, har politiets mistanke ingen bund i virkeligheden.	0
+gøre	V	19	25	50	54	[kanten af skoene] gjorde en lille udhævning, en skygge, hvori man anede føddernes midterparti af blødt skind.	Trætheden sidder stadig i hendes krop, og det vil gøre godt at ligge i en seng.	0
+gå	V	40	42	28	31	For at komme i klubben, skal man mindst gå i 7. klasse.	den officielle skolesang .. gik på melodien til 'Hvor smiler fager den danske Kyst!'.	0
+stoppe	V	11	18	47	54	Bliver jeg stoppet før tid for tredje gang i min karriere, har jeg bokset sidste kamp.	Sporvognen ramte flere biler og blev til sidst stoppet af et hus og brød i brand.	0
+gå	V	74	77	11	14	Så kom jeg til København og boede sammen med en fyr et halvt års tid. Det gik ikke så godt.	Oprindelig gik banen fra Lyngby via Nærum til Vedbæk, men den sidste del kortedes af i 1924.	0
+få	V	4	7	36	39	Jeg fik læst en del papirer og fik også sovet lidt.	Hvad så når du passer ungerne, hvad får du for det?	0
+få	V	29	32	103	106	Der var over en uge, til hun fik folkepensionen udbetalt næste gang.	Kurts far var .. jaget af det tyske sikkerhedspoliti fra foråret 1941 indtil en dag i oktober 1944. Så fik de ham. Han døde i en tysk koncentrationslejr.	0
+komme	V	35	41	52	58	Sæt du dig ind i stuen til far, så kommer jeg om lidt.	Før hver koncert får han syet nyt kostume .. Dertil kommer, at han er skonarkoman.	0
+gå	V	17	20	37	41	Hvor mange halve går der på en hel? -- Der går to.	Baguetterne bør spises, inden der er gået 3 timer efter bagningen.	0
+verden	N	48	54	54	60	Især under og efter det store opbrud i kunstens verden i 30'erne blev der dannet mange kunstnersammenslutninger.	Jeg får stadig vanskeligere ved at orientere mig i en verden, hvor alting forandrer sig.	0
+stoppe	V	68	74	29	36	Pædagoger er ofte idealister, optændt af iver efter alt det, de vil stoppe i hovederne på deres elever.	Banegården var som sædvanlig stoppet med mennesker.	0
+tale	V	15	20	49	54	'For faen, han taler med pigestemme! Er du et pigebarn, dit lange rær?'.	Udviklingen i bankverdenen går i en retning, der taler imod de helt små filialer.	0
+gøre	V	24	27	50	54	Det her er mit liv, jeg gør, hvad der passer mig.	Trætheden sidder stadig i hendes krop, og det vil gøre godt at ligge i en seng.	0
+have	V	22	25	21	26	Gennem mere end 10 år har hun haft fast tilknytning til operaen i Göteborg.	Hun vidste, hvad hun havde at gøre. Hun måtte opgive Spencer for hans egen skyld.	0
+bid	N	50	53	35	38	[rundsavens] tænder mister med tiden deres skarpe bid.	Forfatter kortlægger Sønderjylland bid for bid.	0
+slag	N	29	33	9	13	på vej hjem ville han slå et slag inden om parken.	Med dybe slag til baglinien hindrede Fernandez vesttyskeren i at komme til angreb ved nettet.	0
+kraft	N	42	47	89	94	Jeg lod benet sidde, fordi det giver mere kraft og saft i kødet.	Skibet krængede kraftigt til den ene side, så kaptajnen måtte nøjes med at sejle på halv kraft.	0
+putte	V	60	67	46	51	Jesper kiggede ned på lommekniven, foldede den så sammen og puttede den i lommen.	Nu begynder moderen at vaske de slemme sår og putte salve på dem.	0
+nummer	N	79	85	35	41	Spillerne på Betty Nansens fortsatte direkte til Politikens Hus for at give et nummer i forbindelse med uddelingen af årets fredspris.	man [har naturligvis] forberedt et nummer med den nye lærer.	0
+tage	V	4	7	27	32	jeg tog cigaretten ud af munden på ham.	Jeg kan godt lide at blive taget bagfra og at få et dask i numsen.	0
+tale	V	26	30	25	30	Den danske højesteret har talt og dømt Glistrup for skattesvig.	På nogle gravindskrifter taler den døde til de forbipasserende og beder dem standse og læse indskriften.	0
+gøre	V	56	61	50	54	Leonora [fremstår] i romanen som en meget stærk kvinde, gjort af det materiale som skaber heltinder.	Trætheden sidder stadig i hendes krop, og det vil gøre godt at ligge i en seng.	0
+stoppe	V	27	33	110	117	Uddannelse af kvinder skal stoppe truende overbefolkning.	Ved at vaccinere astmatikeren med det, han/hun ikke tåler, i tre år, vænnes kroppen til stoffet, og anfaldene stopper.	0
+trække	V	4	8	17	21	Han trak sig en kop varm chokolade i automaten.	Fra kvistvinduet trak lyset brede striber ind i rummet.	0
+trække	V	76	83	45	51	Mens menneskene holder efterårsferie, går millioner af fugle på vingerne og trækker sydover.	Foran automaten er en kø af kunder, der skal trække penge.	0
+farve	N	34	39	34	39	Oliepastelkridt er en fed og blød farve, som er stærkt afsmittende og meget dækkende. Farven smuldrer og knækker let.	Det højeste kort i den udspillede farve eller den højeste trumf vinder stikket.	0
+stykke	N	50	57	42	48	Ved syltetøj forstås hele bær eller frugter eller stykker af frugter i en sukker-saftlage.	han hev mig op til tavlen for at regne et stykke igennem.	0
+verden	N	48	54	52	58	Til alle unge piger, der gerne vil ud og opleve verden: Tænk jer godt om  og se jer for.	En flue  en lille bitte uænset fyr  og dog en hel verden af fin mekanik.	0
+drive	V	43	47	63	68	Han .. var helt opkogt i hovedet og sveden drev ned ad hans pande og kinder.	hans helbred blev så dårligt, at han for altid måtte opgive at drive landbrug.	0
+slag	N	73	77	26	32	I det samme bankede det på kælderdøren. Først lidt tøvende, så tre hårde slag.	Præcis klokken ét starter slaget. Fra det ene sekund til det andet står nattehimlen over voldene i lys lue.	0
+verden	N	43	49	21	27	Frelsens Hær arbejder i 83 lande over hele verden.	De er vokset op i en verden, hvor intet nogen sinde har stået i vejen for deres bevægelsesfrihed.	0
+rulle	V	43	50	56	62	Åh, som vagtchefen gav ondt af sig, da han rullede ned ad trappen.	bilisterne kaster sig ud i telefonsamtaler, så snart de ruller ud fra parkeringspladsen.	0
+rulle	V	23	28	58	65	Du kan simpelthen ikke rulle en Tommerup-dug på en varm .. rulle.	Sammen gik de op i en lejlighed over værtshuset, hvor han rullede en joint.	0
+vende	V	4	10	28	34	hun vendte ansigtet mod os og smilte.	I en fejende flot DM-finale vendte Viborg et truende nederlag til en meget flot sejr på 20-16.	0
+tage	V	27	32	38	42	Jeg kan godt lide at blive taget bagfra og at få et dask i numsen.	Den havde vi også i går. Skal vi ikke tage en anden?	0
+nummer	N	75	81	67	74	Hun løftede telefonrøret og bad til, at han var alene, da hun drejede hans nummer.	Vi gider simpelthen ikke at udgive en plade, hvor kun halvdelen af numrene holder.	0
+vende	V	61	67	15	20	Hver tredje time døgnet rundt kommer sygeplejerskerne ind og vender hende, så hun ikke får liggesår.	europæerne har vendt deres raketter mod Rusland og USA.	0
+tage	V	80	85	18	23	det hele endte med, at den lokale brugsuddeler måtte forlade byen, da han havde taget for meget på de kvindelige ansatte.	'Patienten' .. er taget fra 'Eftersøgningen og andre noveller' (1962).	0
+kraft	N	53	60	89	94	Som svømmer blev jeg en fiasko, fordi jeg ikke havde kræfter nok.	Skibet krængede kraftigt til den ene side, så kaptajnen måtte nøjes med at sejle på halv kraft.	0
+hænge	V	52	60	31	37	Når [bierne] stikker, mister de brodden, som bliver hængende.	Der var en litauer, der skulle hænges for flugtforsøg.	0
+trække	V	35	41	4	8	politiet havde set sig nødt til at trække pistoler, da der blev kastet syre og flasker mod dem.	Han trak sig en kop varm chokolade i automaten.	0
+komme	V	18	21	13	19	Da videoerne lige kom frem i Danmark, blev de anset for at være underlødige.	Hendes hoved kommer atter frem i vinduet.	0
+side	N	55	59	62	67	det kan vi desværre ikke nå at gøre noget ved på denne side af jul.	føreren mistede herredømmet over lastbilen. Den væltede om på siden og gled 80 meter.	0
+kalde	V	51	56	79	86	der var en halv time, til passagererne ville blive kaldt ud til maskinen.	Det er spændende at høre Johannes fortælle om, hvordan de første disciple blev kaldede.	0
+komme	V	18	21	31	37	Da videoerne lige kom frem i Danmark, blev de anset for at være underlødige.	Allerede først på ugen var der kommet et væld af ansøgninger.	0
+holde	V	36	41	19	24	I 16 timer blev den 34-årige kvinde holdt som sexfange af sin desperate ven og nabo.	Tagpappet skal nok holde med den hældning, der er på.	0
+holde	V	4	9	60	65	han holdt om kaffekruset med begge hænder.	hun giftede sig med skuespilleren Arne Weel, men ægteskabet holdt kun få år.	0
+tale	V	33	38	26	30	Han stod med Bibelen i hånden og talte til folk. Ingen hørte rigtigt efter, og jeg hørte han blev hånet.	Udvalget har blandt andet talt for strammere kvoteordninger og strammere regler for familiesammenføringer.	0
+skaffe	V	25	31	20	26	virksomheden forsøger at skaffe sig af med sin dårlige samvittighed ved at engagere en konsulent til den fyrede chef.	Det bliver svært at skaffe indsamlere, ingen tvivl om det.	0
+hjørne	N	9	16	7	14	Fra alle hjørner af landet strømmer det ind med telefonopringninger.	Skarpe hjørner på borde og skabe er ikke sagen for små hoveder.	0
+flyde	V	4	10	13	19	Tit flyder grænserne for, hvad man må og ikke må -- børnene mangler faste retningslinjer.	Gennem dalen flyder Storåen på sin vej mod havet.	0
+spil	N	97	101	59	63	intet kunne glæde ham mere end hvis en eller anden .. foreslog en whist eller en mausel -- de to spil han kendte.	et ensemble med fremmedartede instrumenter tog imod os med spil og sang.	0
+sætte	V	12	17	37	40	da musikken satte i med indgangsmarchen, gik de mange par arm i arm i balsalen.	Hver gang en sæk var fyldt, blev der sat en streg på et stykke papir.	0
+farve	N	97	102	45	51	Jeg står, hvor jeg hele tiden har stået. Alle ved, hvor de har mig, bl.a. fordi jeg ikke skifter farve eller flytter mig efter midten.	Malingen var slidt af så alle de forskellige farver døren havde haft kom til syne.	0
+stykke	N	50	57	51	58	Ved syltetøj forstås hele bær eller frugter eller stykker af frugter i en sukker-saftlage.	De 380 ansatte slagtede og bearbejdede dagligt 200 stykker kvæg og 500 svin.	0
+se	V	8	11	19	22	Lus kan ses med det blotte øje, mens rovmider kun kan ses under mikroskop.	Pas på, at De ikke ser fjender overalt og i enhver situation.	0
+holde	V	3	9	16	21	Vi holder jævnligt familieråd, og dér diskuterer vi alle problemer.	Troels Kløvedal holdt en festtale fuld af kærlighed til en god ven gennem 20 år.	0
+rulle	V	35	41	56	63	tril trøffelmassen til kugler, der rulles i chokoladekrymmel eller sigtet kakao.	Så sagde han bare -- Den gang jeg var i Amerika, og han rullede på r'et, så det lød rigtig fremmed.	0
+være	V	8	13	3	5	Jeg har været 22 år i databranchen, og det gælder om at følge med.	Vi er 36 minutter inde i første halvleg. Hjemmeholdet presser ved stillingen 0-0.	0
+spille	V	43	50	4	12	Jeg har fået eget band, og vi drager ud og spiller i musikklubber og på gymnasier.	Hun spillede badminton en gang om ugen i firmaets sportsafdeling.	0
+stå	V	28	33	29	33	mon ikke Rødvig fiskerne er stået ud for at se, hvor meget de kan nå at fange af den torskekvote.	Når [søkøerne] dier ungerne, står de lodret i vandet med overkroppen over vandet.	0
+hjørne	N	55	61	7	14	Udviklingen af membraner til filtrering indledtes i et hjørne af Nakskov Sukkerfabrik i 1965.	Skarpe hjørner på borde og skabe er ikke sagen for små hoveder.	0
+plads	N	74	79	45	50	Han kan lide at være på det mørke kontor, hvor hver ting har sin bestemte plads.	skal man være på gravens rand, før der gives plads på plejehjem eller i en beskyttet bolig?	0
+spil	N	84	88	23	27	politikerne [er] nærmest viljeløse ofre for og forsvarsløse medspillere i mediernes spil.	Pia Toelhøj bygger sit spil op omkring serven og førsteangrebet.	0
+skyde	V	36	42	4	8	jord kastes hen over en gren og den skyder påny.	han skød glasruden tilside.	0
+placering	N	50	59	85	94	jeg håber da at vinde nogle kampe, men spå om min placering eller medalje, tør jeg slet ikke.	I vor kultur i dag har den religiøse fundamentalisme ikke nogen særligt fremtrædende placering.	0
+sige	V	68	73	71	76	Måske vi skulle gå ud og tage et stykke mad sammen, du og jeg? Hvad siger du til det?	Far .. puster af alle kræfter. Han bliver rød i hovedet. Men saxofonen siger stadigvæk ikke noget.	0
+smække	V	55	62	46	54	Fire cyklister tramper over Højbro Plads. En slap kæde smækker mod kædekassen.	lille Victor ville se 'Karatedjævelen'. Svend smækkede kassetten i videoen og fik nogenlunde ro i sit arbejdsværelse.	0
+have	V	4	7	11	15	Hun har en drøm om at købe et landbrug sammen med sin mand.	Naboen vil have, at vi fælder træet, men det vil vi meget nødigt, da vi bor i sommerhuset hele sommerhalvåret.	0
+spille	V	16	24	17	24	et snedigt smil spillede om hans læber.	I 'Let på tå' .. spiller Fred Astaire en aldrende sanger og danser.	0
+stykke	N	32	38	73	80	Vi er nået langt, men der er et stykke endnu, før vi kan sige, at vort arbejde er gjort.	Hvad kan jeg gøre mod mine rynker? Jeg er en pige på 23 år og har et par stykker i panden.	0
+have	V	4	7	22	25	Hun har en drøm om at købe et landbrug sammen med sin mand.	Gennem mere end 10 år har hun haft fast tilknytning til operaen i Göteborg.	0
+sætte	V	78	83	13	16	Så snart den lille hvide puddel fik fært af maden på tallerkenen i Jans hånd, satte den i et elegant spring op over den lave hæk.	Johnson blev sat i fængsel anklaget for at krænke den offentlige moral.	0
+være	V	4	6	10	14	Det er rent ud forbløffende hvor megen energi der kan bruges på at holde fast i det bestående.	Det kunne være, han kom med nogle æg. Han havde høns.	0
+spil	N	97	101	19	23	intet kunne glæde ham mere end hvis en eller anden .. foreslog en whist eller en mausel -- de to spil han kendte.	Efter 30 minutters spil i 2. halvleg blev det 4-1.	0
+sige	V	71	76	19	23	Far .. puster af alle kræfter. Han bliver rød i hovedet. Men saxofonen siger stadigvæk ikke noget.	Airbag er populært sagt en ballon, der er placeret i rattet og pustes op ved sammenstød.	0
+hul	N	16	19	5	10	jeg har fået et hul på en times tid eller to mellem to møder.	Hva' hulen laver du her?	0
+hjørne	N	3	10	54	60	På hjørnet af Kastrupvej og Gurlisvej lå en aviskiosk; foran kiosken var der en lille plads bestrøet med perlegrus.	Sofus slikker frimærker og sætter dem i øverste højre hjørne af kuverterne.	0
+sætte	V	56	61	10	15	Tyk, tæt tåge strømmede ind fra alle sider, og samtidig satte isen i en række eksplosioner.	han kunne sætte studenterhuen på hovedet efter veloverstået eksamen.	0
+flyve	V	44	49	9	13	amerikanske tropper er blevet bedt om at .. flyve nødhjælp til Sarajevo.	Tankerne fløj tilbage til den dag, hvor jeg fødte hende.	0
+kalde	V	16	22	79	86	hans far og mor kaldte ham John Cleese, da han for 47 år siden kom til verden.	Det er spændende at høre Johannes fortælle om, hvordan de første disciple blev kaldede.	0
+krone	N	94	99	70	75	De større hestedækkener, der blev brugt efter ridning, var i staldfarverne .. med monogram og krone.	[i 1953] ændrede en folkeafstemning i Danmark grundloven, så Danmarks krone ligesom Hollands og Storbritanniens kunne arves af en kvinde.	0
+kraft	N	35	42	65	72	hun syntes, at det oversteg hendes kræfter at passe Dorit, som hun burde passes.	[H.C. Ørsted] fandt sammenhængen mellem to af naturens gådefulde kræfter, elektriciteten og magnetismen.	0
+flyve	V	24	28	4	8	Rebekka havde travlt og fløj fra køkken til spisestue og tilbage igen.	han fløj jagerfly i flyvevåbnet.	0
+flyde	V	23	29	54	58	Prag i oktober. Moldau flyder roligt under Karlsbroen.	Vandet klukkede under den lille, spinkle båd, mens de flød med strømmen.	0
+efterlade	V	50	62	36	45	han døde .. fattig, forgældet og desillusioneret, efterladende sig kone og tre små børn.	et kompliceret åbent benbrud .. har efterladt grimme ar på venstre skinneben.	0
+sige	V	13	18	19	23	I folkemunde siges det ofte, at varerne er blevet så utrolig dyre. Alting stiger og stiger, siges det.	Airbag er populært sagt en ballon, der er placeret i rattet og pustes op ved sammenstød.	0
+hugge	V	40	47	4	11	han havde begået nogle indbrud. Et sted huggede han en video til 8000 kr.	jeg huggede albuen i siden på ham.	0
+side	N	23	27	31	36	Prøv at se det fra min side.	Vi fik stor opbakning fra alle sider, men næsten ingen penge.	0
+slag	N	9	13	25	29	Med dybe slag til baglinien hindrede Fernandez vesttyskeren i at komme til angreb ved nettet.	Det lyder da godt med et slag kort i aften, du gamle.	0
+side	N	54	58	23	27	Af uforklarlige årsager kørte han over i den forkerte side af vejen, og den modkørende bilists undvigemanøvre mislykkedes.	Prøv at se det fra min side.	0
+del	N	31	35	65	68	Det kniber at skaffe originale dele, men noget dukker der da immer op. Mit seneste kup var hos Toyota-forhandleren i Middelfart.	Du kan selv fremstille din temperafarve. Bindemidlet består af 1 del æggeblomme, ½ del linolie og 1-2 dele vand.	0
+bringe	V	38	43	29	36	Nu er det virkelig lykkedes Dem at få bragt mig i syv sind, sukkede Jack.	Hva' satan, sognefoged, hvad bringer Dem her? Vel ikke ulykker?	0
+kalde	V	7	13	38	44	KQ 114 kalder Sana, KQ 114 kalder Sana ... -- Kom ind KQ 114.	Jeg må tilbage til arbejdet. Arbejdet kalder. Jeg skal male.	0
+lukke	V	82	88	6	12	Der var ingen færdsel gennem porten, og der var endnu to-tre timer til den skulle lukkes.	Dejen lukkes omkring fyldet.	0
+tur	N	84	87	80	83	Den unge turist fik nogle snitsår i fingrene  men beholdt sine penge  og måtte en tur på sygehuset.	holdet kom ikke i nærheden af sejren og må nok indstille sig på, at det skal en tur i 2. division.	0
+forhold	N	22	29	69	79	han har erkendt de 38 forhold, hvorunder der er stjålet koster til et samlet beløb på ca. 70.000 kr.	der oprettes regionale tilsynsråd, der har ret og pligt til at følge forholdene i anstalterne.	0
+klassiker	N	8	18	52	61	tidløse klassikere som smoking og kimono.	Nummeret hed 'I Got You Babe' og er siden blevet en klassiker.	0
+se	V	78	80	8	11	Jens Olesen har sammen med tre børn været i Zoologisk Have i København for at se, hvordan man dér på stedet tæmmer vilde dyr.	Lus kan ses med det blotte øje, mens rovmider kun kan ses under mikroskop.	0
+bid	N	114	117	35	38	Så fiskede hun et æble frem, som hun pudsede og polerede i sin trøje til det var strålende blankt, før hun tog en bid.	Forfatter kortlægger Sønderjylland bid for bid.	0
+bringe	V	20	26	15	21	Hvad det nye år vil bringe, kan ingen af os vide.	Tanken om Leon bragte blodet op i hendes kinder.	0
+være	V	10	14	8	10	Det kunne være, han kom med nogle æg. Han havde høns.	Mit tøj er i skabet ved døren.	0
+flyve	V	4	8	44	49	han fløj jagerfly i flyvevåbnet.	amerikanske tropper er blevet bedt om at .. flyve nødhjælp til Sarajevo.	0
+brud	N	65	69	16	20	At vandre gennem Billes billedverden er som at opleve det totale brud med naturalismen.	der var sket et brud på den del af hjulet, der fastholder toget på sporet.	0
+plads	N	86	93	20	25	Kirkepladsen i Ballerup ser i øjeblikket nærmest kaotisk ud, med et stort hul midt på pladsen omgivet af værktøj, svedige mænd og tusindvis af fliser i stabler.	Mange tipper ham en plads som vicepræsident -- hvis han ikke kvajer sig.	0
+orden	N	21	28	12	17	middelalderens store ordener som f.eks. benediktinerne og franciskanerne.	Jeg elskede orden, og gik bestandig omkring og anbragte ting og sager dér, hvor de, efter visse ordensregler, hørte hjemme.	0
+stand	N	56	63	40	45	Ved hver enkelt af dem [: bycykel-stativerne] findes en stander med et bykort samt en beskrivelse af to nærliggende seværdigheder.	kedlen og varmtvandsbeholderen er i god stand og kan holde mange år endnu.	0
+drive	V	17	23	28	32	Blå Kors og KFUM driver en række behandlingshjem for alkoholikere.	Om formiddagen gik Ernst og drev rundt derhjemme og ventede på, at faderen skulle ringe.	0
+krone	N	32	37	4	10	Frederik II er afbildet bærende krone, scepter og rigsæble på et af de tapeter, der .. blev vævet til Kronborg Slot 1581-84.	Når kronen bliver stærkere, bliver fremmed valuta og dermed også importvarer billigere for danskerne.	0
+udsætte	V	55	60	26	33	Sagen skulle have været for retten 8. august, men blev udsat og er nu berammet til 23. september.	Der må ikke være noget at udsætte på landets statsminister. Han må ikke kunne anklages for lusk og fusk.	0
+skyde	V	19	23	4	8	Hun rankede sig og skød hagen frem i demonstrativ foragt.	Han skød to-tre gange efter forfølgerne med sin pistol.	0
+skyde	V	6	10	36	42	Båden skød en god jævn fart.	jord kastes hen over en gren og den skyder påny.	0
+lys	N	93	96	35	40	[Spektrofotometret] måler lysabsorbering på bølgelængder i det ultraviolette område -- altså lys hinsides violet, som ikke kan ses af mennesker.	så tager de til Østen for at finde lyset, nogle finder lyset, men de fleste finder det ikke.	0
+aflevere	V	36	44	81	89	Hun fik 75 øre om dagen, men skulle aflevere hele lønnen til far.	jeg vovede lidt mere i kampen, end jeg plejer. Frække driblinger i stedet for at aflevere første gang.	0
+binde	V	34	40	73	78	Hun var ude i haven og jeg skulle bundte aviser i bryggerset.	Filippo samlede brødet og pølsen midt på klædet, foldede hjørnerne op og bandt en knude.	0
+spille	V	49	58	48	56	den levende fisk ligger sprællende i hendes net, spillende med halen.	I stedet for at losse bolden langt væk i panik, spillede man nu den nærmeste mand eller holdt på bolden.	0
+dreng	N	101	109	8	14	I stueetagen boede husholdersken frk. Gormsen, kokkepige Ellen og de andre tjenestepiger. Karlene og drengene havde deres kamre bag stalden.	Kom så, drenge -- kysten er klar!	0
+plads	N	27	32	45	50	Salen var fyldt til sidste plads, og publikum klappede taknemmeligt.	skal man være på gravens rand, før der gives plads på plejehjem eller i en beskyttet bolig?	0
+anlæg	N	42	47	14	19	grundvandet stod for højt og umuliggjorde anlæg af kældre.	virksomhedens anlæg .. laver kemisk termomasse til kartonproduktionen.	0
+lukke	V	21	27	56	62	en snestorm raser og lukker alle veje.	Overløbsrøret hindrer oversvømmelse, hvis ventilen ikke lukker, som den skal.	0
+aflevere	V	58	66	18	28	Fra en urokkelig førerposition risikerer Næstved at måtte aflevere førstepladsen til AGF.	Danyard i Aalborg afleverede i går Standard Flex-fartøjet 'Gribben' til Søværnet.	0
+stå	V	9	13	17	21	Rædselen stod malet i hendes blege ansigt.	Ovre på kommoden står hans brune bamse, som han for længst er vokset fra.	0
+liv	N	42	45	107	110	et øjeblik efter var pladsen et mylder af liv og lyde.	4-5 måneder henne kan kvinden begynde at mærke fosterbevægelserne som små spjæt i underlivet -- hun mærker liv.	0
+kant	N	41	47	2	8	Mexicanske film er en sjældenhed på vore kanter.	I kanten af min have står nogle prægtige tidsler.	0
+piske	V	50	56	11	17	Hvis slaverne ikke arbejdede hurtigt nok, blev de pisket.	Han skulle piskes op klokken tre om morgenen hver dag i 15 år, brummede bageren surt.	0
+aflevere	V	22	31	24	32	En dygtig skuespiller afleverer ikke bare teksten, men er selv den rolle, der spilles.	På apoteket kan du selv aflevere dine sorterede medicinrester.	0
+trekant	N	101	108	44	53	Nye veldrejede piger tilbyder gentlemen en dejlig, inspirerende oplevelse. Speciale: Forførende fræk trekant.	Ansvaret [: for behandlingen] er placeret i trekanten patienten-sygeplejersken-lægen, altså meget tæt på den enkelte patient.	0
+brænde	V	36	43	53	60	Du skal drikke alt vandet .. Ellers brænder pillerne i din mave.	Snart var hele landsbyen et stort kaos .. Mange huse brændte, og dyrene løb forvirrede omkring.	0
+anlæg	N	10	15	42	47	hun havde anlæg til fedme.	grundvandet stod for højt og umuliggjorde anlæg af kældre.	0
+flyde	V	4	10	23	29	Tit flyder grænserne for, hvad man må og ikke må -- børnene mangler faste retningslinjer.	Vandet er salt, og han flyder stort set uden at røre sig. En doven bølge skyller ind over hans ansigt.	0
+putte	V	83	89	69	75	de pårørende skal danne et slags vagtværn, for at sygeplejepersonale og læger ikke putter for meget af den slags medicin i gamle mennesker.	De fleste er klar over, at det bestemt ikke er ligegyldigt, hvad man putter i munden, hvis man gerne vil beholde sit gode helbred.	0
+figur	N	24	31	67	74	De var begge offentlige figurer i Socialdemokratiet.	Når læseren læser lyrik, vil han og hun hurtigt støde på troper og figurer, som gør digtet svært at forstå.	0
+hænge	V	52	60	4	10	Når [bierne] stikker, mister de brodden, som bliver hængende.	Jeg hænger i baren på pigejagt ... -- Jeg er den ensomme firsermand.	0
+brænde	V	21	27	53	60	naturligvis skal man brænde for en sag som politiker, ellers ville man jo ikke bruge sit eget og sin families liv og velfærd på politik.	Snart var hele landsbyen et stort kaos .. Mange huse brændte, og dyrene løb forvirrede omkring.	0
+vende	V	26	32	15	20	Han hævede øjenbrynene og vendte skrivelsen på hovedet, indtil det endelig gik op for ham, at den var spejlvendt.	europæerne har vendt deres raketter mod Rusland og USA.	0
+klassiker	N	9	18	52	63	Gitte er klassiker, men vi er ikke sikre på resultaterne, da hun taler græsk med bornholmsk accent.	Platon og Aristoteles [regnes] blandt de største af klassikerne.	0
+top	N	25	28	6	12	han prøvede .. at spille top og slå på en lille snurretop med en pisk, så den blev ved at dreje.	så er toppen af dumhed vist også nået.	0
+skum	N	65	69	28	32	Vi var 30 sekunder efter ved flyet med skumslukkerne og fik lagt skum ud.	Æg og sukker piskes til let skum.	0
+stød	N	39	43	33	37	En ledning var slidt over, drengen fik stød og døde.	Det var et perfekt og knaldhårdt stød, jeg fik fyret af i ottende omgang.	0
+efterlade	V	50	62	43	53	han døde .. fattig, forgældet og desillusioneret, efterladende sig kone og tre små børn.	Den tropiske olie spredes nemt på huden og efterlader den silkeglat og blød.	0
+del	N	82	88	14	17	Den traditionelle metode er at åbne Windows-joblisten med et tryk på ctrl, alt og delete.	Der er en hel del, der tyder på, at vi stadig skal leve med lange ventelister.	0
+male	V	0	3	21	26	Mal nøddekernerne fint i blender eller food processor.	økologisk korn .. er malet på langsomtgående stenmøller efter gammel tradition. På denne måde bliver melet fuldt formalet.	0
+binde	V	34	40	8	13	Hun var ude i haven og jeg skulle bundte aviser i bryggerset.	Johanne bandt sit forklæde lidt fastere omkring sig, så hun kunne mærke båndene snære i livet.	0
+stikke	V	56	60	4	11	han pressede hende op ad dørkarmen; der var et søm, som stak hendes arm.	Det stikker i brystet, han bliver forpustet, men han fortsætter i hælene på Lene.	0
+økonomi	N	33	40	7	14	i deres præcision og stilistiske økonomi virker [brevene] overbevisende.	dårlig økonomi ligger til familien.	0
+tur	N	67	70	80	83	Selv om det er topholdet, vi skal møde, satser vi på point. Vi har tur i den. Det har Rødby også, så vi ved, det bliver svært.	holdet kom ikke i nærheden af sejren og må nok indstille sig på, at det skal en tur i 2. division.	0
+spor	N	67	71	17	21	højlandet .. er skabt ved vulkansk aktivitet, som endnu sætter sig spor i områdets varme kilder.	Der var tydelige spor i skovbunden, hvor bilen var trillet ned.	0
+sikre	V	21	27	12	19	Jerry Lewis, 63, har sikret sig en ekstra julegave, idet hans kone Sandra, 38, venter sit første barn.	der mangler sikrede pladser til de unge kriminelle.	0
+skum	N	12	16	11	15	Sæddræbende skum fås i spraydåse. Det føles og ser ud som barberskum.	Jeg bruger skum, fordi mit hår har svært ved at sidde.	0
+hugge	V	74	80	14	21	Ikke en trækning i det furede ansigt røbede, hvad hun tænkte. Det var som hugget i sten.	Omkring kl. 2 huggede en fisk, og vi fik os en god fight.	0
+rykke	V	7	14	4	11	I 1803 rykkede man til større lokaler i underste etage af et baghus på hjørnet af Østergade og Kristen Bernikows Stræde.	Det rykkede i pikken, som snart ikke kunne være i bukserne længere.	0
+lov	N	17	20	17	20	Vi vil godt have lov til at bestemme lidt selv.	pensionister får lov til at bo hele året i deres sommerhus.	0
+bid	N	29	32	70	73	Jeg synes vi skal have os en bid frokost.	Kvinden har efter alt at dømme pådraget voldsmanden .. et eller flere bid på bl.a. fingre eller hænder.	0
+lys	N	28	31	16	21	sagen [er] ikke i mediernes lys.	Jeg har slukket lyset på værelset og sidder og skriver i stearinlysets og skærmens forenede skær.	0
+dække	N	56	65	6	11	Skalcem 100 er en indfarvet facademaling med en så stor dækkeevne, at den bogstaveligt talt kan forvandle sort til hvid i én arbejdsgang.	Under dække af, at Mette frøs på Læsøturen, opnåede Anders at dele seng med hende.	0
+folk	N	77	83	12	16	Efterhånden lykkedes det for kejseren uden for megen blodsudgydelse at samle folket bag sig.	de to gamle folk sad i stuen og snakkede med hinanden.	0
+brænde	V	17	24	36	43	Tommy Knudsen .. brænder af lyst efter at køre igen ovenpå den alvorlige skade.	Du skal drikke alt vandet .. Ellers brænder pillerne i din mave.	0
+farve	N	114	119	20	26	et samfund, som forskelsbehandler, diskriminerer og i værste fald ødelægger mennesker på grund af deres tro eller farve.	Valmuen knejser med farver i rød, purpur, rosa, lilla og lyseblå.	0
+slynge	V	37	44	43	50	flere af de små duggede var allerede slynget ned gennem spiserøret til de marinerede sild.	Jens havde ingen sikkerhedssele på og blev slynget ud af bilen.	0
+ret	N	39	45	61	67	Restauranten byder på tre menuer à tre retter, en lille til 148 kr., en stor til 275 kr. og den helt store Grand Menu til 395 kr.	Sy linningen .. Først fra vrangen, 1 cm inde og derefter fra retten lige i kanten.	0
+hælde	V	17	22	62	68	Hvor mange ville hælde til at male en lille lejlighed hvid, har beboerne her valgt fersken, blåt og lysegråt til væggene.	Dine nyrer arbejder allerede på akkord med al den medicin, vi hælder i dig.	0
+stand	N	53	60	93	100	Vi måtte så ty til håndbremsen og holde pause indtil standen i bremsevæsken faldt lidt.	Forbundets offentligt ansatte jurister mener, at de mange afhøringer af embedsmænd har givet standen et dårligt rygte.	0
+stamme	N	27	36	104	111	Han støttede sig mod en af stammerne, der holdt sengens himmel på plads.	Det vestromerske [rige] blev præget af tiltagende indre opløsning og udsat for invasioner fra germanske stammer.	0
+selskab	N	7	14	63	70	I Kims selskab keder man sig aldrig.	Når han gik til premierer, hvad han sjældent gjorde, var det i selskab med sin kusine.	0
+tone	N	25	29	50	54	I gamle dage var det god tone at sætte tæring efter næring, siden hen blev det god tone at gældsætte sig.	Jørgen Frederiksen spillede med en sikker og smuk tone, hvormed han formede koncerten.	0
+male	V	0	3	12	17	Mal nøddekernerne fint i blender eller food processor.	Picasso har malet deres kroppe, så de består af trekanter og cirkler.	0
+putte	V	83	89	46	51	de pårørende skal danne et slags vagtværn, for at sygeplejepersonale og læger ikke putter for meget af den slags medicin i gamle mennesker.	Nu begynder moderen at vaske de slemme sår og putte salve på dem.	0
+tur	N	44	47	80	83	Vi har da talt om, at det kunne blive vores tur, sådan som indbruddene florerer i Odense.	holdet kom ikke i nærheden af sejren og må nok indstille sig på, at det skal en tur i 2. division.	0
+stik	N	102	109	7	11	Hun løsner plasteret på hans hals, trækker kanylen, som sidder for enden af plasticrøret ud og tørrer stikket med en tot vat.	Med et stik i hjertet huskede hun, hvor hårdt og ufølsomt han havde talt om hende for lidt siden.	0
+samling	N	52	63	69	76	fjern al den overskydende lim, der bobler ud mellem samlingerne.	Deres bestemmelsessted viste sig at være en lille by, som kun var en samling af få huse.	0
+hælde	V	17	22	11	16	Hvor mange ville hælde til at male en lille lejlighed hvid, har beboerne her valgt fersken, blåt og lysegråt til væggene.	Der bliver hældt millioner af kroner i halve og kvarte løsninger på beskæftigelses-området.	0
+folk	N	30	34	49	53	Det lykkedes hende at få sine folk valgt i hovedbestyrelsen.	Der var kun plads på galleriet blandt det gemene folk.	0
+økonomi	N	33	40	31	38	i deres præcision og stilistiske økonomi virker [brevene] overbevisende.	Peter Fich har haft ansvar for økonomi, regnskab, edb, sikkerhed og personale.	0
+mærke	N	33	38	26	32	Det finske postvæsen udsender et mærke til minde om 50-året for afslutningen på Vinterkrigen.	en træner .. lægger nogle mærker ud på vandet som sejlerne skal sejle rundt om.	0
+lys	N	43	49	50	56	Bådene på havet tegnede sig tydeligere, og lysene på dem sås kun svagt nu.	han [tripper] rundt fra skænk til skænk og puster lysene i de svære, arvede stager ud.	0
+finger	N	16	24	31	39	den anden lagde fingeren på læben for at vise Thomas, at han skulle tie stille.	min bror fik en ørefigen så at fingrene sad .. længe efter på kinden af ham.	0
+folk	N	12	16	31	35	de to gamle folk sad i stuen og snakkede med hinanden.	du skal ikke tage dig af, hvad folk siger.	0
+kant	N	2	8	50	54	I kanten af min have står nogle prægtige tidsler.	Pegefingerneglen var lidt for lang, og der sad en kant af snavs under den.	0
+hul	N	71	74	12	15	kongens soldater lå side om side på voldkronen, der var ikke et eneste hul i forsvarskæden.	Når der går hul på huden, uanset om det skyldes, at man falder og slår sig eller bliver opereret, dannes der arvæv.	0
+krog	N	31	38	42	46	Endelig var der noget på en af krogene. En gispende rødfisk med svømmeblæren stor og tyk ud af munden.	betjente med bombehunde gennemgik hver en krog i hvert et kontor.	0
+krone	N	70	75	62	67	Blomsterne [: på blåklokke] har sylespidse bægerblade og klokkeformet krone med fliget rand.	håret, som endnu var fyldigt, bar hun højt opsat i en jerngrå krone.	0
+hul	N	39	42	24	27	jeg [sad] bænket i ejendommens uhumske hul. En kvalmende fugtig lugt omgav mig. En enkelt pære i loftet var for svag til at oplyse hele kælderarealet.	han er sgu fra et bitte hul i det mørke Jylland. Hvor har du fået den skøre idé fra, at han skulle være spanioler?	0
+bud	N	8	11	57	61	Der kom bud om, at et ungt par havde fået sammenvoksede tvillinger.	vi ønsker .. fortsat at få netop vore samvittighedsfulde bude til at dele lokal-avisen om hver onsdag.	0
+slippe	V	42	46	35	41	Den nye udgave tager fat, hvor den sidste slap.	Nyrestenspatienter kan i fremtiden slippe for operation.	0
+forhold	N	37	44	69	79	Vinens kvalitet stod ikke i rimeligt forhold til prisen.	der oprettes regionale tilsynsråd, der har ret og pligt til at følge forholdene i anstalterne.	0
+forhold	N	49	58	37	44	Frankrig ser så store fordele ved at normalisere forholdet til Iran, at man gerne betaler en høj pris.	Vinens kvalitet stod ikke i rimeligt forhold til prisen.	0
+selskab	N	19	28	63	70	Verdensomspændende selskaber for posthistorie har tidligere været forsøgt i Frankrig og i England, men det har nok været for stor en mundfuld.	Når han gik til premierer, hvad han sjældent gjorde, var det i selskab med sin kusine.	0
+kant	N	31	35	2	8	den 70 centimeter høje, støbte kant .. afslutter begge sider af brobanen.	I kanten [: af tæppet] løb en blomsterranke hele vejen rundt.	0
+lukke	V	16	22	11	17	Møbelkæden Ikea lukker sit varehus i Aalborg, fordi det giver underskud.	Plastposen lukkes med en knude.	0
+samle	V	26	32	20	26	hun har langt hår, der er samlet i en hestehale.	Alle mine tønder er samlet i hånden, og så er de forsynet med træbånd af flækket pil.	0
+rum	N	57	60	58	61	udsugningsventiler renses et par gange om året. Oftere i rum med meget støv eller fugt.	bughulen er pumpet op med kuldioxid .. og der er skabt et rum, hvor kirurgerne har plads til at arbejde.	0
+grave	V	19	25	6	13	Oppe på bjergsiden graver kvinder efter spiselige rødder med pinde og skeer.	[Han] gravede hånden ned i tæppebunken, ned for at mærke og røre ved den glatte plastic.	0
+stik	N	42	46	6	10	Det er ikke tilladt at se på kortene i de stik, man har taget ind.	Gamle stik fra storhedstiden før revolutionen er nu ophængt på spisecafeens vægge.	0
+øre	N	24	27	28	32	Autogas forhøjes med 10 øre pr. liter.	Når svingningerne når vores ører, omsættes de på en sådan måde, at vor hjerne opfatter dem som lyd.	0
+mål	N	17	20	42	48	Penge er ikke et mål i sig selv. Men de er et middel.	Vi ramte præcist og effektivt og efterlod målene opslugt af ild og eksplosioner.	0
+udsætte	V	55	60	42	50	Sagen skulle have været for retten 8. august, men blev udsat og er nu berammet til 23. september.	Æblers kvalitet nedsættes hurtigt, når de udsættes for store temperatursvingninger.	0
+mål	N	61	64	53	56	mine forældre har lært mig, hvor vigtigt det er at sætte sig mål i livet.	Shampooen fås i flasker med 1/4 liter. Man tager 1-3 mål i flaskens skruehætte og hælder i vandet.	0
+trille	V	108	115	64	72	Tolderne må føle, at deres arbejde er delvis meningsløst, når en højtbeskattet vare som bajersk øl frit kan trilles ind i landet.	Han gav Michael K et puf med hele sin flodhestevægt, og Michael trillede hen ad asfalten.	0
+nummer	N	109	115	35	41	SIDEN SAXO er et populært historisk magasin, der udkommer 4 gange årligt med 40 gennemillustrerede sider pr. nummer.	man [har naturligvis] forberedt et nummer med den nye lærer.	0
+spor	N	19	25	17	21	selv om han fulgte sporet i mange timer, så fandt han ikke [hjorten].	Der var tydelige spor i skovbunden, hvor bilen var trillet ned.	0
+skære	N	71	75	81	85	et sløret lys .. gav hendes hvide torso et svagt matgyldent, metallisk skær.	En skoletid, som ofte var sur, står 50-60 år senere i erindringen i et rosenrødt skær.	0
+tag	N	24	27	31	34	Sving kræver et dygtigt tag i rattet.	terrassen lå i skygge under et tag af vinblade.	0
+stamme	N	10	16	27	33	Udover en stamme af fælles valgfag har hvert gymnasium sine specielle tilbud.	Ved hjælp af udsagnsordets stamme og forskellige endelser, kan man danne forskellige former og udtrykke en bestemt tid.	0
+tone	N	70	75	39	43	Kun meget få mennesker kan gå forbi et klaver uden lige at slå et par toner an.	mal skabet hvidt og giv lågerne en blå tone f.eks. 113-1 fra Flügger.	0
+selskab	N	7	14	37	44	I Kims selskab keder man sig aldrig.	For nylig havde jeg mit første store selskab med 40 gæster, fortæller Birgitte.	0
+tro	V	4	8	7	14	jeg tror, at hun er i København, men jeg kan da få det oplyst.	Enhver troende katolik skal bekende sine synder mindst en gang om året.	0
+udsætte	V	55	60	68	73	Sagen skulle have været for retten 8. august, men blev udsat og er nu berammet til 23. september.	To statuer i Nørrebroparken i København blev tidligt torsdag morgen udsat for groft hærværk.	0
+krog	N	46	50	42	46	Med et BritRail Pass kan De nå ud til hver en krog af Storbritannien.	betjente med bombehunde gennemgik hver en krog i hvert et kontor.	0
+bold	N	73	77	0	6	Hver dag er børnene ude at lege i haven. De cykler og klatrer og spiller bold.	bolden rammer målstolpen og går ind.	0
+lade	V	44	49	25	29	marcipanen ligner en grødagtig masse. Denne lader sig let sprøjte ud til kransekagekonfekt på en smurt plade.	Troede du, din mor ville lade dig bruge alle hendes penge?	0
+tid	N	127	130	50	53	efter de første halvtreds meter [var hun] næstsidst, men kom altså ind og vandt sit heat og er altså i finalen på fjerdebedste tid.	Er der noget galt? Hvorfor kommer De her på denne tid af døgnet?	0
+økonomi	N	66	73	7	14	Danmarks største dagligvare-koncern, FDB, har problemer med at få økonomi i Irma-kæden.	dårlig økonomi ligger til familien.	0
+drive	V	18	26	28	33	Niels Bohr var en drivende kraft ved grundlæggelsen af Risø i 1956.	[biogassen] anvendes til at drive en motor, der laver strøm.	0
+smutte	V	48	54	19	26	Hun behøver kun åbne døren på klem for at kunne smutte igennem.	Mandlerne skoldes, smuttes og hakkes groft og ristes i smør.	0
+styrke	N	47	53	15	21	Hvor farlig strømmen er, afhænger dels af dens styrke, dels af dens varighed.	BMW skærer sin styrke på 12 kørere ned til syv.	0
+lejlighed	N	61	72	39	48	Sang, dans og musik er forbudt, undtagen ved visse religiøse lejligheder.	I løbet af de tre år bør eleverne have lejlighed til at arbejde både klassevis, gruppevis og individuelt.	0
+dreje	V	33	39	21	28	Selve egerne [: på vognene] blev drejet af avnbøg.	Hun sagde ingenting, drejede blot om på hælen.	0
+ret	N	107	110	0	6	Domstolene er tvunget til at træffe afgørelse i de sager, der forelægges dem, uden hensyn til, om gældende ret er klar eller ej.	Retten til løn under graviditet og barselsorlov er et overenskomstmæssigt anliggende.	0
+bod	N	58	61	89	95	derfor har provsten på Ribebispens vegne pålagt ham denne bod: han skal bære jern om sin hals, sine hænder og sine fødder.	Alle vænnede sig hurtigt til den spanske rytme, sent op, et par glas isafkølet Fino i en bodega inden frokost.	0
+guld	N	30	34	69	73	I januar 1848 blev der fundet guld i Californien, og dette medførte en stor tilstrømning af guldgravere.	Jette Frölich [har] valgt at arbejde med farverne grøn, rød, hvid og guld, altså de helt klassiske julefarver.	0
+bringe	V	10	16	29	36	Privatfly bragte flygtningene fra Karup til Bruxelles.	Hva' satan, sognefoged, hvad bringer Dem her? Vel ikke ulykker?	0
+plade	N	80	86	81	87	Jeg er dybt forbavset over, at vi er røget til tops på hitlisten. 40.000 solgte plader på to måneder.	ifølge dansk lovgivning må danske bilister ikke køre her i landet på udenlandske plader.	0
+trille	V	30	37	4	11	Sveskerne uden sten hakkes og trilles i lidt af melet.	Der triller sveddråber fra hans pande ned over tindingerne.	0
+tro	V	4	8	7	14	Jeg tror på det, min mor fortalte.	Enhver troende katolik skal bekende sine synder mindst en gang om året.	0
+figur	N	62	67	0	5	der i skumringen ser jeg minsandten midt på vejen en utydelig figur, som ligner en bjørn.	Figur 4.1. viser vareeksportens fordeling.	0
+bud	N	47	50	30	37	nogle .. sad og snakkede, mens vi sang. De fik bud om at gå uden for døren.	Kirkegængerne sparede ikke på buddene, da der efter høstgudstjenesten .. blev holdt auktion over de medbragte afgrøder.	0
+tid	N	121	124	7	10	han har sådan nogle forfærdelig dårlige tænder, og vi kan ikke drive ham til tandlægen. Han siger, at de skal holde hans tid ud.	I lang tid sad de uden at sige noget. Man hørte kun ildens knitren og små sprut og vinden, der hylede og tudede udenfor.	0
+hælde	V	62	68	11	16	Dine nyrer arbejder allerede på akkord med al den medicin, vi hælder i dig.	Der bliver hældt millioner af kroner i halve og kvarte løsninger på beskæftigelses-området.	0
+rum	N	57	60	44	47	udsugningsventiler renses et par gange om året. Oftere i rum med meget støv eller fugt.	Loven og samfundet er ét. Det er et socialt rum, inden for hvilket den enkelte er sikret integritet og 'fred'.	0
+orden	N	12	17	77	82	Jeg elskede orden, og gik bestandig omkring og anbragte ting og sager dér, hvor de, efter visse ordensregler, hørte hjemme.	[det lykkes] for de få, at bilde de mange ind, at sådan er nu engang verdens orden: de få må eje og styre, lede og fordele, de mange har ikke forstand til det.	0
+opløse	V	27	34	83	89	20-25 % af alle ægteskaber opløses ved skilsmisse.	De fandt ham liggende på gulvet, på knæ, med ansigtet skjult i hænderne, hulkende, opløst i gråd.	0
+tid	N	67	70	127	130	jeg synes, at De skal henvende Dem på socialforvaltningen og få en tid hos en sagsbehandler.	efter de første halvtreds meter [var hun] næstsidst, men kom altså ind og vandt sit heat og er altså i finalen på fjerdebedste tid.	0
+finde	V	7	12	7	13	Retten fandt det bevist, at [han] selv havde stranguleret sine to koner.	vi har fundet mordvåbnet -- men desværre har vi ikke konstateret anvendelige fingeraftryk på det.	0
+stilling	N	32	42	27	37	Det massive pres på de irakiske stillinger i Kuwait vokser time for time.	Han var eneste ansøger til stillingen og fik den.	0
+slå	V	23	26	20	25	sandsynligheden for at slå to seksere ved kast med to terninger er .. 1/36.	Hver gang far havde slået hende, kom hun til mig for at søge trøst og hjælp.	0
+stand	N	66	72	58	63	de hanlige blomster er samlet i toppe, de hunlige i koglelignende stande.	slutsedlen er returneret til Rødby kommune i underskrevet stand.	0
+placering	N	50	59	26	35	jeg håber da at vinde nogle kampe, men spå om min placering eller medalje, tør jeg slet ikke.	Undervisningens omfang og placering: 2-årige hf-kurser: 2 ugentlige timer i 1. og 2. semester.	0
+sejle	V	15	21	10	16	Små lammeskyer sejler som afrevne uldtotter under en dybblå himmel.	Som regel sejler [prins Henrik] Drage med gasterne Torsten Rasmussen og Jakob Johannessen.	0
+punkt	N	26	33	15	20	I matematisk forstand har punktet slet ingen udstrækning, men i mit sprog kan det have en størrelse fra et knappenålshoved til en ti-øre.	Bestemmelsen i punkt 4 indebærer, at fx redaktører af antologier med oversatte værker ikke er berettiget til afgift.	0
+rive	V	34	38	41	46	Man hører om stærke mænd, der kan rive en telefonbog over.	Der skulle graves køkkenhave, der skulle rives blade sammen.	0
+sive	V	33	39	90	94	Folk begyndte at rejse sig -- de sivede udenfor med deres piber, cerutter og cigaretter.	Musen .. lå fanget i slangens greb. Så røbede de små spjæt, at livet langsomt begyndte at sive ud af den.	0
+maskine	N	31	39	16	24	Hun har et halvt år arbejdet i maskinen på Greenpeaceskibet 'Sirius' og har været med i halsbrækkende og farlige aktioner.	De nye og bedre maskiner betød, at landmændene kunne dyrke jorden bedre og få mere ud af den.	0
+hænge	V	36	42	4	8	De bandt røde bånd om appelsiner og hængte dem op, så de kunne dufte over det hele.	Der hang lyseblå gardiner omkring vinduet.	0
+rum	N	57	60	56	62	Den naturlige nysgerrighed er med til at skabe et større rum omkring det personlige verdensbillede.	Den første israelske satellit Horizon-1 blev sendt ud i rummet i september 1988.	0
+skabe	V	63	68	25	30	Du er ved at rive dig løs fra dine ret dominerende forældre og skabe dig dit eget liv.	I middelalderen blev der skabt kunst -- kalkmaleri og billedhuggeri -- til de danske kirker.	0
+spor	N	67	71	67	73	højlandet .. er skabt ved vulkansk aktivitet, som endnu sætter sig spor i områdets varme kilder.	Et DSB-lokomotiv med tomme passagervogne røg onsdag eftermiddag af sporet ved den gamle lyntogs-remise.	0
+lave	V	24	29	36	40	Jeg har en fisk, som er lavet til i forvejen.	vi ville gerne have haft tid til at lave andre ting end at hvile ud, når vi kom hjem.	0
+dele	V	66	70	41	46	Vi har tilbragt så meget tid sammen, trænet sammen, rejst sammen, delt så mange oplevelser.	En brandmur stoppede ildens fremmarch og delte den gamle bygning i to.	0
+grave	V	26	33	24	31	Jeg betaler, sagde han og gravede i sin baglomme.	De tre flygtende fanger gravede sig ud i friheden gennem dette hul på kun 42 gange 30 cm.	0
+ring	N	37	41	33	38	Gider du -- i det mindste gi' mig et ring.	den blå cigarrøg sejlede i tunge ringe om de grønne lamper.	0
+plade	N	80	86	50	55	Jeg er dybt forbavset over, at vi er røget til tops på hitlisten. 40.000 solgte plader på to måneder.	Det graciøse bord er udstyret med en gennemsigtig plade af råglas.	0
+dele	V	4	9	35	40	jeg deler de bekymringer, som regeringen har givet udtryk for.	Lola og Anna sad ude i køkkenet og delte en sodavand.	0
+mærke	N	22	27	26	32	Dansk Varefakta Nævns mærke garanterer .. at varens indhold passer til deklarationen.	en træner .. lægger nogle mærker ud på vandet som sejlerne skal sejle rundt om.	0
+ret	N	0	6	61	67	Retten har besluttet, at sagen skal behandles ved en mundtlig forhandling, hvorunder der vil blive ført mindst tre vidner.	Sy linningen .. Først fra vrangen, 1 cm inde og derefter fra retten lige i kanten.	0
+skifte	V	37	44	33	41	Solen blusser i horisonten, og lyset skifter fra svagt rosa til varmt gyldent.	Han tog linje 5 til Stormgade og skiftede til linje 3 det sidste stykke.	0
+sikre	V	100	106	16	22	På banegården stod min cykel heldigvis stadig godt fastlåst til stativet. De tre låse har indtil nu sikret mod diverse overgreb.	Sikkerhedsselen sikres ude i siderne.	0
+sigte	V	35	41	25	31	Udlicitering af offentlige opgaver sigter mod at skabe konkurrence mellem offentlige og private udbydere.	han tager kameraet op og sigter med linsen mod dyrene.	0
+del	N	82	88	106	109	Den traditionelle metode er at åbne Windows-joblisten med et tryk på ctrl, alt og delete.	Det har været så stor en oplevelse for hende, så det er vel den oplevelse, hun ønsker, at andre skal have del i.	0
+brud	N	50	54	72	76	Artiklen er blevet indklaget for Pressenævnet for brud på god presseskik.	vandet [har] flydt gennem gaderne fra oversvømmede løbebrønde eller fra brud på vandledninger.	0
+bane	N	12	17	3	7	Far var ved banen her i Herning, ligesom jeg selv har været.	på bane 3 fra højre Burrell og på bane 5 Carl Lewis.	0
+lade	V	44	49	85	89	marcipanen ligner en grødagtig masse. Denne lader sig let sprøjte ud til kransekagekonfekt på en smurt plade.	Småkagerne er gode, sagde tante og gumlede langsomt. -- Bage kan din mor, det må man lade hende.	0
+trekant	N	17	26	58	65	Skær dejen i små trekanter.	[hun havde mistet] Kenneths pose med boller og kiks og en trekant med appelsinsaft og et sugerør.	0
+samle	V	22	28	34	40	Om aftenen er børnene samlet foran fjernsynet, mens de voksne holder møde.	Se bag på etiketterne, hvordan du samler point og får en smart stereo øretelefon.	0
+binde	V	18	24	8	14	Kærlighedens bånd binder fastere og stærkere end noget andet bånd.	Fibrene binder vandet og giver en hurtigere fordøjelse.	0
+trille	V	34	42	85	92	Efter sangen lo Filip, så tårerne trillede ham ned ad kinderne.	Bakero støder frem fra midtbanen 12 minutter ind i 2. halvleg på en medløbsbold  og triller den følt ind i nettet.	0
+bud	N	8	11	30	37	Der kom bud om, at et ungt par havde fået sammenvoksede tvillinger.	Kirkegængerne sparede ikke på buddene, da der efter høstgudstjenesten .. blev holdt auktion over de medbragte afgrøder.	0
+skrabe	V	4	12	43	49	Han skrabede mos af stenen med sin kniv og så på de gamle runer.	hestene .. i de røde båse fortsatte med at skrabe i jorden med hovene og slå med hovederne.	0
+mål	N	42	48	30	33	Vi ramte præcist og effektivt og efterlod målene opslugt af ild og eksplosioner.	Peter har brugt drivhuset som mål for sin nye slangebøsse.	0
+smække	V	57	64	46	54	den unge BZ'er er ikke længere så modig, når håndjernene smækker.	lille Victor ville se 'Karatedjævelen'. Svend smækkede kassetten i videoen og fik nogenlunde ro i sit arbejdsværelse.	0
+liv	N	28	31	54	57	Hvis der er eller har været liv på Mars, kan vi tage det som et solidt vink om, at mennesket næppe er alene i Universet.	En sen førstegangsfødende mor havde båret hende i sit liv og presset hende ind i verden.	0
+stød	N	46	50	62	66	Vinden sprang i sydøst, med korte orkanagtige stød.	I det øjeblik hun stak åren i vandet, mærkede hun et voldsomt stød op gennem træet.	0
+lave	V	21	25	17	22	Jeg har tænkt mig at lave lækre frikadeller af hakket lammekød, kartofler og svøbte porrer til aftensmad.	Nedslidte bildæk laves til gummipulver, der bruges til nye gummihjul eller til at blande i asfalt til vejbelægninger.	0
+bod	N	42	45	14	20	Der var bøn og prædiken med opfordring om bod, og der var salmesang.	På den lokale bodega er stemningen fed / Her lugter af ølsjatter og sved.	0
+stå	V	28	33	41	44	mon ikke Rødvig fiskerne er stået ud for at se, hvor meget de kan nå at fange af den torskekvote.	da jeg vendte mig, så jeg høje ildsøjler stå til vejrs fra den ene fløj af slottet.	0
+liv	N	31	34	107	110	Hele familien elskede det frie liv ved havet.	4-5 måneder henne kan kvinden begynde at mærke fosterbevægelserne som små spjæt i underlivet -- hun mærker liv.	0
+sejle	V	9	15	4	11	De havde sejlet med hjuldamperen 'Hjejlen' og set smukke scenerier på søbredderne under kulørte lamper.	han sejlede byen rundt i sin brandert.	0
+dreng	N	75	81	26	34	Forberedelserne er i gang til en jubilæumsbog og en fest for alle de gamle drenge, der den 8. august 1939 stak til søs med Dannebrog.	vi er fodboldgale, elsker drengene på landsholdet og vil støtte dem overalt.	0
+tryk	N	85	89	128	132	at dykke dybere end 40 meter .. vil resultere i den sikre død på grund af det enorme tryk fra vandmasserne.	Nationalbanken .. kan blive nødt til at sælge statspapirer for at dække statens finansieringsbehov og dermed kan kurserne få et tryk nedad.	0
+skifte	V	4	12	30	36	Han skiftede i Fredericia og troede sig i toget på vej til Kolding, da det pludselig gik op for ham, at toget kørte til København.	Med en vippekontakt kan bilen skifte mellem el-drift og en benzindreven motor.	0
+guld	N	53	57	45	49	Se mælkebøtterne, de er allerede sprunget ud. Der er guld i vejkanten, Magnus.	Når solen lyser i hendes hår skinner det som guld.	0
+rykke	V	4	11	32	38	FIF rykkede op på femtepladsen, da Horsens tabte den spændende hjemmekamp til Lyngså med 23-24.	Hun vil helst lave smykker, der rykker. Gerne i plexi-glas og messing.	0
+finde	V	12	17	21	27	Radionævnet fandt ingen grund til at kritisere udsendelsen.	hovedpersonen Jørgen finder sin død under sandet i den tilsandede kirke.	0
+slæbe	V	12	18	32	37	Lænken, han slæbte efter sig, var fæstnet om hans liv.	De finder hurtigt kupeen og får slæbt bagagen ind.	0
+tryk	N	43	47	112	116	Med et mærkede hun hans nærhed. Som et let tryk af hans hofte mod hendes.	Kunstværket er en gave til Danmarks Naturfredningsforening. Der er lavet 500 originale nummererede og signerede tryk.	0
+plade	N	20	25	19	24	Rul dejen ud til en plade, som er ca. 35 gange 40 cm. Den udrullede dej skal være stor nok til, at den kan pakkes om de 2 mørbrad.	Hun satte en rolig plade på grammofonen og fandt sine cigaretter frem.	0
+nål	N	0	5	19	23	nålen for 25 års tro tjeneste -- udleveret i en konvolut sammen med lønchecken.	[narkomaner] deler nåle, så blodrester ofte efterlades i nålen efter et fix.	0
+ligge	V	19	21	73	79	Uden for hvert hus lå familiernes slædehunde og slikkede solskin.	far og jeg [er] travlt optaget af at lænse båden for vand, hver gang den ligger i bølgedalene.	0
+sikre	V	16	22	39	44	plejepersonalet sikres med kittel og handsker.	Et ja ved næste EF-folkeafstemning vil sikre Danmark 100.000 flere arbejdspladser, end landet ellers ville få.	0
+banke	V	14	21	7	13	Drude stod og bankede på købmandens lille rude, fordi hun midt om natten var løbet tør for whisky.	Blodet banker i tindingerne.	0
+bund	N	107	111	29	33	Hvis din opskrift bliver valgt, vinder du en dejlig Eva Trio gryde i rustfrit stål med en tyk varmeledende bund.	Der var sort sand på karrets bund.	0
+rive	V	37	40	41	46	Gør salaten i stand og tør den godt. Riv den i mindre stykker.	Der skulle graves køkkenhave, der skulle rives blade sammen.	0
+sidde	V	6	9	48	53	Ellen sad hos ham fra tidlig morgen til sen aften, indtil han døde.	Jeg bruger skum, fordi mit hår har svært ved at sidde.	0
+skifte	V	33	41	4	12	Han tog linje 5 til Stormgade og skiftede til linje 3 det sidste stykke.	Han skiftede mappen over under venstre arm for at kunne give mig hånden.	0
+ligge	V	73	79	52	54	far og jeg [er] travlt optaget af at lænse båden for vand, hver gang den ligger i bølgedalene.	hver sommer havde vi en tradition at mig og min mor lå på camping sammen.	0
+skive	N	69	75	25	31	fingrene vil ryste så meget, at jeg slet ikke kan dreje et nummer på skiven.	Kagen skæres i ret tynde skiver med en skarp kniv.	0
+skabe	V	63	68	14	20	Du er ved at rive dig løs fra dine ret dominerende forældre og skabe dig dit eget liv.	I begyndelsen skabte Gud himlen og jorden.	0
+figur	N	70	75	39	46	den folkekære skuespiller og sanger Poul Bundgaard er en gennemgående figur i en ny og særdeles lovende serie.	Idag bygger vores viden om geometriske figurer stadig i høj grad på grækernes geometri.	0
+fange	V	18	23	48	53	Hun .. prøvede at fange hans øjne, det morede hende, at han så væk.	'De fire årstider' er en poetisk sceneleg om at fange det sværeste i livet: Den varige kærlighed og lykke.	0
+smække	V	55	62	57	64	Fire cyklister tramper over Højbro Plads. En slap kæde smækker mod kædekassen.	den unge BZ'er er ikke længere så modig, når håndjernene smækker.	0
+klap	N	74	78	50	54	børn, der skeler, kan i de fleste tilfælde hjælpes. Ofte gøres det med en klap for øjet.	min far han gav mig nogle gange en endefuld og .. klap i bagen og sendte mig ind på mit værelse hvis jeg havde været rigtig fræk.	0
+prøve	N	0	6	9	14	Prøver i enkelte fag i hf's fagrække kan sammenstykkes til en højere forberedelseseksamen.	Strik en prøve før De begynder og kontroller strikkefastheden.	0
+optage	V	55	62	30	36	det danske sprog [sætter] hele tiden nye skud: nye ord optages, og ældre ord får ny betydning eller bruges på en ny måde.	[hvis barnet] ikke har kunnet optage det man ville lære det, så, nå ja, så kan man altså ikke bare sige: nå skidt med det.	0
+øre	N	89	93	17	21	Nyheden om udbryderkongen Vulfs ankomst til byen havde lynhurtigt nået både små og store ører.	Jeg blev ramt på øret forleden aften af bolden, da jeg spillede håndbold, og siden har jeg ikke hørt så godt.	0
+hugge	V	17	24	38	45	den lille puddel huggede de små tænder i det stykke mad, den fik tilbudt.	Forsigtigt stak [hanen] hovedet ud og huggede med det fra side til side, så den røde kam dinglede.	0
+samle	V	20	26	34	40	Alle mine tønder er samlet i hånden, og så er de forsynet med træbånd af flækket pil.	Se bag på etiketterne, hvordan du samler point og får en smart stereo øretelefon.	0
+bund	N	15	21	12	18	[en] nat faldt bunden ud af den seng, min ægtemand sov i.	Helt nede i bunden af lokalet, der var fyldt med gammelt støvet isenkram, stod en gammel disk.	0
+slå	V	56	60	90	94	Jeg løb noget af vejen, men når jeg blev for forpustet, slog jeg over i gang.	Osman fik øje på nogle stejle klippeøer forude. Brændingen lyste hvidt, der hvor bølgerne slog mod dem.	0
+hvile	V	18	24	61	69	Sengens lamelbund hviler på lister langs siderne.	delvist sammenfrosne isflager drev langsomt østover, mens de hvilende måger fik en gratis sejltur.	0
+punkt	N	7	12	20	25	fra et punkt uden for de snævre arkitektcirkler fremtræder artiklen som gold fordømmelse af det nuværende og kommende byggeri.	Win er nået til det punkt i sit liv, hvor han skal finde ud af, hvem han er.	0
+efterlade	V	28	38	43	53	Det er en stor hjælp for de efterladte, om der efter den afdøde foreligger bestemmelser om, hvordan bisættelsen skal foregå.	Den tropiske olie spredes nemt på huden og efterlader den silkeglat og blød.	0
+bod	N	16	19	14	20	Pateren: -- Som bod kan du bede 10 fadervor. Manden: -- Jamen hr. pater, jeg kender kun ét fadervor.	På den lokale bodega er stemningen fed / Her lugter af ølsjatter og sved.	0
+grund	N	75	81	3	10	Jeg holder på at man altid skal sige sandheden, for det første af moralske grunde, for det andet af praktiske grunde.	På grunden ligger nu et nyt sommerhus.	0
+felt	N	14	18	27	33	Et skakternet felt under spisepladsen liver op i køkkenet.	når man kigger ned igennem feltet, ja så er der mange af rytterne, som kører uden hjelm.	0
+omsætte	V	27	35	24	32	disse produkter skal kunne omsættes frit i Fællesskabet uden handelshindringer.	På et elektricitetsværk omsættes energi fra kul eller olie til nyttigt arbejde i turbinerne og til spildvarme.	0
+slå	V	42	46	90	94	selv blandt de generelt trofaste DR-seere slår et stort antal over på TV 2 for at se sport.	Osman fik øje på nogle stejle klippeøer forude. Brændingen lyste hvidt, der hvor bølgerne slog mod dem.	0
+råd	N	73	78	55	58	Forbrugerrådet fik opbakning fra alle sider på en konference i dag, hvor rådet selv IKKE måtte komme på talerstolen.	Vi har moderniseret huset, efterhånden som vi har haft råd.	0
+sejle	V	15	21	39	44	Små lammeskyer sejler som afrevne uldtotter under en dybblå himmel.	i byens svømmehal .. kunne du ligge og sejle rundt på en skumplade i halve og hele timer.	0
+tørre	V	4	11	8	14	han tørrede fingrene af for jord i sine gamle bukser.	han har tørret flødeskummet af munden.	0
+skrabe	V	105	111	6	14	Merlow kørte forsigtigt ud ad porten. Der var ikke mange centimeter at give af, hvis han skulle undgå at skrabe et af sidespejlene.	Brian skrabede utilpas med fødderne.	0
+retning	N	48	57	68	77	Onsdag får vi op til frisk vind fra forskellige retninger.	Den nuværende uddannelsespolitik [opprioriterer] de mikrobiologiske retninger inden for ingeniøruddannelserne med henblik på ansættelse i industrien.	0
+rædsel	N	96	103	76	83	Jeg sidder og spekulerer på, hvad der får et menneske til frivilligt at opsøge krige og alle de rædsler, der følger med.	jeg havde uendelige mareridt, hvor jeg oplevede min egen død og begravelse, rædslen, når de begyndte at dække mig til med jord.	0
+vrangforestilling	N	13	30	25	46	Det er .. en vrangforestilling at prydbuske skal beskæres.	sygelige symptomer er fx vrangforestillingerne: at tro at man er Gud, Napoleon eller Helligånden.	0
+overgå	V	18	25	18	25	Ved en konges død overgår tronen til hans søn eller datter.	Biografens lærred overgår altid selv den største TV-skærm.	0
+se	V	78	80	48	50	Jens Olesen har sammen med tre børn været i Zoologisk Have i København for at se, hvordan man dér på stedet tæmmer vilde dyr.	Endnu var det ikke blevet så lyst, at han kunne se ret meget.	0
+hoved	N	65	72	39	46	husholdningspungen [foretrækker] blomkål til 7-13 kr. for flotte hoveder.	man vil gå over til at yde tilskud til hoveder i stedet for tilskud til mursten.	0
+tilsløre	V	35	44	37	46	Sundhedsstyrelsen bortforklarer og tilslører bevidst sandheden.	Den sort-hvide tegning i fjerdragten tilslører fuglens omrids.	0
+magt	N	73	77	38	42	Kirken kom til at eje meget jord og mange gårde, og blev den dominerende magt i samfundet.	hysterisk af rædsel prøvede han af al magt at rejse sig for at flygte.	0
+stue	N	71	76	47	51	[børnene] var støjende og umulige og havde flyttet rundt på møblerne i stuen og bygget hule under spisebordet.	I børnehaven var vi til forældredag, hvor hver stue underholdt forældrene med et nummer.	0
+blik	N	67	71	18	22	[den indfødte] forsøger .. at sælge os et postkort, en halskæde af blik eller et tørklæde.	Jeg så op, og mit blik mødte manden ved nabobordet.	0
+skat	N	0	7	53	57	Skatten på de 674 danske, norske og holstenske sølvmønter er danefæ.	Det fine stel, jeg har arvet, er pludselig blevet en skat. Det har været min mormors, og nu bruger jeg det.	0
+størrelse	N	28	37	10	19	forskellen i tyngdekraftens størrelse forskellige steder på Jorden er ganske lille.	Den lille størrelse ved nabobordet fik straks en høj stol, og der blev lavet særlig børnemenu.	0
+besvarelse	N	36	49	113	124	responsen på forundersøgelsen, hvor besvarelserne løber ind i disse dage, ser ikke allermest lovende ud.	Jeg kan desværre ikke besvare dit spørgsmål fyldestgørende, da jeg ikke kender til alle forhold af betydning for besvarelsen.	0
+henvisning	N	45	55	111	121	Divisionsforeningen underbygger sit krav med henvisning til DBUs love.	manglende aflevering af skriftlige arbejder blot i et enkelt fag kan medføre udelukkelse fra undervisningen og henvisning til at aflægge eksamen på vilkår som selvstuderende.	0
+drøm	N	28	32	21	25	Evig ungdom er en uopnåelig drøm. Alle ældes.	Katrine var iført en drøm af en balkjole. Lyserød silke, draperet med et brus af tyl i samme farve.	0
+advarsel	N	82	90	34	42	Mange af [oprørerne] blev halshugget. Deres hoveder blev udstillet på pæle som en advarsel for andre.	så får Torben Frank minsandten en advarsel af den efterhånden mere og mere håbløse østrigske dommer.	0
+historie	N	33	42	25	33	bedstefar fortalte gruopvækkende historier fra krigens gang.	jeg startede med at læse historie, jeg kom da igennem historie.	0
+skum	N	11	15	23	27	Jeg bruger skum, fordi mit hår har svært ved at sidde.	Hun begynder at skylle skum ud af håret med bruseren.	0
+klassik	N	35	42	46	53	Vi skal prøve at bygge en form for klassik af et destillat af de historiske erfaringer, som er vores, og som skal nære de næste generationer.	ikke alene barokmusikken men også den tidlige klassik nyder godt af de sprøde klange fra tarmstrenge og hornenes naturtoner.	0
+træk	N	8	15	52	56	Det var trækken gennem huset, der havde smækket døren.	konflikter og social forandring er et grundlæggende træk ved al samfundsudvikling.	0
+dekoration	N	0	12	52	62	dekorationen på urets underste del er symboler fra antikken.	De skriver selv alle tekster, hitter på kostumer og dekoration og opfinder karikaturer til de øvrige medvirkende.	0
+ryge	V	35	38	16	19	der var ild i et af sæderne og det røg op af det.	Drengen hverken røg, drak eller tog stoffer.	0
+røre	V	48	52	50	54	jeg benytter gerne enhver ledig stund til at få rørt benene og se mig lidt omkring.	Siden jeg gik økonomisk ned, har folk ikke villet røre ved mig. De er bange for at brænde fingrene.	0
+mørke	N	65	70	36	41	forskrækket blev han stående et øjeblik og stirrede ud i gårdens mørke.	I middelalderen lå alle gader hen i mørke.	0
+spænde	V	4	11	44	51	han spændte patronbælte og revolver om livet og meddelte den iltre madamme, at nu gik han hen og skød sig.	På grund af en trykforhøjelse i mellemøret, spændes og udspiles trommehinden.	0
+post	N	37	41	18	24	Gården er tom, melder Stefan fra sin post bag køkkengardinet.	Hun gennembladede posten -- de sædvanlige medicinalreklamer, et par rudekuverter med opgørelser fra banken og et farvestrålende postkort.	0
+hive	V	28	31	48	52	Aksel smed sit cigaretskod. Hev det op i luften i en bue.	i stadig langsommere takt prøvede [dyret] på at hive sin enorme krop op over en jordknold.	0
+størrelse	N	44	53	35	45	Det er svært at få indtryk af den egentlige størrelse af Tunguskabegivenheden [: et kometnedslag].	Jul og søde sager er uadskillelige størrelser.	0
+børnehøjde	N	33	43	53	64	DUI-Leg og Virke vil se verden i børnehøjde og kæmpe for børnenes sag både herhjemme og i udlandet.	da vi skulle opbygge rørebassinerne og have vurderet børnehøjden på bassinkanten, havde han lige størrelsen, vi kunne måle efter.	0
+vige	V	7	10	83	87	Hunden veg ikke fra hende.	hvor Danmark lovligt har overdraget sine beføjelser til EF .. skal danske domstole vige for EF-ret.	0
+artikel	N	43	51	57	65	Aarhuus Stiftstidende beskæftiger sig i to artikler med Niels Bohrs revolutionerende fysiske opdagelser.	min mor .. arbejder på en fabrik, der laver elektroniske artikler.	0
+slynge	V	19	27	88	96	Jeg tog glasset og slyngede det mod væggen.	Der var ligefrem mord i øjnene på Danmarks anfører, da han gik frem til Vandereycken og slyngede ham om i græsset.	0
+besætning	N	22	33	76	85	der var tuberkulose i besætningen, så høvederne døde.	landsdommerne .. stod allerede klar i deres sorte silkekapper kantet med en besætning i sort velour.	0
+vågeblus	N	48	56	82	90	når der inviteres til fest, skrues lyset ned på vågeblus.	alle mennesker gik omkring som søvngængere eller robotter, med livskraften sat på vågeblus.	0
+tip	N	20	24	44	48	'Jeg har en 13'er i tips,' kunne han jublende meddele konen.	Brug altid en god svampebog, som også giver tips om indsamling, transport og opbevaring.	0
+forbinde	V	50	58	78	86	Anglo-Mediterranean Telegraph Co satte sig for at forbinde Malta og Alexandria med et søkabel.	Baderummet lå på første sal, lige når man kom op ad den store stentrappe, der forbandt de to etager.	0
+styrte	V	30	38	33	40	Han beretter om en røver, der styrtede sine ofre ned i afgrunden.	i håb om at finde fred i sjælen, styrter hun fra den ene østerlandske guru til den næste.	0
+fejl	N	62	66	34	38	Han var et enestående og godt menneske, men han havde én stor fejl -- han kunne ikke sige nej.	Han lavede faktisk ikke en eneste fejl i hele kampen.	0
+kapitel	N	87	94	25	33	flere statistikker .. afslører, at diskriminationen mod kvinderne ikke er et afsluttet kapitel, tværtimod.	Koranen er inddelt i 114 kapitler -- surer -- som alle har et navn.	0
+plukke	V	37	41	9	15	Del kyllingen og tag skindet af den. Pluk kødet i små stykker.	Man skal plukke de hvide randblomster af én for én, idet man samtidig spørger: 'elsker?, elsker ikke?'.	0
+hyle	V	39	44	44	48	De andre fra klassen er gået i bad. De hyler inde under bruserne.	Han begyndte at græde. -- Hold nu op med at hyle. Det er da bare for sjov, ikke?	0
+joker	N	56	61	18	23	Hun er teknisk god, og kan uden tvivl blive noget af en joker for Frederiksberg-klubben.	Sidder man med en joker på hånden når der lukkes tæller den som 20 points.	0
+kobberspiral	N	56	70	93	107	Mange nye vandvarmere har varmevekslere, der indeholder kobberspiraler.	Kvinder kan godt anvende spiral, selv om de ikke har født. Hormonspiralen er lidt større end kobberspiralen og kan derfor være sværere at indføre hos kvinder, der ikke har født.	0
+dyrke	V	60	64	60	66	Vi har lige fået nogle nye Macs med supermus og 2mb RAM. Og dyrk lige min ny laserprinter.	Det var essensen af Marx' og Marcuses lære, som ivrigt blev dyrket på universiteterne i de forskruede 60'ere.	0
+alarm	N	3	10	6	13	Da alarmen hylede, tog voldsmanden flugten med hendes taske, smykker og penge.	Efter alarmen kl. 9.12 var røgdykkere fra Kalundborg Brandvæsen .. fremme ved det brændende skib kl. 9.40.	0
+prøve	N	43	51	54	59	Mange af kaklerne var i stykker, da vi fik prøverne hjem.	Lørdagens enkeltstart stod for mig som den helt store prøve. Her kunne jeg risikere at miste føringen.	0
+bide	V	39	43	40	47	En lille griseunge er nær ved at blive bidt ihjel af sin mor, da Emil griber ind.	For første gang mærker jeg den ætsende, bidende lugt af ildebrand på nært hold.	0
+blad	N	84	89	11	16	Er der overhovedet noget, du har lyst til? Ud over at ligge hjemme i sofaen og læse blade og se fjernsyn.	hvor mange blade er der på en rulle lokumspapir.	0
+stigning	N	30	38	35	45	der er tilsyneladende igen en stigning i hashforbrug og andre narkotiske misbrug.	Vi vandrer op gennem smalle gyder. Stigningen er jævn.	0
+modtage	V	18	26	8	16	Storbritannien .. modtager 17,7 mill. besøgende fra udlandet hvert år.	Hvis du modtager arbejdsløshedsdagpenge og bliver syg, vil du overgå til sygedagpenge.	0
+vifte	V	29	36	4	11	Birketræets lysegrønne blade viftede med vinden.	Hun viftede ham om næsen med et brev.	0
+markere	V	18	27	11	20	Inden operationen markerede kirurgen med streger, hvor hun skulle skæres.	Dr. Zimmer markerede et spørgsmålstegn ved at spidse munden og løfte øjenbrynene.	0
+stræk	N	18	23	22	30	Nervøs velour med stræk er velegnet til motion.	Peter er kommet ud af strækket og ligger nu med en stiv halskrave, der skal beskytte hans halshvirvler i starten.	0
+vise	V	31	35	46	50	Ifølge Koranen må kvinder ikke vise arme, bryst, ben og hår.	Henrik overvældedes af en heftig trang til at vise hende ømhed.	0
+due	N	36	39	31	35	Skal du ikke have den hjelm af, min due? Det er da alt for varmt herinde.	et udvalg af samarbejdsvillige duer fra de to fraktioner forsøger at enes om forslag til en løsning.	0
+overdrivelse	N	22	34	14	26	alt kan overdrives og overdrivelse [af medicinforbrug] kan føre til misbrug.	det var ingen overdrivelse at kalde min situation fortvivlet.	0
+slynge	V	82	89	41	49	De besøgende er fascineret af, hvordan bolchemassen skifter farve, når den bliver slynget om krogen.	Pia kom tilbage med sjalet, fru Jacobsen slyngede det om sig.	0
+brud	N	72	76	11	17	vandet [har] flydt gennem gaderne fra oversvømmede løbebrønde eller fra brud på vandledninger.	For ræven, bruden, lækatten, de store rovfugle og uglerne er markmus en vigtig del af føden.	0
+pege	V	52	56	4	10	Vi må flytte Dong, sagde den gamle, og lod fingeren pege på flere steder rundt om på templets smukke mure.	Han pegede på mig med en lille maskinpistol.	0
+net	N	18	21	42	45	På skolens lokale net kan eleverne for eksempel få at vide, om de skal have vikar eller slå op i klassens lektiebog.	Politiet er i gang med at afsløre et helt net af amfetaminhandlere og -brugere.	0
+fange	V	32	38	18	23	Mange .. insektædende flagermus fanger deres bytte i luften.	Hun .. prøvede at fange hans øjne, det morede hende, at han så væk.	0
+reflektere	V	20	31	69	82	mange kunstnere har reflekteret på indbydelsen til denne udstilling.	man nærmest morede sig over hendes forsøg på at være intellektuel og reflekterende.	0
+bold	N	63	67	9	13	Solen voksede fra en lille hvid kugle til en stor orangefarvet bold, som langsomt sank ned bag bjergene.	Den høje bold ind i Skovbakkens straffesparksfelt blev helflugtet .. mod mål.	0
+kurve	N	87	93	112	118	De fleste steder er overgangen mellem hedesletter og bakkeøer .. præget af lange bløde kurver.	Det gælder bare om at holde fast i rattet og give gas, så klarer den nye GT sig mere end flot gennem vanskelige kurver.	0
+fyre	V	71	76	37	42	i hovedbygningen var der kakkelovne i alle størrelser, og der blev kun fyret med brunkul.	Ole og Per sidder på Oles værelse og fyrer en fed.	0
+klub	N	19	23	83	90	Vi var en hemmelig klub som nød ikke så lidt anseelse hos de andre børn.	[rockbandet har] høstet rimelig anerkendelse som et effektivt live-band på landets klubber.	0
+styrke	N	60	67	41	47	på apparatet kan tone-ringeren reguleres til to forskellige styrker med to forskellige lydbilleder.	De nye normer skal garantere kondomernes styrke og uigennemtrængelighed.	0
+pakke	N	44	49	91	97	skatteministeriet [er] i øvrigt klar med en pakke af lovforslag, der skal gøre det nemmere at starte nye virksomheder.	Han gik ud i køkkenet og fandt en færdigret i fryseren. '20 minutter i ovnen', stod der på pakken.	0
+åbning	N	23	29	41	47	De kom gennem en lille åbning i skoven, hvor de på den ene side havde et uigennemtrængeligt net af lianer og tynde grene.	Bomberne ville ikke kunne eksplodere ved åbning af brevene, siger politiet.	0
+løg	N	43	46	36	41	Bo nød sine stegte kartofler, hakkebøf med løg og dertil en cola.	Når tulipanen er afblomstret, deler løget sig i flere mindre løg.	0
+moment	N	14	20	23	29	Et væsentligt moment i den kollektive trafik er naturligvis banetrafikken.	Motoren har sit bedste moment mellem 4000 og 6000 o/m.	0
+ejendom	N	29	36	16	26	min opsparing er min private ejendom.	Min far byggede ejendommen Møllevej 4 i 1934.	0
+fordele	V	30	37	71	79	Kurset er på 12 timer, der er fordelt på 3 eller 4 dage.	Malerrullen føres med rolige bevægelser i begge retninger, så malingen fordeles jævnt.	0
+lejr	N	75	79	66	70	Det konservative Folkeparti vil følge udviklingen i den socialdemokratiske lejr med største opmærksomhed.	Hovedbygningen med park blev i 1934 købt af staten og anvendt som lejr for unge arbejdsløse.	0
+ligevægt	N	97	107	73	81	Midt i kredsen [: af høns] stod hanen, den bøjede hovedet og rystede vingerne og var ved at tabe ligevægten.	Israel vil i første omgang kræve de arabiske hære reduceret for at skabe ligevægt.	0
+startskud	N	28	37	49	61	dagen i dag har .. været et startskud til vores nye, sunde levevis med motion, grøntsager, fiberbrød o.s.v.	du var lidt med i opvarmningen og løb af sted da startskuddet lød.	0
+streng	N	22	29	113	120	DNA er opbygget af to strenge, der er spundet omkring hinanden, hvorved de danner den såkaldte dobbelt-spiral.	Skrækken for undergangen har mennesket altid haft ligesom fascinationen af myterne om den -- de rører nogle dybe strenge i os.	0
+snurre	V	17	24	43	50	Et sted, fjernt, snurrer en motor. Ellers er kun den milde regn.	I sætter jer i en kreds med hver sin gave, snurrer flasken rundt, og den som flasken peger på, skal aflevere sin gave.	0
+kurv	N	4	10	60	64	Når kurven efter bagningen er hård og tør, kan den lakeres. Bind en rød sløjfe om hanken.	Kranen havde ført arbejdsholdet op til vindmøllens top i en kurv.	0
+stok	N	24	31	96	100	han gik tungt og stødte stokken støjende i gulvet.	Hans evne til at skræve så vidt og hans vilje til at gøre det er det, der foruroliger den gamle stok af socialdemokrater.	0
+sats	N	29	35	95	99	Ved kørsel over 10.000 km er satsen 1/3 af det beregnede beløb, dog højest 1,50 kr. pr. km.	Hans lancering af Sauntehus-planen om de unges beskæftigelse for et par uger siden .. et klart sats, der lykkedes 100 procent.	0
+baggrund	N	77	85	32	42	Monory er en særsyn i fransk politik. Han er en selvlært mand uden akademisk baggrund med en fortid som garageejer.	Mesterlæren skal ikke trænges i baggrunden af EFG-uddannelsen -- de to uddannelser skal sidestilles.	0
+fare	N	53	57	72	77	Mange forældre ville ikke udsætte deres børn for den fare, det var at flygte over Øresund.	Han tænkte på de uhyggelige historier, Ane havde fortalt ham om alle de farer, som truede en gravid kvinde.	0
+stemning	N	71	81	34	42	Vi spillede 0-0, men det betragtede vi ærlig talt som en stor sejr, og stemningen i omklædningsrummet var fantastisk.	Stearinlys er med til at skabe en stemning, alting bliver ligesom smukkere og varmere i den levende flammes skær.	0
+tabe	V	29	34	32	37	da motoren nu var slået fra, tabte jollen hurtigt sin smule fart og drev ganske langsomt.	[Københavnerne] er opmærksomme. Taber man en pakke, kommer en halv snes hænder til hjælp.	0
+vals	N	56	60	47	51	Han lagde violinen under hagen og begyndte at spille en vals.	Efter middagen åbnede de dansen med en langsom vals.	0
+væbner	N	48	54	71	79	Auken .. gør sig bemærket ved at presse sin tro væbner Jacob Buksti ind som politisk ordfører.	Til sommer skal Durup FDF/FPF på forskellige sommerlejre og de ældste, væbnerne, skal på Landslejr ved Julsø.	0
+springe	V	26	32	9	15	mål blev der ikke. Bolden sprang ned på stregen og ud på banen igen.	Dollaren sprang i aftes op på 1,4515 D-mark, godt 5,64 kr.	0
+punkt	N	69	74	26	33	Hovedstaden Dakar blev anlagt af franskmændene på Afrikas vestligste punkt.	I matematisk forstand har punktet slet ingen udstrækning, men i mit sprog kan det have en størrelse fra et knappenålshoved til en ti-øre.	0
+hop	N	25	31	55	58	Snakken handler bl.a. om hoppet fra det trygge ungdomsliv bag skolens tæppe og ud i det barske voksenliv.	Pludselig gav den bordeaux-farvede motorcykel et lille hop.	0
+indmad	N	54	62	0	6	jeg skulle skjule drikkeriet for mine forældre og tog indmaden ud af en gammel radio, som jeg fyldte med øl.	Indmad er sund og kaloriefattig mad.	0
+artikel	N	43	51	64	71	Aarhuus Stiftstidende beskæftiger sig i to artikler med Niels Bohrs revolutionerende fysiske opdagelser.	Reglerne [om gensplejsning] findes i traktatens kapitel 2, især artikel 30.	0
+vække	V	54	60	4	11	kvinder skal føle gensidig tiltrækning, før sexlysten vækkes.	Jeg vækkede børnene og gik i gang med at lave morgenmad.	0
+bearbejde	V	47	57	36	46	Bogen er oprindeligt udgivet i Sverige, men er bearbejdet til det danske marked.	folket [er] bare en masse, der skal bearbejdes og overbevises om a-kraftens uskyldige velsignelse.	0
+skarn	N	87	92	37	42	næsehornet står overbegloet bag tremmer, fuld af ubrugte kræfter, mens det slipper sit skarn ud mod publikum.	Med et godt helbred skal man være et skarn for ikke at være glad og tilfreds.	0
+lette	V	55	60	20	25	[Hun] vidste ikke, hvor hun skulle henvende sig for at lette sin syge datters tilværelse.	En særlig åbner kan lette låget på et stramt bæger.	0
+stik	N	71	75	64	68	Kravene .. er et undervisningslokale med en direkte telefonlinje og et stik til telefax.	Drejer det sig om en lille blodprop, kan du mærke et pludseligt stik i brystet.	0
+net	N	18	21	57	63	På skolens lokale net kan eleverne for eksempel få at vide, om de skal have vikar eller slå op i klassens lektiebog.	da Per Okkerstrøm på et lynhurtigt opløb sendte bolden i nettet til 20-12 var slaget i realiteten afgjort.	0
+marked	N	102	108	99	107	Han valgte ikke at blive konfirmeret, fordi han syntes, og stadig synes, at udbuddet på det religiøse marked er for stort.	MD Foods er den største eksportør af dansk feta-ost til Iran. Virksomheden sidder på 70 procent af markedet.	0
+kapsel	N	34	40	12	19	[En ondartet svulst] har sjældent kapsel. Den vokser ind i det omgivende væv.	hun vippede kapslen af endnu en guldøl samt en Jolly Cola.	0
+overskud	N	45	53	60	68	Danmark har udsigt til endnu et år med stort overskud på betalingsbalancen.	'Han var så glad,' sagde tante Hermine .. 'Fuld af kraft og overskud. Det var nok også derfor, pigerne ikke kunne holde sig fra ham.'.	0
+rejse	V	35	40	8	13	Thomas lavede en masse larm med at rejse stolen og sætte sig.	Jeg har rejst den hele verden rundt på tommeltot.	0
+forgylde	V	37	45	29	37	Man skal .. bruge strøm for at kunne forgylde ting, så de får et tyndt overtræk af guld.	TV-journalisten .. er blevet forgyldt med en sølvmedalje ved TV-festivalen i Cannes.	0
+brik	N	103	107	150	157	De lækreste, franske grøntsager fås nu i Danmark, takket være en nyudviklet og specielt foret ½-liters brik.	Tom får foresagt en række tal, bogstaver eller navneord som Tom skal udpege i samme rækkefølge på talkort, bogstavkort og billeder af navneord på små brikker.	0
+orden	N	66	71	77	82	Eventyr, siger Tolkien, er jo ikke af en lavere, men af en højere orden end virkeligheden.	[det lykkes] for de få, at bilde de mange ind, at sådan er nu engang verdens orden: de få må eje og styre, lede og fordele, de mange har ikke forstand til det.	0
+stamme	N	27	36	27	33	Han støttede sig mod en af stammerne, der holdt sengens himmel på plads.	Ved hjælp af udsagnsordets stamme og forskellige endelser, kan man danne forskellige former og udtrykke en bestemt tid.	0

@@ -1,0 +1,408 @@
+poluvodič	N	28	40	35	45	Danas smo na fizici učili o poluvodičima.	Silicij i germanij najpoznatiji su poluvodiči.
+sadržaj	N	0	7	53	61	Sadržaj njegova izlaganja bio je potpuno nezanimljiv.	Razni fotografi su na natjecanje poslali slike istog sadržaja.
+stvar	N	43	48	14	20	Oblačenje prvo lijeve, a onda desne čarape stvar je navike.	Zbog svih tih stvari dobio je otkaz.
+luk	N	0	3	0	3	Luk se često koristi pri gradnji sportskih dvorana.	Luk je mogao pojesti samo uz ćevape.
+pruga	N	14	19	19	26	Zbog oštećeni pruge vlakovi su morali voziti jako sporo.	Isplela je vestu s prugama raznih boja.
+vodič	N	12	18	18	24	Najčešći su vodiči metali.	Ako ga zagrijemo, vodiču se smanjuje vodljivost.
+osjećaj	N	16	23	20	27	Imao je strašan osjećaj krivnje.	Nije mi se sviđao i osjećaj je bio obostran.
+veza	N	42	48	50	54	Nije nikome govorio o svojim izvanbračnim vezama.	Odbacila je optužbe da je na fakultet upala preko veze.
+dizalica	N	0	8	10	18	Dizalice moraju biti dobro učvršćene da ne dođe do nezgode.	Nije imao dizalicu za auto pa nije mogao promijeniti gumu.
+neuspjeh	N	27	35	7	15	Ova zabava je bila potpuni neuspjeh.	Njegov neuspjeh na studiju bio je velik.
+izbor	N	33	38	14	19	U našim trgovinama nudimo veliki izbor sagova po niskim cijenama.	On je bio moj izbor za predsjednika.
+točka	N	4	9	6	11	Ovu točku možemo preskočiti jer za raspravu nije relevantna.	Spoji točke ravnom crtom!
+lik	N	32	38	47	53	Ona čak ne zna ni nabrojiti sve likove.	Nikada nije svladala ni elementarnu geometriju likova u ravnini.
+prilaz	N	19	26	33	39	Parkirali su se na prilazu.	Tek su nedavno asfaltirali kolni prilaz ispred kuće.
+prigušivač	N	30	42	0	11	Ubojica je koristio pištolj s prigušivačem, zato nitko nije čuo pucanj.	Prigušivači zvuka stavljaju se u klimatizirane i ventilirane prostorije za smanjenje buke.
+biti	V	6	8	4	6	Marko je bogat.	Ovo je točan odgovor.
+zakon	N	26	32	48	54	Za ispit je morao naučiti zakone termodinamike.	Po univerzalnom principu kauzaliteta, prirodnom zakonu uzroka i posljedica, dobivamo ono što dajemo, i svaka akcija izaziva reakciju.
+greška	N	17	23	26	32	Počinio je tešku grešku.	Nikako nije mogao pronaći grešku u algoritmu zbog koje sustav nije radio.
+vrijednost	N	43	53	35	46	Toplomjer je pokazivao nevjerojatno visoku vrijednost temperature.	Uvijek kupujem bonove za mobitel u vrijednosti od 100 kuna.
+prostor	N	20	28	19	27	Arhitekt je ostavio prostora za novi regal.	Bojala se otvorena prostora.
+tražiti	V	7	12	16	22	Uvijek traži nove prijatelje i pustolovine.	Od svoje sestre tražim da mi dadne trenutak mira u kući.
+izvršiti	V	10	16	0	8	Molim te, izvrši svoje obveze.	Izvršila sam sve svoje zadatke za danas.
+podatak	N	3	11	12	19	Do podataka o broju stanovnika došli smo velikim istraživanjem.	Statistički podatci rijetko prikazuju cjelokupnu sliku.
+značajka	N	17	25	20	28	Jedna od glavnih značajki baroka zasigurno jest kićenost.	Uzeo je u obzir sve značajke problema i pronašao je rješenje.
+činjenica	N	37	48	13	22	Svoj je argument potkrijepio brojnim činjenicama.	Ovi sinonimi činjenica su hrvatskoga jezika.
+započinjati	V	16	27	15	24	Prvi su turisti započinjali dolaziti.	Moje se imanje započinje kod onih dvaju čempresa.
+ploča	N	21	26	65	70	Izvadio je iz kutije ploču i figurice i posložio ih za početak igre.	Toliko se naljutio kad je izgubio da je razbacao sve figurice po ploči.
+misliti	V	11	16	14	19	Mirko rado misli o slavnim Slavkovim podvizima.	Slavko uvijek misli na Mirka.
+ušica	N	17	22	37	42	Provukao se kroz ušicu igle.	Nije nikako mogla provući konac kroz ušicu.
+položaj	N	10	17	32	40	Društveni položaj radničke klase uvijek je bio lošiji položaja industrijalaca.	Svi su dočekali vođu u stajaćem položaju.
+pogibelj	N	0	8	37	45	Pogibelj prijeti stanovnicima Primorja zbog velikih kamenih odrona.	Putaovanje u Amazonu može biti prava pogibelj.
+prepustiti	V	14	24	0	9	Uvijekt treba prepustiti bolje mjesto lijepoj dami.	Prepustio je brigu o odlučivanju svojim nadređenima.
+baterija	N	26	34	20	28	Za Božić je dobio auto na baterije.	Klasična električna baterija izvor je vrlo male količine energije.
+ići	V	0	4	10	14	Idem na tečaj ruskoga jezika.	Pačići su išli za majkom po šumarku.
+nositi	V	13	17	28	32	Sveti Nikola nosi darove dobrouj djeci.	Liječnik joj je potvrdio da nosi blizance.
+mlin	N	26	30	0	4	Pšenicu bi zatim nosili u mlin da dobiju brašno.	Mlin je jedan od najstarijih ljudskih tehničkih izuma.
+telefon	N	22	31	5	13	Razgovarao sam s njim telefonom.	Izum telefona omogućio je puno bržu komunikaciju na daljinu.
+barometar	N	0	9	5	14	Barometar je neizostavan mjerni instrument u meteorologiji.	Prvi barometar bio je vodeni barometar.
+put	N	19	22	0	3	Nije mogao pronaći put kući.	Put je danas bio neuobičajeno prometan.
+zadržati	V	12	20	17	25	Nakon udaje zadržala je djevojačko prezime.	Gradonačelnik će zadržati svoj ugled što god da napravi.
+ples	N	0	6	21	27	Plesom je izbacivala svu negativnu energiju i dovodila u sklad svoj um i tijelo.	Bavila se egzotičnim plesom.
+sustav	N	32	38	41	48	Nikako nije mogao razumjeti taj sustav klasifikacije.	Došlo je do nenadanog kvara u računalnom sustavu fakulteta.
+status	N	11	17	23	29	he had the status of a minor.	the novel attained the status of a classic.
+kod	N	39	45	16	20	Bio je vrlo vješt u pisanju računalnih kodova.	U kompjutorskom kodu dozvoljena je upotreba i eksplicitne sheme.
+steći	V	15	21	32	38	Napornim radom stekao je pravo bogatstvo.	Za vrijeme boravka u inozemstvu stekao je mnoge prijatelje.
+izložiti	V	9	16	0	8	Jasno je izložio sve dobre i loše strane tog plana.	Izložila je svoje ideje na sastanku uporavnog odbora.
+lik	N	50	56	47	53	Izračunavali su površine različitih geometrijskih likova.	Nikada nije svladala ni elementarnu geometriju likova u ravnini.
+zastupati	V	0	8	3	11	Zastupao je prava radnika.	Ja zastupam tihu većinu.
+program	N	16	23	21	28	Novogodišnji me program ove godine oduševio.	U Sydneyu se emitira program na hrvatskom jeziku na tri radijske i jednoj televizijskoj postaji.
+vaza	N	2	6	12	16	U vazu je stavila pregršt poljskoga cvijeća.	U staklenoj vazi stajala je prekrasna crvena ruža.
+područje	N	11	21	25	33	U tropskim područjima obitavaju mnoge endemične vrste.	Ana se požalila na bol u području trbuha.
+šok	N	45	49	70	74	Nakon automobilske nesreće putnici su bili u šoku.	Kada su je nazvali i rekli da je osvojila glavnu nagradu, ostala je u šoku.
+kritika	N	38	45	10	17	Gradonačelnik je stoički podnio oštre kritike svojih protivnika.	Negativne kritike stizale su sa svih strana.
+stol	N	16	20	11	15	Rezervirali smo stol u restoranu.	Za okrugli stol stane više ljudi nego za četvrtasti.
+mreža	N	26	31	17	22	Kapljice rose na paukovoj mreži blistale su obasjane jutarnjim suncem.	Ribari su bacili mreže i čekali ulov.
+uzgajati	V	30	36	11	17	Pelješačko vinogorje oduvijek uzgaja vrhunska vina.	Na balkonu uzgaja rajčice.
+stvar	N	17	22	34	39	Kako je krenulo, stvar se ipak dobro razvija.	Kako si, zaboga, mogao reći takvu stvar?
+pušiti	V	31	35	9	13	Liječnici preporučaju da se ne puši.	Snježana puši dvadeset cigareta dnevno.
+ljestvica	N	34	43	31	40	Danas se koristi nekoliko mjernih ljestvica za određivanje temperature.	Vrijednosti zagađenja zraka na ljestvici su se popele visoko.
+element	N	17	25	37	46	Zapažao je i one elemente koje ne bi primijetio svatko.	Istraživanje se sastojalo od brojnih elemenata.
+dokument	N	24	35	14	23	Bila je zatrpana raznim dokumentima i nije znala otkud početi s poslom.	Svi su pisani dokumenti spremljeni u arhiv.
+započeti	V	12	20	10	18	Djevojka je započela s pletenjem goblena prije godinu dana.	Naša veza započela je istoga trenutka kad smo se upoznali.
+objesiti	V	9	16	0	8	Mirko je objesio Slavkovu sliku na zid.	Objesili su ga kao izdajicu domovine.
+telefon	N	37	46	5	13	Nisam mogao dobiti starog prijatelja telefonom pa sam mu posalo pismo.	Izum telefona omogućio je puno bržu komunikaciju na daljinu.
+predstavljati	V	6	17	10	21	Marta predstavlja svoju školu na državnom natjecanju.	Ova mjera predstavlja napad na našu slobodu.
+stisak	N	11	17	21	28	Ima snažan stisak za tako staroga čovjeka.	Potvrdili su dogovor stiskom ruke.
+traka	N	0	6	12	18	Trakom od 2 metra svezala je napadača.	Ukrasnom je trakom omotala poklon.
+tražiti	V	12	17	7	12	Zaposlenici traže smjenu šefa.	Uvijek traži nove prijatelje i pustolovine.
+dobiti	V	20	25	0	6	Izgubio je gem, ali dobio je meč.	Dobila je brojne umjetnine od svojega ujaka.
+boja	N	43	48	36	40	Najprije je premazao drveni stol temeljnom bojom, a zatim je stavio dva premaza tamnosmeđe boje.	Prebojala je sav namještaj u bijelu boju.
+otvor	N	23	29	0	5	Krvarenje iz tjelesnih otvora simptom je teške bolesti.	Otvor je bio preuzak za njegovo široko stopalo.
+površina	N	10	18	0	8	Gornja je površina jezika hrapava.	Površina kopnene Hrvatske iznosi oko 56500 kvadratnih kilometara.
+upravljati	V	3	12	9	20	Ne upravljaj strojevima nakom konzumiranja alkohola!	Generali upravljalju vojskom.
+okončati	V	19	26	9	17	Napad na ranjenike okončao je sve iluzije o viteškom ratovanju.	Dunja je okončala vezu s Goranom nakon tri godine.
+zadržati	V	17	25	0	8	Gradonačelnik će zadržati svoj ugled što god da napravi.	Zadržala sam posao čak i u ovoj krizi.
+volan	N	0	5	42	48	Volan je zablokirao i zabili su se u stup.	Kada je vozio, imao je samo jednu ruku na volanu.
+trag	N	32	36	18	25	Policija je pratila obećavajući trag.	Lovci su ugledali tragove u snijegu koji su ukazivali na to da su tim putem nedugo prije njih prošle divlje svinje.
+prostor	N	48	56	19	27	Ispitivali su njegovu sposobnost orijentacije u prostoru.	Bojala se otvorena prostora.
+oklop	N	34	40	10	16	U muzeju su bili izloženi viteški oklopi.	Kvaliteta oklopa ovisi o vrsti materijala od kojeg je napravljen.
+služiti	V	13	19	21	28	Tko je danas služio misu?	Ženski su ispitanici služili kao kontrolna skupina.
+sredina	N	3	10	28	35	Na sredini livade smjestila se mala kućica.	Veliki je krijes sagrađen u sredini sela.
+površina	N	0	8	3	11	Površina palice bila je glatka i zaobljena.	Na površini alata bile su vidljive ogrebotine od česte uporabe.
+primiti	V	16	23	14	23	Dvorana ne može primiti više od 500 posjetitelja pa vas molimo da na vrijeme osigurate svoje ulaznice.	Ta je teorija primljena s velikom sumnjom.
+priredba	N	33	41	0	8	U nedjelju održat će se prigodna priredba u prostorijama škole.	Priredba u domu umirovljenika većini se nije svidjela.
+odijelo	N	29	36	0	7	Mladoženja je imao prekrasno odijelo boje šampanjca.	Odijelo je nosio samo u posebno svečanim prilikama.
+napustiti	V	18	27	0	9	Uvijek je pametno napustiti brod koji tone.	Napustila ju je dobra sreća.
+muka	N	0	4	33	37	Muke koje zadaju komarci u močvarama mogu biti nesnosne.	Put do vrha planine bio je prava muka za mališane.
+kišobran	N	35	44	5	13	Spustila se kiša, a ona nije imala kišobrana pa je potpuno pokisla.	Žuti kišobran unosi malo veselja u kišan dan.
+pismo	N	24	29	7	12	Osmislio je novi sustav pisma kako bi zaštitio svoje tekstove od čitanja.	Sistem pisma Egipćana nije lako naučiti.
+svjedočiti	V	21	29	0	9	O grandioznosti Rima svjedoče mnoge ruševine.	Svjedočio je najvećem sportskom spektaklu godine.
+površina	N	23	31	10	18	Tijelo je isplivalo na površinu vode.	Gornja je površina jezika hrapava.
+dopustiti	V	19	28	5	14	Neprimjerene mjere dopustile su nabujaloj rijeci proboj brane.	Neću dopustiti da me maltretiraju.
+broj	N	10	14	45	49	Njezin se broj ne nalazi u telefonskom imeniku.	Oni su preselili i promijenili su telefonski broj.
+opskrbiti	V	9	17	26	35	Petar je opskrbio Marka najnovijim lingvističkim knjigama.	Prije penjanja na planinu opskrbili smo se pitkom vodom, hranom i dobrom voljom.
+tražiti	V	28	33	12	17	Cijelu noć hoda po krčama i traži nevolje.	Zaposlenici traže smjenu šefa.
+zadovoljstvo	N	19	31	42	54	Izrazio je iskreno zadovoljstvo zbog promaknuća.	Izležavanje na plaži činilo joj je veliko zadovoljstvo.
+regulator	N	0	9	0	10	Regulator temperature i vlage postavili su u dnevni boravak.	Regulatori tlaka za vodu neophodni su u vodovodnim sistemima.
+moral	N	9	14	20	26	Pravda i moral njemu su uvijek bili najvažniji.	Bio je osoba lošega morala.
+reflektor	N	21	31	13	22	Igralište nije imalo reflektore pa se moglo igrati samo po danu.	Smetao mi je reflektor koji mi je bio uperen ravno u oči.
+gramofon	N	24	32	0	8	Stavio je novu ploču na gramofon i uživao u glazbi.	Gramofon sve više i više postaje rijetka pojava.
+mehanizam	N	33	42	39	48	Ljudsko je tijelo uistinu složen mehanizam.	Penkala je kao dječak rastavljao satne mehanizme jer ga je zanimalo kako rade.
+flauta	N	5	11	24	30	Zvuk flaute odlično se uklopio u skladbu.	Ana je odmalena svirala flautu.
+predočiti	V	14	23	23	32	Ne mogu si ga predočiti na konju!	Za svaku tvrdnju treba predočiti dokaze.
+djelovati	V	12	21	24	31	Moramo brzo djelovati.	Promjene vremena snažno djeluju na moje raspoloženje.
+fond	N	8	12	19	23	Novčani fond za razvoj kulture ove je godine manji nego ikad.	Europski monetarni fond sve je nestabilniji.
+uniforma	N	46	54	13	21	Djecu se odmalena uči prepoznavati policijsku uniformu.	Vojnici nose uniforme posebnih boja radi mimikrije.
+kolo	N	21	25	47	51	Konji su jedva vukli kola prepuna kukuruza.	Nakon što je prodao konje, prodao je i teretna kola.
+točka	N	6	11	19	24	Spoji točke ravnom crtom!	Dosegao je najvišu točku na toj planini.
+visiti	V	13	19	31	36	Stalno je mi visila za vratom.	Oblak sumnje joj je neprestano visio nad glavom.
+ljestvo	N	12	19	12	19	Naslonio je ljestve na zid kuće i popeo se na krov.	Popeo se na ljestve da pobere najsočnije plodove s vrha stabla.
+ići	V	0	4	29	32	Išli smo od vrata do vrata i dijelili pisanice.	Njegovo znanje o botanici ne ide baš daleko.
+stvar	N	17	23	24	30	Idem kupiti neke stvari u dućan.	Preselila sam sve svoje stvari u drugu sobu.
+ići	V	0	4	22	25	Idem na tečaj ruskoga jezika.	Moj kamion još uvijek ide dobro.
+vid	N	50	54	28	31	Svi hrvatski glagoli imaju kategoriju glagolskoga vida.	Učenici su trebali odrediti vid glagola.
+usisavač	N	16	25	35	45	Više je voljela usisavače na vodu nego one s vrećicom.	Više nije čudno vidjeti muškarca s usisavačem u ruci.
+broj	N	15	19	8	12	Imao je veliki broj bezvrijednih dionica.	Matični broj građana ima 13 znamenaka.
+kotač	N	53	61	51	57	Uvijek se bojao da će mu nestašan mačak završiti pod kotačima auta.	Do nesreće je došlo zbog eksplozije automobilskoga kotača.
+briga	N	8	13	39	44	Njezinu brigu za siromašne ništa nije moglo zaustaviti.	Sigurnost putnika mora biti najvažnija briga prijevoznika.
+završetak	N	0	9	13	22	Završetak riječi ne mora nužno biti jednak sufiksu.	Najavljen je završetak pregovora.
+točka	N	3	8	43	48	32 točke izlazaka/zalazaka zvijezda na sideralnom su kompasu raspoređene u pravilnim razmacima od 11.25 stupnjeva.	Kada se ucrtaju u krug te trideset i dvije točke kompasa, savršeno odgovaraju tradicionalnoj ruži od trideset i dvije latice.
+pad	N	8	11	17	20	Osjetan pad cijena kućanskih potrepština razveselio je građane.	Dogodio se nagli pad prodaje automobila.
+temelj	N	31	40	16	22	Zgrada je sagrađena na čvrstim temeljima.	Eksperimenti su temelj na kojem je izgradio svoju tezu.
+umjetnost	N	0	9	26	36	Umjetnost nam uljepšava svakodnevicu.	Bila je ljubitelj filmske umjetnosti.
+ogrtač	N	35	41	17	23	Izašao je iz bazena i zamotao se u ogrtač.	Stavila je kućni ogrtač i otišla vidjeti tko zvoni tako kasno.
+slaganje	N	0	8	6	14	Slaganje imenice s pridjevom u rodu, broju i padežu obavezno je.	Njeno slaganje sa svakom njegovom izjavom istinski ga je živciralo.
+skup	N	53	57	0	4	Prosvjednici su od policije zatražili pravo na javni skup.	Skup vjerovanja, ideja i normi neke zajednice uvelike čini njezinu kulturu.
+podloga	N	21	28	22	29	Boja se na slikarsku podlogu može nanositi na više načina.	Prošli zadatak bit će podloga za kompleksnije zadatke.
+cijev	N	21	27	23	28	Zbog puknuća plinske cijevi raskopali su nam cijelu ulicu.	Pukla nam je vodovodna cijev i voda je poplavila cijelu kupaonicu.
+tijek	N	37	42	0	5	Piščeva raspoloženja često utječu na tijek pisanja.	Tijek povijesti je nepredvidljiv.
+jedinica	N	89	97	29	37	Za uspješno funkcioniranje države potrebno je smanjiti broj nepotrebnih administrativnih jedinica.	Važno je krenuti od osnovnih jedinica na temelju kojih je ono kompleksnije građeno.
+veza	N	29	33	23	27	Još uvijek su skrivali svoju vezu pred roditeljima.	Bili su u svakodnevnoj vezi preko telefona.
+lice	N	41	45	66	70	Na zabavi nisam vidio niti jedno poznato lice.	Kada mu je rekla da je potrošila 300 eura, potpuno je pocrvenio u licu.
+disk	N	8	13	8	12	Bacanje diska nije među najpopularnijim atletskim disciplinama.	Optički disk tanka je okrugla ploča koja nosi optički zapis.
+pothodnik	N	44	54	10	20	Opasno je noću prolaziti kroz neosvjetljene pothodnike.	Većina je pothodnika oslikana grafitima.
+tanjur	N	0	6	23	29	Tanjur mu je pao iz ruku i razbio se.	Postavio je satelitski tanjur na balkon.
+sredina	N	28	35	32	39	Veliki je krijes sagrađen u sredini sela.	Cjelina je ono što ima početak, sredinu i kraj. (Aristotel).
+put	N	13	17	0	3	Skrenuo je s puta i ubrzo shvatio da se izgubio.	Put kroz šumu koji su odabrali nije ih doveo do kolibe.
+raditi	V	16	22	45	51	Njegova je žena radila kao njegova osobna tajnica.	Nakon što je dobila na lotu više nikada nije radila.
+svetac	N	16	21	22	28	Smatra se da su sveci zaštitnici u nevolji.	Sv. Nikola omiljen je svetac među djecom.
+kompozicija	N	0	11	37	48	Kompozicija se sastoji od tri stavka.	Na sinoćnjem koncertu sve su muzičke kompozicije bile kvalitetne.
+palica	N	0	6	71	77	Palica za kriket radi se od materijala koji ne oštećuju lopticu.	Željela sam se okušati u igranju kriketa pa mi je susjed posudio svoju palicu.
+služiti	V	0	7	13	18	Služila je u zračnoj floti.	U kantini se služi unaprijed pripremljna hrana.
+kompozicija	N	0	11	20	31	Kompozicija se sastoji od tri stavka.	Jako mu se svidjela kompozicija romana koji je upravo pročitao.
+udarac	N	40	46	6	12	Vratar je uspio obraniti gotovo nemoguć udarac.	Dobar udarac zahtijeva dobru ravnotežu i tempiranje.
+inačica	N	25	32	22	29	Dječak je bio prava mala inačica svoga oca.	Napravila je nekoliko inačica haljine u različitim bojama.
+raditi	V	12	18	0	4	Naporno sam radila da bih diplomirala na vrijeme.	Radi li još uvijek taj stari radio?
+ormar	N	33	39	10	15	Robu je držao uredno poslaganu u ormaru.	Starinski ormar mirisao je na lavandu.
+zemlja	N	0	6	6	12	Zemlja je u učenjima miletske škole bila sekundarna u usporedbi sa zrakom ili vodom.	Dobra zemlja daje dobar urod.
+tlakomjer	N	19	28	35	45	Sestra je ponijela tlakomjer na teren kako bi pacijentu mogla odmah izmjeriti tlak.	Stariji liječnici više vole živine tlakomjere nego digitalne.
+obrazloženje	N	38	50	10	22	Svi su s nestrpljenjem čekali njezino obrazloženje za nedolično ponašanje.	Molim vas obrazloženje za ovakvo bodovanje.
+povjerenje	N	36	46	49	59	Tijekom života je malo-pomalo gubio povjerenje u ljude.	Odnos između pacijenta i liječnika temelji se na povjerenju.
+red	N	13	16	23	26	Franjevci su red posvećen skromnosti i pomaganju.	Na livadi se nalazio i red stabala.
+antibiotik	N	19	30	42	55	Kada su otkriveni, antibiotici su se nazivali čudotvornim lijekom.	Bakterije mogu razviti rezistenciju prema antibioticima.
+otići	V	18	24	18	24	S ovom si izjavom otišla predaleko.	Mirko je zauvijek otišao iz Zagreba.
+ogrtač	N	16	22	10	18	Kupila je mekan ogrtač za svoje dijete.	Ogrnuo se ogrtačem i nestao u noći.
+ampula	N	17	23	11	17	Dali su mu dvije ampule adrenalina, no ni to nije pomoglo.	Primala je ampule B-vitamina da malo ojača.
+držati	V	0	5	13	18	Držao je da njegove sulude teze ne trebaju daljnju potvrdu.	Novce uvijek držim na istom mjestu - u svojoj čarapi.
+sat	N	42	46	15	18	Mijenjanje brave potrajalo je više od dva sata.	Pogledao je na sat da vidi koliko još ima vremena.
+predstaviti	V	14	24	0	11	Dopusti da ti predstavim svoga sina.	Predstavila je naše nove suradnike.
+prostor	N	25	33	0	7	Na političkoj sceni nema prostora za mlakonje.	Prostor u kojemu se održavao prijem bio je jako lijepo uređen.
+obrazovanje	N	29	40	11	22	Bio je čovjek bez formalnoga obrazovanja.	Ulaganje u obrazovanje uvijek se isplati.
+prostor	N	29	36	20	28	Arhitekti su ostavili prazan prostor ispred zgrade.	Arhitekt je ostavio prostora za novi regal.
+očekivati	V	9	16	0	7	Profesor očekuje od studenata da budu redoviti na nastavi.	Očekuju bebu na proljeće.
+terminal	N	10	18	0	8	Računalni terminal omogućava svim zaposlenicima tvrtke pristup bazi podataka.	Terminal je povezan s glavnim računalom.
+bambus	N	46	53	47	54	Ona je u svako jelo morala staviti barem malo bambusa.	Moja majka svako jutro pojede salatu s klicama bambusa.
+pantomi	N	29	38	11	20	Cijeli je drugi čin bio samo pantomima.	Njegova je pantomima uveseljavala brojne prolaznike.
+dokument	N	25	33	25	34	Nije imao nikakav pravni dokument kojim bi dokazao da je on nasljednik.	U vlaku je zaboravio sve dokumente.
+prekinuti	V	0	9	0	9	Prekinuli su program zbog važnih vijesti.	Prekinula je svirku kako bi otpila gutljaj pive.
+element	N	37	46	32	40	Istraživanje se sastojalo od brojnih elemenata.	Njegov tekst ne zadovoljava sve elemente znanstvenog članka.
+proces	N	24	30	2	9	Kreativnost je mentalni proces koji uključuje stvaranje novih ideja, pojmova, rješenja problema ili novih poveznica između postojećih ideja i pojmova.	U procesu učenja rabe se različite strategije.
+sudar	N	27	32	2	8	Nije gledao kuda ide pa je sudar sa staklenim vratima bio neizbježan.	U sudaru s protivnikovim tijelom ozlijedio je ruku.
+dobiti	V	20	25	13	19	Izgubio je gem, ali dobio je meč.	Za Uskrs sam dobila novi baloner.
+raditi	V	29	34	29	35	Ne, moj suprug nikakada nije radio.	Znanstvenici moraju marljivo raditi.
+neodobravanje	N	29	43	23	36	Hrabro se suočila s njegovim neodobravanjem i argumentirano dokazala da su njezini postupci ispravni.	Prijedlog je naišao na neodobravanje u Saboru.
+neslaganje	N	0	10	9	19	Neslaganje u mišljenjima o vrlo važnim aspektima zajedničkoga života dovelo je do prekida njihove veze.	Svoje je neslaganje s takvom politikom otvoreno pokazivala.
+funkcionirati	V	22	33	36	49	Perilica za rublje ne funkcionira kako bi trebala.	Svemirski je teleskop jučer prestao funkcionirati.
+stvar	N	41	47	43	48	Riječ je o vrlo osjetljivoj i škakljivoj stvari.	Oblačenje prvo lijeve, a onda desne čarape stvar je navike.
+zadržati	V	0	8	12	20	Zadržala sam posao čak i u ovoj krizi.	Policija je zadržala ilegalne imigrante na granici.
+dio	N	11	14	19	22	Kvadrat je dio kocke.	I ja imam pravo na dio roditeljske ljubavi.
+baterija	N	21	29	12	20	Morao je promijeniti baterije u satu.	Primarne se baterije nakon trošenja više ne mogu koristiti.
+aktivnost	N	10	19	45	54	Vulkanska aktivnost se može predvidjeti posebnom opremom.	Za zdravlje je potrebna svakodnevna tjelesna aktivnost.
+sredina	N	9	16	3	10	Snijeg u sredini travnja vrlo je neuobičajena pojava.	Na sredini livade smjestila se mala kućica.
+nogavica	N	49	57	28	36	Hlače su joj bile malo predugačke pa je zavrnula nogavice.	Toliko je smršavio da su mu nogavice plesale oko nogu.
+ventilator	N	36	46	24	36	Bilo je toliko vruće da je uključio ventilator.	Zagorjelo je meso pa je ventilatorom pokušala izbaciti neugodan miris iz kuhinje.
+smjer	N	44	50	39	44	Reforme bi se trebale primijeniti u drugome smjeru.	Prije polaska na jedrenje provjerio je smjer i brzinu vjetra.
+raspored	N	25	33	27	37	Sama je morala napraviti raspored sjedenja za tisuću uzvanika.	Konačno su bili zadovoljni rasporedom sjedenja gostiju.
+plaća	N	11	16	11	16	Maja svoju plaću dobiva krajem mjeseca.	čitavu sam plaću spiskao na jelo i piće.
+područje	N	47	55	37	45	Humanističke znanosti tvore zasebno znanstveno područje.	Slavonija je uglavnom poljoprivredno područje.
+lamina	N	8	14	13	19	Bazalna lamina sloj je izvanstanične tvari na bazalnoj strani epitelnih stanica.	Razdvajanjem lamina nastaje pukotina u kosti.
+smrtnost	N	0	8	6	15	Smrtnost se na našem području iz godine u godinu smanjuje.	Stopa smrtnosti novorođenčadi jedan je od glavnih pokazatelja razvijenosti države.
+grb	N	12	15	48	51	Hrvatski je grb prepoznatljiv po svojoj crveno-bijeloj šahovnici.	Svaka je plemićka obitelj imala svoj obiteljski grb.
+suosjećanje	N	4	15	19	30	Bez suosjećanja nema ni tolerancije.	Konzumerizam ubija suosjećanje među ljudima.
+dizajn	N	40	46	0	6	Nikako se nije mogla naviknuti na čudan dizajn nove tipkovnice.	Dizajn kuće bio je moderan, ali i ugodan oku.
+voziti	V	0	4	10	16	Vozi taksi u Zagrebu.	Nije lako voziti kamion da bi se zaradilo za život.
+agencija	N	9	17	29	37	Državana agencija za privatizaciju odigrala je ključnu ulogu u preustroju vlasništva i društvenih slojeva.	Nitko ne uzna što točno radi Agencija za zračni promet.
+odigrati	V	25	33	27	34	U preferansu treba znati odigrati sve licitirane igre.	Premijer je ovo maestralno odigrao!
+isključiti	V	10	18	0	8	Molim te, isključi radio.	Isključi ovu aplikaciju na računalu, molim te.
+život	N	37	43	15	21	Više se nije mogao nositi s nedaćama života starog neženje.	Nadao se novom životu u Kanadi.
+bubanj	N	20	28	12	20	Od malena je svirao bubnjeve.	Udarao je u bubnjeve kao lud.
+profesor	N	12	21	0	8	Sveučilišni profesori obraćaju se brucošima na početku akademske godine.	Profesor im nije dao domaću zadaću za ovaj tjedan.
+put	N	40	43	3	6	Ivica i Marica posuli su mrvicama kruha put kojim su se kretali.	Uz put je raslo mirisno cvijeće svih boja.
+satelit	N	26	34	42	50	Zemlja ima brojne umjetne satelite.	Stanovnici su upozoreni na mogućnost pada satelita na naše područje.
+rukavica	N	38	46	49	57	Zubar prije pregleda obavezno navlači rukavice od lateksa.	Imala je usku crnu haljinu bez rukava i čipkaste rukavice do iznad lakta.
+slijediti	V	16	24	15	24	Bespogovorno je slijedio Ivanove upute.	Policija ga je slijedila tjednima, ali nije uspjela dokazati njegovu povezanost s bombaškim napadom.
+posao	N	9	14	38	43	Dobio je posao preko veze u očevoj tvrtki.	Odbacim te do škole, pa onda jurim na posao.
+tok	N	26	29	61	64	Drvo je plutalo slijedeći tok rijeke.	Sjela je ispred svoje pisaće mašine i počela zapisivati svoj tok misli.
+mreža	N	43	48	24	29	Svaki dan je išao na more i bacao ribarske mreže.	Svi u selu nosili su mu mreže na krpanje.
+raditi	V	0	4	29	35	Radi li tvoj suprug opet?	Znanstvenici moraju marljivo raditi.
+obrađivati	V	3	11	13	21	On obrađuje ogromne poljoprivredne površine.	Na tečaju se obrađuju sve tehnike samoobrane.
+rublje	N	52	58	47	53	Bilo joj je neugodno da je stranac vidi u intimnome rublju.	Na put je ponijela samo nekoliko komada donjeg rublja i rezervnih majica.
+probati	V	0	6	8	15	Probaj ove nove grickalice.	Jesi li probala novi recept za tortu od jagoda?
+traka	N	20	25	37	42	Na toj su pokretnoj traci radila tri radnika.	Isječeno meso bacao je na prijenosnu traku.
+niz	N	34	37	19	22	U lijevom krilu zgrade nalazio se niz predavaonica.	S obale je gledala niz otoka.
+vješalica	N	28	37	0	9	Odložila je kućni ogrtač na vješalicu i ušla u kadu.	Vješalica u predsoblju bila je pretrpana kaputima.
+broj	N	45	49	22	26	Oni su preselili i promijenili su telefonski broj.	Hoćeš li mi dati svoj broj telefona?
+razderotina	N	0	11	33	44	Razderotina na čarapi je postajala sve veća.	Kiša je cijelu noć lijevala kroz razderotinu na šatoru.
+sudar	N	27	32	0	6	Nije gledao kuda ide pa je sudar sa staklenim vratima bio neizbježan.	Sudari čestica u LHC-u trebali bi upotpuniti ili dovesti u pitanje standardni model fizike čestica.
+izraslina	N	37	46	30	39	Na vratu je napipala prilično veliku izraslinu.	Ujutro je primijetila nekakvu izraslinu na listu ljubičice.
+starost	N	11	18	44	51	Njegova ga starost nije nimalo sputavala, i dalje je aktivno planinario kao i prije dvadeset godina.	Danas se ultrazvukom može precizno odrediti starost, odnosno dob fetusa.
+obuća	N	29	34	42	47	Nikad se ne treba štediti na obući.	Djeci je preporučljivo kupovati anatomsku obuću.
+priprema	N	0	8	0	8	Pripreme za vjenčanje su počele dva mjeseca prije samog čina.	Priprema za istraživanje zahtijevala je puno truda i znanja.
+kraj	N	3	8	3	8	Na kraju recitacije dvoranom je odjeknuo gromoglasni pljesak.	Na kraju šume nalazila se mala kućica.
+opis	N	30	35	38	42	Čitatelji su čitajući njegove opise prostora gotovo mogli vidjeti taj prostor.	Na početku rasprave nužan je verbalni opis prikazanih dijagrama.
+dio	N	32	35	58	61	Nil se dijeli na gornji i donji dio.	Sportaš mora prihvatiti činjenicu da je neuspjeh sastavni dio sporta.
+stajati	V	18	25	11	18	Ta ga je pogreška stajala posla.	Morali smo stajati tijekom cijelog koncerta!
+dokaz	N	11	17	50	55	Ili pokaži dokaze koji potvrđuju tvoje navode ili me prestani optuživati.	Ne možemo ga potpuno okriviti jer nemamo opipljiv dokaz.
+milost	N	21	27	13	20	Uvijek je iskazivala milost prema potrebitima.	Prepustio se milosti suda.
+prijemnik	N	5	15	15	25	Prvi prijemnici najčešće su radili na baterije.	Danas analogne prijemnike polako zamjenjuju digitalni prijemnici.
+sredina	N	32	39	8	15	Cjelina je ono što ima početak, sredinu i kraj. (Aristotel).	Stani u sredinu kruga.
+peraja	N	12	18	2	10	Kad ugledaš peraju morskog psa pored sebe, već je prekasno.	S perajama je po kopnu lakše hodati natraške.
+element	N	23	31	48	58	Nije mogao pronaći sve elemente slagalice.	Starogrčki filozofi počelo su svemira tražili u elementima.
+ulaz	N	15	20	36	40	Čekao ju je na ulazu u zgradu.	Crkva je imala i prednji i stražnji ulaz.
+prostor	N	20	28	10	17	Arhitekt je ostavio prostora za novi regal.	Podrumski prostor je idealan za čuvanje vina.
+raditi	V	0	4	8	12	Radi li tvoj suprug opet?	Tiskare rade od ranog jutra.
+komoda	N	7	13	50	56	Velika komoda dominirala je sobom.	Bilo je potrebno četvero ljudi za podizanje stare komode od punoga drveta.
+ostati	V	11	17	8	14	Haljina je ostala iste boje i nakon višestrukog pranja.	Kuća je ostala u nepromijenjenom stanju preko sto godina.
+higrometar	N	0	10	0	10	Higrometar se često koristi za mjerenje vlažnosti u terariju.	Higrometar je važan mjerni instrument u meteorologiji.
+pasti	V	13	17	24	27	Dinastija je pala nakon višestoljetne vladavine.	Prošle godine snijeg je pao za Uskrs.
+ujediniti	V	20	29	11	20	Cijelo se pučanstvo ujedinilo u borbi protiv tiranina.	Nevolja je ujedinila pučanstvo u borbi protiv tiranina.
+megafon	N	30	37	13	22	Stajao je na čelu kolone i na megafon izvikivao parole.	Policijac je megafonom poručio otmičaru da se preda.
+kutija	N	13	19	16	22	Tražio je po kutiji dio koji mu je nedostajao.	Pojeo je cijelu kutiju keksa.
+broš	N	33	40	54	58	Premijerka je poznata po nošenju broševa koji nose prigodne poruke.	Bila sam jako tužna jer sam negdje izgubila vrlo drag broš.
+zemlja	N	0	6	18	24	Zemlja se kreće oko Sunca.	Vratio se u rodnu zemlju.
+pod	N	0	6	17	23	Podovi su bili prekriveni tepisima.	Mrzila je pranje podova.
+dimnjak	N	33	40	20	28	Došao je dimnjačar i očistio nam dimnjak.	Djed Božićnjak kroz dimnjake djeci ubacuje darove.
+sjever	N	31	38	40	47	Hodao je već tri sata u smjeru sjevera, a još uvijek nije došao do jezera.	Razlika između geografskog i magnetskog sjevera poznata je kao magnetska varijacija.
+objasniti	V	12	20	12	21	Marko mi je objasnio zadatke iz fizike.	Možeš li mi objasniti ovaj zadatak iz matematike?
+veza	N	9	13	50	54	Njiihovu vezu nije moglo ništa uništiti.	Odbacila je optužbe da je na fakultet upala preko veze.
+naočale	N	16	23	45	52	Uvijek je nosio naočale jer bez njih nije ništa vidio.	Vid mi je počeo slabiti pa sam počela nositi naočale.
+vaga	N	14	18	44	48	Bez kuhinjske vage ne mogu se raditi kolači.	U ljekarnama se koriste isključivo precizne vage s točnošću 0,01 - 1000 grama.
+obuća	N	31	36	0	5	Nikad nije štedjela pri kupnji obuće.	Obuću je potrebno održavati prema uputama proizvođača.
+padati	V	26	32	9	15	Kiša i snijeg su nemilice padali.	Bombe su padale po neprijateljskim ciljevima.
+stolnjak	N	54	64	19	27	Za svečane je ručkove stol obavezno prekriven bijelim stolnjakom.	Stavila je na stol stolnjak s prigodnim božićnim motivima.
+područje	N	47	55	25	33	Humanističke znanosti tvore zasebno znanstveno područje.	Bio je stručnjak u svome području i to jedan od najboljih!
+rukavica	N	38	46	31	39	Zimi nije izlazila iz kuće bez toplih rukavica.	Prije rada u vrtu stavljala je rukavice da ne prlja ruke.
+nastup	N	20	27	11	17	Čestitali smo mu na nastupu na recitalu.	Jučerašnji nastup Londonske filharmonije bio je fantastičan.
+put	N	16	19	0	3	Znanje je pravi put do uspjeha.	Put kroz šumu koji su odabrali nije ih doveo do kolibe.
+mandolina	N	35	44	28	37	Usred koncerta mu je pukla žica na mandolini.	Iz daljine se probijao zvuk mandoline.
+izmjena	N	0	7	42	49	Izmjena vodstva desila se u zadnjem krugu.	Uspjeli su postići zgoditak u posljednjoj izmjeni.
+lik	N	47	53	50	58	Nikada nije svladala ni elementarnu geometriju likova u ravnini.	Pravokutnik i kvadrat pripadaju dvodimenzionalnim likovima.
+krug	N	13	20	33	42	Plastične je krugove poslagala po stolu.	On se voli kretati u umjetničkim krugovima.
+činela	N	6	12	0	6	Svoje činele nikada ne bih mijenjao - imaju jedinstven zvuk.	Činele su se tresle još dugo nakon zadnjeg udarca palicom.
+mjera	N	44	49	31	36	Prošlogodišnji uspjeh naše tvrtke postao je mjera i za sve druge.	Situacija je zahtjevala snažne mjere sigurnosti.
+magnet	N	29	36	0	8	Na hladnjaku je imala brojne magnete.	Magnetom su pokupili željeznu prašinu.
+nesposobnost	N	0	12	0	12	Nesposobnost za rad psihički ga je slomila.	Nesposobnost se vrlo brzo kažnjava, posebno u malim tvrtkama.
+postupak	N	34	42	56	64	Mama mi je napisala detaljan opis postupka pripreme čokoladne torte.	Za svakoga književnika mogu se odrediti njegovi osnovni postupci pri stvaranju radnje.
+povrće	N	7	13	30	36	Svježe povrće, za razliku od kuhanog ili pečenog, zadržava velik udio vitamina i minerala.	U njihovu vrtu ima puno vrsta povrća.
+ploča	N	37	42	42	47	Čuvao je sve svoje stare gramofonske ploče.	Zidovi kafića bili s prepuni gramofonskih ploča.
+lokot	N	22	27	38	43	Provalnici su razbili lokot na sefu i odnijeli novac.	Važno je na bicikl staviti kvalitetan lokot.
+materijal	N	46	55	34	44	Kamioni su dopremili sav potreban građevinski materijal.	Uvijek je birala haljine od finog materijala.
+učinkovitost	N	11	24	31	43	Podacima o učinkovitosti sustava mogli su lako manipulirati.	Zamjerali su im izrazito nisku učinkovitost sustema koji su sami stvorili.
+simbol	N	13	19	44	50	Šahovnica je simbol Hrvatske.	papa je izjavio da je Torinsko platno važan simbol za vjernike.
+nosiljka	N	0	8	31	39	Nosiljka za dijete vrlo je praktična i korisna.	Dijete bi joj uvijek zaspalo u nosiljci.
+rasvjeta	N	19	27	9	17	Igralište je imalo rasvjetu pa su se mogle igrati i noćne utakmice.	Na javnu rasvjetu troši se velik dio gradskog proračuna.
+red	N	23	26	0	6	Na livadi se nalazio i red stabala.	Redovi cigala izrastali su jedan za drugim.
+tacna	N	30	35	0	5	Stavila je čajnik i šalice na tacnu i poslužila goste.	Tacna je bila prepuna mirisnih kolača.
+željeti	V	8	13	20	27	Samo ti želim pomoći.	Oprosti, ali ne bih željela potrošiti večer na protuhu poput tebe.
+htjeti	V	0	6	0	5	Hoćemo li mu prirediti tulum iznenađenja?	Hoćeš li izaći na spoj sa mnom?
+koncert	N	11	18	38	45	Jučerašnji koncert bio je predivan.	Zagrebački solisti održali su zapažen koncert klasične glazbe s djelima Mozarta i Dvořáka.
+željeti	V	0	7	9	14	Željela bih ostati cijeli dan u krevetu, ali mi ukućani ne daju mira.	Tako bih želio velikog medu za rođendan!
+misliti	V	11	16	17	24	Mirko rado misli o slavnim Slavkovim podvizima.	Jedino što mu je mislila reći bilo je da ga više ne voli.
+kompozicija	N	0	11	32	43	Kompozicija se sastoji od tri stavka.	Cijelo jutro slušao je glazbene kompozicije različitih autora.
+svojstvo	N	54	62	41	49	Prije kupnje novog mobitela dobro je proučila njegova svojstva.	Potrebno je ponovno ispitati kvalitetu i svojstva toga proizvoda.
+milost	N	20	26	37	44	Nije željela ničiju milost.	U tim je danima žena često ovisila o milosti svoga supruga.
+pasti	V	24	29	24	27	Vrijeme je da ova vlada padne!	Prošle godine snijeg je pao za Uskrs.
+služiti	V	21	27	0	6	Cijeli je svoj život služio svojoj domovini.	Služio je deset godina na funkciji predsjednika.
+kist	N	29	36	20	26	Imao je čitav niz slikarskih kistova kojima je postizao različite vizualne efekte.	Još nekoliko poteza kistom i slika će napokon biti završena.
+prostor	N	0	7	20	28	Prostor između ograda ispunila je živica.	Arhitekt je ostavio prostora za novi regal.
+dobiti	V	8	13	13	19	Opet je dobio na izborima za župana.	Za Uskrs sam dobila novi baloner.
+dati	V	0	3	14	18	Dao bih život za svoju djecu.	Doktori su mu dali tri mjeseca života.
+jedinica	N	9	17	89	97	Pojedine jedinice lokalne samouprave oglušuju se o svoje obveze.	Za uspješno funkcioniranje države potrebno je smanjiti broj nepotrebnih administrativnih jedinica.
+život	N	31	37	36	41	On je bio dobar čovjek čitavog života.	Bilo bi lijepo da smo 1969. otkrili život na Mjesecu.
+naklonost	N	43	52	34	43	Malim znakovima pažnje pokazujte joj svoju naklonost.	Profesori ne bi smjeli iskazivati naklonost prema pojedinim učenicima.
+baza	N	8	12	42	46	Broj 10 baza je decimalnog sustava.	Nastavit će pisati oslanjajući se na istu bazu.
+kraj	N	25	29	3	8	Njegova je smrt označila kraj jedne ere.	Na kraju godine svi zbrajaju svoja postignuća i pogreške.
+površina	N	14	22	4	12	Skijali su po površini mora.	71% površine planeta pokriveno je morem.
+organizacija	N	0	12	8	20	Organizacija momčadi omogućit će pobjedu.	Njegova organizacija radne snage bila je odlična.
+traka	N	36	41	37	42	Cijele je noći radila u tvornici na traci.	Isječeno meso bacao je na prijenosnu traku.
+dovesti	V	0	6	0	6	Doveli su ga plemenskom poglavici na upoznavanje.	Dovela je svoju ideju do ekstrema.
+porast	N	0	6	36	44	Porast cijena zabrinuo je i najveće ekonomske stručnjake.	Prošla je godina obilježena snažnim porastom poreza na dobit.
+držati	V	16	20	0	5	Kod sebe uvijek drži dosta novaca.	Držao je da njegove sulude teze ne trebaju daljnju potvrdu.
+pasti	V	24	29	13	17	Vrijeme je da ova vlada padne!	Dinastija je pala nakon višestoljetne vladavine.
+život	N	11	17	42	48	Bio je pun života.	Njegovim herojskim činom spašeni su mnogi životi.
+riba	N	27	31	15	19	Morski pas je veoma opasna riba.	Neke amazonske ribe također mogu biti veoma opasne.
+traka	N	36	41	40	45	Cijele je noći radila u tvornici na traci.	Hitno je potrebno popraviti transportnu traku.
+uređenje	N	0	8	63	71	Uređenje knjiga mukotrpan je posao.	Previše namještaja u jednoj prostoriji rezultat je neuspješnog uređenja.
+simbol	N	32	39	13	19	Građanima su dijeljene ruže kao simboli ljubavi i života.	Šahovnica je simbol Hrvatske.
+dopustiti	V	36	45	11	20	Adekvatna protupožarna zaštita neće dopustiti razbuktavanje požara tijekom ljeta.	Ne smijemo dopustiti vranama da nam unište usjeve.
+sposobnost	N	16	26	36	49	Imao je urođenu sposobnost za rješavanje kompleksnih matematičkih zadataka.	Dobila je posao zahvaljujući svojim sposobnostima.
+držati	V	17	21	12	18	Premijer i dalje drži da situacija nije tako tragična.	Otmičari su držali nevine ljude kao taoce.
+uzeti	V	0	5	0	5	Uzela sam bijelu suknju u trgovini iako mi se više sviđala crna.	Uzela je ponuđenu čašu vode i brzo je ispila.
+činiti	V	15	19	14	18	Kruh i mlijeko čine osnovne namirnice u nas.	Gradonačelnik čini sve što je u njegovoj moći kako bi izbjegao još jedan skandal.
+kretati	V	0	6	26	31	Krećem na posao točno u osam sati ujutro.	Cijene kuća u našem kraju kreću od 30 000 eura.
+suparnik	N	7	15	7	15	Glavni suparnik Kennedyju bio je Nixon.	Glavni suparnik HDZ-u oduvijek je bio SDP.
+vratnica	N	20	28	19	27	Hrabro je stao među vratnice i čekao udarac.	Lopta je udarila u vratnicu i spasila gostujuću momčad od pogotka.
+oružje	N	40	46	39	46	Trebam nabaviti dozvolu za posjedovanje oružja.	Znao se koristiti i hladnim i vatrenim oružjem.
+rupa	N	29	33	30	34	Između dva zida postoji mala rupa kroz koju prolaze miševi.	Eksplozija je načinila veliku rupu u zidu.
+svečanost	N	0	10	29	39	Svečanosti su počele u maju.	Kralj je otvorio ovogodišnje svečanosti.
+ekstraktor	N	45	56	18	28	Ekstrakcija se vrši u nizu serijski spojenih ekstraktora.	Smjesa se uvodi u ekstraktor uz dodatak otapala.
+razviti	V	12	18	13	20	Pacijent je razvio otpornost na taj lijek.	Ta je zemlja razvila svoje prirodne resurse.
+uhvatiti	V	12	20	6	14	Jučer me je uhvatila depresija.	Moram uhvatiti popodnevni vlak.
+ograničenje	N	47	58	0	11	Nesavjesni vozači uklanjaju tvronički ugrađeno ograničenje brzine motora.	Ograničenje brzine na autocesti treba poštovati.
+odgovarati	V	12	22	7	15	On je odbio odgovarati na bezobrazna pitanja.	Baš mi odgovara toplo vrijeme.
+zabava	N	28	34	14	20	Svakome u životu treba malo zabave.	Pridružila se zabavi nakon večere.
+ljubav	N	15	21	18	25	Njegova snažna ljubav prema Marici bila je pomalo divna.	Djeci treba mnogo ljubavi.
+otkriti	V	11	17	0	6	Kolumbo je otkrio Ameriku.	Otkrio mi je ime svoje ljubavnice.
+emisija	N	3	10	21	28	Ta emisija je doista nešto novo u televizijskoj produkciji.	Uvijek rado pogledam emisije o književnosti.
+sklonost	N	23	31	8	16	Uvijek je imala veliku sklonost za čitanjem.	Imao je sklonost rješavati sve zadatke u zadnji čas.
+kritika	N	38	45	11	18	Gradonačelnik je stoički podnio oštre kritike svojih protivnika.	Nepovoljne kritike srušile su ugled banaka na svjetskom tržištu.
+koristiti	V	15	24	0	9	Moramo pametno koristiti resurse koje imamo.	Koristila sam dizalo umjesto stuba kad god bih mogla.
+rod	N	43	46	21	24	Iako je pijanica, bratić Mirko je ipak moj rod.	Ti si mi jedini živi rod kojeg imam.
+iskustvo	N	30	38	11	19	Žuži je žena bogatog životnog iskustva.	Na temelju iskustva možemo predvidjeti budućnost.
+uskladiti	V	10	19	21	30	Nije lako uskladiti posao i roditeljske zadatke.	Mladenka i djeveruše uskladile su ukrase na svojim haljinama.
+krug	N	11	15	50	54	Električni krug nastaje povezivanjem električnog izvora s trošilom.	Strujni udar nastaje uključenjem tijela u strujni krug.
+otvor	N	23	29	19	24	Krvarenje iz tjelesnih otvora simptom je teške bolesti.	Pisma ubacite kroz otvor na sandučiću.
+podijeliti	V	0	10	7	17	Podijelili smo tortu.	Djeco, podijelite kolač na jednake dijelove.
+razilaženje	N	5	16	25	36	Zbog razilaženja u mišljenjima raskinuli su partnerstvo.	Nakon ponoći započelo je razilaženje ljudi na trgu.
+obuzdati	V	18	26	12	20	Nikada nije mogao obuzdati svoju divlju ćud.	Treba znati obuzdati divljega konja.
+tumačenje	N	3	12	11	20	Za tumačenje Julije u izvedbi njezina matičnoga kazališta dobila je brojne nagrade.	Njegovo se tumačenje situacije razlikovalo od mojega.
+znati	V	0	4	11	15	Znam da sam ostavio ključeve na stolu.	Galileo je znao da se Zemlja okreće oko Sunca.
+štovanje	N	15	23	33	41	Bog će osuditi štovanje lažnih proroka.	Mnoge iznenađuje i danas očuvano štovanje kulta svetog Vlaha.
+muzej	N	33	39	30	36	Proveli su cijeli dan u obilasku muzeja.	Brižno je nadopunjavao postav muzeja novim izlošcima.
+izbočenje	N	13	22	52	61	Zabrinulo me izbočenje na djetetovu trbuhu pa sam ga odvela liječniku.	Pri penjanju je važno pažljivo smještati stopalo na izbočenje na stijeni.
+harfa	N	31	36	11	17	Elegantno je prebirala žice na harfi.	Djevojka s harfom čest je slikarski motiv.
+zanimanje	N	35	44	30	39	Već u osnovnoj školi mnogi odaberu zanimanje za cijeli život.	Oduvijek je pokazivao iznimno zanimanje za poeziju.
+tijelo	N	8	14	8	14	Biračko tijelo čine svi punoljetni građani.	Nebeska tijela se gibaju po određenim putanjama.
+provjera	N	22	30	53	61	Meso prolazi nekoliko provjera prije stavljanja u prodaju.	Prije stavljanja dizala u pogon morali smo pričekati provjeru.
+krma	N	6	10	14	18	Ispod krme nalazilo se maleno spremište.	Sjedili su na krmi i gledali zalazak sunca.
+boja	N	43	48	7	11	Najprije je premazao drveni stol temeljnom bojom, a zatim je stavio dva premaza tamnosmeđe boje.	Uljene boje omiljena su tehnika impresionističkih slikara.
+šok	N	70	74	35	38	Kada su je nazvali i rekli da je osvojila glavnu nagradu, ostala je u šoku.	Pad na ispitu za Anu je bio veliki šok.
+dati	V	12	15	28	32	Sudac mu je dao deset godina zatvora.	Brazilska je reprezentacija dala četiri gola na posljednjoj utakmici.
+sustav	N	22	28	41	48	Kupio je najmoderniji sustav za filtiriranje vode.	Došlo je do nenadanog kvara u računalnom sustavu fakulteta.
+nezahvalnost	N	0	12	24	36	Nezahvalnost ju je uvijek iznova pogađala.	Balzac je napisao da je nezahvalnost oznaka slabih.
+cilj	N	0	4	46	50	Cilj opravdava sredstvo.	Samo je bahatim ponašanjem mogao postići svoj cilj.
+prenijeti	V	38	47	32	41	Redatelj i scenarist su dramski tekst prenijeli na film.	Gotovo su sve svjetske agencije prenijele zapanjujuće vijesti o kravi Šarki iz Našica.
+prolaz	N	25	32	5	11	Kafić se skrio u malenom prolazu i samo su ga dobro upućeni mogli naći.	Kroz prolaz između dviju ulica nije se moglo proći autom.
+kočnica	N	49	56	12	19	U zadnji je tren primijetio pješaka i nagazio na kočnicu.	Popravio je kočnice na biciklu pa je opet mogao uživati u vožnji.
+program	N	41	49	10	18	Na tržištu postoji mnoštvo kompjutorskih programa za obradu zvuka.	Računalni programi za obradu teksta nisu zadovoljavali njegove potrebe.
+prsten	N	36	44	21	27	Svima se hvalila svojim zaručničkim prstenom.	Nosila je samo jedan prsten s malenim dijamantom.
+odbiti	V	0	5	0	5	Odbio je dati joj povišicu.	Odbio se priključiti njihovom protestu.
+suncobran	N	30	40	13	22	Plaža je bila prepuna šarenih suncobrana.	Sjeli su pod suncobran i uživali u zvuku valova.
+poklopac	N	23	31	19	27	Svaki lonac ima i svoj poklopac.	Nije mogao pronaći poklopac rezervoara za benzin.
+kraj	N	37	42	25	34	Naša priča se, djeco, polako privodi kraju.	Pingvini žive u polarnim krajevima.
+red	N	13	16	44	47	Franjevci su red posvećen skromnosti i pomaganju.	U povrtni proljetni složenac možete staviti red krumpira, red tikvica, red patliđana i pirjane rajčice.
+sreća	N	8	13	53	58	Njezinu sreću u tom trenutku ništa nije moglo pokvariti.	Kada je čula da je dobila seku, počela je skakati od sreće.
+raditi	V	0	4	45	51	Radi li tvoj suprug opet?	Nakon što je dobila na lotu više nikada nije radila.
+boca	N	36	40	26	30	Nije ni čudo da tetura kad je popio bocu rakije.	Od žalosti sam popio punu bocu vina.
+površina	N	23	31	0	8	Za čišćenje kuhinjskih površina najbolja je topla voda.	Površina Sahare neprestano se povećava.
+boja	N	51	57	36	40	Učenici su dobili za zadaću nacrtati sliku vodenim bojama.	Prebojala je sav namještaj u bijelu boju.
+aspekt	N	10	16	42	48	Glagolski aspekt predstavlja strancima velik problem pri učenju hrvatskog jezika.	Prefiksacijom se glagolu može promijeniti aspekt.
+smještaj	N	0	8	0	8	Smještaj grada bio je važan za trgovinu.	Smještaj kuće usred šume za nju je idealan.
+članak	N	30	36	44	51	U karijeri je objavila brojne članke o likovima žena u književnosti.	U novom je broju časopisa objavljeno čak 20 članaka.
+pozvati	V	0	7	0	7	Pozvali smo nove susjede na čaj i kolače.	Pozvali su me u vojsku kad sam imao 18 godina.
+splav	N	30	35	21	26	Od nekoliko je dasaka sklepao splav i otisnuo se niz rijeku.	More mu je progutalo splav pa mu nije preostalo ništa drugo nego nadati se da će pomoć brzo stići.
+stanje	N	12	18	12	18	Zdravstveno stanje pacijenta se popravilo.	Gospodarsko stanje sve je teže.
+jedinica	N	50	58	29	37	U našem metričkom sustavu metar je osnovna mjerna jedinica dužine.	Važno je krenuti od osnovnih jedinica na temelju kojih je ono kompleksnije građeno.
+značajka	N	11	19	0	8	Osnovna je značajka našeg programa da se zaležemo za pravednu državu.	Značajka je njegova rada velika briga o siromašnima.
+most	N	19	23	20	26	Izvadila sam zubni most i dala ugraditi implantate.	Nije bio zadovoljan mostom koji mu je stavio stomatolog.
+mjesec	N	39	45	20	27	Na zidu dječje sobe visio je papirnati mjesec.	Rođen sam u devetom mjesecu.
+učinkovitost	N	30	42	31	43	Svojim je inovacijama povećao učinkovitost stroja.	Zamjerali su im izrazito nisku učinkovitost sustema koji su sami stvorili.
+nakit	N	20	25	44	50	Nije voljela nositi nakit.	Žene se uvijek vesele kad dobiju neki komad nakita na poklon.
+učinkovitost	N	30	42	11	24	Svojim je inovacijama povećao učinkovitost stroja.	Podacima o učinkovitosti sustava mogli su lako manipulirati.
+mantija	N	15	22	36	43	Franjevci nose mantije smeđe boje.	Časne sestre tjednima su izrađivale mantiju za poklon papi.
+uključiti	V	0	9	0	9	Uključila je sve sugestije suradika u završno izvješće.	Uključili smo je u našu stranku.
+otvor	N	13	18	24	29	Ugradila sam otvor na vratima kako bi se moja maca mogla slobodno kretati.	Provalnici su napravili otvor u zidu i provalili u banku.
+nesposobnost	N	0	12	40	52	Nesposobnost za rad psihički ga je slomila.	Političari vrlo vješto prikrivaju svoju nesposobnost lukavim govorima.
+svila	N	0	5	0	5	Svila potječe iz Kine, a u Europu je stizala putem svile.	Svila je mekan, podatan, nježan, ali i vrlo osjetljiv materijal.
+prenijeti	V	38	47	24	31	Redatelj i scenarist su dramski tekst prenijeli na film.	Običaj je da mladoženja prenese mladenku preko kućnoga praga.
+efikasnost	N	9	20	0	10	Analizom efikasnosti državnim poduzeća zaključeno je da su nužne promjene.	Efikasnost staroga sistema poboljšana je ugradnjom najnovijih kugličnih ležajeva.
+pokazivati	V	24	34	27	35	Baka je, ponosna, svima pokazivala sliku svojega unuka.	Analizom korpusa lingvisti pokazuju važnost empirijskih istraživanja.
+tunika	N	10	16	0	6	Prozračne tunike idealna su odjeća za ljeto.	Tunike su nosili stari Rimljani.
+proizvod	N	11	20	18	27	Njihovi su proizvodi iz dana u dan sve bolji.	Volim sve mlijčne proizvode.
+brtva	N	0	5	7	12	Brtva je popustila i oko osovine je počela curiti voda.	Gumenu brtvu možete zamijeniti i bez pomoći majstora.
+generator	N	11	20	6	16	Električni generator opskrbljuje strujom sve električne uređaje automobila i puni akumulator.	Imamo generatore izmjenične i istosmjerne struje.
+poklopac	N	21	29	23	31	Bila je svakom loncu poklopac.	Nikako ne mogu pronaći poklopac koji bi odgovarao ovoj zdjeli.
+mušketa	N	23	30	0	7	Vojnici koji su nosili muškete zvali su se mušketiri.	Mušketa nema dalek domet.
+dizalica	N	17	25	26	34	Ima raznih vrsta dizalica, a njihov odabir ovisi o teretu koji dižemo.	Djeca vole gledati velike dizalice.
+rod	N	28	31	43	46	Djed je bio njezin najbliži rod i dala bi sve na svijetu da ozdravi.	Iako je pijanica, bratić Mirko je ipak moj rod.
+priredba	N	26	34	0	8	Dvorana služi za prigodne priredbe, skupna predavanja i svečane zgode.	Priredba u domu umirovljenika većini se nije svidjela.
+potka	N	48	53	58	63	Tkanje se sastoji od dva sistema niti: osnove i potke koje se u procesu tkanja međusobno okomito prepliću.	Utezi na tkalačim strojevima služe za podešavanje gustoće potke.
+zahtijevati	V	0	11	0	10	Zahtijevali su brisanje iz registra dužnika.	Zahtijevao je predan rad svojih zaposlenika.
+smjer	N	2	8	39	44	U smjeru Zagreba prostiru se velika polja kukuruza.	Prije polaska na jedrenje provjerio je smjer i brzinu vjetra.
+krug	N	11	15	33	42	Električni krug nastaje povezivanjem električnog izvora s trošilom.	On se voli kretati u umjetničkim krugovima.
+nesposobnost	N	25	37	6	18	Iživcirala ju je njegova nesposobnost da napravi najjednostavnije kućanske poslove.	Očita nesposobnost koštala ga je posla.
+degradirati	V	0	11	12	23	Degradirali su ga na položaj običnog pješaka.	Morat će je degradirati zbog ispada na zadnjem sastanku.
+pasti	V	10	14	0	4	Jabuka je pala sa stabla.	Palo mi je gornje dugme na kuputu.
+dio	N	29	32	23	26	Svi su pljačkaši dobili svoj dio zarade.	Pročitao sam samo prvi dio knjige.
+tok	N	26	29	60	66	Drvo je plutalo slijedeći tok rijeke.	Za sigurnu plovidbu Amazonom potrebno je znati njene vodene tokove.

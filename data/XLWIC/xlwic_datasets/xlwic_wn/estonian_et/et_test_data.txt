@@ -1,0 +1,390 @@
+uks	N	0	6	9	12	Uksest sisse saama, uksel seisma.	Vannitoa uks.
+silinder	N	26	34	0	8	Vahetas paadimootoril ühe silindri.	Silindri põhjad, külgpind, kõrgus
+kindlaks_määramine	N	21	38	15	32	Kohustuste, plaanide kindlaksmääramine.	Aine koosseisu kindlaksmääramine. Sõnade keelde tuleku aja kindlaksmääramine.
+kord	N	9	13	21	26	Sisemine kord ja kindlustunne.	See juhtus nõukogude korra ajal.
+lõik	N	5	10	21	28	Seda lõiku tähistatakse AB.	Suusaraja raskeimaks lõiguks oli pikk tõus orust mäenõlvale.
+kasvama	V	11	17	17	25	Järv, tiik kasvas pikapeale umbe.	Heinamaa, põllud kasvasid võssa.
+kalduma	V	17	23	22	30	Viga saanud laev kaldus ühele küljele	Lennuk muudab kurssi, kaldudes põhja poole
+kaduvik	N	20	29	25	34	Kes hakkab aegsasti kaduvikku kartma, see ei saa oma elus millegagi hakkama.	Nädalad ja kuud veeresid kaduvikku. * ..ja ma püüan ettekujutuses kaduvikust uuesti üles manada elukäiku..
+kõlama	V	5	12	28	34	Taas kõlasid kandled.	Tema sõnad jäid mulle kõrvu kõlama.
+lõpetatus	N	13	22	38	48	Teose, mõtte lõpetatus.	Täissihitisega väljendatakse tegevuse lõpetatust.
+arenema	V	19	27	33	41	Putukate vastseist arenevad valmikud.	Teadus ja tehnika on tormiliselt arenenud.
+minema	V	0	4	23	27	Läks tükk aega.	Vanamoelised rõivad ei lähe, kes neid ostab. Kirjastaja kartis, et selline raamat ei lähe.
+tippima	V	20	27	8	14	Käsikiri tuli ümber tippida	Õpetaja tippis nõudlikult pliiatsiga lauale
+pistma	V	42	47	0	6	Ta on terava keelega, oskab päris peenelt pista kui vaja.	Pistis võtme lukuauku, mõõga tuppe, kirja ümbrikku, sõrmuse sõrme, kraadiklaasi kaenla alla.
+tunnistama	V	12	21	3	12	Palverändur tunnistas siin-seal oma Issandast.	Ta tunnistas ainult kuldehteid.
+komplema	V	5	12	14	21	Arst komples veidi aega haige kõhtu. Kombeldavad kasvajad.	Laps uuris ja komples oma keha. Termiidid komplevad üksteist tundlatega.
+nägema	V	0	5	0	5	Nägin ta silmist, pilgust, olekust, et midagi on juhtunud.	Nägin ajalehest, et su maja on müüa.
+meel	N	22	28	16	21	Nähtavasti polnud sul meeles kella üles keerata. Pea siis meeles minu õpetusi!	Raske on igaühe meele järgi olla.
+jooksma	V	10	17	26	32	Kuum juga jooksis läbi südame. Läbi saali jooksis lõbus kahin.	Täna mul mõte lihtsalt ei jookse.
+hakkama	V	11	17	21	27	Ema ärevus hakkab lastessegi.	Kaaslaste lõbus tuju hakkas minussegi.
+tallama	V	11	18	47	54	Surutõrres tallati viinamarjadest mahl välja.	Väikese organisti jalad ei ulatu oreli pedaale tallama.
+leht	N	31	36	19	24	Euroopa, vene, siberi, jaapani lehis	Puud on juba täies lehes.
+pind	N	34	39	52	58	Paat libises sujuvalt mööda järve pinda.	Vastuolud tekkisid majanduslikul, maailmavaatelisel pinnal
+lullitama	V	47	55	14	24	Indrekul oleksid nagu sõrmilised kurgus, nõnda lullitas ta oma häälega.	Sulo vilistab lullitades vastuseks..
+vedama	V	0	4	0	5	Veab käeseljaga üle nina, nina alt läbi. Mees veab taskurätiga üle higise näo.	Vedas kopsudesse pika sõõmu õhku.
+vesitsema	V	25	35	50	59	Päike paistis ja räästad vesitsesid. Tuulest, suitsust vesitsevad silmad. Nohu pani nina vesitsema.	Kohati on kuivanud koorikud,mis omakorda hakkavad vesitsema. Nohu pani nina vesitsema.
+haarama	V	15	21	16	22	Tõde ja õigus" haarab üle poole sajandi pikkuse perioodi.	"Tõde ja õigus" haarab üle poole sajandi pikkuse perioodi.
+kerkima	V	8	14	10	16	Piimale kerkib seismisel koor peale	Leib, sai kerkis hästi.
+rahustama	V	40	49	23	32	Ta on endast väljas, katsu teda kuidagi rahustada. Püüdis õnnetusest vapustatud vanemaid rahustada.	Ema püüdis nutvat last rahustada, äiutades ta unele.
+proov	N	23	30	23	32	On alanud uue näidendi proovid.	Ta käis rätsepa juures proovidel.
+raha	N	30	34	18	22	Ehitamine nõudis ränka, roppu raha.	Teeb kõike ainult raha pärast.
+ajama	V	6	11	0	4	Jonni ajama. Mõlemad ajavad kangust, kumbki järele ei anna.	Ajas naabritega kiusu.
+terminal	N	12	22	9	17	Reisisadama terminalid. Sadama arenguplaan näeb ette kahe uue terminali ehitamist. Lennujaamas avati uus terminal.	Kasutaja terminal.
+terituma	V	28	37	9	16	Kõrvenõgese lehed on pikalt teritunud tipuga	Kuulmine teritus järsku üliselgeks
+reheline	N	36	46	6	15	August oli päeva ja poole ööd olnud reheliseks naabrite juures ning nüüd sõideti tema poole.	Mõisa rehelised. * Ning varsti kõlksusid külas juba reheliste pindad.
+põntsuma	V	7	14	64	71	Põrand põntsub tantsijate jalge all. Vaadid põntsusid veeretamisel. Jooksis paljaste jalgade, päkkade põntsudes trepist üles. Taat astub põntsuval sammul, põntsuvate sammudega üle põranda. Lähenesid kellegi põntsuvad sammud. Viskas kartulikoti põntsudes autokasti. * Siis vallandan otsad ja hüppan põntsudes tagasi paadilaele.	Värskelt värvitud vedurlaev .. juba ootab meid, ta diiselmootor põntsub ühtlaselt kai ääres.
+ristima	V	16	24	14	20	Klassikaaslased ristisid mu kohe Nirgiks. Purjekas ristitakse "Kajakaks".	Kirikuõpetaja ristib last. Ristimas käidi kodus või kirikus.
+elu	N	0	3	18	21	Elu veereb oma rada. Elu tahab elada. Ta elu oleks võinud teistsuguseks kujuneda.	Tõi enesega kaasa elu ja lusti.
+hingama	V	36	44	20	26	Alles hommikul märgati, et haige ei hinganud enam.	Tunned, kuidas linn hingab.
+noorendama	V	30	40	10	20	Õunapuud tuleks harvendada ja noorendada.	Püüab end noorendada sportimise, võimlemise ja kosmeetikaga. Naeratus silus ja noorendas ta vana nägu. Poeg on nagu isa noorendatud väljaanne. * Õnn teeb inimese nooreks ja terveks. .. Kas aga võõraste meeste abil peame oma naisi tervendama ja noorendama!
+tippima	V	18	25	8	14	Herneid, ube maha tippima	Õpetaja tippis nõudlikult pliiatsiga lauale
+minema	V	37	41	0	4	Tervet päeva selle töö peale küll ei lähe. Ja nii läks päev päeva järel.	Läks tükk aega.
+arvama	V	28	33	3	8	Ma kindlasti ei tea, aga ma arvan. Mis seal arvata, see on kindel!	Ma arvan nii.
+lisama	V	0	4	19	24	Lisa taignale veel jahu, supile soola!	Puudus ja viletsus lisab rahulolematust.
+minema	V	32	38	15	21	Poodi, kaubamajja, kinno, külla minema.	Jämedamad puud läksid ehitusmaterjaliks.
+toetama	V	27	34	5	11	Püüdis haiget trööstida ja toetada	Laps toetab pea ema rinnale, õla najale
+katkema	V	8	14	8	14	Viiulil katkes keel.	Rasedus katkes iseeneslikult.
+ajama	V	0	4	7	13	Ajab nööpi ette.	Koerad ajavad jänese jälgi.
+karastama	V	30	40	5	13	Töö oli ta kõvaks ja tugevaks karastanud.	Sepp karastas kirvetera vees parajalt kõvaks.
+rida	N	31	36	6	9	Järgmist lauset alustage uuelt realt	Oh sa reo, prillid jäid koju. Kärbsed, reod, hammustavad valusasti. Ei viitsi sõrmegi liigutada, igavene reo niisugune. Kõik sinu reo süü. Kass, reo, on pääsukese ära murdnud. Vaata reod, mis tegi! Kott, reo, oli liiga raske. Jalad, reod, kipuvad valutama. Kas temast reost siis jagu ei saada? Sihukesele reole tuleks naha peale anda. * ..<N>pomises: "Ikka reod need vandiraiujad ja Ungru krahvid, riisuda laipu nagu viimased hüäänid!^"
+ruum	N	36	41	27	31	Ühel hetkel olin väljaspool aega ja ruumi.	Ümberringi oli lõputu tühi ruum.
+panema	V	0	5	52	58	Paneb raamatu lauale ja raha taskusse.	Kellelegi vastu kõrvu, pead, lõugu, mööda kannikaid panema. Pane talle, nii et aitab!
+segamatus	N	25	35	20	29	Hindab üle kõige rahu ja segamatust.	Füüsiline rahulolu, segamatus, murede puudumine.
+tooma	V	19	23	15	21	Keegi ei tea, mida toob homne päev	Viivitus oleks toonud kasu asemel kahju
+isuma	V	39	43	0	4	Kadi jälle teadis hästi palju laule ja isus muudkui uute järele..	Isun ahnelt hammustada / puhast värsket leiba!
+maa	N	26	30	29	32	Saarmas elab nii vees kui maal.	Tegelikkus tõi mind kiiresti maa peale tagasi.
+paistma	V	3	10	20	29	Ta paistab olevat andekas poiss. Paistab, et tal pea jagab.	Lennukilt vaadatuna paistavad majad karbikestena, jõed lintidena.
+raam	N	21	27	17	21	Haavatu, haige lamas raamil.	Pildil on lihtne raam.
+nägema	V	0	5	13	18	Nägin ajalehest, et su maja on müüa.	Igaüks meist näeks hea meelega, et meie lapsed oleksid edukad.
+erak	N	35	39	5	12	Endasse süvenenud, elust võõrdunud erak. Noormees oli loomu poolest erak.	Elab erakuna metsakolkas, väikesel saarel. Ilvesed elavad üldiselt erakuina.
+tuunima	V	75	82	11	18	Üleliia tuunitud auto võib liikluses ohtlik olla. Staar laseb oma välimust tuunida.	Ehitame ja tuunime mootorrattaid igale maitsele.
+kütma	V	4	9	11	17	Ahi köeti koridorist puudega tuliseks.	Jutlustaja küttis külarahva meeled kuumaks.
+narr	N	14	18	41	46	Igavene, vana narr. Sellest narrist võib kõike uskuda. No mis sa ütled narrile! Lapsed ja narrid usuvad kõike. Keegi ei taha teiste silmis narriks jääda. Ära mängi narri. Armastus pidavat inimese ilma narriks tegema. Hoolitsesin selle suli eest nagu viimane narr. Jookse kui narr linna mööda. Narr, kes Narvast naise võtab, loll, kes linnast lehma ostab. Vs.	* Või tulite siia, et veel kord üht vana narri haneks püüda oma pai näoga ja hea kõneandega?
+noorendama	V	38	48	10	20	Juhtkonda, seltsi juhatust oleks vaja noorendada. Hokimeeskond tuleb maailmameistrivõistlustele noorendatud koosseisus.	Püüab end noorendada sportimise, võimlemise ja kosmeetikaga. Naeratus silus ja noorendas ta vana nägu. Poeg on nagu isa noorendatud väljaanne. * Õnn teeb inimese nooreks ja terveks. .. Kas aga võõraste meeste abil peame oma naisi tervendama ja noorendama!
+nägema	V	33	39	8	11	Mida küll poisid selles tüdrukus näevad?	Pime ei näe.
+kool	N	56	61	0	5	Töö ajalehtede juures andis tulevasele kirjanikule kõva kooli.	Kooli lähedal nägi ta oma klassivenda.
+vabastama	V	21	33	26	35	Mees ei ole süüdi ja vabastatakse vahi alt. Ülestõusnud rahvas vabastas vangid.	Hakkas ennast üleriietest vabastama.
+loojuma	V	20	28	34	39	Tema kuulsustäht on loojunud.	Kogu polaarpäeva jooksul päike ei looju üldse.
+vineerima	V	47	59	25	37	Vineeritud lauaplaat. Odavamast puidust mööbel vineeritakse tavaliselt väärisvineeriga.	Odavamast puidust mööbel vineeritakse tavaliselt väärisvineeriga.
+kuju	N	13	17	23	27	Maal on kera kuju. Järvel on ebakorrapärane kuju.	Pilved muutsid järjest kuju.
+mõtlema	V	36	42	12	19	Ei maksa teisest inimesest halvasti mõelda.	Tööriist on mõeldud tööd hõlbustama.
+kasvatama	V	6	15	9	17	Peame kasvatama oma iseloomu.	Kogus ja kasvatas oma vara.
+päev	N	21	26	8	15	Nad tegid tööl pikki päevi.	Sellest päevast alates.
+otsima	V	13	20	0	5	Mis nad siia otsivad, siin pole nende koht!	Otsib vastust keerukale küsimusele.
+raibe	N	8	14	11	16	Peksid, raiped, mind seekord liiga ropult... tegid peaaegu emaseks.	Uks kinni, raibe! Kasi minema, raibe! Täisid täis, raibe! Kuradi, saatana, igavene raibe! Ah sa raibe hakkad veel vastu! Oota sa, vana raibe, ma sulle veel näitan! Ära läks, raibe! Vahi, kae raibet, või tema nõuab suuremat palka! * .. enne hakkab kits katust tõrvama, kui see tööle läheb. Säärane raibe!
+ümmardama	V	44	53	19	28	Lossihärra laskis mitmesajal teenril ennast ümmardada. Vanaema oli oma nooruses saksu ümmardanud.	Ma hakkan sind nii ümmardama, et sa ei tahagi enam minu poolt ära minna.
+mõtlema	V	0	5	16	24	Mõtle end minu asemele, siis saad sellest aru.	Mida sa sellega mõtlesid?
+jõudma	V	8	15	0	5	Mees on jõudnud keskikka, esimese juubelini.	Jõuan ise enese eest seista. Jõuab saladust pidada, keelt hammaste taga hoida.
+hüppama	V	12	18	11	19	Kütuse hind hüppas üleöö kõrgemale. Ta hüppas pidevalt ühelt teemalt teisele.	Turuhinnad hüppasid kõrgele
+surm	N	0	5	5	9	Surma põhjuseks oli kopsupõletik.	Tema surm oli meile kõigile suur üllatus.
+katma	V	0	5	7	12	Katab magava lapse tekiga.	Aplaus katab kõneleja viimased sõnad. Orkester kippus solisti katma.
+kell	N	0	4	0	4	Kell näitab õiget aega	Kell lõi üks. Kell on peaaegu üksteist null-null.
+soonestik	N	57	67	7	16	Noored röövikud toituvad lehe pehmetest kudedest, jättes soonestiku alles.	Punane soonestik silmavalgetel. Läksime otse üle Metsoja soonestiku. * .. madala heinamaa taga oli soonestik, mis kevadisel ajal oli veega kaetud.
+närv	N	34	38	26	31	Enne hamba plombeerimist suretati närv.	Võta end kokku, ära kaota närve.
+siht	N	5	10	19	23	Uued sihid põllumajanduses, hariduspoliitikas.	Marjulised jõudsid sihi äärde.
+andma	V	21	26	13	18	Säärast meistrimeest annab tikutulega otsida. Lõpuks ometi, küll andis oodata.	Paks raamat, annab lugeda.
+ajama	V	52	57	0	4	Ebasümmeetriliselt aetud pargiteed. Läbi metsa tuli ajada siht. Ajab sirge kaare üle heinamaa. Kartulivagusid ajama.	Ajab pressrauaga viigid pükstesse.
+haarama	V	7	13	18	25	Romaan haaras mind põneva sündmustiku tõttu	Teadmistest kinni haarama.
+käskima	V	6	12	4	10	Vürst käskis sõduritel vangid üles puua.	Ema käskis lastel õue minna.
+löristama	V	8	16	12	21	Muudkui löristab oma suupilli. * Mõni pasun, mida sa löristad! .. Hääl nagu Matsirahva vasikal.	Nina, piipu löristama.
+piiritlema	V	9	22	11	21	Raielank piiritletakse nurgast nurgani nähtavate visiiridega.	Pole kerge piiritleda kunsti mõistet.
+viik	N	11	17	11	15	Pükstel on viigid sees.	Väravateta viik.
+variaator	N	0	12	8	17	Variaatoreid kasutatakse mitmete tööstusharude seadmeis.	Mopeedi variaator.
+paluma	V	0	4	7	12	Palu külalised tuppa!	Mulle, palun, see komplekt! Veel üks must kohv, kui tohib paluda!
+ajama	V	9	15	4	8	Vaarikad ajavad risoome, maasikad võsundeid. Õunapuud hakkavad õisi ajama.	Puu ajab juured sügavale.
+andma	V	12	17	13	18	"Vanemuine" annab külalisetendusi Tallinnas. Koor andis kontserdi.	Paks raamat, annab lugeda.
+netikett	N	8	16	104	112	Vajadus netiketi järgi ilmneb eelkõige e-posti, uudisgruppide ja jututubade juures.	Süstemaatiline tegelemine selliste asjadega nagu rämpsposti laialisaatmine ja sõim on kahtlemata rasked netiketi rikkumised.
+hakkama	V	9	15	30	37	Ränk töö hakkas tervise peale.	Lugema, joonistama, suusatama hakkama.
+sõidutama	V	0	8	7	17	Sõidutas karusselli nii kõvasti, et lapsed kiljusid.	Poisid sõidutavad veelombis puukoorepaate ja paberist laevu.
+majandama	V	39	48	34	42	Vääriline pole tippjuht, kes oma kodus majandada ei oska..	Parun ise elas Peterburis, mõisat majandas valitseja.
+loor	N	0	5	5	9	Loori, mida tol ajal enamasti leieriks nimetati, hakkasid moekamad pruudid kandma juba 19. sajandi lõpu paiku (Pulmad: 2).	Must loor näo ees.
+hakkama	V	9	15	13	18	Ränk töö hakkas tervise peale.	See soeng ei hakka mulle.
+saama	V	6	9	0	4	Poiss sai koolist hea tunnistuse.	Sain isalt sünnipäevaks koera, nukumaja.
+rohe	N	50	55	11	16	Värskelt lubjat õunapuud nii ennast täis:/ lõhna, rohet, puna, ümarust ja magusust..	Kesk metsa rohet, suvetaeva sinet/ suur puhtustunne olemusse poeb.
+tõlkimine	N	28	37	0	9	Teksti raskuse tõttu edenes tõlkimine aeglaselt.	Tõlkimine eeldab sisulistki asjatundmist.
+rüüste	N	99	106	24	32	..<N>mida täiuslikumale astmele jõuab inimühiskonna poolt rakendatav tehnika, seda põhjalikumad on rüüsted looduses.	Röövlijõukude viimasest rüüstest küla enam ei toibunud. Lindude rüüsted marjaaedades. Kõrge hekk kaitseb aeda metsloomade rüüste eest. Linnupesad kannatavad vareste, kalakajakate rüüstete all. * Sissetungijad panid vallamaja ruumides toime täieliku rüüste.
+minema	V	5	10	15	21	Seda läheb sul endal tarvis.	Jämedamad puud läksid ehitusmaterjaliks.
+sulatama	V	31	40	24	31	Helilooja on oma meloodiatesse sulatanud rahvamuusika elemente	Muusika on nii ilus, et sulatab südame
+ajama	V	0	4	6	12	Ajas jalad harki ja kaela õieli.	Tukid ajavad vingu, männid ajavad okkaid ja palgid ajavad pinde.
+tõlkimine	N	16	25	0	9	Mõnes mõttes on tõlkimine mugandus.	Tõlkimine edenes vaevaliselt: tõlgiti sõnahaaval.
+lõik	N	33	38	21	28	Iga tootmisjuht vastutab teatava lõigu eest oma tehases.	Suusaraja raskeimaks lõiguks oli pikk tõus orust mäenõlvale.
+soolduma	V	80	89	28	36	Sooldunud laevatekk, rannakivid. Higist sooldunud pluus. Kaevuvesi on mereveest sooldunud.	Panin kalad paariks päevaks soolduma. Ühtlaselt sooldunud liha.
+ulatuslikkus	N	36	49	13	25	Pandi imeks riigimehe kirjavahetuse ulatuslikkust.	Ümberehituse ulatuslikkus.
+tabama	V	5	10	14	20	Teda tabas taas rännukirg.	Ta ei suutnud tabada loo mõtet.
+sõitma	V	5	13	0	5	Siis sõitiski lift üles.	Sõida potilaadale! Pilved sõitsid üle taeva. Sõideti jahile.
+minema	V	10	16	4	10	Kohver on läinud, keegi on ta vist ära varastanud.	Mis läinud, see läinud.
+kandma	V	15	21	29	35	Jõi palju, aga kandis ka palju, kõvasti.	Karjus nagu hääl, kõri üldse kandis.
+kõlama	V	3	8	10	15	Õu kõlas laste kilkeist ja naerust.	Kogu lugu kõlab lühidalt nii.
+nõtrus	N	30	38	9	15	Te olete ainult oma inimlikus nõtruses uskund, et nad [= jumalikud õigused] on olemas..	Raugalik nõtrus. Keha, ihu, meele, vaimu nõtrus. * Poeg, kas oled kühmus kehalikust nõtrusest või kannad kukil õudust ja hirmu?
+tõhustuma	V	17	27	16	24	Tollikontroll on tõhustunud. Preparaadi mõjul tõhustub organismi kaitsevõime. Naermise ajal tõhustub kopsude töö ja paraneb vere hapnikuvarustus.	Üpris jõuliselt tõhustub käesoleval ajal metsade kaitse.
+haarama	V	3	9	16	22	Ta haaras posil õlast.	"Tõde ja õigus" haarab üle poole sajandi pikkuse perioodi.
+siht	N	21	25	19	23	Kahel sirgel on sama siht, kui nad on paralleelsed.	Marjulised jõudsid sihi äärde.
+nähtuma	V	17	23	7	13	Nagu juba nimest nähtub, on põldpüü põldude asukas.	Aknast nähtub, et hobune jäetakse seisma lahtiselt keset õue.
+kohtuma	V	17	23	17	25	Saadikukandidaat kohtus oma valijatega.	Me oleme kusagil kohtunud.
+astang	N	83	92	15	26	Pidevalt roolis olla ei saanud, kuna tee viis üle kitsaste harjade ja mööda ahtaid astanguid.	Maapind laskub astangutena mere poole.
+pinge	N	17	23	0	6	Püüa kuidagi oma pinget maandada	Pinges vibunöör. Pinge alt vabanenud vedru. Lihaste pinge.
+lapp	N	24	29	0	4	Kui imik majas, siis ka lapid nööril kuivamas. Vahetab lapsel lappe.	Lapp riiet, nahka. Põrand tõmmati märja lapiga üle. Pühkis laua lapiga puhtaks. Nühib lapiga ukse käepidet läikima. Hoiab märga lappi laubal. Lappidest õmmeldud nukurõivad, vooditekk.
+soov	N	0	5	16	21	Soovi korral võib ta ise avalduse kirjutada.	Hunnik luhtunud soove ja unistusi.
+austama	V	31	38	6	13	Esiisade kombeid, traditsioone austama.	Palun austage meie koosviibimist oma osavõtuga.
+klass	N	25	31	34	45	Esimese, teise, kolmanda klassi kajut, vagun.	Mootorrattad ja kardid jaotatakse klassidesse mootori silindrimahu järgi.
+kõne	N	5	9	28	33	Tema kõne oli segane.	Oli kuulda laia venekeelset kõnet.
+umb_haru	N	4	11	9	16	Jõe umbharu algab mõne meetri pärast.	Ristmiku umbharu vastasküljel tohib parkida.
+pääsema	V	19	25	7	13	Poisil on võti, ta pääseb tuppa igal ajal. Kivilt kivile hüpates pääsed sa kuiva jalaga üle jõe.	Valgus pääses tuppa laeakna kaudu.
+kräunutama	V	0	10	7	18	Kräunutati uksi ja väravaid. Pillimees kräunutas oma lõõtsa.	Poisid kräunutasid tüdrukuid. Või tema neid plikasid vähe kräunutanud on!
+kordama	V	7	13	0	9	Laulja kordas publiku soovil viimast pala.	Kordasime katset.
+juhatus	N	16	24	8	16	Selleks on vaja juhatuse otsust, nõusolekut, luba.	Tee ema juhatuse järgi, juhatust mööda! Oleksin maja leidnud ka suulise juhatuse järgi.
+neelduma	V	11	18	35	44	Jõgi, vesi neeldub lõhede kaudu maa-alustesse tühemetesse.	Ainult puude tüved paistsid, võrad neeldusid uttu.
+hakkama	V	5	11	6	12	Koer hakkas hammastega püksisäärde.	Tütar hakkas emale kaela.
+kilp	N	45	52	58	63	Varjas end vaenlaste löökide ja torgete eest kilbiga.	Naabrimees keevitas uksele kolmemillimeetrisest metallist kilbi ette.
+arvestus	N	15	25	9	17	Spordiühingute arvestuses võitis "Dünamo".	Punktide arvestus iluuisutamises.
+kiri	N	8	13	29	34	Kleepis kirja kinni, pani posti ja saatis vennale.	Mõni päev tagasi saime emalt kirja.
+joonistama	V	7	16	12	23	Pakane joonistas jäälilled aknale.	Kirjanik on joonistanud realistlikke pilte tänapäeva ühiskonnast.
+käima	V	6	10	11	17	Uudis käis suust suhu.	Tema kohta käisid mitmesugused jutud.
+tõusma	V	6	12	0	6	Mäkke tõusma.	Tõusis redelil ülespoole.
+andma	V	39	43	0	4	Mis võis talle selliseks sammuks tõuke anda? Kordaminekud annavad lootust, julgust, uut jõudu, enesekindlust.	Anna pudel siia.
+meel	N	22	28	28	33	Nähtavasti polnud sul meeles kella üles keerata. Pea siis meeles minu õpetusi!	Heinalõhn haaras linnarahva meeli.
+kirjutama	V	10	18	5	13	Kooliarst kirjutas poisile prillid.	Arst kirjutas mulle rohu.
+intsident	N	0	9	11	20	Intsident on lahendatud.	Ebameeldiv intsident ülemusega.
+riisuma	V	0	6	7	15	Riisus piimalt koore.	Plikad riisusid end rannas paljaks.
+pakitsema	V	6	14	5	13	Minus pakitseb piinav süütunne.	Nutt pakitseb kurgus.
+koht	N	19	25	24	30	Pirukas oli mõnest kohast kõrbenud.	P. Keres tuli esimesele kohale. Hiina on elanike arvult esimesel kohal maailmas.
+keerutus	N	53	62	46	55	Tantsi!^" nõudis Toomas. Tegin üsna ükskõikselt paar keerutust..	Esimesed tantsijate paarid alustasid põrandal keerutust. See pole mingi jutt, niisama tühipaljas keerutus! * On hullemadki keerutused ja väljamõeldised uskujaid ja edasikandjaid leidnud...!
+purjetama	V	20	28	10	20	Kaubalaev, kalalast purjetab Inglismaale. Kuunari kiiluvees purjetas brigantiin.	Saarlased purjetavad kaugetel meredel.
+õpetaja	N	13	20	14	23	Talle meenus õpetaja nõuanne.	Kas sa hakkad õpetajaks?
+barjäär	N	18	26	34	43	Ulatab mantli üle barjääri riidehoidu.	Kaovad rahvaid ja rasse eraldavad barjäärid. Psüühilist barjääri on raske ületada.
+noorendama	V	30	40	38	48	Õunapuud tuleks harvendada ja noorendada.	Juhtkonda, seltsi juhatust oleks vaja noorendada. Hokimeeskond tuleb maailmameistrivõistlustele noorendatud koosseisus.
+kandma	V	30	35	12	19	Ta on nii purjus, et jalad ei kanna.	Templi lage kandsid võimsad sambad.
+kasvatama	V	17	24	7	19	Väetamata maa ei kasvata vilja.	Lõunas kasvatatakse troopikapuuvilju, viinamarju, teed.
+kiskuma	V	46	51	13	19	Püksid on muidu parajad, ainult värvli kohalt kisub veidi	Jahimehekirg kiskus teda püssiga metsa
+trallitama	V	8	17	35	46	Joob ja trallitab teiste kulul. Pidudel trallitati sageli hommikuni.	Tüdrukud alustasid laulu ja poisid trallitasid kaasa. Seltskond järgnes trallitades pillimehele.
+hakkama	V	5	11	28	33	Neil hakkas igav.	Minu mõistus selle peale ei hakka.
+saama	V	31	37	12	16	Kas minu silmad seda enam näha saavad? Saime kuulda häid uudiseid.	Sirgel teel saab sõita suure kiirusega. Lahkarvamusi saaks ehk klaarida ka riiuta.
+ohver	N	18	25	21	28	Langesime pettuse ohvriks.	Metsavaimudele viidi ohvriks osa jahisaagist.
+klass	N	18	26	25	31	Tulemus oli heast klassist.	Esimese, teise, kolmanda klassi kajut, vagun.
+lähenema	V	5	12	18	25	Kell läheneb kuuele. Jaan hakkab juba kuuekümnele lähenema.	Osavõtjate üldarv läheneb sajale. Hullumeelsusele lähenev meeltesegadus.
+tuur	N	40	45	8	15	Tantsusaalis keerlesid paarid viimaseid tuure.	Kaheksa tuuriga „Tuljak”.
+raam	N	21	27	47	51	Haavatu, haige lamas raamil.	Veoauto, buldooseri, mootorratta, kultivaatori raam.
+anekdoot	N	38	48	16	25	Tänapäeval aga olid anonüümsed üksnes anekdoodid.	Ma räägin sulle anekdoodi. Ta teab palju anekdoote.
+ruun	N	39	44	57	61	Tahtis keegi kuldist orikat või täkust ruuna teha -- ka selle töö jaoks olid Pärnil riistad ja lahtised käed.	Raudjas, kõrb, hall, valge, lauk, segatõugu, vaga, vagur ruun. Meie ruunal on prei, ruun lonkab. Rakendas ruuna vankri ette. * .. latritest vaatas vastu kolm hobust: must laukotsaga ruun, punane vana mära ja hall rublatükkidega sälg.
+koondama	V	105	113	8	15	Võrrandit lahendama asudes tuleb see kõigepealt lihtsustada: avada sulud, vabaneda murru nimetajatest ja koondada sarnased liikmed.	Emajõgi koondab endasse mitme jõe veed.
+tegema	V	28	32	35	41	Lasksin endale uue kostüümi teha	Plastiliinist, tammetõrudest loomi tegema.
+andma	V	60	64	21	26	Noored ei oska alati vanemate hoolitsusele küllalt tähtsust anda.	Säärast meistrimeest annab tikutulega otsida. Lõpuks ometi, küll andis oodata.
+mõte	N	0	6	25	32	Mõtted valguvad laiali.	Ma ei saa selle vanasõna mõttest aru. Lause mõte jäi arusaamatuks, segaseks.
+arenema	V	9	15	10	18	Võistlus arenes tasavägiselt.	Sündmused arenesid peadpööritava kiirusega.
+kasvama	V	12	18	18	26	Mäekülgedel kasvas mets. Kingul kasvab kolm mändi.	Ta on sündinud ja kasvanud Lõuna-Eestis.
+kirjutama	V	10	18	0	8	Kooliarst kirjutas poisile prillid.	Kirjutab luuletusi, jutustusi, vesteid, novelle, kuuldemänge, stsenaariume.
+käsitsema	V	41	50	0	8	Lapsi õpetati söögilauas nuga ja kahvlit käsitsema.	Käsitseb osavalt kirvest, saagi, labidat. Oskab käsitseda masinaid, mehhanisme, tööriistu.
+kirjutama	V	24	34	5	13	Ta pole enam ammu emale kirjutanud. Lubas kohe kirjutada, aga unustas.	Poeg kirjutas, et elab hästi.
+õhustuma	V	16	23	83	91	Kobestades muld õhustub. Jäätunud veekogu ei õhustu.	Lubjarikast kaevu- või kraanivett tuleb keeta ning lasta 2 ööpäeva seista, et vesi õhustuks. Kobestades muld õhustub.
+sisemus	N	19	28	18	26	Heitis pilgu laeka sisemusse. Sipelgapesa sisemusse vihmavesi tavaliselt ei tungi.	Päike küttis auto sisemuse soojaks. Mehed kadusid laeva sisemusse.
+tõusma	V	3	9	0	6	Ta tõusis toolilt püsti.	Tõusis redelil ülespoole.
+vaatama	V	24	31	5	11	Läks haiglasse sugulast vaatama. Käisime haiget klassiõde vaatamas.	Mina vaatan sellele asjale mõnel määral teisiti.
+larisema	V	0	7	17	26	Lariseb magada, norsata. Magab nagu lariseb, nii mis lariseb.	Purelevad koerad larisevad. Koer kargas talle larisedes kallale.
+korrigeerima	V	4	15	37	49	Elu korrigeerib meie plaane ja kavatsusi.	Ettepanekuid, hinnanguid, seisukohti korrigeerima.
+andma	V	60	64	22	28	Noored ei oska alati vanemate hoolitsusele küllalt tähtsust anda.	Talle üle 30 aasta ei annaks.
+vedama	V	20	26	4	9	Asub, hakkab jooksu vedama.	Tal vedas eksamil kõvasti.
+kõrvetama	V	35	45	21	28	Suvekuumus oli rohu roostepruuniks kõrvetanud.	Vaata, et sa liha ei kõrveta!
+võtma	V	0	6	3	9	Võttis poissi täismehena, täismehe ette. Nad ei võtnud teda kui omasugust.	Ta võttis seda hea naljana.
+pöörama	V	12	19	0	5	Pudeli põhi pöörati ülespoole.	Pööra särgikrae tagasi!
+plahvatama	V	22	31	23	32	Mis sa ometi trügid!" plahvatas keegi järjekorras.	"Mis sa ometi trügid!" plahvatas keegi järjekorras.
+hääletama	V	27	36	32	41	Ega midagi, tuleb maanteel hääletada.	Et kokkuleppele ei jõutud, tuli hääletada.
+mütsatama	V	9	17	7	17	.. poiss mütsatas kannad kokku..	Kukkus mütsatades maha. Mütsatas seljaga vastu seina, diivanile istuma. Sula ilmaga mütsatab katustelt lund ja jääd. * Äkki mütsatas kuskil üsna lähedal tume plahvatus..
+noolima	V	55	61	33	41	.. aga kui juhtus [et onu toidukraami kaasa tõi], siis noolis ta vastutasuks enesele ikka mõne asjakese -- kas laudlina, iluasja..	Viljaorased on erksalt kikkis ja noolivad päikest.
+lurjus	N	5	11	39	45	Suur lurjus ja logard on ta .. teeb tüdrukutele lapsi ja elab oma vana ema kaelas.	Ta on petis ja varas, igavene, viimane lurjus. Küll on lurjus, palga joob maha, lapsed kodus näljas. Valetad, lurjus! * On lurjus see, kes nõrga vastu tõstab käe.
+võimalus	N	14	23	16	24	Kuid järgmist võimalust kui sellist ei saa temalt keegi ära võtta.	Praegu on ainus võimalus kõhtu täis süüa, sest pärast enam süüa ei tehta.
+hüpatama	V	5	13	37	44	Last hüpatama. * ..võtsin kapiservalt portselanist nukukese ja hüpatasin seda peol..	Virutas mapi lauale, nii et tuhatoos hüpatas.
+kasvatama	V	0	8	6	14	Kasvatab hea elu peal kõhtu.	Poiss kasvatas endale pikad juuksed.
+jätma	V	7	12	0	6	Põllud jäeti sööti.	Jättis võtme mati alla ja arved maksmata.
+peatuma	V	25	31	0	8	Talvel vesiveski tegevus peatus.	Peatusin seisjatega juttu puhuma.
+purse	N	49	54	13	18	Ühiskonnaelu pursked. Aknast rõkatas uus kilgete purse.	Vulkaaniline purse. Muistne Pompeji hävis Vesuuvi purske tagajärjel. Mõne minuti väldanud kuumaveeallika purse. Päikese kromosfääri tugevad pursked. Artikkel huvitavatest pursetest galaktikas. Hõõguvate gaaside perioodilised pursked. Aparaat märkis raadiokiirguse purskeid.
+kergitama	V	9	18	46	56	See lugu kergitati edetabelis isegi esikolmiku hulka.	Seesama noormees, kes vastu tema tahtmist oli kergitatud lülivanemaks ja seega ka ühtlasi tema juhtijaks
+ebelus	N	0	9	30	36	Ebelusest ning kavalusest sädeleva maski all temas oli säilinud süütu, naiivne tüdruk..	..aeg on lõpetada kergemeelne ebelus.
+bokser	N	30	38	0	9	Müügile saabusid uued lõbusad bokserid meestele.	Bokserite ülestõus.
+lüpsma	V	17	26	6	15	Kalakasvandustes lüpstakse nii marja- kui niisakalu.	Lehmi lüpstakse kolm korda päevas.
+käima	V	0	4	0	4	Käib ässaga, kümnega, emandaga.	Käis valge etturiga.
+kärn	N	14	21	31	36	Lööb vasaraga kärnile peale.	Valandi tegemisel ei kasutatud kärne.
+maastik	N	13	22	36	45	Ta pildistas maastikku, mida aknast nägi.	See hõlbustas liikumist porilibedal maastikul.
+elu	N	0	3	12	15	Elu veereb oma rada. Elu tahab elada. Ta elu oleks võinud teistsuguseks kujuneda.	Marsil pole elu.
+vitsutama	V	11	20	11	19	Lõuna ajal vitsutati pekki ja kartuleid, kapsaid sealihaga.	Karjapoiss vitsutab vihaselt lehmi. Isa hakkas üleannetut poega vitsutama.
+koht	N	34	40	19	25	Lõpuks ometi on isemeelne kindral kohalt lahti kangutatud.	Pirukas oli mõnest kohast kõrbenud.
+kandma	V	9	17	12	19	Lehtpuud kannavad lehti, okaspuud okkaid.	Templi lage kandsid võimsad sambad.
+juunior	N	6	13	0	10	Dumas juunior. * Minu teisel käel istus Andrew Robinson juunior, perepoeg. V. Beekman (tlk.).	Juunioride jalgpallikoondis. Juunioride ja noorte meistrivõistlused. Juunioride tenniseturniir.
+papp	N	28	34	17	22	Seinad on õhukesed, justkui papist.	Ostaks auto, aga pappi pole. Anna pappi!
+pidama	V	4	9	9	14	Isa pidas väikest asunikukohta. Mis sa neist kassidest ja koertest pead? Autot pidada läks kulukaks.	Üks päev pidin auto alla jääma.
+konsulteerima	V	44	57	17	31	Ema peaks tema tervise üle erialainimestega konsulteerima.	Selles küsimuses konsulteerisid teda parimad asjatundjad.
+pind	N	52	58	8	13	Vastuolud tekkisid majanduslikul, maailmavaatelisel pinnal	Astusin pinnu jalga. Võtsin pinnu nõelaga välja.
+nürinema	V	18	27	18	27	Viha oli [pullil] nürinenud, väsimus tahtis teda maha niita.	Saag on tuntavalt nürinenud. Lõiketerad, puurid nürinevad kiiresti. Nägemise nürinedes hakkas ta prille kandma. Vananedes meeled nürinevad, vaim nürineb. Armastus jahtus, tunded nürinesid. * .. nüüd kiilasjää ja konaraga / liig nürinenud raudadel / oht kukkuda on hobusel.
+juhatus	N	16	24	33	40	Selleks on vaja juhatuse otsust, nõusolekut, luba.	Emakeele Seltsi, Kirjanike Liidu juhatus. Kolhoosi, kooperatiivi juhatus.
+pärandama	V	25	35	45	55	Ema on oma ilu tütardele pärandanud.	Tema Ameerikas elav onu olevat talle miljoni pärandanud.
+põdema	V	6	11	17	24	Haige põdes kaua, mitu kuud, ligi aasta.	Olen mumpsi juba põdenud.
+kõlama	V	20	25	16	21	Kirikukellade helin kõlas kaugele.	Tema tugev hääl kõlas üle saali.
+küsimus	N	10	18	21	29	Ta esitas küsimuse: "Kas teate lahendust?	Ta kordas häbelikult küsimust.
+kuulma	V	3	9	14	21	Ta kuulis, kuidas süda lööb.	Kahjuks ma ei kuulnud, mis Teie nimi oli.
+rehala	N	27	36	19	28	Talle kaeti laud jahedasse rehalasse, kus väravad kahelt poolt lahti..	Rehetoast viis uks rehalasse. Alles hilja õhtul lõppes rehalas viljapeks. Rehalad lõhnasid uudseviljast. * Rukist polnud jõutud veel rehalaisse vedada, kui tuli kätte nisu kord.
+segama	V	36	44	34	41	Nõuab, et teda vahelerääkimisega ei segataks	Toidu hulka on liiga palju vürtse segatud.
+äär	N	31	35	21	25	Kutsikas armastab närida vaiba ääri. Riide äär tuleb palistada.	Lükkas juuksed mütsi ääre alla. Laia äärega kübar.
+paruness	N	47	57	16	27	..<N>kummardas viisakalt paruniprouale: "Proua paruness..^"	.. teadmine, et parunessiga abielludes tema, tol ajal alles lihtne leitnant, teeb väga hea partii..
+lõpp	N	27	32	14	19	Tallinn jäeti maha augusti lõpul.	Ta jõudis tee lõppu.
+liaan	N	41	48	14	22	Ka metsviinapuu, luuderohi ja elulõng on liaanid.	Troopikametsa liaanide rägastik.
+jääma	V	26	31	3	6	Jooksin, et mitte hiljaks jääda. Vili jäi lume alla.	Ta jäi haigeks.
+pidama	V	4	9	25	30	Isa pidas väikest asunikukohta. Mis sa neist kassidest ja koertest pead? Autot pidada läks kulukaks.	Oma lubadust, tõotust ta pidas. Ta peab ausalt meie kokkulepet.
+kontrollima	V	6	16	38	49	Kadri kontrollis väikse õe teadmisi arvutamises.	Ta kaotas närvid ega suutnud end enam kontrollida.
+kõlama	V	20	25	9	14	Kirikukellade helin kõlas kaugele.	Orkester kõlas puhtalt. Õpetaja hääl kõlas sõbralikult, rahulikult ja selgelt.
+tilkuma	V	9	15	37	44	Räästast tilgub vett	Pidulisi hakkas juba varakult kohale tilkuma
+kaduma	V	0	4	22	28	Kaob kiiresti toast, nurga taha. Oskab parajal, õigel ajal kaduda.	Pidas õigemaks salaja kaduda.
+kustutama	V	22	32	19	28	Vanemate vastuseis ei kustutanud noorte armastust.	Maja oli leekides, kustutada ja päästa polnud midagi.
+püüdma	V	8	15	37	44	Kass on püüdnud juba mitu hiirt kinni.	Kalalaevad käivad Atlandil heeringat püüdmas.
+müdisema	V	8	15	32	39	Metsast müdises parajasti veoauto välja.	Jooksevad, kappavad nii, et maa müdiseb. Laps jookseb juba mis müdiseb, nagu müdiseb. Kapjade müdisedes jooksevad hobused koplis. Põrand müdiseb jooksust, tantsust. Müt-müt-müt! müdiseb mootor. Mootor müdiseb käia, traktor müdiseb künda. * Jälle müdisevad kabjad rütmiliselt vastu vihmast pehmunud maad.
+tabama	V	15	22	3	8	Varas on teolt tabatud.	Ta tabas endalt Pille pilgu.
+literaat	N	39	49	0	9	Kirjandusteadlased ning -kriitikud jt. literaadid.	Literaate on palju, kirjanikke vähe.
+raamima	V	10	18	10	18	Maa poolt raamisid merelahte metsad.	Tema nägu raamisid kohevil juuksed.
+aeratsioon	N	9	19	15	25	Joogivee aeratsioon.	Hoonete, mulla aeratsioon.
+minema	V	37	41	4	10	Tervet päeva selle töö peale küll ei lähe. Ja nii läks päev päeva järel.	Mis läinud, see läinud.
+lõik	N	8	12	21	28	Oluline lõik eesti muusika ajaloos.	Suusaraja raskeimaks lõiguks oli pikk tõus orust mäenõlvale.
+lend	N	13	19	13	17	Regi libises lennul üle lume.	Aja, aastate lend.
+kaduma	V	4	9	16	23	Aeg kadus käest lennates, niisama tegevusetult. Noorus kaob märkamatult.	Nädalad, aastad kadusid kui unes.
+kuuluma	V	6	12	7	13	Kahju kuulub hüvitamisele.	Lihula kuulub Lääne maakonda.
+vallutama	V	14	22	7	17	Meie põlvkond vallutas kosmose. Noored vallutavad kõrgusi.	Noored vallutavad teadust. Talus on raske tööga soo käest põllumaad vallutatud.
+kett	N	12	16	12	17	Ankur ripub keti otsas. Medaljoni kett läks katki.	Panin koera ketti.
+kergitama	V	46	56	6	14	Seesama noormees, kes vastu tema tahtmist oli kergitatud lülivanemaks ja seega ka ühtlasi tema juhtijaks	Poiss kergitas pükse.
+hõigatama	V	17	25	18	26	Tervist, mehed!" hõigatas ta kaugelt.	"Tervist, mehed!" hõigatas ta kaugelt.
+kuulma	V	0	6	13	21	Kuulge, hakkame minema! Kuule, ega sa enam pahane ole?	Ta ei teinud kuulmagi.
+piimo_hakas	N	30	40	16	26	Vagude vahel lokkavad virn ja piimohakas.	Harilik ja kare piimohakas kasvavad Eestis umbrohuna.
+osutama	V	5	11	0	6	Laps osutas sõrmega mänguasjadele.	Osutas elavat huvi meie kavatsuste vastu.
+kepp	N	29	33	14	18	Teekäijal oli kott seljas ja kepp käes.	Liikus ainult kepi abil. Materdas kepiga ussi.
+ninnunännutama	V	38	52	23	38	Juku poole pöördudes hakkas tädi kohe ninnunännutama.	Meest on sünnist saati ninnunännutatud.
+otsustama	V	55	64	33	43	Võidu määras viimane vise. Ei usu, et minu sõna midagi otsustaks.	Selle väravaga oli mängu tulemus otsustatud. Asja ei saa jätta juhuse otsustada.
+kirumis_sõna	N	23	34	23	34	Eestlaste kasutatavaim kirumissõna on: "Kurat!	Eestlaste kasutatavaim kirumissõna on: "Kurat!".
+jätma	V	29	35	7	12	Asjad olid laokile, ripakile jäetud. Uued sündmused jätsid vanad varju, unustusse.	Põllud jäeti sööti.
+rääkima	V	9	15	7	15	Advokaat rääkis pikalt süüaluse kaitseks. Käis enne valimisi maal rahvale rääkimas.	Poisid rääkisid inetult. Milleks mõistu rääkida, ütle otse.
+loobuma	V	12	19	24	29	Soomel tuli loobuda Viiburist.	Jaan armastab Marit ega loobu temast kunagi.
+pea	N	7	10	16	19	Kukkus pea lõhki	Käed kõrgel üle pea.
+seadma	V	0	6	30	36	Seadis toolid seina äärde ritta, kõik asjad oma kohale.	Naised hakkasid end kirikusse seadma.
+kasvama	V	0	6	22	29	Kasvas kiiresti oma kasvu täis. Tüdrukust kasvas kaunis neiu.	Koormus, pinge hakkas kasvama
+pillaja	N	12	19	68	75	Ei sihukese pillaja käes pärandus püsi! Ta ei olnud kitsipung, aga ka mitte pillaja. Pillajast saab ori, kokkuhoidjast kuningas. Vs.	* .. oli üsna tavaline laupäev, aga arhivaar käis rahaga ringi nagu pillaja suurte pühade eel.
+leidma	V	7	14	0	6	Järsku leidsin, et mu kohver on kadunud.	Leidis endale abikaasa.
+koorima	V	26	33	32	39	Hakkas sõrmedega apelsini koorima.	Hakkasin endal riideid vähemaks koorima.
+panema	V	7	12	3	9	Röövel pandi raudu. Peremees paneb koera ketti. Lehm pandi köide.	Ei pannud paljuks (vaeva) lapse järele vaadata.
+pistma	V	31	37	15	23	Nõelaga, noaga, piigiga, oraga pistma.	Sääsed, parmud pistavad valusasti.
+kirjutama	V	5	13	19	29	Arst kirjutas mulle rohu.	Sellest sündmusest kirjutavad kõik ajalehed.
+elanik	N	37	45	32	40	Mõelda ainult, kui kõik mikrorajooni elanikud hakkaksid otsima nende kaupluses prototüüpe!	Need inimesed on maja tulevased elanikud.
+leidma	V	5	11	12	16	Arst leidis, et haigele on vaja miljöömuutust.	Kas teie ei leia, et...
+pass	N	22	28	25	30	Vanasti olid hobustel passid.	Pakkumisele järgnes kaks passi.
+lukkuma	V	0	8	36	44	Lukkuvad taga mu väravad ohates..	Tema meeled olid maailma tajumiseks lukkunud..
+pidama	V	10	15	9	16	Küllap ta peaks mind veel mäletama. Meie tulek pidi neil küll ette teada olema.	Oleksime pidanud sellele varem mõtlema. Osa sellest varast pead sa endale saama.
+rääkima	V	3	9	9	15	Ta räägib tihti ärist.	Advokaat rääkis pikalt süüaluse kaitseks. Käis enne valimisi maal rahvale rääkimas.
+mähe	N	32	39	19	26	Kui laguneksid hinge ümbert ihu mähkmed, naha kitsas laha..	Kolm-, nelinurksed mähkmed. Marlist, flanellist mähkmed. Paberist mähkmed ühekordseks kasutamiseks. Kas oskad imikut mähkida, mähkmeid vahetada, kuivi mähkmeid panna? Mähkmeis lapsuke hällis. Laps nutab, on vist mähkmed märjaks teinud, mähkmed on vist märjad. * Mähkmeist peale jälgis sind oht / .. sullegi elus määrati koht / kibedat sulaseleiba süüa.
+jõudma	V	0	6	0	5	Jõudis hommik, öö, päev. Päike loojub, õhtu jõuab.	Jõuan ise enese eest seista. Jõuab saladust pidada, keelt hammaste taga hoida.
+kasvama	V	18	26	22	29	Ta on sündinud ja kasvanud Lõuna-Eestis.	Koormus, pinge hakkas kasvama
+astuma	V	9	14	13	18	Valitsus astus ametisse. Mees astus tundmatu naisega kirjavahetusse.	Uus valitsus astus ametisse. Noored astuvad ellu.
+käima	V	6	10	6	10	Tütar käib tal juba viiendas klassis.	Poiss käis koos tooliga põrandale.
+möllama	V	6	12	24	31	Tuisk möllas öö läbi.	Lastele meeldib heintes möllata.
+emissioon	N	12	21	16	25	Elektronide emissioon.	Kinnine, avalik emissioon.
+kriis	N	15	20	45	51	Hüpertooniline kriis.	Rahvuslikus liikumises oli märgata süvenevat kriisi.
+nöörima	V	17	25	18	25	Seljakoti rihmad nöörivad õlgadesse. Krae nöörib kaela.	Kummardus saapaid nöörima.
+saama	V	6	9	31	37	Haige sai palaviku, tugeva köhahoo. Sai külmetusest kopsupõletiku.	Kas minu silmad seda enam näha saavad? Saime kuulda häid uudiseid.
+kirjutama	V	5	13	0	8	Arst kirjutas mulle rohu.	Kirjutas vasaku käega. Laps õpib alles kirjutama. Mees ei oska lugeda ega kirjutada.
+kiunuma	V	20	26	7	13	Ära löö, valus on!" kiunus poiss.	Põrsas kiunub kotis.
+noolima	V	55	61	5	11	.. aga kui juhtus [et onu toidukraami kaasa tõi], siis noolis ta vastutasuks enesele ikka mõne asjakese -- kas laudlina, iluasja..	Kass noolib põõsastes lindu. Rebane hiilib aia taga, noolib vist kanu. Pääsukesed sööstlevad putukaid noolides. Kajakad noolivad prügiurnidest toidujäätmeid. Igaüks noolib paremat suutäit. Noolitakse muudkui kergemat tööd ja kõrgemat palka. Jootraha nooliv šveitser. Vana mees, aga noolib noori naisi. * Pääsmeta jäänud kinohaiged seisid trepiastmetel ja noolisid juurdetulijatelt üleliigset piletit.
+omistama	V	18	27	13	22	Kalliskividele on omistatud maagilisi tähendusi.	Gutenbergile omistatud trükis osutus veidi hilisemasse ajajärku kuuluvaks.
+asi	N	13	20	0	3	See ei puutu asjasse. Nad olevat asjast nii aru saanud.	Asi oli pooleldi ebaseaduslik.
+janutama	V	45	53	15	22	Kuum ilm, kibe töö, soolane toit ajab, paneb janutama. * ..kui ma hakkasin janutama, jõin vett ojast..	Pikk kõrbereis janutas matkajaid. Ega vana sool enam januta. Vs.
+panema	V	6	10	11	16	Poiss pani suure kiiruga kooli poole, metsa.	Toidu lõhn paneb suu vett jooksma. Kingitus pani lapse silmad särama.
+pilvik	N	10	19	25	34	Mõningaid pilvikuid peab enne tarvitamist kupatama.	Eestis on umbes 50 liiki pilvikuid.
+jooksma	V	8	15	8	15	Maantee jooksis raudteega kõrvu, piki rannaäärt, loogeldes kaugusse. Tänav jookseb otsaga vastu parki.	Koridor jooksis läbi mõlema majatiiva.
+peegelduma	V	14	23	11	22	Rahva võitlus peegeldub ka kirjanduses ja kunstis.	Jõe pinnal peegeldusid puud. Valgusreklaamid peegeldusid märjal asfaldil.
+aeg	N	33	37	13	17	Eesti ja Soome iseseisvusid ühel ajal.	Ta oli mõnda aega tagaplaanil.
+kiunuma	V	20	26	21	27	Ära löö, valus on!" kiunus poiss.	"Ära löö, valus on!" kiunus poiss.
+steriliseerima	V	9	26	25	39	Konserve steriliseeritakse autoklaavis. Steriliseeritud piim.	Termiliselt, keemiliselt steriliseerima. Süstlaid, nõusid, voodipesu steriliseerima. Skalpelle steriliseeriti piirituses. Kosmoselaeva on raske steriliseerida.
+võtma	V	6	12	0	6	Uudis võttis mehe tummaks, keeletuks, pahviks. Ehmatus võttis jalust nõrgaks.	Võttis poissi täismehena, täismehe ette. Nad ei võtnud teda kui omasugust.
+seisma	V	10	16	12	18	Areng jäi seisma.	Jätsin auto seisma.
+tuut	N	0	4	1	5	Tuut!" tegi vedur, laev	"Tuut!" tegi vedur, laev
+tõmbama	V	23	30	21	29	Sokke ja saapaid jalga tõmbama.	Kauged mered ja maad tõmbasid teda juba lapsepõlves.
+nägema	V	0	5	14	18	Nägin ta silmist, pilgust, olekust, et midagi on juhtunud.	Hobuse vanust näeb hammastest.
+kandma	V	15	21	12	19	Jõi palju, aga kandis ka palju, kõvasti.	Rahakott ei kandnud uusi rõivaid osta. Jõud enam ei kandnud viimaseid meetreid läbida.
+juhtuma	V	0	8	22	28	Juhtusin rahapaja juurde.	Mis seal mõisas õieti juhtus?
+seletama	V	19	26	3	10	Laps mängib õues", seletas ta.	Ta seletas, et...
+elu	N	24	27	0	3	Surmamõistetule kingiti elu	Elu tekkimine maakeral
+istuma	V	3	8	3	8	Ta istus alati öösiti üleval.	Ta istus heinakotile.
+haisutama	V	26	36	14	22	Sa oled vist ennast jälle haisutanud, Kazimir..?	Nugis, tuhkur haisutab. Haisutab oma piibuga kogu maja ära. * Haisutab siin hirmu pärast nagu tõhk..
+panema	V	3	7	0	5	Ta pani mu vägisi sööma. Neid ei saanud kuidagi rääkima panna.	Panin ta puid tegema.
+nupp	N	25	31	38	47	Vanaisal oli pärlmutrist nupuga jalutuskepp.	Teki äärde heegeldati neljakordsetest nuppudest rida.
+tühistuma	V	26	34	12	19	Järele jääv tellimuse osa tühistub sellegi poolest.	Võimalus ei tühistu, kuid on äärmiselt vähetõenäoline.
+hakkama	V	27	33	13	18	Kui hästi lilla värv sulle hakkab! See soeng, kleit ei hakka mulle.	See soeng ei hakka mulle.
+barjäär	N	18	26	6	16	Ulatab mantli üle barjääri riidehoidu.	Kõgre barjäärina takistab kaukasus õhumasside teed lõunasse.
+koonerdama	V	14	25	27	36	..ja praegugi koonerdasin kopikaid, et osta välismaine nailonsärk ..	Koonerdati auto ostmiseks. Koonerdab toiduga. Kõike oli küllaga: peoperemees polnud koonerdanud. Ta ei koonerdanud annetuste tegemisel. Osta ära, ära koonerda! * Harilikult ta koonerdab, ei osta sõbrale pudelit õlutki.
+kõndima	V	10	16	31	38	Perenaine kõndis toa ja aida vahet.	Nad läksid Emajõe äärde, parki kõndima.
+tabama	V	5	10	15	22	Teda tabas taas rännukirg.	Varas on teolt tabatud.
+kooruma	V	9	15	9	17	Lume alt koorus mustendav maa. Hämarusest koorusid esile majad. Sõnavõttudest koorus pikapeale (välja) tõde.	Munadest koorusid tibud. Kapsaliblika munadest kooruvad ühe kuni kahe nädala pärast röövikud.
+pistma	V	14	20	0	8	Vana Kristjan pistis nahka mitu taldrikutäit suppi.	Pistsime marju kahe suupoolega.
+nägema	V	24	29	4	9	Jääb siis nii, et homme näeme.	Kui näeme, räägime pikemalt.
+kasvatama	V	6	14	36	44	Poiss kasvatas endale pikad juuksed.	Kõik see ei kahandanud, vaid hoopis kasvatas üldist uudishimu.
+venitama	V	34	42	13	20	Ei maksa seda käiku päevast päeva venitada.	Kuidagiviisi venitas ta oma tööpäeva õhtusse. Hooaja algus möödus huvitavalt, nüüd peab kuidagimoodi lõpuni venitama.
+puuduma	V	8	14	24	30	Kolmest puudub kümme minutit.	Sellele loodusnähtusele puudub seletus.
+kirjutama	V	0	8	0	8	Kirjutab luuletusi, jutustusi, vesteid, novelle, kuuldemänge, stsenaariume.	Kirjutab praegu oma väitekirja.
+käima	V	13	19	12	18	Loodusrahvad käisid alasti.	Kuumad hood käivad üle keha.
+hõivama	V	11	19	25	33	Pingviinid hõivavad suviti suurema osa saarest.	Kohvikus olid kõik kohad hõivatud.
+hoidma	V	26	32	0	8	Niiti oli vähe, seda pidi hoidma.	Hoidsime varandust.
+nägema	V	13	17	0	5	Ta ei osanud näha viletsuse tõelist põhjust.	Nägin ajalehest, et su maja on müüa.
+protesteerima	V	16	28	17	29	Ei taha suppi," protesteerib laps.	"Ei taha suppi," protesteerib laps.
+varustama	V	20	29	28	36	Vabrikut toorainega varustama. Linna joogiveega varustama.	Ta hankis mulle rohtusid ja varustas mind nendega pidevalt.
+käima	V	5	9	12	18	Kell käib keskhommkut.	Need saapad käivad selle talve veel.
+ajama	V	19	24	12	19	Mul on linnas asju ajada. Kes seda ekskursiooni asja nüüd ajab?	Istusime ja ajasime juttu.
+krooge	N	31	40	0	10	Valitseja tõmbab suu imelikult krookesse ..	Kroogetega kleit, seelik, käised. Pluusi krooked. Kleidi rinnal, õlgadel on krooked. Riie on vöö kohalt kergelt krookes.
+konstrueerima	V	6	20	0	13	Ta on konstrueerinud mitmeid optikaaparaate.	Konstrueerida nurk, mille siinus on 2/3!
+käskima	V	4	10	4	10	Ema käskis poisil uks kinni panna.	Ema käskis lastel õue minna.
+uks	N	9	13	9	12	Lükkasin ukse lahti.	Vannitoa uks.
+kergitama	V	17	25	19	27	Pärm, söögisooda kergitab taignat.	J. Schultz-Bertram kergitas eesti eepose loomise mõtte.
+klass	N	10	15	18	26	Roomajate klass. Imetajate klass.	Tulemus oli heast klassist.
+sisu	N	7	11	43	49	Mõiste sisu. Uued mõisted annavad olemasolevatele sõnadele uue sisu. Palun avage järgmiste võõrsõnade sisu.	Analüüsis pöörati peamist tähelepanu teose sisule. Sain järgmise sisuga kirja. Jutusta mulle lühidalt ettekande sisu!
+veristama	V	0	8	18	27	Veristas klaasikilluga kätt.	Jõuluks, pühadeks veristati siga.
+pool	N	24	30	30	36	Tamiil keerleb kiiresti poolil. Kirjutusmasina lint kerib end ühelt poolilt teisele.	Istusime alati kiriku paremal poolel. Teenijate ja pererahva pool talus.
+leidma	V	12	16	6	13	Kas teie ei leia, et...	Ta ei leidnud kohe kõneainet, paslikku vastust.
+kõndima	V	10	16	5	11	Perenaine kõndis toa ja aida vahet.	Laps kõndis ema käekõrval.
+seletama	V	12	20	3	10	Kõrv hakkas seletama nagu mingeid kummalisi hääli.	Ta seletas, et...
+kuulma	V	13	21	14	21	Ta ei teinud kuulmagi.	Kahjuks ma ei kuulnud, mis Teie nimi oli.
+vaibutama	V	36	45	10	18	Arst püüdis süstidega haige valusid vaibutada. Astus lepitavalt juurde ja katsus meeste tüli vaibutada.	Pillimees vaibutas loo vaiksemaks. Arst püüdis süstidega haige valusid vaibutada.
+tikutama	V	10	17	26	33	Taevasikk tikutab. Kivihunniku otsas tikutas kivitäks.	Tikutatud tallaga kingad. Tikutab põlluserval lehma.
+pilutama	V	16	24	0	9	Särki, laudlinu pilutama.	Pilutasin silmi, et paremini kella näha.
+suruma	V	3	8	14	20	Ta surus käsivarred kõvasti vastu külgi. Tüdruk surus nina vastu klaasi.	Meid kuuekesi suruti 3-kohalisse telki. Teose tegevus on surutud ühte päeva.
+orel	N	20	25	7	13	Kirik, kool sai uue oreli.	Mängis orelil koraale.
+andma	V	53	58	0	5	Juhtnööre, õpetusi, nõu, käsku, käsklust, korraldust andma.	Annab käega märku.
+saavutama	V	31	40	9	19	Midagi pole võimalik hõlpsasti saavutada. Järeleandmisega ei saavuta sa midagi.	Nad olid saavutanud oma eesmärgi, sihi. Igaüks tahtis saavutada mingit kõrget positsiooni.
+priimus	N	56	63	23	30	Tagasihoidlikult pruuni sulestikuga lind, aga laulmises priimus. (Autor: K. Põldmaa.)".	See poiss on klassi(s) priimus. * Suuremate poiste hulgast määras koolmeister priimuse ja see pidas eriti meid, vähemaid, teravasti silmas.
+vajuma	V	20	25	6	12	Tema rind tõusis ja vajus.	Kössi vajuma. Punased toonid vajuvad põrandaga üheks.
+loksuma	V	13	19	8	16	Täis pangest loksus vett tooja jala peale.	Vankrid loksuvad auklikul külavaheteel.
+kiskuma	V	7	15	0	8	Koerad kiskusid, nii et karvatutid lendasid	Kiskusin uppuja paati.
+käima	V	11	15	12	18	Hirmujudin käib üle ihu, läbi keha. Kerge puna, naeruvine käis korraks üle näo.	Kuumad hood käivad üle keha.
+küsimus	N	10	18	10	18	Ta esitas küsimuse: "Kas teate lahendust?	Ta esitas küsimuse: "Kas teate lahendust?".
+keerama	V	0	6	13	20	Keerab vaiba, käsikirja rulli, riide kahekorra	Käiseid üles keerama.
+võima	V	5	9	12	18	Sina võid ja mina ei või.	Ainult mina võisin talle öelda.
+sisemus	N	18	26	10	19	Päike küttis auto sisemuse soojaks. Mehed kadusid laeva sisemusse.	Ta üritas sisemuses mäslevaid vastuolulisi tundeid kontrolli alla saada.
+asi	N	11	16	21	25	Oskas kõik asjad lauluga ära öelda.	Kirjutas igasuguseid asju.
+kandma	V	15	21	12	19	Jõi palju, aga kandis ka palju, kõvasti.	Templi lage kandsid võimsad sambad.
+norima	V	6	11	40	46	Poiss noris, et teda linna kaasa võetaks.	Teise kooli poisid kippusid meiega tüli norima.
+kandma	V	23	29	16	23	Tema peab rasket kotti kandma.	Noored õunapuud kandsid tänavu juba õunu.
+elu	N	0	4	0	3	Elus on nii head kui halba	Elu veereb oma rada. Elu tahab elada. Ta elu oleks võinud teistsuguseks kujuneda.
+hõivama	V	11	19	36	44	Pingviinid hõivavad suviti suurema osa saarest.	Ajukoore hiljem arenenud piirkonnad hõivavad ligi poole selle pindalast.
+armastama	V	16	26	50	59	Mihkel ja Juuli armastavad teineteist kirglikult.	Noortel pole sageli kohta, kus kahekesi olla ning armastada.
+statistika	N	14	24	0	10	Matemaatiline statistika.	Statistika teooria, meetodid, areng.
+paadini	N	7	16	7	16	Hoidke paadinina vastu lainet!	Pööras paadinina kalda poole.
+koitma	V	40	46	8	14	Oli varane aeg: akna taga alles vaevalt koitis.	Tallegi koidab õnn.
+sibul	N	0	7	107	112	Sibulat vajas nende veri, ja ei olnud nähtud, et sibulat koorides oleks neist keegi nutnud.	Kergematel muldadel kasvavad paremini kurk, porgand, pastinaak, söögipeet, lill- ja spargelkapsas, aeduba, sibul ja enamik maitsetaimi.
+ilmuma	V	13	18	11	18	Puude vahelt ilmus tume kogu.	Võistlejad ilmuvad starti.
+saama	V	5	8	6	9	Lugu sai loomuliku seletuse. Ajapikku on sõna saanud uue tähenduse.	Haige sai palaviku, tugeva köhahoo. Sai külmetusest kopsupõletiku.
+samovar	N	7	15	19	26	Seadis samovari üles.	Messingist, vasest samovar. Kuulsad Tuula samovarid. Ajas samovari keema.
+võtma	V	7	13	0	6	Öökülm võttis viljapuude pungad, õied.	Võttis trepil kaks astet korraga. Võtame pikemad sammud, et teised meile järele ei jõuaks.
+kaduma	V	21	28	22	28	Poiss oli mitu päeva kadunud. On nagu maa alla, nagu tina tuhka kadunud.	Pidas õigemaks salaja kaduda.
+panema	V	11	16	5	10	Toidu lõhn paneb suu vett jooksma. Kingitus pani lapse silmad särama.	Lamp pandi põlema.
+kartma	V	13	20	6	14	Haige silmad kartsid valgust.	Mõned kardavad igasuguseid uuendusi.
+armastus	N	33	44	5	13	Ei teinud seda raha pärast, vaid armastusest asja vastu.	Tema armastus on tema lapsed.
+lubama	V	6	11	33	39	Juhan lubas Mari naiseks võtta.	Sellist luksust ei saa ma endale lubada.
+kild	N	23	28	26	31	Põrandal oli lauanõude kilde.	Jutustus toob lugeja ette killu meie rahva minevikust.
+külmetama	V	7	17	0	8	Lapsed külmetavad jahedas klassitoas.	Külmetas endal väljas käed kangeks. Pane soojemalt riidesse, sa ei tohi end külmetada.
+liaan	N	14	22	0	7	Troopikametsa liaanide rägastik.	Liaanid väänlevad puude ümber.
+esinema	V	12	18	16	23	Sama motiiv esineb mitme kirjaniku teostes.	Nähtused võivad esineda nii eraldi kui ka koos.
+mõtlema	V	10	16	12	19	Kuidas sa mõtled puhkust veeta?	Tööriist on mõeldud tööd hõlbustama.
+mähkuma	V	16	24	65	72	.. pikad heinad mähkusid jalgu -- oli raske joosta.	Sinelitesse mähkunud sõdurid magasid põrandal. Veetaimed kipuvad mähkuma ümber ujuja jalgade. * All torni jalamil pöörleb suur sõtkeratas; selle telje ümber mähkub köis, mis vinnab ühe raske palgi teise järel üles tellingutele.
+koht	N	11	15	24	28	Kohvik oli koht, kus kokku saadi. Mul ei tule võõras kohas und.	Sain lennukis aknaaluse koha.
+asjaline	N	100	110	24	32	..aga temal [= Maretil] pole õiget meest, õiget Vargamäe peremeest. Ainult lapsed, kui need ükskord asjaliseks saavad..	Ta oli omal ajal tähtis asjaline -- vallavanem. Kus mul asjaline! Ena, vaata mul asjalist. * ..üksikuid asjalisi tõttas raekoja poole.

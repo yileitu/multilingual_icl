@@ -1,0 +1,1144 @@
+centro commerciale	N	58	76	46	64	Improvvisamente il padre di famiglia: "Tesoro, andiamo al centro commerciale con i bambini oppure al cinema?".	C'è un progetto per Milano, a Segrate, per un centro commerciale Westfield con trecento negozi, cinquanta boutique esclusive, cinquanta ristoranti di lusso e tanto altro ancora.	1
+sensore	N	0	7	0	7	sensore di immagini: dispositivo elettronico che trasforma immagini ottiche in segnali elettrici.	sensori di un tracciato: per robot su ruote.	1
+addormentare	V	9	21	6	18	ho fatto addormentare mia figlia.	hanno addormentato il cavallo.	1
+accidenti	N	48	57	45	54	la morte è una forma reputata quale uno tra gli accidenti che potrebbero intercorrere durante l'esistenza.	l'anima, quando redenta, non è soggetta agli accidenti.	1
+animare	V	0	7	30	37	animare un cortometraggio.	lui e i suoi assistenti hanno animato le scene di molti film Disney.	1
+1	N	12	13	21	22	sono le ore 1 e 22 minuti.	l'aereo arriverà all'1 e 57.	1
+criminalizzare	V	0	14	12	26	criminalizzare una persona, un'azione, una condotta.	non si deve criminalizzare un uomo prima che un regolare processo lo giudichi colpevole.	1
+sfondo	N	28	34	0	6	Un paesaggio faceva loro da sfondo.	sfondo animato.	1
+rete	N	0	4	0	4	rete di telecomunicazioni, insieme di dispositivi e collegamenti che permettono lo scambio di informazioni di vario tipo tra due o più utenti situati in posizioni geograficamente distinte.	rete telefonica, rete di telecomunicazioni che permette di mandare e ricevere suoni e voce.	1
+cazzo	N	4	9	4	9	che cazzo vuoi?	che cazzo dici?	1
+croce	N	28	33	18	23	la paura dei ragni è la sua croce.	le polemiche sono croce e delizia di ogni manifestazione.	1
+vigliacco	N	13	22	20	29	è il peggior vigliacco perché cerca l'umiliazione di chiunque possa subirla.	il dittatore? ...il vigliacco accettato da alcuni ma isolato dai più!	1
+matrimonio	N	0	10	0	10	matrimonio eterosessuale, tra un uomo e una donna.	matrimonio rato e non consumato, quello canonico a cui non segue il compimento di un rapporto sessuale e che può quindi essere sciolto.	1
+matrimonio	N	0	10	0	10	matrimonio morganatico, tra un coniuge nobile e uno di rango inferiore.	matrimonio rato e non consumato, quello canonico a cui non segue il compimento di un rapporto sessuale e che può quindi essere sciolto.	1
+zabaione	N	0	8	11	19	zabaione al marsala.	liquore di zabaione.	1
+discapito	N	33	42	48	57	avrebbe voluto molte ricchezze a discapito della sua compagna.	ha cercato in tutti i modi di gestire la cosa a discapito degli amici più vicini.	1
+quadro	N	0	6	0	6	quadro politico, la situazione politica in atto.	quadro clinico, descrizione della condizione di un paziente.	1
+sacerdote	N	0	9	0	9	sacerdote della giustizia: ossia magistrato.	sacerdote del vero: ossia uno scrittore o un poeta.	1
+compulsare	V	0	10	116	127	compulsava maniacalmente tutti i libri che riusciva a trovare in biblioteca, alla ricerca di quell'informazione.	l’uomo che passa dodici ore al giorno al ministero, innanzi a una scrivania ingombra di carte, scrivendo, leggendo, compulsando registri.	1
+bastone	N	0	7	20	27	bastone ferrato, munito di pomo e di puntale, per assicurare un migliore appoggio.	essere, sembrare un bastone vestito, essere molto magro.	1
+perito	N	0	6	0	6	perito agrario.	perito commerciale.	1
+pozzo	N	0	5	11	16	pozzo per l'acqua.	scavare un pozzo.	1
+consenso	N	0	8	0	8	consenso a maggioranza, consenso all'unanimità.	consenso per la risoluzione del contratto.	1
+gravità	N	3	10	3	10	la gravità è la forma dello spazio-tempo.	la gravità è fondamentale nell'universo ed è solo attrattiva.	1
+statistica	N	0	10	0	10	statistica multivariata: ramo della statistica dove l'oggetto di studio è per sua natura formato da almeno due componenti.	statistica aziendale: disciplina che studia gli aspetti quantitativi e qualitativi dei processi produttivi e commerciali di un'azienda.	1
+diguazzare	V	25	35	12	24	appena qualche fanciullo diguazzava nei rigagnoli della strada.	più avanti, diguazzavano nell’acqua che arrivava loro quasi ai ginocchi.	1
+seno	N	22	26	55	59	una fascia copriva il seno della ragazza.	l'ampia scollatura del vestito lasciava intravedere il seno.	1
+depotenziare	V	0	12	32	42	depotenziare un motore.	il filosofo tedesco (Nietzsche) depotenzia l’arte, ma dopo averla potenziata; dopo averle riconosciuta tutta la realtà vivente dell’idea.	1
+slide	N	10	15	10	15	in questo slide è riportato il grafico della produzione annuale.	di quanti slide è composta la tua presentazione?	1
+plico	N	11	16	3	8	spedire un plico postale.	il plico del manoscritto è accuratamente involto in tela e carta (Deledda).	1
+anchilosare	V	29	40	16	27	la prolungata inattività può anchilosare gli arti.	l'artrite aveva anchilosato le gambe dell'anziana donna, che camminava a stento.	1
+banchettare	V	13	26	0	11	gli invitati banchettavano sul prato.	banchettare con carne e vino, con ostriche e champagne (etc.).	1
+arricciare	V	0	10	0	10	arricciare i capelli.	arricciare un filo, della stoffa, gli angoli di un quaderno.	1
+elemento	N	0	8	0	8	elemento naturalistico: bellezza naturale del paesaggio o patrimonio di bellezze di una entità geografica.	elemento architettonico: parte dei componenti orizzontali e verticali di un edificio o di una struttura.	1
+ammollare	V	0	9	0	9	ammollare un capo di biancheria, del pane secco, della carta.	ammollare una corda.	1
+scuola	N	0	6	0	6	scuola pubblica: di proprietà dello stato.	scuola serale: lezioni per chi, ormai oltre la soglia d'età oppure con ulteriori impegni, abbia avuto la volontà di proseguire gli studi.	1
+marchio	N	15	21	3	10	lavora con tre marchi di moda.	il marchio di una società.	1
+matrimonio	N	0	10	0	10	matrimonio poligamo, che riguarda più di due persone.	matrimonio religioso, contratto alla presenza di un ministro del culto.	1
+approntare	V	0	10	0	10	approntare una nave, una automobile, un nuovo modello di telefono cellulare.	approntare le armi, le difese, l'esercito.	1
+ingratitudine	N	4	17	31	44	per ingratitudine si ribellò in modo crudele.	non dirgli che riguarda la sua ingratitudine perché potrebbe reagire in modo offensivo.	1
+repubblica	N	0	10	0	10	repubblica parlamentare, dove le decisioni del popolo sono rappresentate solo dal parlamento (es. Italia).	repubblica islamica, dove la legislazione si attiene almeno in parte ad alcuni aspetti della legge dell'islam (es. Iran).	1
+arroventare	V	0	11	29	40	arroventare un pezzo di ferro.	il sole di mezzogiorno aveva arroventato le automobili nel parcheggio.	1
+statistica	N	0	10	0	10	statistica descrittiva: ramo della statistica che si occupa dei criteri per rilevare, classificare, riassumere e rappresentare i dati appresi dallo studio di un dato insieme di elementi formanti una popolazione.	statistica demografica: disciplina che studia gli aspetti quantitativi e qualitativi dei fenomeni che riguardano la popolazione.	1
+consorte	N	3	11	12	20	il consorte della regina.	tu e la tua consorte siete invitati a casa mia stasera.	1
+repubblica	N	0	10	0	10	repubblica presidenziale, dove il presidente, oltre ad approvare le leggi del parlamento, detiene almeno la maggior parte del potere esecutivo (es. Stati Uniti d'America).	repubblica parlamentare, dove le decisioni del popolo sono rappresentate solo dal parlamento (es. Italia).	1
+fede	N	3	7	40	44	La fede in Dio lo ha salvato.	ritrovò la propria identità grazie alla fede.	1
+cambiare	V	0	8	0	8	cambiare le lenzuola del letto.	cambiare un vecchio divano con uno nuovo.	1
+rivivere	V	67	74	58	66	il nostro paese ha sperimentato una grave recessione economica, ma rivivrà grazie al turismo.	la nostra associazione langue, ma con le mie idee la farò rivivere.	1
+elemento	N	0	8	0	8	elemento fisico: ciò che, al variare di fattori e stimoli, produce moto, energia, corrente elettrica.	elemento magico: forza oscura ed invisibile.	1
+longitudine	N	3	14	3	14	la longitudine di Roma è di 12 gradi est.	la longitudine di Madrid è di 3 gradi ovest.	1
+annidare	V	27	37	18	24	in passato queste montagne annidavano briganti e fuorilegge.	in fondo al cuore annida passioni e desideri inconfessabili.	1
+raccolta	N	19	27	12	20	questo libro è una raccolta di poesie d'amore di vari autori.	possiedo la raccolta completa delle opere di Baudelaire in lingua originale.	1
+colpevolizzare	V	0	14	4	18	colpevolizzare qualcuno per qualcosa.	non colpevolizzare il bambino per le tue mancanze.	1
+immissario	N	19	29	19	29	il fiume Mera è un immissario del lago di Como.	il fiume Adda è un immissario del Po.	1
+statistica	N	0	10	0	10	statistica multivariata: ramo della statistica dove l'oggetto di studio è per sua natura formato da almeno due componenti.	statistica economica: disciplina che studia gli aspetti quantitativi e qualitativi dei fenomeni dell'economia.	1
+denudare	V	15	25	0	6	gli infermieri denudarono il ferito, e gli applicarono una medicazione su tutto il corpo.	denuda, o vereconda, il casto petto.	1
+speme	N	6	11	9	14	Altra speme non resta / che terminar la vita (Metastasio).	Vissi di speme, or vivo pur di pianto (Petrarca, Il Canzoniere, 332).	1
+mercato	N	30	37	7	14	"Pur secondo le direttive del mercato libero, la Leoncino resta appunto comunque assai simile alla Scrambler".	libero mercato: anche attraverso la globalizzazione, è possibilità di trattative anche con Paesi esteri e talvolta per privatizzazioni.	1
+spillo	N	0	6	7	13	spillo da balia o spillo di sicurezza: tipo di spillo a molla, fornito di una chiusura a fermaglio che copre la punta, in modo da non pungere.	arma a spillo: vecchio tipo di arma dotata di un dispositivo di perforazione della capsula di innesco del proiettile.	1
+contare	V	9	14	18	23	l'Italia conta molti fiumi di media lunghezza, soprattutto nel nord.	l'esercito nemico conta molti uomini bene armati.	1
+collazionare	V	0	12	19	31	collazionare due testi.	gli studiosi hanno collazionato un gran numero di copie manoscritte di quest'opera classica per riportarla alla versione originale.	1
+seno	N	3	7	41	45	il seno destro, il seno sinistro.	il neonato succhiava il latte da uno dei seni della madre.	1
+carbossilare	V	0	12	12	24	carbossilare una molecola.	è possibile carbossilare un alcol facendolo reagire con un acido forte.	1
+patria	N	10	16	16	22	Pisa è la patria di Galileo Galilei.	la Francia è la patria della baguette.	1
+depotenziare	V	0	12	0	12	depotenziare un'emozione negativa.	depotenziare un settore economico, un'industria - diminuirne l'importanza, il valore economico.	1
+aerotrasportare	V	0	15	0	15	aerotrasportare i rifornimenti.	aerotrasportare le truppe al fronte.	1
+annullare	V	14	23	6	15	l'incontro fu annullato all'ultimo momento.	hanno annullato il risultato della partita.	1
+televisione	N	10	21	41	52	spesso la televisione è molto educativa.	"Qualcuno ha detto che per entrare nella televisione bisogna già essere abbastanza benestanti... Ma è vero?!".	1
+paio	N	3	7	7	11	un paio di scarpe.	un bel paio di schiaffi.	1
+cartone animato	N	11	26	2	17	Pluto è un cartone animato molto fantasioso.	i cartoni animati degli anni '80.	1
+libro	N	32	37	33	38	in base al numero delle pagine: libro sottile, libro grosso.	in base al metodo di rilegatura: libro sciolto, libro in brochure.	1
+medicina	N	0	8	23	31	medicina legale: che si occupa di aspetti della scienza medica rilevanti sul piano giudiziario.	Il premio Nobel per la medicina e la fisiologia 2013 è stato vinto da Thomas Südhof, James Rothman e Randy Schekman.	1
+congiungere	V	0	9	44	55	congiunse le mani.	Unire indica col suono unità. Si può dunque congiungere senza unire.	1
+danza	N	0	5	0	5	danza classica: per esempio dell'Opera a teatro, con tutù, talvolta abiti del 1800, rappresentazioni sceniche "imperiose" e/o il pubblico delle grandi serate.	danza moderna: con elementi appunto moderni e più "libera", anche con giochi di luci pressoché proprio come nelle discoteche.	1
+comporre	V	0	8	60	70	comporre una sinfonia.	il maestro non può essere disturbato in questo momento, sta componendo.	1
+collega	N	35	42	64	72	sono andato in montagna con un mio collega di banca.	abbiamo trascorso una piacevole serata al ristorante tra vecchi colleghi di lavoro.	1
+meccanica	N	0	9	0	9	meccanica quantistica: insieme delle teorie meccaniche più recenti, che descrivono il comportamento degli atomi, delle molecole, delle particelle elementari e delle radiazioni elettromagnetiche.	meccanica applicata: insieme delle applicazioni pratiche della meccanica.	1
+controllo	N	0	9	0	9	controllo-passaporto/patente/documenti: visione e verifica da parte di personale autorizzato, polizia, carabinieri, militari, ecc.	controllo-bagagli: per sicurezza nei luoghi pubblici (e/o privati), per esempio anche aeroporti, talvolta alberghi, ecc.	1
+libro	N	32	37	21	26	in base al numero delle pagine: libro sottile, libro grosso.	in base alla stampa: libro illustrato, libro in caratteri latini.	1
+bucare	V	0	6	0	6	bucare il biglietto: obliterare, convalidare il biglietto.	bucare una botte: forare col succhiello una botte di vino per assaggiarne il contenuto, e poi turarlo.	1
+cambiare	V	0	8	13	21	cambiare un vecchio divano con uno nuovo.	bisognerebbe cambiare la biancheria intima tutti i giorni.	1
+difettare	V	4	13	8	15	gli difettano il denaro, il coraggio, l'empatia.	a Marco difetta solo l'impegno per eccellere.	1
+apparato	N	0	8	0	8	apparato circolatorio: del cuore, delle arterie, vene, capillari, ecc.	apparato digerente: insieme degli organi che coordinano la digestione negli esseri viventi umani o animali.	1
+ceffone	N	24	31	20	27	se ci provi, ti tiro un ceffone!	adesso ti becchi un ceffone!	1
+cedere	V	17	24	40	46	infine, la porta cedette alle nostre spinte e si aprì.	dopo la guerra, il paese fu obbligato a cedere le sue colonie.	1
+analisi	N	0	7	0	7	analisi grammaticale.	analisi logica.	1
+spira	N	3	8	3	8	le spire di un serpente.	le spire di una molla.	1
+assommare	V	32	39	23	32	il calcolo delle spese previste assomma a più di due milioni.	tutti i suoi averi non assommano a mille euro.	1
+avventurare	V	30	41	0	9	come gli è venuto in mente di avventurare due ragazzini nel bosco?	avventurò la sua intera carriera e tutti i suoi averi in quel losco affare.	1
+repubblica	N	0	10	0	10	repubblica parlamentare, dove le decisioni del popolo sono rappresentate solo dal parlamento (es. Italia).	repubblica socialista, guidata da enti legislativi ed esecutivi in mano a un solo partito d'ispirazione socialista o comunista (es. Cina).	1
+estromettere	V	33	43	6	16	l'ottimo campionato del Milan ha estromesso la Fiorentina dalla Champions League.	se mi estrometti così dalla tua vita è solo perché sei innamorata di un altro!	1
+trasformazione	N	51	65	7	21	sebbene inizialmente sembri volgare, invero poi la trasformazione è dolce.	...che trasformazione!!	1
+cedere	V	70	76	38	44	ho continuato a fare forza con il cacciavite finché il bullone non ha ceduto.	i miei genitori si trasferiscono e mi cedono la casa.	1
+turbine	N	3	10	3	10	un turbine di persone.	il turbine dei banditi si abbatté sulla carovana.	1
+rivivere	V	32	42	22	30	i cristiani credono che i morti rivivranno dopo il giudizio universale.	i nostri cari defunti rivivono nei nostri cuori, finché li ricordiamo.	1
+polizia	N	0	7	0	7	polizia stradale: sezione su base provinciale della polizia che si occupa di viabilità.	polizia giudiziaria: sezione della polizia che collabora con la magistratura.	1
+contenato	N	3	12	3	12	il contenato di tutti gli umani caucasici.	il contenato dei felidi e degli ippopotami.	1
+frustare	V	11	17	14	24	il fantino frustò violentemente il suo cavallo per farlo correre di più.	i carcierieri frustarono il condannato fino a fargli perdere i sensi.	1
+riciclare	V	44	53	118	127	"Ma dai, quando non si ha confidenza non si riciclano i regali!!".	Il bambino, ormai da un po' a disagio, urlò deciso ma innocentemente: "La mia mamma a Natale mette da parte i doni da riciclare!".	1
+costumare	V	73	82	0	9	queste parole ella disse mezze spagnuole e mezze italiane, parlando come costumano gli oltramontani quando vogliono parlar italiano.	costumava la gioventù di Lemno esercitarsi, nelle principali celebrità dell’anno, nella lotta, nel corso, nel disco.	1
+medicina	N	0	8	0	8	medicina interna, che si occupa delle relazioni tra le malattie degli organi interni.	medicina legale: che si occupa di aspetti della scienza medica rilevanti sul piano giudiziario.	1
+estendere	V	31	37	3	9	il lungo e difficile conflitto estese i territori e nel contempo prosciugò le finanze del regno.	ha esteso il suo impero economico dal cibo in scatola per cani fino alla robotica.	1
+capitanare	V	0	10	0	10	capitanare una rivolta, una scorribanda, un gruppo di ragazzi.	capitanare una nave.	1
+preoccupare	V	17	26	7	18	la sua salute mi preoccupa molto.	non ti preoccupare, vedrai che la situazione migliorerà.	1
+capitanare	V	0	10	0	10	capitanare un battaglione, un manipolo, un esercito.	capitanare una rivolta, una scorribanda, un gruppo di ragazzi.	1
+linea	N	0	5	0	5	linea aperta: il punto iniziale è diverso dal punto finale.	linea semplice: non interseca se stessa.	1
+appesantire	V	41	52	12	23	tutti i fagioli che ho mangiato mi hanno appesantito lo stomaco.	il sonno mi appesantiva la testa, non ero in grado di ragionare lucidamente.	1
+economia	N	0	8	0	8	economia politica: ramo dell'economia che si occupa dei processi messi in atto dalla popolazione di un ente territoriale per realizzare molti vantaggi con poche risorse.	economia bancaria: ramo dell'economia che studia gli aspetti organizzativi, operativi e tecnici degli istituti di credito.	1
+elemento	N	0	8	0	8	elemento magico: forza oscura ed invisibile.	elemento scientifico: principio e parte delle regole e cognizioni di una disciplina o scienza.	1
+lager	N	63	68	53	58	gli inquirenti hanno scoperto che quella casa di riposo era un lager in cui gli anziani venivano maltrattati.	è probabile che siano stati presenti luoghi simili a lager proprio in Africa, ormai parecchi decenni dopo la fine della seconda guerra mondiale.	1
+arrossare	V	14	21	21	30	l'emozione le arrossò le guance.	la luce del tramonto arrossava le nuvole.	1
+gianna	N	9	15	15	21	tira 'na gianna! romanesco.	brrr, oggi c'è gianna.	1
+citofonare	V	0	10	3	13	citofonare a qualcuno.	ho citofonato a nonna per farmi aprire il portone.	1
+rimprovero	N	8	18	10	20	fare un rimprovero.	subire un rimprovero.	1
+tutela	N	0	6	0	6	tutela del lavoratore.	tutela dei minori.	1
+disdetta	N	3	11	44	52	la disdetta del contratto di affitto.	ho deciso di non partire, ho già inviato la disdetta all'albergo.	1
+illecito	N	0	8	0	8	illecito civile, violazione di una norma posta a tutela di un interesse esterno allo stato, la cui conseguenza è rappresentata da una sanzione in forma di risarcimento.	illecito penale, violazione di una norma posta a tutela di un interesse dello stato, la cui conseguenza è rappresentata da una sanzione in forma di pena.	1
+comunistizzare	V	38	50	35	49	nel XX secolo l'Armata rossa invase e comunistizzò tutti i paesi dell'Europa orientale.	la lettura dei testi di Marx lo ha comunistizzato, ormai è un fervente sostenitore del partito.	1
+zaino	N	0	5	0	5	zaino affardellato: quando contiene tutto il corredo.	zaino in spalla, zaino a terra : comandi militari.	1
+intraprendere	V	7	20	8	18	voglio intraprendere la carriera di pilota.	Colombo intraprese il suo secondo viaggio.	1
+braccio	N	10	17	17	24	infilò un braccio nell'apertura.	il lume aveva un braccio spento.	1
+mole	N	3	7	3	7	la Mole Antonelliana da cui si domina Torino.	la Mole Adriana.	1
+tuta	N	11	15	17	21	meglio una tuta, quei jeans sono troppo stretti.	gran parte delle tute sportive è in seta, altre sono anche in cotone oppure, molto più raramente, con fibre come il lino.	1
+cedere	V	70	76	3	7	ho continuato a fare forza con il cacciavite finché il bullone non ha ceduto.	ti cedo la mia automobile, a me non serve più.	1
+dittatura	N	3	12	3	12	la dittatura della giunta militare fu spietata.	la dittatura comunista era appena sopportata.	1
+spillo	N	2	8	25	31	a spillo: di oggetto a forma di spillo, sottile e appuntito.	essere appuntato con gli spilli: di argomento o discorso privo di solide basi, illogico, campato per aria.	1
+diploma	N	17	24	0	7	ha conseguito il diploma in ragioneria.	diploma accademico, titolo di studio di livello universitario, che però non è formalmente una laurea.	1
+omaggio	N	9	16	16	22	rendiamo omaggio al nuovo re!	le porgo i miei omaggi.	1
+scuola	N	0	6	0	6	scuola pubblica: di proprietà dello stato.	scuola privata: di proprietà di un ente al di fuori dello stato.	1
+apparato	N	0	8	0	8	apparato circolatorio: del cuore, delle arterie, vene, capillari, ecc.	apparato respiratorio: soprattutto concernente il "passaggio" di ossigeno, [anche] relativamente al precedente.	1
+record	N	0	6	11	17	record di salto in alto, record di velocità, record di salto in lungo.	battere il record, superare il record.	1
+giocare	V	0	7	16	23	giocare un asso, un re di cuori (nelle carte).	hai sbagliato a giocare adesso la briscola, non c'erano punti da prendere!	1
+controfirmare	V	0	13	46	59	controfirmare un documento.	un atto di vendita va firmato dal venditore e controfirmato dall'acquirente.	1
+speme	N	33	38	9	14	Vero è ben, Pindemonte! Anche la Speme, / ultima Dea, fugge i sepolcri (Foscolo, Dei Sepolcri).	Vissi di speme, or vivo pur di pianto (Petrarca, Il Canzoniere, 332).	1
+errore	N	14	20	11	17	commettere un errore.	è stato un errore lieve, una trasgressione involontaria...	1
+guarire	V	24	31	48	55	il medico ha finalmente guarito la tosse di mio figlio.	uno degli obiettivi della medicina moderna è di guarire il cancro.	1
+fiducia	N	14	21	35	42	ha tradito la fiducia che avevo in lui.	tra i tanti livelli di attenzione, fiducia e desiderio, il più elevato è certamente la fede.	1
+portare	V	0	7	0	7	portare pantaloni di pelle.	portare le lenti a contatto.	1
+travalicare	V	30	42	54	65	d’un ragionamento in un altro travalicando, pervennero a dire delle loro donne (Boccaccio, Decameron, seconda giornata).	quando vide che in altri ragionamenti si cominciava a travalicare, con mano accennò che si tacesse (Matteo Bandello, Novelle).	1
+congiungere	V	19	30	44	55	Della necessita di congiungere la filosofia conlla medicina.	Unire indica col suono unità. Si può dunque congiungere senza unire.	1
+difettare	V	0	9	29	36	difettare di denaro, di coraggio, di empatia.	la statua è così realistica, difetta solo della parola.	1
+esigere	V	34	41	37	42	durante la lezione, il professore esigeva costantemente l'attenzione dei suoi studenti.	questo è il genere di situazione che esige controllo e sangue freddo: battilo tu il calcio di rigore!	1
+mercato	N	15	22	7	14	concorrenza di mercato: tra società differenti per prodotti simili.	libero mercato: anche attraverso la globalizzazione, è possibilità di trattative anche con Paesi esteri e talvolta per privatizzazioni.	1
+chiarificare	V	0	12	0	12	chiarificare il vino.	chiarificare lo zucchero grezzo.	1
+elettronica	N	0	11	0	11	elettronica digitale: studio della produzione di segnali elettrici discreti, che trasportano dati di accensione e spegnimento trasformati in segnali analogici e viceversa.	elettronica di consumo: ramo dell'industria manifatturiera che produce prodotti elettronici per uso privato, commerciale e professionale.	1
+assemblea	N	0	9	0	9	assemblea di condominio: per il rinnovo delle regole o per nuove, per l'amministrazione, per concordare qualcosa, per occasioni specifiche, per imprevisti o necessità varie, ecc.	assemblea comunitaria: talvolta anche religiose e similari.	1
+ridere	V	20	26	26	32	voleva continuare a ridere.	a scuola è quasi proibito ridere di gusto...	1
+cioccolata	N	0	10	0	10	cioccolata fondente: la "classica" con poco latte o senza e con più zucchero.	cioccolata al latte: ancora più dolce e con latte appunto.	1
+induzione	N	0	9	0	9	induzione elettrica: intensità di un campo elettrico generato da sole cariche elettriche libere, pari alla derivata della carica rispetto alla superficie.	induzione magnetica: densità di flusso di un campo magnetico attraverso una superficie, pari alla derivata del primo rispetto alla seconda.	1
+desolare	V	25	33	24	32	la siccità prolungata ha desolato il territorio, un tempo lussureggiante.	l'esercito in marcia ha desolato tutti i luoghi in cui è passato, con razzie e distruzioni.	1
+8	N	12	13	22	23	sono le ore 8 e 22 minuti;	l'aereo arriverà alle 8 e 57;	1
+mezzo	N	18	23	15	20	È alto un metro e mezzo.	Sono le otto e mezzo.	1
+imbastardire	V	0	12	39	51	imbastardire una razza di cavalli, di cani.	i continui incroci incontrollati hanno imbastardito la razza.	1
+disattivare	V	0	11	78	89	disattivare una bomba ad orologeria.	la spia del cruscotto si accendeva in continuazione senza motivo, l'ho dovuta disattivare.	1
+decolorare	V	0	10	31	41	decolorare un tessuto.	il lavaggio con candeggina può decolorare un vestito.	1
+attaccare	V	10	21	21	30	I nazisti attaccarono l'esercito inglese.	Il centrosinistra ha attaccato duramente il premier.	1
+fede	N	20	24	37	41	ricercò con massima fede.	Non sopporto che si dubiti della mia fede politica.	1
+polso	N	14	19	3	8	si è rotto il polso.	il polso di un essere umano in buone condizioni è capace di flettersi sia lateralmente che verticalmente al proprio asse.	1
+raccolta	N	4	12	19	27	una raccolta di reperti storici di epoca romana.	questo libro è una raccolta di poesie d'amore di vari autori.	1
+digrassare	V	0	10	0	10	digrassare le salsicce facendole cuocere a fuoco basso.	digrassare il piano cottura della cucina.	1
+carburare	V	10	19	14	21	il motore carburava perfettamente, e la macchina correva quasi senza rumore.	il motore non carbura bene, non riesco ad accelerare più di così.	1
+corseggiare	V	0	12	36	49	corseggiando chi l’uno chi l’altro mare.	gli usciti di Genova con XVII galee corseggiavano la riviera, e prendeano navi e cocche e altri legni che recavano vittuaglia.	1
+ridere	V	0	6	20	26	ridere veramente.	voleva continuare a ridere.	1
+affievolire	V	18	29	13	24	la stanchezza gli affievoliva le forze.	allora Mario affievoliva gradatamente la voce finché arrivava senza soluzione di continuità al silenzio.	1
+disdetta	N	4	12	55	63	che disdetta!	la mia squadra ha perso per un singolo punto, una vera disdetta.	1
+conseguire	V	0	10	0	10	conseguire molti risultati.	conseguire il successo.	1
+réclame	N	27	34	28	35	la città era tappezzata da réclame elettorali.	mi è stato recapitata della réclame nella casella della posta.	1
+citofonare	V	3	13	4	15	ho citofonato a nonna per farmi aprire il portone.	sto citofonando da mezz'ora, ma nessuno mi risponde.	1
+cioncare	V	31	38	3	9	la lancia del pagan par che si cionchi.	io cionco senza potermi ubbriacare ed obliare!	1
+autista	N	61	68	40	47	su ogni autobus c'è cartello che avverte di non disturbare l'autista.	molti vorrebbero una bella macchina con autista.	1
+disobbedire	V	0	11	13	25	disobbedire ai superiori/ai genitori/al proprio capo.	quel bambino disobbedisce sempre.	1
+pregare	V	0	7	8	15	pregare il Signore.	"Si può pregare anche per sé stessi".	1
+sottofamiglia	N	18	31	22	35	i bovini sono una sottofamiglia di Bovidi.	Le Satyrinae sono una sottofamiglia dell'ordine dei Lepidotteri appartenenti alla famiglia Nymphalidae.	1
+affastellare	V	10	23	17	27	stai solo affastellando scuse.	questo scrittore affastella avverbi e aggettivi senza mai arrivare alla sostanza.	1
+acqua	N	19	24	0	5	abbiam preso tanta acqua.	acqua piovana: raccolta in un luogo apposito.	1
+varietà	N	54	61	21	28	questa vacanza organizzata offre ai turisti una bella varietà.	stasera guardiamo il varietà.	1
+spillo	N	7	13	25	31	arma a spillo: vecchio tipo di arma dotata di un dispositivo di perforazione della capsula di innesco del proiettile.	essere appuntato con gli spilli: di argomento o discorso privo di solide basi, illogico, campato per aria.	1
+estendere	V	15	22	3	9	l'uso figurato estende il significato di una parola fino a trasfigurarla.	ha esteso il suo impero economico dal cibo in scatola per cani fino alla robotica.	1
+abito	N	10	15	6	11	disegnare abiti.	veste abiti all'inglese.	1
+contare	V	5	12	14	21	puoi contare quante persone ci sono in sala?	è impossibile contare le stelle!	1
+zebedei	N	16	23	18	25	non rompere gli zebedei.	andar fuori dagli zebedei.	1
+tempo	N	7	12	8	13	a quel tempo le cose andavano meglio.	in quel tempo sorgeva un'antica città sull'argine del fiume.	1
+focaccia	N	0	8	0	7	focaccia romana: più alta di quella genovese.	focacce di patate: spesso di forma circolare, presentano appunto patate nell'impasto.	1
+dilavare	V	16	24	21	29	le piogge hanno dilavato il terreno, facendo affiorare i massi che erano sepolti sotto terra.	i tronchi sono stati dilavati nel fiume per giorni, per poi essere portati alla segheria una volta levigati dall'acqua.	1
+dipartire	V	31	38	31	38	l'augello (...) da noi fugge e diparte.	fin dove il sole a noi nasce e diparte.	1
+discentrare	V	0	11	0	11	discentrare l'asse di un'automobile.	discentrare gli uffici amministrativi, spostandoli in periferia.	1
+amen	N	6	10	11	15	in un amen: in un attimo.	essere all'amen: essere alla fine.	1
+suolo	N	0	5	0	5	suolo poligonale, tipico delle montagne, contrassegnato da crepe dove si vanno a immagazzinare pietre e ghiaie di origine glaciale.	suolo edificabile, su cui può essere creato un edificio.	1
+medicina	N	0	8	0	8	medicina dello sport: che si occupa dell'idoneità di un individuo alla pratica di un certo sport e dei problemi legati all’esercizio dell’attività sportiva.	medicina estetica, che si occupa di correggere o eliminare gli inestetismi del corpo con trattamenti poco invasivi.	1
+meditare	V	0	8	0	8	meditare una verità.	meditare una vendetta.	1
+scienza	N	0	7	0	7	scienze sociali, che studiano il funzionamento della società (sociologia, psicologia, diritto, economia).	scienze formali, che usano metodi deduttivi e logici per lo studio di quantità e forme, per ricavarne conclusioni applicabili in altri ambiti della scienza (matematica, statistica).	1
+allegrezza	N	39	49	78	88	cotesta età fiorita è come un giorno d'allegrezza pieno (Leopardi).	ringraziate il cielo che v'ha condotti a questo stato ... per disporvi ad una allegrezza raccolta e tranquilla (Manzoni).	1
+esigere	V	34	39	37	42	il funzionamento della democrazia esige il rispetto delle regole da parte di tutti.	questo è il genere di situazione che esige controllo e sangue freddo: battilo tu il calcio di rigore!	1
+agguagliare	V	31	40	29	38	m’han raccontato che nessun ti agguaglia nella battaglia.	qualunque egli sia (...) non agguaglia nel suo grado la grandezza dell’animo vostro.	1
+computer	N	13	21	0	8	per usare il computer della biblioteca devi essere iscritto.	computer all in one, computer da tavolo che presenta l'unità centrale, la tastiera e lo schermo uniti in un solo blocco.	1
+pensare	V	0	7	19	26	Pensavo a quanto ci siamo divertiti l'estate scorsa.	"Vorrei unicamente pensare a te per sempre".	1
+contrappesare	V	35	48	25	38	aggiungere zavorra ad una nave per contrappesare il carico.	usarono delle pietre per contrappesare l'impalcatura pericolante.	1
+multidimensionalità	N	3	22	3	22	la multidimensionalità della Bibbia.	la multidimensionalità della posizione di un punto sulla superficie di una sfera.	1
+circostanziare	V	0	14	4	18	circostanziare un fatto, un incidente.	per circostanziare, verbigrazia, gli avvenimenti storici (...) [l'autore] dovrà mettere insieme le circostanze reali cavate dalla storia o da documenti di qualunque genere.	1
+impedire	V	0	8	11	20	impedire il crollo del palazzo.	la pioggia impedisce che si faccia lo spettacolo.	1
+letteratura	N	60	71	0	11	José Saramago è lo scrittore portoghese premio Nobel per la letteratura nel 1998.	letteratura inglese.	1
+presupporre	V	40	50	56	66	cercare di introdursi nei suoi pensieri presuppose un completo abbandono di tutte le conoscenze e nozioni ingenue che si considerano assodate e insindacabili in una persona qualunque.	e tu definiresti probabile un evento che, per attuarsi, presuppone il contemporaneo verificarsi di un migliaio di condizioni di contorno?	1
+contenato	N	3	12	3	12	il contenato di tutti i primati.	il contenato dei felidi e degli ippopotami.	1
+assommare	V	32	39	20	31	il calcolo delle spese previste assomma a più di due milioni.	i marinai, tirando, assommarono le reti.	1
+mantecato	N	0	9	0	9	mantecato di vaniglia.	mantecato al cioccolato.	1
+compendiare	V	0	11	13	22	compendiare la storia romana in un volume scolastico.	questo testo compendia la chimica ad uso degli studenti liceali.	1
+depotenziare	V	0	12	32	42	depotenziare un'emozione negativa.	il filosofo tedesco (Nietzsche) depotenzia l’arte, ma dopo averla potenziata; dopo averle riconosciuta tutta la realtà vivente dell’idea.	1
+polenta	N	21	28	19	26	"Chi vuole un po' di polenta fritta con cipolle e gorgonzola?".	"Quasi il massimo? Polenta cotta ai ferri ed aringhe affumicate e cipolle rosse in agrodolce!".	1
+aereo	N	24	29	0	5	la velocità media di un aereo di linea è di 250 metri al secondo.	aereo privato: solitamente un jet di proprietà.	1
+iperonimo	N	18	27	11	20	curva algebrica è iperonimo di conica, che a sua volta è iperonimo di ellisse, parabola e iperbole.	vegetale è iperonimo di albero, che a sua volta è iperonimo di quercia.	1
+informatore	N	22	33	0	11	nei servizi segreti l'informatore è indispensabile.	informatore scientifico del farmaco: chi riceve da un'impresa farmaceutica l'incarico di far conoscere medicinali presso un medico, illustrando le caratteristiche dei prodotti stessi e distribuendo materiale informativo gratuito.	1
+avvezzare	V	0	9	0	9	avvezzare i soldati alla guerra, i cavalli alla sella.	avvezzare il corpo alle fatiche, alle privazioni.	1
+aviolanciare	V	0	12	0	12	aviolanciare i paracadutisti sull'obiettivo.	aviolanciare dei viveri nella zona del disastro.	1
+bersagliare	V	36	47	14	25	Ulisse trascorse nove anni in mare, bersagliato dagli dei e dalla cattiva sorte.	quell'isola è bersagliata da continui uragani.	1
+tedesco	N	21	28	19	26	seguiamo un corso di tedesco.	il mio vicino è un tedesco.	1
+dittatura	N	3	12	3	12	la dittatura fascista fu opera di Mussolini.	la dittatura comunista era appena sopportata.	1
+copulare	V	37	44	25	31	movea l'accorta e diligente mano per copular sotto ingegnoso innesto a virgulto gentil germe villano.	l'acqua la qual giunge e copula le parti.	1
+isteria	N	3	10	7	14	ad isteria seguì frustrata ostinazione.	la sua isteria la portò a disinteressarsi delle conseguenze.	1
+tubercolosi	N	0	11	0	11	tubercolosi secondaria, t. che comprende invece tutti i fenomeni patologici conseguenti a nuove infezioni o alla riattivazione dell'infezione primaria.	tubercolosi ossea.	1
+cashmere	N	54	62	14	22	"Buongiorno, mi scusi: ho visto un tappeto indiano in cashmere molto bello... Ne avete?".	i maglioncini cashmere e seta sono delicatissimi.	1
+spumare	V	38	45	48	55	sotto la balza rossastra, luccicava e spumava il bianco zampillo della cascata.	ma fabbricava soprattutto dello Sciampagna, che spumava e schioppettava, col succhio fresco della betulla.	1
+traffico	N	12	20	33	41	In mezzo al traffico, apostrofò in modo poco lungimirante: "Io ho un lavoro e devo fare presto!".	ad ora di pranzo e verso sera il traffico stradale è più intenso.	1
+ricomprare	V	16	26	42	52	sono riuscito a ricomprare la vecchia casa dei miei genitori, che loro avevano dovuto vendere per pagare i debiti.	mi hanno rubato il cellulare, l'ho dovuto ricomprare.	1
+capacitare	V	0	10	27	35	capacitare qualcuno di una teoria, di un ragionamento.	niente di quel che dico lo capacita.	1
+decorso	N	34	41	15	22	la letteratura medica illustra il decorso di questa malattia.	una malattia a decorso breve.	1
+deumidificare	V	0	13	0	13	deumidificare una stanza, una cantina.	deumidificare l'aria.	1
+affannare	V	39	46	67	76	il troppo lavoro, la preoccupazione mi affanna.	era vestito ben comodo e non portava neppure il colletto perché lo affannava.	1
+apparato	N	0	8	0	8	apparato tegumentario: tutti gli strati, con parti "esterne" e più "interne" quindi.	apparato respiratorio: soprattutto concernente il "passaggio" di ossigeno, [anche] relativamente al precedente.	1
+defascistizzare	V	0	15	65	80	defascistizzare gli organi dello stato.	dopo la fine della guerra la neonata Repubblica italiana dovette defascistizzare l'esercito, la polizia, le amministrazioni locali ed anche i testi scolastici.	1
+tema	N	3	7	43	47	il tema di questo film sono i patimenti amorosi.	nelle sue opere Foscolo affronta spesso il tema del dolore e dell'esilio.	1
+cadere	V	38	43	29	33	dopo alcuni colpi dell'ascia l'albero cadrà per terra.	"Ora cade... Te lo dico: ora cade".	1
+bersaglio	N	9	18	27	36	sparò al bersaglio con precisione.	Tirò il pallone e prese il bersaglio.	1
+seno	N	40	44	31	35	il padre/la madre strinse il bambino al seno.	il ragazzo poggiò la testa sul seno del padre.	1
+6	N	12	13	22	23	sono le ore 6 e 22 minuti.	l'aereo arriverà alle 6 e 57.	1
+giocare	V	20	27	41	48	quel furfante mi ha giocato, ha preso i miei soldi ed è sparito.	credevano di essere furbi, ma sono stati giocati da qualcuno più furbo di loro.	1
+stampa	N	0	6	0	6	stampa tipografica.	stampa anastatica.	1
+polizia	N	0	7	0	7	polizia stradale: sezione su base provinciale della polizia che si occupa di viabilità.	polizia locale: nell'accezione comune identifica i vigili urbani di una città.	1
+fiato	N	30	35	11	16	alito, respiro: trattenere il fiato.	riprendere fiato, fermarsi un poco per riposare.	1
+studio	N	56	62	11	17	ho iniziato la lettura e raggruppato gli elementi dello studio per redigere la tesi.	faccio uno studio veloce e poi ti saprò dire.	1
+disbramare	V	29	37	43	52	saziati, su, nel sangue mio; disbrama la rabbia in me del tuo geloso orgoglio.	voglioti dimostrar l’ordine e ’l modo ch’a disbramar tuoi desiderii giovi.	1
+lingua	N	0	6	0	6	lingua franca: lingua usata per le comunicazioni internazionali, spesso proveniente da regioni geopolitiche di forte influenza economica e culturale.	lingua estinta: lingua che non ha più parlanti nativi e conserva la propria influenza solo nei termini convenzionali.	1
+spingere	V	18	24	8	17	Ieri sera abbiamo spinto !	Stasera spingiamo ?	1
+riscuotere	V	6	16	37	47	vai a riscuotere tuo fratello, è ora che si svegli.	spero che una serata fra amici possa riscuotere Giovanni dalla tristezza in cui è piombato di recente.	1
+perito	N	0	6	0	6	perito agrario.	perito chimico.	1
+perito	N	0	6	0	6	perito aeronautico.	perito commerciale.	1
+essere umano	N	75	87	2	14	Con amaro pessimismo... ed il solito luogo comune: "Oggi come oggi ormai l'essere umano non ha più i valori di una volta".	l'essere umano ha l'opportunità di pregare Dio, quasi sempre.	1
+fiducia	N	14	21	35	42	ha tradito la fiducia che avevo in lui.	un valore della comunicazione è la fiducia.	1
+ridere	V	15	21	0	6	mi hanno fatto ridere così tanto sino a svenire.	ridere veramente.	1
+concentrato	N	0	11	87	98	concentrato di pomodoro.	purché ben lavorato e reso quindi simile ad una crema oppure quasi ad una gelatina, il concentrato dolce di frutta può essere utilizzato come ripieno di cioccolatini fondenti.	1
+azione	N	16	22	41	47	qualche volta l'azione è più importante dello studio.	<<Non riusciva proprio a darsi pace... L'azione era come qualcosa da lui vissuto in modo ostico ed innaturale>>.	1
+atteggiare	V	0	10	0	10	atteggiare il busto in posizione eretta.	atteggiare il viso in una espressione di rabbia/sorpresa/gioia etc.	1
+chimica	N	0	7	10	17	chimica organica: ramo della chimica che studia le caratteristiche del carbonio e dei suoi composti, molti dei quali formanti la materia vivente.	industria chimica: ramo dell'industria manifatturiera che produce prodotti chimici.	1
+soggiungere	V	6	15	30	39	Luigi soggiunse: -lo farò solo se necessario!-;	-Lo farò solo se necessario!- soggiunse Luigi;	1
+mercato	N	0	7	0	7	mercato del lavoro: complesso delle risorse, dell'operativo delle società, degli impieghi.	mercato libero: "senza molte leggi" sui brevetti, sulle varie proprietà legali, ecc.	1
+monarchia	N	0	9	0	9	monarchia assoluta, dove il monarca detiene in pratica tutti i poteri.	monarchia parlamentare, dove il monarca esercita solo funzioni rappresentative, pur avendo ancora in parte il potere legislativo.	1
+circondurre	V	0	11	0	11	circondurre un carro intorno a una casa.	circondurre le braccia intorno al corpo.	1
+frana	N	42	47	83	88	la riserva sostituì il titolare ma fu una frana.	non sono riuscito ad arrivare in tempo perché ho perso il treno, scusami, sono una frana.	1
+affastellare	V	10	23	30	40	stai solo affastellando scuse.	or si crede oratore (...) chi affastella citazioni, e passi altrui, or chi li ruba impudentemente ec.	1
+estate	N	3	9	21	27	in estate aumentano i rischi di congestione a causa dell'assunzione di bevande ghiacciate o troppo fredde che possono bloccare la digestione.	in Giamaica è sempre estate.	1
+schifo	N	7	13	21	27	mi fai schifo.	quello spettacolo fa schifo.	1
+libro	N	32	37	20	25	in base al numero delle pagine: libro sottile, libro grosso.	in base allo scopo: libro da messa, libro di lettura.	1
+lingua	N	0	6	0	6	lingua madre: lingua parlata sin dall'infanzia nel proprio paese d'insediamento o d'origine.	lingua straniera: lingua parlata fuori del proprio paese ed applicata all'integrazione reciproca degli usi e dei costumi.	1
+cazzo	N	15	20	12	17	non capisce un cazzo.	non vedo un cazzo.	1
+chilometro	N	25	35	8	18	questa strada è lunga un chilometro.	fare un chilometro, cioè camminare molto.	1
+consulente	N	0	10	0	10	consulente del lavoro, chi fornisce pareri e consigli per avviare una professione.	consulente finanziario, chi si occupa delle caratteristiche dei mercati di azioni e fornisce pareri e consigli per compiere spese al loro interno.	1
+demilitarizzare	V	0	15	15	31	demilitarizzare il confine fra due stati.	il governo sta demilitarizzando la regione coinvolta nelle proteste indipendentiste, come segno di distensione.	1
+assommare	V	23	32	20	31	tutti i suoi averi non assommano a mille euro.	i marinai, tirando, assommarono le reti.	1
+cristiano	N	5	14	42	51	è un cristiano devoto.	il papa intende favorire il dialogo fra i cristiani e i fedeli di altre religioni.	1
+sigaretta elettronica	N	73	94	40	61	nella conformazione del cleromizzatore per regolare il flusso d'aria, la sigaretta elettronica presenta differenti possibilità calibrate per svapare.	l'aroma al tabacco miele-zenzero per la sigaretta elettronica è molto buono.	1
+campo	N	0	5	0	5	campo gravitazionale: deformazione del tempo e dello spazio creata dalla presenza di corpi dotati di massa e di energia, misurabile in forma di accelerazione.	campo magnetico: campo vettoriale solenoidale generato nello spazio dal moto di una carica elettrica o da un campo elettrico variabile nel tempo, pari alla derivata della corrente rispetto alla distanza.	1
+complesso	N	3	12	9	18	il complesso del DNA di un individuo si chiama genoma.	l'intero complesso dei cittadini.	1
+asso	N	0	4	0	4	asso del ciclismo.	asso dell'aviazione.	1
+raccolta	N	29	37	51	59	settembre è il periodo della raccolta dell'uva.	i contadini in questo periodo sono impegnati nella raccolta.	1
+errore	N	17	23	28	34	ci dev'essere un errore in questo programma, non si avvia.	gli hacker spesso sfruttano errori negli antivirus per accedere ai sistemi operativi protetti.	1
+ginecologo	N	48	58	46	56	non tutte le donne sono obbligate ad andare dal ginecologo che a prescindere infatti, qualora vi siano dei casi, non si occupa direttamente del parto né della gravidanza.	si ritene che originariamente la funzione dei ginecologi sia la valutazione della castità femminile.	1
+retta	N	30	35	0	5	per un punto passano infinite rette.	rette complanari: stanno sullo stesso piano.	1
+cioncare	V	0	7	3	9	cioncar le tazze.	io cionco senza potermi ubbriacare ed obliare!	1
+finanza	N	14	21	0	7	scienza delle finanze: ramo dell'economia che si occupa dei metodi con cui lo stato raccoglie risorse per fornire servizi.	finanza frattale, uso di tecniche, modelli e metodi propri della geometria frattale per lo studio del funzionamento dei mercati di azioni.	1
+costumare	V	0	9	12	23	costumava la gioventù di Lemno esercitarsi, nelle principali celebrità dell’anno, nella lotta, nel corso, nel disco.	i sacerdoti costumavano nelle lor funzioni di andar coronati.	1
+denudare	V	0	8	0	6	denudare il petto, le gambe.	denuda, o vereconda, il casto petto.	1
+aereo	N	0	5	0	5	aereo di linea, aereo civile di grandi dimensioni per trasportare passeggeri a lunga distanza.	aereo da turismo, aereo civile di piccole dimensioni per compiere brevi viaggi.	1
+crossare	V	41	49	19	25	quando ci si trova sulla fascia è meglio crossare che tentare il dribbling per entrare personalmente in area.	l'esterno sinistro crossò verso l'area, e l'attaccante segnò di testa.	1
+morso	N	22	27	30	35	il cane mi ha dato un morso.	sul braccio ha il segno di un morso.	1
+intorno	N	44	51	0	7	Un limite di x0 è sempre definito in un suo intorno.	intorno sferico di un punto.	1
+congregare	V	11	19	69	77	il preside congregò tutti gli studenti nell'aula magna per la cerimonia di inizio anno.	a noi discese dall’Olimpo Minerva, ad avvisarne di pigliar l’armi; e congregò le turbe (...) tutte accese del desío di guerra.	1
+propaganda	N	67	77	50	60	Durante la trasmissione televisiva il ministro disse: "Ma questa è propaganda!".	quella sui migranti sta diventando vera e propria propaganda politica ed intanto volontari, addetti e forze dell'ordine lavorano meritevolmente a tal riguardo.	1
+fisica	N	0	6	0	6	fisica applicata: insieme delle applicazioni pratiche della fisica.	fisica tecnica: insieme delle applicazioni pratiche delle trasformazioni dell'energia e delle interazioni di quest'ultima con la materia.	1
+giocare	V	0	7	16	23	giocare un cavallo, la regina (negli scacchi).	hai sbagliato a giocare adesso la briscola, non c'erano punti da prendere!	1
+crollare	V	32	40	22	30	Quella torre mi sembra stia per crollare.	le Borse rischiano di crollare.	1
+9	N	12	13	22	23	sono le ore 9 e 22 minuti;	l'aereo arriverà alle 9 e 57;	1
+credere	V	9	14	18	27	qualcuno crede in Dio e non nelle persone mentre altri credono nelle persone ma non in Dio.	gli antichi greci credevano in molti dei".	1
+sottordine	N	3	13	3	13	il sottordine degli Aplorrini fa parte dell'ordine dei Primati.	il sottordine degli Odontoceti appartiene all'ordine dei Cetacei.	1
+smantellare	V	0	11	0	11	smantellare una fortezza.	smantellare una città.	1
+elettronica	N	0	11	0	11	elettronica analogica: studio della produzione di segnali elettrici continui, che trasmettono informazioni molto vicine a quelle reali.	elettronica digitale: studio della produzione di segnali elettrici discreti, che trasportano dati di accensione e spegnimento trasformati in segnali analogici e viceversa.	1
+decurtare	V	0	9	0	9	decurtare lo stipendio con le trattenute.	decurtare i punti dalla patente.	1
+figlio	N	19	24	18	24	spero che i vostri figli ed il nostro potranno un giorno giocare e studiare assieme.	"Chi sa se nostro figlio farà l'università...".	1
+elettronica	N	0	11	11	22	elettronica di potenza: applicazione dell'elettronica alla produzione di dispositivi che trasformano la potenza elettrica in uscite di vario tipo.	ingegneria elettronica: ramo dell'ingegneria che progetta e realizza componenti e prodotti elettronici per l'automazione industriale, la produzione di elettricità, l'assistenza medica e la comunicazione visiva, sonora e multimediale.	1
+albeggiare	V	10	20	8	19	il giorno albeggiava dopo la lunga notte.	sta già albeggiando.	1
+fungo	N	0	5	0	5	fungo atomico.	fungo della rotaia, la parte superiore che sostiene e guida la ruota del veicolo ferroviario.	1
+ammirare	V	0	6	9	15	ammiro com'io trascenda questi corpi levi (Dante).	or quì t'ammira in ciò ch'io ti replico (Dante).	1
+tubercolosi	N	0	11	0	11	tubercolosi primaria: t. che comprende tutte le manifestazioni morbose (più o meno gravi) conseguenti al primo evento infettivo.	tubercolosi secondaria, t. che comprende invece tutti i fenomeni patologici conseguenti a nuove infezioni o alla riattivazione dell'infezione primaria.	1
+burro	N	0	5	0	5	burro nero: letame di stalla decomposto.	burro vegetale: grasso commestibile ricavato da oli vegetali.	1
+scusa	N	7	12	13	18	chiedo scusa per il ritardo.	esigo le sue scuse!	1
+caricare	V	8	16	0	8	bisogna caricare i mobili per il trasloco.	caricare un container.	1
+braccio	N	17	24	28	34	il lume aveva un braccio spento.	cambiò le lampade a tutti i bracci.	1
+immaginare	V	3	13	1	11	ho immaginato una macchina blu davanti a casa.	"Immaginate 4 Apache in posizione d'attacco davanti al vostro palazzo... Beh, io non metterei in pericolo la vita di un'intera cittadinanza".	1
+morte	N	0	5	15	20	morte legale: morte cerebrale di un essere umano.	certificato di morte: atto che certifica la morte di una persona che viene rilasciato dal medico che ne ha constatato il decesso.	1
+metabolismo	N	63	74	0	11	gli aminoacidi contenuti negli alimenti possono influenzare il metabolismo.	metabolismo basale: consumo di energia da parte di un organismo in condizione di assoluto riposo e di neutralità termica.	1
+assemblea	N	0	9	0	9	assemblea comunitaria: talvolta anche religiose e similari.	assemblea scolastica/della scuola: soprattutto per gli insegnanti ed i genitori oppure in occasione di conferenze, ecc.	1
+calamitare	V	0	10	40	50	calamitare gli sguardi, l'attenzione.	era così bella che senza nemmeno volere calamitava gli sguardi di tutti gli uomini.	1
+metabolismo	N	0	11	8	19	metabolismo basale: consumo di energia da parte di un organismo in condizione di assoluto riposo e di neutralità termica.	fare il metabolismo: sottoporsi gli esami clinici per verificare il metabolismo basale.	1
+cristianizzare	V	0	14	9	25	cristianizzare un popolo pagano, un paese lontano.	i monaci cristianizzarono l'Irlanda intorno al V secolo.	1
+digitalizzare	V	0	13	35	48	digitalizzare una vecchia foto, gli articoli di un giornale, un libro.	lo scopo di Wikisource è quello di digitalizzare, trascrivere e rendere disponibili per tutti i testi antichi.	1
+maggio	N	6	12	6	12	il 23 maggio 1949 nasce la Repubblica federale tedesca.	il 10 maggio 1994 Nelson Mandela fu eletto presidente del Sudafrica, ponendo fine all'apartheid.	1
+assestare	V	0	7	10	21	assestò la gonna, in modo che non facesse pieghe.	i marinai assestarono il carico nel bastimento, stando attenti che fosse uniforme.	1
+morte	N	0	5	8	13	morte improvvisa: che avviene in maniera inattesa in individui sani oppure con malattie non gravi, in un tempo quantificabile in diverse ore dal presentarsi dei primi sintomi.	atto di morte: atto che certifica la morte di una persona che viene rilasciato dall'ufficio comunale di stato civile.	1
+brindare	V	0	8	0	8	brindare a una vittoria, a una nascita, all'anno nuovo.	brindare in onore di qualcuno, alla salute di qualcuno, brindare per qualcuno.	1
+tiramisù	N	2	10	21	29	i tiramisù sono meglio con più strati di crema e di soffici pan di Spagna.	è stato detto che il tiramisù è stato gustato persino da un astronauta nello spazio.	1
+cinguettare	V	0	11	0	11	cinguettare l'inglese.	cinguettano un male imparato francese.	1
+pneumatico	N	6	16	20	30	Quali pneumatici monta?	dall'ampiezza degli pneumatici posteriori si può dedurre la potenza di un'auto.	1
+servizio	N	0	8	0	8	servizio sociale: prevenzione e risoluzione delle situazioni di disagio e necessità.	servizio finanziario: strumento tecnico di investimento di capitali.	1
+polizia	N	0	7	0	7	polizia giudiziaria: sezione della polizia che collabora con la magistratura.	polizia locale: nell'accezione comune identifica i vigili urbani di una città.	1
+deumidificare	V	0	13	0	13	deumidificare una stanza, una cantina.	deumidificare dei panni esponendoli all'aria.	1
+inculcare	V	4	13	12	21	per inculcare l'educazione ai figli usava bastonarli.	la madre ha inculcato loro la convinzione di avere un'indole al comando; puoi immaginare.	1
+tecnica	N	0	7	0	7	tecnica aziendale, amministrativa, bancaria.	tecnica militare.	1
+congregare	V	11	19	66	76	il preside congregò tutti gli studenti nell'aula magna per la cerimonia di inizio anno.	un giorno adunque di festa, nel castello di Milano [il duca] fece congregare tutti i capi d’ogni sorte di religiosi.	1
+miglio	N	0	6	0	6	miglio terrestre (o inglese): 1609,344 metri.	miglio marino (o nautico): 1852 metri.	1
+account	N	15	22	6	13	devi creare un account al sito del comune per usufruire dei servizi on-line.	ho un account sul Wikizionario in italiano!	1
+abbaiare	V	0	8	12	20	abbaiare alla luna.	il sergente abbaiava ordini ai soldati.	1
+commendare	V	9	21	0	12	tutti lo commendarono di gran senno e di grande bontá.	commendarono generalmente tutti l’ingegno de la lor signora.	1
+cambiare	V	0	8	0	8	cambiare strada.	cambiare idea, religione, orientamento politico.	1
+vigilia	N	9	16	19	26	le dolci vigilia (Foscolo, Sepolcri).	le lunghe, assidue vigilia.	1
+congiungere	V	0	9	19	30	congiunse le mani.	Della necessita di congiungere la filosofia conlla medicina.	1
+cedro	N	14	19	16	21	il frutto del cedro potrebbe essere definito luminoso.	le caramelle al cedro simili a zuccherini fanno venire l'acquolina in bocca.	1
+influenza	N	2	11	32	41	l'influenza della Luna sulle maree, l'influenza dei fattori atmosferici sul clima.	le decisioni politiche hanno un'influenza diretta sulla vita dei cittadini.	1
+nebbia	N	12	18	17	23	un banco di nebbia;	sta scendendo la nebbia.	1
+analisi	N	0	7	0	7	analisi logica.	analisi del periodo.	1
+bacca	N	5	11	9	15	sono bacche per esempio il pomodoro, l'acino dell'uva e molti frutti di bosco.	satiri e bacche (Poliziano).	1
+ruzzolare	V	10	19	0	9	stava per ruzzolare dalla branda.	ruzzolare un sasso: farlo rotolare.	1
+costanza	N	7	15	3	11	la sua costanza nell'osservare i cataclismi scaturì dalla loro comprensione.	la costanza del medico venne ben presto premiata con la completa guarigione del paziente.	1
+Medioevo	N	15	23	0	8	la civiltà del medioevo.	Medioevo giapponese.	1
+brillantare	V	0	11	0	11	brillantare le scarpe, le stoviglie.	brillantare i capelli con la gelatina.	1
+tubercolosi	N	0	11	0	11	tubercolosi primaria: t. che comprende tutte le manifestazioni morbose (più o meno gravi) conseguenti al primo evento infettivo.	tubercolosi ossea.	1
+diabete	N	0	7	0	7	diabete mellito: malattia caratterizzata da produzione eccessiva di urina contenente glucosio, dovuta alla carenza di insulina nel sangue.	diabete insipido: produzione eccessiva di urina dovuta alla carenza di vasopressina.	1
+fico	N	15	19	0	4	ho comprato un fico ornamentale;	fico di Adamo: banano;	1
+capitombolare	V	0	13	0	13	capitombolare giù dalle scale, da un balcone.	capitombolare di schiena, di testa.	1
+cioncare	V	31	38	0	8	la lancia del pagan par che si cionchi.	cioncare una bottiglia intera.	1
+immoralità	N	11	21	66	76	per la sua immoralità cercava ciecamente di corrompere chiunque.	ha compiuto gravi azioni pubblicamente per il gusto perverso dell'immoralità.	1
+fisica	N	0	6	11	17	fisica classica: meccanica, termodinamica, elettromagnetismo.	ingegneria fisica: ramo dell'ingegneria che progetta e realizza componenti, circuiti, apparati e sistemi elettronici impiegabili in settori produttivi a tecnologia avanzata.	1
+coscienza	N	17	26	22	31	decidere secondo coscienza.	seguire la voce della coscienza.	1
+copincollare	V	0	12	4	16	copincollare un testo, una pagina, una voce di Wikipedia.	per copincollare un testo si può utilizzare il tasto destro del mouse, oppure digitare sulla tastiera CTRL-C e CTRL-V.	1
+parmigiano	N	13	23	0	10	una forma di parmigiano.	parmigiano grattugiato.	1
+duello	N	0	6	0	6	duello cavalleresco.	duello rusticano.	1
+periodo	N	3	10	3	10	il periodo seguente al trasloco fu tremendo.	il periodo attuale è il quaternario.	1
+brogliare	V	0	9	36	44	brogliare per vincere le elezioni, per ottenere un incarico di prestigio.	veggo altresì le donne affaccendate brogliar nelle pubbliche piazze, perché si abolisca la legge, che proibiva lo smoderato uso degli ori.	1
+coronare	V	0	8	8	16	coronare la facciata di un edificio con statue.	la neve coronava le vette dei monti.	1
+cementificare	V	0	13	73	86	cementificare le campagne, le coste, le vallate.	questo luogo una volta era un parco naturale, ma negli anni '90 lo hanno cementificato e ora ci sono solo capannoni, senza una traccia di verde.	1
+montagna	N	9	17	8	16	paese di montagna;	lago di montagna;	1
+potenziale	N	14	24	0	10	differenza di potenziale: differenza tra le concentrazioni di carica ai due estremi di un circuito elettrico, pari al prodotto dell'intensità di corrente per la resistenza offerta dal circuito stesso.	potenziale di membrana, differenza di potenziale elettrico tra il versante citoplasmatico di una cellula, che presenta cariche negative, e quello extracellulare, che presenta cariche positive.	1
+crisi	N	85	90	51	56	anno 2017, anche il premier italiano Gentiloni ha dichiarato l'uscita dalla peggiore crisi, dopo il dopoguerra.	"Beh, senza guerre mi pare ovvio che ci siano meno crisi".	1
+morte	N	0	5	12	17	morte clinica, morte apparente: si verifica quando l'organismo di un uomo non è irreversibilmente danneggiato e può essere sottoposto a rianimazione.	annuncio di morte: annuncio della morte di una persona fatta tramite i quotidiani o con lettere spedite a parenti ed amici.	1
+carteggiare	V	0	11	17	30	carteggiare con un amico, con l'amante.	i due innamorati carteggiavano quotidianamente, mandandosi lettere appassionate.	1
+constare	V	35	41	15	21	l'imputato è innocente, per quanto consta a questo tribunale dall'analisi delle prove.	Cicerone, come consta dalle sue lettere, amava molto sua figlia Tullia.	1
+contrarre	V	0	9	0	9	contrarre un'infezione batterica.	contrarre il vizio del fumo.	1
+bordare	V	11	18	0	7	gli alberi bordano la valle.	bordare le vele.	1
+tutela	N	0	6	0	6	tutela dei cittadini.	tutela del lavoratore.	1
+linea	N	0	5	0	5	linea aperta: il punto iniziale è diverso dal punto finale.	linea chiusa: punto iniziale e finale coincidono.	1
+prestigiatore	N	35	48	12	25	ormai da tanto tempo manca un vero prestigiatore in TV.	Houdini era prestigiatore attraverso la propria persona medesima.	1
+contare	V	4	9	24	29	non conta quello che hai, ma quello che sei.	quello che pensi tu non conta nulla.	1
+brancicare	V	0	10	10	20	brancicare un oggetto per saggiarne la consistenza.	si mise a brancicare i petali sparsi della rosetta.	1
+abnegazione	N	52	63	8	19	in guerra l'eroe ha dimostrato un grande spirito di abnegazione.	agì con abnegazione per compiere il proprio dovere.	1
+serra	N	16	21	19	24	coltivazione in serra.	piante allevate in serra.	1
+passo	N	8	13	20	25	fece un passo verso di lei.	dalla paura fece un passo indietro.	1
+arma	N	14	18	15	19	il Taser è un'arma di dissuasione non letale.	quasi tutte le armi da sparo sono abbastanza pesanti.	1
+brucare	V	0	7	10	19	brucare un ramo d'acacia.	i bambini brucavano i forasacchi e giocavano a lanciarsi le spighe.	1
+ruzzolare	V	10	19	0	9	stava per ruzzolare dalla branda.	ruzzolare le scale.	1
+volgere	V	3	8	12	17	ho volto la prua della nave verso oriente.	La riunione volge al termine.	1
+detronizzare	V	38	52	81	93	verso la metà degli anni 2000 gli mp3 detronizzarono tutti gli altri supporti per l'ascolto di musica.	dopo essere stato ai vertici del calcio mondiale per anni, il calciatore è stato detronizzato dal suo rivale.	1
+suolo	N	0	5	0	5	suolo a cuscinetto, terreno caratterizzato da protuberanze ricoperte di erba, situato in aree dove si manifestano, in modo alternato,fasi di gelo e disgelo.	suolo poligonale, tipico delle montagne, contrassegnato da crepe dove si vanno a immagazzinare pietre e ghiaie di origine glaciale.	1
+assemblea	N	0	9	0	9	assemblea di condominio: per il rinnovo delle regole o per nuove, per l'amministrazione, per concordare qualcosa, per occasioni specifiche, per imprevisti o necessità varie, ecc.	assemblea scolastica/della scuola: soprattutto per gli insegnanti ed i genitori oppure in occasione di conferenze, ecc.	1
+linea	N	0	5	0	5	linea chiusa: punto iniziale e finale coincidono.	linea semplice: non interseca se stessa.	1
+spira	N	3	8	47	52	le spire di fumo.	un uccello volteggiava sopra di noi, con lente spire.	1
+posta elettronica	N	23	40	26	43	Gmail è il servizio di posta elettronica di riferimento per Google.	quasi tutte le caselle di posta elettronica sono gratuite.	1
+ammollare	V	0	9	10	21	ammollare una corda.	i marinai ammollavano le funi d'ormeggio per prepararsi alla partenza.	1
+formaggio	N	26	35	76	84	devo dimagrire: mi dia un formaggio magro.	quanto mangiano alcuni animali da latte può risultare persino nel gusto dei formaggi prodotti.	1
+consenso	N	11	19	30	38	persero il consenso poiché i risultati non si vedevano.	il suo discorso ebbe un ampio consenso.	1
+confidenza	N	10	20	7	17	essere in confidenza con qualcuno.	non ho confidenza con il cambio automatico, preferisco quello manuale.	1
+burro	N	0	5	0	5	burro nero: letame di stalla decomposto.	burro di arachidi: tipo di burro ottenuto dalle arachidi.	1
+consolato	N	21	30	44	53	questa è la sede del consolato spagnolo.	ho perso il passaporto, dovrò rivolgermi al consolato.	1
+olocausto	N	10	19	72	81	durante l'olocausto la storia si era per così dire fermata.	è assai difficile non piangere profondamente dinanzi alle immagini dell'olocausto, per chiunque.	1
+civile	N	7	13	2	8	nessun civile è ammesso in caserma senza autorizzazione.	i civili sono stati evacuati dalla zona di guerra.	1
+arieggiare	V	18	26	11	19	con le sue poesie arieggia i poeti quattocenteschi.	il ragazzo arieggia suo padre, ma non è ancora alla sua altezza.	1
+lumaca	N	4	10	9	15	che lumaca quel camion!	muoviti, lumaca ! devi ancora vestirti!	1
+annerire	V	14	22	8	17	il sole aveva annerito la pelle del vecchio marinaio.	lo smog annerisce il marmo dei monumenti cittadini.	1
+chimica	N	0	7	0	7	chimica inorganica: ramo della chimica che studia le caratteristiche degli elementi al di fuori del carbonio e dei loro composti.	chimica organica: ramo della chimica che studia le caratteristiche del carbonio e dei suoi composti, molti dei quali formanti la materia vivente.	1
+serra	N	16	21	4	9	coltivazione in serra.	una serra tropicale.	1
+controbilanciare	V	0	16	45	61	controbilanciare l'aumento delle spese con il rialzo dei prezzi di vendita.	per fortuna i suoi ottimi voti in matematica controbilanciano quelli pessimi in latino.	1
+danza	N	0	5	0	5	danza moderna: con elementi appunto moderni e più "libera", anche con giochi di luci pressoché proprio come nelle discoteche.	danza tribale: relativa ad etnie specifiche, con un'ancestrale evocazione al limite dall'animismo [quasi] mistico.	1
+carreggiare	V	0	11	19	30	carreggiare delle merci, delle persone.	a far fiaccole per carreggiare il mosto di notte.	1
+carne	N	21	26	0	5	cuocere, cucinare la carne, preparare la carne, un pasto, un piatto a base di carne.	carne di pollo, di agnello, di maiale, di vitello.	1
+brindare	V	0	8	0	8	brindare a una vittoria, a una nascita, all'anno nuovo.	brindare con il vino, con la birra, con lo spumante; non si può brindare con l'acqua!	1
+biennalizzare	V	0	13	0	13	biennalizzare un esame.	biennalizzare l'esame di anatomia.	1
+cinquantone	N	9	20	21	32	dammi un cinquantone e siamo a posto.	ho guadagnato un bel cinquantone.	1
+australiano	N	15	26	56	67	Rod Laver è un australiano, nonostante risieda in California.	il padre della "scatola nera" degli aeroplani è stato l'australiano David Warren.	1
+collezione	N	13	23	7	17	una pregiata collezione di dipinti del Trecento.	faccio collezione di figurine dei calciatori italiani.	1
+desistere	V	15	24	15	22	i medici hanno desistito solo quando si è compreso che ogni sforzo ulteriore sarebbe stato inutile.	basta così, io desisto!	1
+banda	N	3	8	3	8	La banda della Magliana.	La banda dei quattro.	1
+acqua	N	0	5	2	7	acqua di colonia.	l'acqua di Roma.	1
+stampa	N	0	6	0	6	stampa anastatica.	stampa calcografica.	1
+avviluppare	V	0	11	12	23	avviluppare parole le une con le altre.	l'ansia gli avviluppava i pensieri e non gli consentiva di ragionare.	1
+traversata	N	3	13	3	13	la traversata dell'oceano Atlantico.	la traversata delle Alpi.	1
+ottobre	N	6	13	6	13	il 20 ottobre 1577 viene consacrato il duomo di Milano.	il 24 ottobre 1929 gli Stati Uniti d'America entrarono nella Grande Depressione.	1
+aereo	N	24	29	0	5	la velocità media di un aereo di linea è di 250 metri al secondo.	aereo da turismo, aereo civile di piccole dimensioni per compiere brevi viaggi.	1
+imitare	V	0	7	0	7	imitare i maestri del passato.	imitare la voce di qualcuno: cercare di far sorgere da sé lo stesso timbro di voce, la stessa tonalità nonché il comportamento di qualcun altro.	1
+affogare	V	22	28	0	8	solo con la sabbia si affoga e con l'aceto si stempera [il fuoco greco] (D' Annunzio).	affogare in un bicchier d'acqua.	1
+paturnie	N	9	17	8	16	avere le paturnie; avere un attacco di paturnie acute; mi vengono le paturnie; mi prendono le paturnie.	le loro paturnie e ubbie derivanti dalla loro realtà culturale.	1
+almanaccare	V	22	33	29	41	si stette un pezzo ad almanaccare su quel caso difficile.	la notte non chiudeva occhio almanaccando dove il suo ragazzo potesse trovare i denari.	1
+fiato	N	9	14	11	16	avere il fiato grosso, ansimare.	tutto d'un fiato, senza interruzione.	1
+retta	N	30	35	0	5	per un punto passano infinite rette.	rette incidenti: si intersecano, hanno un punto in comune.	1
+toro	N	10	14	9	13	mia zia è toro.	domani i tori saranno fortunati.	1
+interesse	N	32	41	26	35	ho ottenuto un prestito a basso interesse.	la banca mi ha pagato gli interessi sul denaro che ho depositato sul conto.	1
+cofinanziare	V	12	24	40	52	la banca ha cofinanziato il progetto.	i lavori di ristrutturazione sono stati cofinanziati da enti pubblici e privati.	1
+tecnica	N	0	7	0	7	tecnica militare.	tecnica pittorica, pianistica.	1
+indebolire	V	12	22	21	32	la malattia indeboliva i bisonti.	con questa arroganza indebolisci la tua posizione.	1
+allegrezza	N	25	35	47	57	per tanti rivi s'empie d'allegrezza la mente mia (Dante).	i temperamenti emotivi passano facilmente dall'allegrezza alla malinconia; Vergine benedetta, che 'l pianto d'Eva in allegrezza torni (Petrarca).	1
+indebolire	V	12	22	18	28	la malattia indeboliva i bisonti.	il fiume in piena indebolirà il ponte.	1
+amen	N	6	10	0	4	in un amen: in un attimo.	amen, non parliamone più: va bene, non parliamone più.	1
+digitalizzare	V	0	13	23	36	digitalizzare una vecchia foto, gli articoli di un giornale, un libro.	il medico ha deciso di digitalizzare il nonno, per via dei suoi problemi cardiaci.	1
+lasciare	V	8	16	7	13	Sara ha lasciato Marco.	non vi lascio, non andrò via per sempre.	1
+retta	N	36	41	0	5	per due punti passa una ed una sola retta.	rette incidenti: si intersecano, hanno un punto in comune.	1
+migrare	V	14	21	51	58	molti uccelli migrano verso sud in inverno, per tornare nelle regioni settentrionali in estate.	quando raggiungono la maturità sessuale, i salmoni migrano dal mare aperto ai fiumi per riprodursi.	1
+svilire	V	50	57	44	54	l'ingresso del tastierista nella band sembra aver svilito quel formidabile impatto sonoro che l'ha sempre contraddistinta.	non passa giorno senza che le tue creazioni sviliscano di quel tanto che basta per farmi rimpiangere l'artista che eri.	1
+finanza	N	0	7	0	7	finanza quantitativa: uso di metodi matematici e statistici per lo studio del funzionamento dei mercati di azioni.	finanza frattale, uso di tecniche, modelli e metodi propri della geometria frattale per lo studio del funzionamento dei mercati di azioni.	1
+assonnare	V	50	57	34	41	scuote Lieo l'amabil sistro, e, pieno d'ebbrezza, assonna il torpido Sileno {{Term|Eliodoro Lombardi, Preludio al Calatafimi, II.	ancora si prosegue il canto che m’assonna.	1
+danza	N	0	5	0	5	danza popolare: quella della tradizione folcloristica, in genere con i costumi d'epoca ed in occasione di sagre o per eventi particolari.	danza propiziatoria: nel caso, come gli indiani delle Americhe per la pioggia.	1
+conclusione	N	3	14	23	34	la conclusione di un discorso.	mi è piaciuta molto la conclusione di questo libro.	1
+dicembre	N	6	14	6	14	il 26 dicembre 1883 la Scala diede inizio alla stagione per la prima volta illuminata dall'elettricità.	il 26 dicembre 1991 si sciolse ufficialmente l'Unione Sovietica, ponendo fine alla guerra fredda.	1
+Porta	N	16	21	12	17	Sono stato alla Porta.	Viene dalla Porta.	1
+esponente	N	8	17	20	29	diversi esponenti del partito di maggioranza hanno dichiarato che non è intenzione del governo aumentare le tasse.	Giovanni si è fatto esponente del pensiero di noi tutti.	1
+parata	N	72	78	61	67	lo spadaccino tentò una stoccata ma il suo avversario la schivò con una parata.	il pugile tentò il KO ma il suo avversario la schivò con una parata.	1
+cedro	N	16	21	3	8	le caramelle al cedro simili a zuccherini fanno venire l'acquolina in bocca.	il cedro quest'anno è di moda.	1
+disattivare	V	0	11	0	11	disattivare un computer, un timer.	disattivare una bomba ad orologeria.	1
+tappeto	N	2	9	35	42	i tappeti cinesi con tratti neri, color beige e blu-elettrico, perlopiù in seta, valgono parecchio... parecchio.	esiste un comun denominatore tra i tappeti con disegni a forma di melagrane.	1
+berlusconiano	N	49	62	32	45	contro un rigurgito comunista destabilizzante, i berlusconiani non possono accettare vani attacchi per la ricchezza, presunta immeritata.	io vorrei sapere come farà ogni berlusconiano con la morte di Silvio Berlusconi.	1
+stampa	N	0	6	0	6	stampa tipografica.	stampa calcografica.	1
+biancheria	N	0	10	0	10	biancheria da uomo, da donna.	biancheria di seta, di cotone.	1
+dodecaedro	N	0	10	8	18	dodecaedro regolare, detto anche dodecaedro platonico: poliedro formato da dodici pentagoni regolari uguali.	piccolo dodecaedro stellato: poliedro regolare stellato, formato da dodici poligoni stellati uguali. È uno dei quattro poliedri di Keplero-Poinsotpoligoni.	1
+depravare	V	0	9	0	9	depravare un ragazzo, la gioventù.	depravare la società, le abitudini o gli usi di un popolo.	1
+regno	N	19	24	10	15	la tua stanza è il regno del disordine.	oggi è il regno della sfortuna.	1
+constare	V	22	28	17	23	il parlamento europeo consta di deputati eletti in tutti i paesi membri.	la musica dunque consta inseparabilmente di suoni e di armonia.	1
+decontaminare	V	131	144	75	88	a seguito del versamento accidentale di materiali tossici nella fabbrica, sono al lavoro delle squadre di operatori ambientali per decontaminare l'edificio e la zona circostante.	il paziente è fortemente infettivo, i medici che lo visitano devono essere decontaminati prima di uscire dalla sua stanza.	1
+ardesia	N	37	44	25	32	in montagna è facile vedere tetti di ardesia.	le lavagne sono fatte di ardesia.	1
+accadere	V	4	14	3	9	... accadevano in particolari momenti.	Ti accade perché non ragioni.	1
+cronaca	N	0	7	17	24	cronaca nera; cronaca rosa, cronaca sportiva.	non leggo mai la cronaca, del giornale mi interessano solo gli articoli di costume e cultura.	1
+telare	V	51	57	33	39	quando abbiamo visto che non c'era nessuno abbiamo telato.	sta arrivando qualcuno, dobbiamo telare.	1
+pome	N	5	9	20	24	«due pome acerbe, e pur d'avorio fatte» Ludovico Ariosto - s:Orlando Furioso/Canto 7|Orlando Furioso, Canto 7;14, v 3;	ci troviamo tutti i pome.	1
+dodecaedro	N	0	10	0	10	dodecaedro regolare, detto anche dodecaedro platonico: poliedro formato da dodici pentagoni regolari uguali.	dodecaedro rombico, detto anche rombidodecaedro: poliedro semiregolare duale o poliedro di Catalan, formato da dodici rombi uguali.	1
+suolo	N	0	5	0	5	suolo pubblico, area di proprietà statale o comunale.	suolo a cuscinetto, terreno caratterizzato da protuberanze ricoperte di erba, situato in aree dove si manifestano, in modo alternato,fasi di gelo e disgelo.	1
+sfogliatella	N	0	12	0	12	sfogliatella riccia: sfogliatella fatta con la pasta sfoglia.	sfogliatella frolla: sfogliatella fatta con la pasta frolla.	1
+consumare	V	12	21	15	22	il fuoco ha consumato l'edificio.	la malattia lo consuma.	1
+réclame	N	28	35	26	33	mi è stato recapitata della réclame nella casella della posta.	quell'attore fa una bella réclame al prodotto da vendere.	1
+affogare	V	62	68	11	19	e pur men grava e morde il mal che n'addolora del tedio che n'affoga (Leopardi).	i precetti affogano il genio (Mazzini).	1
+mamma	N	38	43	12	17	oggi mio figlio ha chiamato sua madre mamma per la prima volta.	è una brava mamma.	1
+imbevere	V	21	27	24	32	un foglio assorbente imbeve l'acqua finché non è saturo.	le radici di una pianta imbevono acqua e la trasportano ai tessuti vegetativi.	1
+volume	N	10	16	3	9	occupa un volume di un metro cubo.	il volume esiste perché la gravità sulla Terra è bassa.	1
+carne	N	30	35	11	16	abbandonarsi ai piaceri della carne.	peccati di carne.	1
+carne	N	85	90	26	31	alcuni filosofi ritengono che la vera essenza dell'uomo stia nell'anima, e non nella carne.	lo spirito è forte, ma la carne è debole.	1
+fiato	N	11	16	11	16	riprendere fiato, fermarsi un poco per riposare.	tutto d'un fiato, senza interruzione.	1
+cielo	N	25	30	42	47	l'aeroplano volava in un cielo azzurro.	quella notte senza Luna e senza stelle il cielo apparve completamente nero.	1
+corrispondere	V	14	25	36	47	Francesca non corrisponde il mio amore.	sono innamorato di lei, ma non sono corrisposto.	1
+colluttare	V	11	19	49	61	il ragazzo colluttò con il manigoldo e infine lo buttò a terra.	scoppiò una rissa nel bar, e tutti gli avventori colluttarono l'uno contro l'altro finché non intervenne la polizia.	1
+braccio	N	22	29	17	24	prese il bimbo tra le braccia.	il lume aveva un braccio spento.	1
+constare	V	3	9	35	41	mi consta che quella casa sia abbandonata.	l'imputato è innocente, per quanto consta a questo tribunale dall'analisi delle prove.	1
+anagrammare	V	0	12	32	43	anagrammando le lettere di "cane" si ottiene "cena".	è un espediente un po' scontato anagrammare "Roma" in "amor".	1
+monarchia	N	0	9	0	9	monarchia assoluta, dove il monarca detiene in pratica tutti i poteri.	monarchia costituzionale, dove il monarca detiene il potere legislativo in comune col parlamento e delega parte del potere esecutivo al capo del governo.	1
+dopo sbornia	N	76	88	28	40	Le mie camminate ammazzacristiani servivano solitamente come rimedio per il dopo sbornia (da 'Il senso della frase' di Andrea G. Pinketts).	[..] con la faccia tonta da dopo sbornia e le ossa storte, la fissavano mettendole la luna di traverso. (da "tuffi" di Maria Caldei).	1
+provocare	V	0	9	0	9	provocare la gelosia di qualcuno.	provocare un pianto.	1
+disimparare	V	0	11	61	72	disimparare il latino, la matematica, le buone maniere.	ha ricevuto una buona educazione da bambino, ma crescendo ha disimparato tutto.	1
+coppia	N	28	34	53	59	lui e la sua sposa sono una coppia di innamorati.	quello tra lei e lui è un potenziale fidanzamento di coppia.	1
+aggrinzire	V	0	10	0	10	aggrinzire dei panni, dei fogli di carta.	aggrinzire la fronte, il viso.	1
+movimento	N	0	9	0	9	movimento centrale della bicicletta, il perno e accessori che trasformano il movimento dei pedali in rotazione della corona.	movimento di un orologio.	1
+intridere	V	42	51	6	13	l'espressione fare la scarpetta significa intridere avidamente il pane nella zuppa che è rimasta sul fondo del piatto, onde soddisfare la propria ghiottoneria e facilitare il lavoro alla lavapiatti.	Marco intride i capelli di gel per ottenere l'effetto bagnato.	1
+proiezione	N	14	24	47	57	lui fa queste proiezioni perché li apprezza.	provò un profondo disagio a causa di un'errata proiezione.	1
+bicchiere	N	3	12	10	19	un bicchiere di latte.	alzare il bicchiere: azione compiuta mentre si beve alla salute di qualcuno.	1
+lingua	N	0	6	0	6	lingua madre: lingua parlata sin dall'infanzia nel proprio paese d'insediamento o d'origine.	lingua franca: lingua usata per le comunicazioni internazionali, spesso proveniente da regioni geopolitiche di forte influenza economica e culturale.	1
+chicchiriare	V	22	32	20	32	quel mattino il gallo chicchiriò due volte.	chi gallo nasce dee chicchiriare.	1
+decorrere	V	29	38	63	72	fra la semina ed il raccolto decorrono soli 92 giorni.	la cosa non mutò sostanzialmente nemmeno nei sedici secoli che decorsero da Diocleziano a’ giorni nostri {{Term|Angelo Messedaglia, L'imperatore Diocleziano e la legge economica del mercato.	1
+impresa	N	0	7	0	7	impresa di corpo o d'anima : figura simbolica posta in cimiero che sostiene un motto,.	impresa d'anima: sentenza od una frase allegorica, inerente all'arma, posta in fascia sotto lo scudo.	1
+respirare	V	13	22	32	39	il moribondo respirava ancora.	con questa brezza finalmente si respira.	1
+meccanica	N	0	9	0	9	meccanica classica: insieme delle teorie meccaniche elaborate fino all'inizio del ventesimo secolo, che spiegano i movimenti di corpi più lenti della luce ma più grandi dell'atomo.	meccanica applicata: insieme delle applicazioni pratiche della meccanica.	1
+riservatezza	N	16	28	44	56	il diritto alle riservatezza alla luce della Legge.	il conflitto fra trasparenza ed esigenza di riservatezza.	1
+metà	N	10	14	62	66	Eravamo a metà del discorso.	Galileo Ferraris, scienziato piemontese vissuto nella seconda metà del XIX secolo, dedicò la sua attività di ricerca nel campo dell’elettrotecnica e della trasmissione a distanza dell’energia.	1
+prugna	N	0	6	3	9	prugna amolo: mirabella.	il prugna è la sfumatura che preferisco.	1
+jivadaya	N	7	15	20	28	Il tuo jivadaya si vede da come accarezzi i gatti.	Mostrava la propria jivadaya evitando ogni comportamento irrispettoso verso gli animali.	1
+cingere	V	12	19	9	14	le montagne cingono la valle.	il fiume cinge il lato destro della città.	1
+naufragare	V	11	21	16	26	La barca è naufragata per il maltempo (ausiliare essere).	Il pescatore ha naufragato per il maltempo (ausiliare avere).	1
+credere	V	20	25	18	27	"sarà facile" - "tu credi?".	gli antichi greci credevano che esistessero molti dei.	1
+passera	N	0	7	0	7	passera d'Italia: nome comune della sottospecie di passero più diffusa in Italia, Passer italiae.	passera scopaiola: uccello di piccole dimensioni, dal piumaggio bruno, diffuso in tutta Europa e in Asia, Prunella modularis.	1
+omogeneità	N	2	12	47	57	l'omogeneità degli elementi nutrizionali nel sangue utili al metabolismo.	in principio il feto può essere considerato un'omogeneità difficilmente individuabile.	1
+verificare	V	8	18	8	18	occorre verificare la notizia.	si deve verificare la sua testimonianza.	1
+deridere	V	58	66	53	59	è un bambino goffo e timido, i suoi compagni di scuola lo deridono continuamente.	se continua a comportarsi in modo così sciocco, sarà deriso da tutti.	1
+sintagma	N	16	24	21	29	in ufficio è un sintagma.	libero arbitrio è un sintagma.	1
+vento	N	8	13	11	16	Oggi il vento soffia forte.	Si alza il vento.	1
+andare	V	15	17	14	24	quel documento va portato dall'avvocato.	quei furfanti andrebbero acciuffati.	1
+combine	N	80	87	36	43	la partita fra le due capoliste è finita in pareggio, sospetto ci sia stata una combine.	non è stata una gara onesta, ma una combine.	1
+vergine	N	8	15	18	25	oggi le vergini saranno favorite.	mio nonno è della vergine.	1
+borsa	N	25	30	0	5	forse vorrebbe una nuova borsa con un dettaglio in jeans non senza ricamo colorato.	borsa per computer: PC portatile, tablet, ecc.	1
+fiducia	N	35	42	35	42	un valore della comunicazione è la fiducia.	tra i tanti livelli di attenzione, fiducia e desiderio, il più elevato è certamente la fede.	1
+crucciare	V	18	27	29	37	molti pensieri lo crucciano.	alla fine Chichibio, per non crucciar la sua donna, spiccata l’una delle cosce alla gru, gliele diede.	1
+burro	N	0	5	0	5	burro vegetale: grasso commestibile ricavato da oli vegetali.	burro di cacao: grasso ricavato per spremitura dai semi di cacao.	1
+acido folico	N	2	14	2	14	L'acido folico è una vitamina idrosolubile del gruppo B.	L'acido folico è presente nelle frattaglie, come folati nelle verdure a foglia verde, nei legumi e nelle uova.	1
+presocratico	N	22	34	17	29	Talete fu un filosofo presocratico.	Anassagora fu un presocratico.	1
+aggrottare	V	0	10	29	37	aggrottare le sopracciglia.	fece un movimento di spalle, aggrottò il sopracciglio, ed entrò col sigaro in bocca.	1
+approntare	V	0	10	0	10	approntare le armi, le difese, l'esercito.	approntare un pasto, il pranzo.	1
+Cechia	N	15	21	11	17	Siamo stati in Cechia.	Le case in Cechia sono belle.	1
+onda	N	0	4	0	4	onda acustica, onda elastica che si propaga in un mezzo materiale gassoso, liquido o solido.	onda radio, onda elettromagnetica di origine artificiale, di elevata lunghezza d'onda e bassa frequenza, che si usa per comunicare a distanza.	1
+cornificare	V	0	11	18	29	cornificare la moglie, il marito.	mezza città lo ha cornificato.	1
+capitalismo	N	3	14	0	11	il capitalismo è l'erede naturale del feudalesimo.	capitalismo di stato: sistema economico e sociale dove i mezzi di produzione appartengono allo stato.	1
+ministro	N	3	11	3	11	il ministro della difesa sovraintende alle forze armate.	il ministro citato era il braccio destro dell'ex presidente del consiglio.	1
+fisica	N	0	6	0	6	fisica moderna: insieme di teorie elaborate in fisica a partire all'inizio del ventesimo secolo, che si occupano delle caratteristiche delle alte velocità e delle piccole distanze.	fisica tecnica: insieme delle applicazioni pratiche delle trasformazioni dell'energia e delle interazioni di quest'ultima con la materia.	1
+complimentare	V	26	39	31	44	il padrone di casa andò a complimentare l'ospite.	anche il granduca (...) andò a complimentare sua altezza reale facendogli i suoi auguri per la riuscita del viaggio.	1
+sauté	N	0	5	0	5	sauté di verdure.	sauté di manzo.	1
+cappottare	V	44	52	15	25	l'automobile, centrata in pieno dal camion, cappottò.	l'aeroplano ha cappottato durante il decollo, ma per fortuna i passeggeri sono rimasti illesi.	1
+exploit	N	8	15	45	52	fare un exploit; compiere un exploit.	nella partita di ieri la squadra ha fatto un exploit battendo la prima in classifica.	1
+delirare	V	13	21	5	14	ha ripreso a delirare.	stai delirando?	1
+mafia	N	3	8	30	35	la mafia è stata quasi sconfitta in tutto il mondo.	esiste una sorta di casata di mafia i cui giovani adepti sono quasi naturalmente attirati dal male radicato nelle forme della materialità più oscura.	1
+estendere	V	0	9	78	87	estendere la propria conoscenza a nuove branche dello scibile; estendere l'orizzonte culturale di una generazione; estendere le proprie abilità a nuovi settori; ecc.	è opinione comune che vi siano metodi molto più efficaci dell'enigmistica per estendere le possibilità della mente.	1
+effondere	V	0	9	0	9	effondere lacrime.	effondere nell'aria un suono.	1
+opacità	N	2	9	2	9	l'opacità delle tenebre.	l'opacità del suo specchio.	1
+coprodurre	V	0	10	32	42	coprodurre un'opera, un film.	questa serie televisiva è stata coprodotta da produttori americani e francesi.	1
+stronzata	N	13	22	21	30	Tutti a dire stronzate!	Ho proprio fatto una stronzata.	1
+scalare	V	0	7	32	40	scalare le marce di un'automobile.	il governo sta progressivamente scalando gli incentivi.	1
+sottordine	N	3	13	18	28	il sottordine degli Odontoceti appartiene all'ordine dei Cetacei.	gli Ofidi sono un sottordine dei Rettili.	1
+handicappare	V	68	78	51	61	è un ragazzo brillante, ma l'incapacità di attenersi alle regole lo handicappa nei risultati scolastici.	non è tanto la mancanza della macchina quel che mi handicappa, quanto la mia incapacità a parlare coi clienti.	1
+collega	N	35	42	0	7	sono andato in montagna con un mio collega di banca.	collega di studi all'università.	1
+pensare	V	24	29	0	5	Per fortuna c'è lui che pensa a tutto!	Penso che non sia giusto!, penso che tu debba andarci.	1
+circonvenire	V	12	22	48	60	il furfante circonvenì l'anziano signore con la sua parlantina e si fece consegnare le chiavi di casa.	suo fratello, Dalmazio, è parimenti impiegato a circonvenire l'Imperatore e tutti coloro che servivano la sua persona.	1
+botte	N	24	29	26	31	abbiamo bevuto tutta la botte di vino.	avrà consumato almeno due botti d'acqua.	1
+diretta	N	11	18	21	28	seguire la diretta.	la trasmissione è in diretta.	1
+touche	N	26	32	50	56	l'arbitro ha assegnato la touche alla squadra di casa, nonostante le rimostranze degli avversari.	i giocatori delle due squadre si schierano per la touche.	1
+decomprimere	V	58	70	43	54	esistono numerosi software che consentono di comprimere e decomprimere i file.	questo file è in formato .zip, deve essere decompresso prima di essere leggibile.	1
+desegretare	V	35	46	57	68	la stampa chiede con insistenza di desegretare il contenuto delle intercettazioni telefoniche, mantenuto riservato dalle autorità.	dopo 50 anni dai fatti il Presidente della Repubblica ha desegretato i fascicoli relativi al processo.	1
+cielo	N	35	40	42	47	fu un bellisimo tramonto perché il cielo si tinse di rosso.	quella notte senza Luna e senza stelle il cielo apparve completamente nero.	1
+dodecaedro	N	0	10	8	18	dodecaedro rombico, detto anche rombidodecaedro: poliedro semiregolare duale o poliedro di Catalan, formato da dodici rombi uguali.	piccolo dodecaedro stellato: poliedro regolare stellato, formato da dodici poligoni stellati uguali. È uno dei quattro poliedri di Keplero-Poinsotpoligoni.	1
+nonnulla	N	20	28	30	38	si preoccupa per un nonnulla.	se conto ho a renderti d’ogni nonnulla.	1
+soluto	N	7	13	38	44	questo soluto può essere preparato grazie alla lavorazione del prodotto ottenuto con disidratazione.	"Ti do il vino? Vuoi preparare il suo soluto?".	1
+pertenere	V	85	93	91	100	quella che lei, prof. Bianchi, ritiene una critica capace di smontare le mie teorie, pertiene a queste ultime tanto quanto il suo modo di vestire pertiene all'Idea di eleganza.	mi dispiace per la sua pensione, signora, ma inseguire un borseggiatore non può e non deve pertenere alle mie attribuzioni di guardia giurata aggiunta.	1
+uccidere	V	107	115	35	41	L'investigatore disse senza allusione: <<Domanda: "ma lei... ha mai commesso un delitto? Sa cosa significa uccidere?">>.	Nella maggior parte dei casi hanno ucciso per ottenere qualcosa da chi è poi morto: spesso ne è rimasto appunto un corpo esanime.	1
+notazione	N	23	32	19	28	introduciamo una nuova notazione.	non capisco questa notazione.	1
+confabulare	V	11	24	35	46	due uomini confabulavano in un angolo.	il barone Mèndola, che era stato a confabulare con della gente, fuori sul pianerottolo, rientrò gesticolando.	1
+accendere	V	0	9	0	9	accendere una lite.	accendere l'odio, la passione.	1
+dettato	N	44	51	8	15	l'insegnante ha fatto fare agli studenti un dettato in inglese.	fare un dettato esercita l'ortografia.	1
+finanza	N	11	18	0	7	guardia di finanza: corpo militare che ha il compito di vigilare sulle evasioni fiscali, sulle frodi, sui monopoli e le dogane.	finanza frattale, uso di tecniche, modelli e metodi propri della geometria frattale per lo studio del funzionamento dei mercati di azioni.	1
+rieleggere	V	0	10	27	35	rieleggere un deputato per la seconda volta.	il sindaco uscente è stato rieletto a sorpresa.	1
+cielo	N	35	40	25	30	fu un bellisimo tramonto perché il cielo si tinse di rosso.	l'aeroplano volava in un cielo azzurro.	1
+touche	N	30	36	26	32	mettere, calciare la palla in touche.	l'arbitro ha assegnato la touche alla squadra di casa, nonostante le rimostranze degli avversari.	1
+defezionare	V	0	11	36	47	defezionare da un partito.	numerosi deputati del partito hanno defezionato e sono passati con la fazione opposta.	1
+nulla	N	27	32	18	23	Chiusi gli occhi e vidi il nulla.	All'inizio era il nulla.	1
+gravidanza	N	10	20	44	54	essere in gravidanza.	questo parcheggio è riservato alle donne in gravidanza.	1
+ammollare	V	68	77	0	9	ho dimenticato il libro in giardino e la pioggia l'ha completamente ammollato.	ammollare uno schiaffo, una bastonata, una botta a qualcuno.	1
+aria	N	0	4	11	15	aria pura, limpida.	cambiare l'aria.	1
+cicalare	V	18	26	83	93	stette mezz'ora a cicalare, trattenendomi nonostante avessi fretta.	dinanzi al ballatoio della sua casa c’era un gruppo di vicine che l’aspettavano, e cicalavano a voce bassa fra di loro.	1
+chimica	N	0	7	0	7	chimica generale: ramo della chimica che studia la struttura degli atomi e dei loro legami.	chimica fisica: ramo della chimica che studia le proprietà fisiche degli atomi e delle molecole.	1
+réclame	N	27	34	26	33	la città era tappezzata da réclame elettorali.	quell'attore fa una bella réclame al prodotto da vendere.	1
+capitanare	V	0	10	0	10	capitanare un battaglione, un manipolo, un esercito.	capitanare una nave.	1
+uso	N	2	5	14	17	L'uso di droghe è vietato dalla legge.	il tempestivo uso di un defibrillatore serve per interrompere la fibrillazione ventricolare.	1
+contrizione	N	72	83	15	26	fino ad ora è stato troppo scettico per comprendere pienamente una vera contrizione.	ho provato una contrizione tale da farmi credere di essere appena morto.	1
+touche	N	30	36	50	56	mettere, calciare la palla in touche.	i giocatori delle due squadre si schierano per la touche.	1
+specie	N	24	30	26	32	quello che faccio è una specie di gioco.	un briccone della peggior specie.	1
+iconografia	N	2	13	2	13	l'iconografia mariana è molto diffusa.	l'iconografia medievale.	1
+agguagliare	V	0	11	7	16	agguagliare due sacchi di sabbia, agguagliare degli alberi.	l’Orco agguaglia tutti, fa tutti simili.	1
+nonnulla	N	20	28	30	38	perde tempo su ogni nonnulla che gli si presenta.	se conto ho a renderti d’ogni nonnulla.	1
+riscuotere	V	37	47	0	10	spero che una serata fra amici possa riscuotere Giovanni dalla tristezza in cui è piombato di recente.	riscuotere un assegno.	0
+errore	N	0	6	0	6	errore relativo: interpretazione nascosta di un dato qualitativo, pari al rapporto tra l'errore assoluto e il valore medio.	errore grammaticale (mancata aderenza ai principi della grammatica).	0
+errore	N	104	110	17	23	nel medioevo i catari sostenevano il dualismo tra materia e spirito, che per la chiesa cattolica era un errore.	se è presente un errore in un contratto, esso viene dichiarato nullo.	0
+curiosare	V	19	28	11	20	"Allora! Smetti di curiosare tra le cose di tua sorella?!".	"Smetta di curiosare nei documenti privati della famiglia della donna!".	0
+genere	N	17	23	25	31	la qualità di un genere musicale diminuisce all'aumentare della popolarità.	il gibbone appartiene al genere ilobate.	0
+insistere	V	0	9	12	21	insistere con disciplina.	continua ad insistere ostinatamente a presentarsi sotto casa.	0
+vigilia	N	5	12	9	16	alla vigilia del fallimento, della scadenza, della partenza delle nozze.	le dolci vigilia (Foscolo, Sepolcri).	0
+agguagliare	V	0	11	29	38	agguagliare due sacchi di sabbia, agguagliare degli alberi.	qualunque egli sia (...) non agguaglia nel suo grado la grandezza dell’animo vostro.	0
+interesse	N	26	35	10	19	la banca mi ha pagato gli interessi sul denaro che ho depositato sul conto.	agire per interesse.	0
+pensiero	N	7	15	17	25	il tuo pensiero è molto limitato.	scusa, ma ho dei pensieri.	0
+pullulare	V	10	21	12	21	i conigli pullulavano in tutta la campagna.	il castello pullulava di soldati.	0
+conglobare	V	24	32	0	10	una società multietnica congloba in sé differenti identità nazionali.	conglobare diversi pagamenti in un unico conguaglio.	0
+luce	N	42	46	3	7	Questa stanza ha bisogno di un po' più di luce.	La luce passa attraverso le finestre.	0
+fico	N	25	29	0	4	Ci sono due tipologie di fico: quello classico e quello rosso.	fico beniamino;	0
+turno	N	3	8	8	13	il turno serale è stato lunghissimo.	"Sei di turno stamattina?".	0
+guarire	V	36	43	22	30	il dottore sta facendo di tutto per guarire mio figlio.	l'influenza di solito guarisce in un paio di settimane.	0
+lavoro	N	32	38	24	30	avevi la moto nuova: guarda che lavoro ti hanno fatto.	l'obiettivo richiede un lavoro anche da parte nostra.	0
+colpire	V	4	11	21	28	Hai colpito un povero ragazzo che passava di lì.	La sua bravura mi ha colpito.	0
+deporre	V	25	32	21	30	un vecchio pugile che ha deposto i guantoni ormai da anni (che ha smesso di fare il pugile).	le tartarughe marine depongono le loro uova sulle spiagge.	0
+dato	N	26	30	16	20	"Mi può comunicare i suoi dati per favore?".	elaborazione di dati.	0
+attaccare	V	10	21	3	12	I nazisti attaccarono l'esercito inglese.	Ho attaccato un quadro al chiodo nel muro.	0
+acqua	N	0	5	30	35	acqua di colonia.	la nostra squadra gareggia in acqua 4.	0
+promettere	V	3	11	5	13	Ti prometto che non lo dirò mai a nessuno.	Oggi promette pioggia...	0
+giorno	N	30	36	38	44	Da tutte le parti saettava il giorno Dante Purg.II, 55,56.	cerchiamo di finire questo lavoro "di giorno" (cioè in fretta, entro breve tempo).	0
+dolore	N	10	16	3	9	spesso il dolore aumenta con la diminuzione del vigore.	Il dolore è la debolezza che il corpo lascia.	0
+vita	N	85	89	25	29	per quanto ne sappiamo, la Terra è l'unico pianeta del sistema solare ad ospitare la vita.	disegnare è tutta la sua vita.	0
+bordello	N	22	30	33	41	Alla festa c'erano un bordello di persone.	Alla festa abbiamo fatto un gran bordello.	0
+squadra	N	3	10	56	63	la squadra era stata sterminata durante un'imboscata.	giocava a calcio così bene che era stato inserito nella squadra.	0
+contrarre	V	0	9	0	9	contrarre una malattia.	contrarre un muscolo.	0
+statistica	N	71	81	0	10	all'uscita del supermercato diversi ragazzi raccoglievano dati per una statistica sui beni consumati dai clienti.	statistica economica: disciplina che studia gli aspetti quantitativi e qualitativi dei fenomeni dell'economia.	0
+chetare	V	0	7	0	7	chetare l'abbaiare dei cani.	chetare la collera, la fame.	0
+fremere	V	15	23	0	7	non altrimenti fremendo che ’l lion libico (Boccaccio).	fremere di sdegno, d'ardore, d'ira, d'amore, di disgusto, d'impazienza, di rabbia, di desiderio ecc.	0
+acque	N	21	26	17	22	mi son curato con le acque.	si sono rotte le acque.	0
+cedere	V	0	6	40	46	cedere alle minacce, alle lusinghe.	dopo la guerra, il paese fu obbligato a cedere le sue colonie.	0
+masticare	V	27	36	0	7	un leone non è in grado di masticare l'erba.	mastico un po' l'inglese, ma non sono in grado di sostenere una conversazione prolungata.	0
+pensiero	N	15	23	21	29	ti ho fatto un pensiero.	ecco una raccolta di pensieri di Proust.	0
+spingere	V	9	15	18	24	mi hanno spinto e son caduto.	Ieri sera abbiamo spinto !	0
+avviare	V	0	7	0	7	avviare il nipote alla carriera universitaria.	avviare una motocicletta.	0
+squadra	N	24	31	45	52	temevano l'arrivo della squadra della buoncostume.	per fare quel disegno sono indispensabili le squadre.	0
+cedere	V	22	28	34	40	il suo corpo inizia a cedere, se la febbre non passa potrebbe morire.	la proprietà della fabbrica venne ceduta dal padre al figlio.	0
+dovere	V	0	6	0	4	dovevo andarmene, ma poi ho deciso di restare!	deve essere già uscito..	0
+discorso	N	9	17	24	32	terrò un discorso.	questo è tutto un altro discorso.	0
+tecnica	N	7	14	0	7	"Tutta tecnica!".	tecnica pittorica, pianistica.	0
+contare	V	0	8	14	21	contando che non ci siano intoppi, dovremmo arrivare stasera.	è impossibile contare le stelle!	0
+slegare	V	0	7	0	7	slegare una fune, un bavaglio, un bavaglino, un fiocco, un groppo, un collare, una museruola.	slegare il cane.	0
+scusa	N	7	12	18	23	chiedo scusa per il ritardo.	non inventi altre scuse!	0
+cogliere	V	11	16	0	8	stamane ho colto due rose, ho colto tutti gli agrumi del giardino.	cogliere la palla al balzo.	0
+misurare	V	33	41	62	70	i due dritti al volto sono stati misurati in potenza con maestria e comunque con destrezza.	fanno parte della fisica solo quelle grandezze che si possono misurare.	0
+assommare	V	16	23	39	46	il sommozzatore assommò a poppa della nave.	il numero delle vittime dell'incidente assomma a dieci, più numerosi feriti gravi.	0
+correre	V	9	14	9	14	Il tempo corre!	Il fiume corre giù per al valle.	0
+aculeo	N	25	31	2	8	Si graffiò a causa degli aculei del cactus che aveva colpito.	L'aculeo di un'ape può risultare molto doloroso.	0
+torcere	V	24	31	0	8	il peso della struttura torceva i tralicci.	torcendo il viso a' preghi onesti e degni (Petrarca).	0
+torcere	V	7	14	0	7	potrei torcere una sbarra d'acciaio con la sola forza del pensiero.	torcere il nylon, la lana, il cotone ecc.	0
+entrata	N	2	9	2	9	L'entrata ( più comune: entrate) è stata inferiore al previsto.	l'entrata del teatro è a pochi metri.	0
+rapimento	N	32	41	0	9	il bambino, tratto in salvo dal rapimento, aveva individuato subito colui che lo aiutò.	rapimento estatico.	0
+correre	V	12	17	0	5	Quel pilota corre per la Renault.	Corre il rischio di essere bocciato.	0
+pensiero	N	25	33	17	25	possiamo leggere nel suo pensiero.	scusa, ma ho dei pensieri.	0
+progetto	N	3	11	6	14	il progetto di un lavoro all'estero.	ha in progetto di andare da loro nel caso in cui non si presentassero più.	0
+estirpare	V	0	9	0	9	estirpare un dente cariato.	estirpare il malcostume.	0
+astro	N	37	42	11	16	Satchmo (Louis Armstrong) è stato un astro del jazz.	Venere è l'astro del mattino.	0
+affastellare	V	17	27	32	44	questo scrittore affastella avverbi e aggettivi senza mai arrivare alla sostanza.	trovò quel suo amico intento ad affastellare alcuni oggetti in un baule.	0
+pianeta	N	29	36	3	10	nella liturgia cattolica, la pianeta oggi è stata sostituita dalla casula.	il pianeta dello sport.	0
+passera	N	38	45	0	7	ha cercato di metterle una mano sulla passera, e lei gli ha tirato un ceffone.	passera di palude: uccello della famiglia degli zigoli, dal piumaggio striato, che nidifica prevalentemente nelle zone umide, Emberiza schoeniclus.	0
+dorso	N	43	48	22	27	sulla scaffale della libreria intravide il dorso di un rarissimo libro.	stendersi a terra sul dorso.	0
+affrontare	V	0	10	0	10	affrontare un esame.	affrontare il professore.	0
+consumare	V	12	19	8	17	la centrale consuma acqua per il raffreddamento del motore.	abbiamo consumato tutta la benzina.	0
+scegliere	V	0	9	3	9	scegliere fior da fiore.	ha scelto l'amore.	0
+corrispondere	V	20	31	36	47	il suo racconto non corrisponde alla realtà.	sono innamorato di lei, ma non sono corrisposto.	0
+sentire	V	0	5	4	11	Senti che buono.	Hai sentito quel verso spaventoso?	0
+cambiare	V	0	8	5	13	cambiare il colore delle pareti, la disposizione dei mobili di una casa.	sono cambiato veramente, ho abbandonato tutti i miei vecchi vizi.	0
+cambiare	V	0	8	5	13	cambiare gli euro in dollari.	sono cambiato veramente, ho abbandonato tutti i miei vecchi vizi.	0
+asse	N	12	16	2	6	porta quell'asse sul ponteggio.	l'asse ereditario era cospicuo.	0
+apparato	N	0	8	0	8	apparato elettrico: insieme degli elementi che forniscono corrente elettrica.	apparato circolatorio: del cuore, delle arterie, vene, capillari, ecc.	0
+errore	N	14	20	17	23	commettere un errore.	se è presente un errore in un contratto, esso viene dichiarato nullo.	0
+piccolo	N	45	52	12	19	bisogna essere molto preparati per educare i piccoli.	"Sei la mia piccola".	0
+guerra	N	3	9	24	30	la Guerra fredda è finita nel 1991.	quei due sono sempre in guerra.	0
+flora	N	0	5	29	34	flora batterica.	nelle foreste equatoriali la flora africana è ricca di vegetazione.	0
+annerire	V	10	19	8	17	l'argento annerisce a contatto con l'aria.	lo smog annerisce il marmo dei monumenti cittadini.	0
+pittura	N	18	25	25	32	queste sono delle pitture precolombiane.	abbiamo dato due mani di pittura alla cucina.	0
+affastellare	V	4	16	0	10	hai affastellato i tuoi panni sulla sedia; metti subito in ordine!	affastellò le scorze dell'albero delle stoviglie e dopo non pochi tentativi vi diede fuoco.	0
+cedere	V	31	37	67	71	le fondamenta della casa hanno ceduto per (o al) peso eccessivo.	la catena degli Altai è una delle più imponenti dell’Asia e non la cede che a quella dell’Imalaja.	0
+casa	N	37	41	38	42	un mio amico ha acquistato una bella casa in montagna.	la Luna entrerà nella venticinquesima casa lunare alle 16:31 di giovedì prossimo.	0
+tesa	N	8	12	7	11	fare la tesa delle reti.	era la tesa del mare un gioco d'anella (MONTALE).	0
+capacità	N	11	19	45	53	Hai grandi capacità!	Una vasca da bagno di grandezza media ha una capacità fra i 100 e 150 litri.	0
+dardeggiare	V	42	53	13	26	il sole, benchè ormai vicino al tramonto, dardeggiava ancora i suoi raggi cocenti sulla moltitudine.	le fanciulle dardeggiavano occhiate ai sottoposti.	0
+niente	N	31	37	0	6	con il peccato si resta con un niente.	niente... niente...	0
+lavoro	N	33	39	34	40	svuotare la cantina sarà un duro lavoro.	non sa dove andare per trovare un lavoro.	0
+azione	N	16	22	4	10	qualche volta l'azione è più importante dello studio.	per azione di...	0
+culo	N	10	14	20	24	hai avuto culo a vincere alla lotteria!	quello lì è proprio culo!	0
+scavo	N	3	8	26	31	lo scavo della montagna procedeva senza intoppi.	ci siamo rifugiati in uno scavo nel sottosuolo.	0
+linea	N	0	5	11	16	linea chiusa: punto iniziale e finale coincidono.	Li c'è una linea di alghe.	0
+coronare	V	52	60	0	8	nell'antichità classica gli atleti vittoriosi erano coronati d'alloro.	coronare un'opera dopo lungo lavoro.	0
+cannibalizzare	V	34	48	33	47	per assemblare il suo computer ha cannibalizzato due vecchi portatili.	l'ufficio del direttore è solito cannibalizzare i dipendenti migliori, prelevandoli dagli altri reparti.	0
+titubanza	N	40	49	21	30	malgrado inizialmente abbia avuto molta titubanza, in seguito sbeffeggiò impunemente.	spesso sono colmo di titubanza, come giusto, poiché so come vanno queste cose.	0
+ricavare	V	20	28	16	22	da quel trattato ho ricavato diverse informazioni.	da quell'uva si ricava dell'ottimo vino.	0
+natura	N	26	32	14	20	la farmacia è lo stato di natura della scienza.	immerso nella natura.	0
+desolare	V	25	33	15	23	la siccità prolungata ha desolato il territorio, un tempo lussureggiante.	il lutto li ha desolati.	0
+controllo	N	15	24	0	9	Ho eseguito un controllo delle mie capacità motorie.	controllo-bagagli: per sicurezza nei luoghi pubblici (e/o privati), per esempio anche aeroporti, talvolta alberghi, ecc.	0
+respirare	V	0	9	32	39	respirare con i polmoni, con le branchie, con gli stomi.	con questa brezza finalmente si respira.	0
+seno	N	3	7	22	26	il seno destro, il seno sinistro.	una fascia copriva il seno della ragazza.	0
+effondere	V	9	16	0	9	il magma effonde in superficie e solidifica.	effondere nell'aria un suono.	0
+percezione	N	0	10	13	23	percezione del dolore: avvertire un fastidio che causa sofferenza e/o dolore.	ho spesso la percezione del mio io, anche grazie alla gioia ed alla soddisfazione.	0
+mandare	V	3	10	43	50	ho mandato Enrico a fare la spesa per tutti.	ero intrappolato nell'ascensore, ho dovuto mandare un urlo per farmi sentire.	0
+esaudire	V	0	8	0	8	esaudire un desiderio.	esaudire una preghiera.	0
+crisi	N	57	62	7	12	quella per annegamento è forse tra le morti con maggiore crisi di lento e frenetico terrore.	quella crisi fu necessaria per una maggiore consapevolezza.	0
+mercato	N	30	37	44	51	"Pur secondo le direttive del mercato libero, la Leoncino resta appunto comunque assai simile alla Scrambler".	avete avuto molto coraggio entrando in quel mercato: state avendo successo.	0
+giocare	V	10	17	0	7	i cardini giocano troppo, e di conseguenza la porta traballa.	giocare a calcio, a tennis, a pallacanestro.	0
+passato	N	15	22	15	22	rimpiangere il passato;	in italiano il passato è usato nei modi indicativo, congiuntivo, condizionale, infinito, participio e gerundio;	0
+torcere	V	38	46	0	7	l'intruglio che ingurgitava gli stava torcendo le budella.	torcere a destra.	0
+tempo	N	7	12	48	53	a quel tempo le cose andavano meglio.	siamo arrivati al cinema all'inizio del secondo tempo.	0
+elemento	N	0	8	4	12	elemento scientifico: principio e parte delle regole e cognizioni di una disciplina o scienza.	gli elementi di un mobile sono le ante, i cassetti, eccetera.	0
+guerra	N	16	22	47	53	Basta poco: una guerra può rovinare quasi tutto quello in cui crede l'umanità civilizzata e molte persone muoiono violentemente.	il governo ha promesso che si impegnerà in una guerra contro il fumo di tabacco.	0
+estendere	V	0	9	38	47	estendere la propria conoscenza a nuove branche dello scibile; estendere l'orizzonte culturale di una generazione; estendere le proprie abilità a nuovi settori; ecc.	l'unica sua abilità è stata quella di estendere a dismisura la sua rete di amicizie importanti.	0
+affinità	N	0	8	3	11	affinità prospettiva.	le affinità sono le trasformazioni affini di uno spazio in se stesso.	0
+minaccia	N	3	10	32	40	le minacce di quel terrorista avevano un obiettivo irrealizzabile.	gli sembrò di essere oggetto di minaccia altrui ma poi verificò che ciò era impossibile.	0
+giocare	V	17	22	27	34	quell'attaccante gioca nella squadra cittadina di pallavolo.	questo non è il momento di giocare, la situazione richiede serietà.	0
+servire	V	0	7	22	29	servire la celebrazione.	il tuo consiglio mi è servito tantissimo.	0
+carne	N	27	32	85	90	l'ago le si conficcò nella carne del dito.	alcuni filosofi ritengono che la vera essenza dell'uomo stia nell'anima, e non nella carne.	0
+coraggio	N	46	54	22	30	spesso c'è bisogno di parole, non soltanto di coraggio.	"Certo è che ha avuto coraggio a fare quegl'investimenti".	0
+portare	V	0	7	24	29	portare i bambini a scuola.	la diperazione talvolta porta alla follia.	0
+ricevere	V	30	36	3	11	Il mio telefono cellulare non riceve alcun segnale qui.	Ho ricevuto un dono.	0
+ammollare	V	39	48	10	21	sono partiti per le vacanze e mi hanno ammollato il cane.	i marinai ammollavano le funi d'ormeggio per prepararsi alla partenza.	0
+lavoro	N	36	42	24	30	pur essendo in ferie sono andato al lavoro a trovare i colleghi.	l'obiettivo richiede un lavoro anche da parte nostra.	0
+burlare	V	13	20	23	30	m'hai voluto burlare ma, purtroppo per te, non ci sei riuscito.	quell'imbroglione l'ha burlato ed è scappato coi suoi soldi.	0
+sbagliare	V	3	12	25	34	ho sbagliato il problema.	nel caso in cui tu abbia sbagliato, sappi che anch'io ho sbagliato.	0
+scolpire	V	18	26	15	23	La pietra è stata scolpita sin dall'antichità.	Lo scultore ha scolpito una statua.	0
+peccato	N	22	29	37	44	confrontando un grave peccato ed uno meno ad alcuni sembra plausibile l'accettazione di quello lieve.	così fu libero dalle conseguenze del peccato tanto da riuscire a vedere con maggior nitidezza ed obiettività.	0
+elemento	N	4	12	0	8	gli elementi di un mobile sono le ante, i cassetti, eccetera.	elemento architettonico: parte dei componenti orizzontali e verticali di un edificio o di una struttura.	0
+impedire	V	0	8	9	17	impedire il crollo del palazzo.	la frana impediva il transito.	0
+attaccare	V	23	30	3	12	ci siamo, adesso Mario attacca con la solita solfa!	Ho attaccato un quadro al chiodo nel muro.	0
+spingere	V	9	15	10	16	mi hanno spinto e son caduto.	era stato spinto a favore della loro opinione.	0
+seno	N	20	24	15	19	il frate trasse dal seno della tonaca un taccuino, e si mise a scrivere.	nudo uscii dal seno di mia madre, e nudo vi ritornerò.	0
+bisogno	N	17	24	32	39	ho assolutamente bisogno di una borsa da viaggio e per il lavoro.	"E tu... non consideri i nostri bisogni?! Sei un padre ed un marito!!".	0
+ottenere	V	22	29	3	11	Spremendo le olive si ottiene dell'olio.	Ha ottenuto una promozione.	0
+casa	N	157	161	30	34	ho portato il mio scooter dal meccanico per una riparazione, ma ho dovuto aspettare qualche giorno perché il pezzo di ricambio era reperibile solo presso la casa costruttrice.	ti avviso che stasera torno a casa tardi dal lavoro.	0
+spingere	V	10	18	21	29	ha dovuto spingere il carretto fino alla rimessa.	il capoufficio vuole spingere per farmi ottenere il trasferimento.	0
+passaggio	N	3	12	3	12	il passaggio del gruppo attraverso il bosco.	il passaggio all'età adulta.	0
+acqua	N	19	24	9	14	abbiam preso tanta acqua.	numero d'acqua: il numero che identifica la corsia.	0
+immoralità	N	11	21	11	21	per la sua immoralità cercava ciecamente di corrompere chiunque.	qualsiaisi immoralità è la degradazione dei costumi.	0
+terza persona	N	35	48	29	42	I pronomi personali italiani della terza persona sono: egli, ella, esso, essa, lui, lei, se, si, essi, esse.	Sono venuto a saperlo da una terza persona.	0
+persona	N	16	23	109	116	"io" è la prima persona singolare, mentre "tu" è la seconda.	il Taser è un'arma di dissuasione non letale, che produce una scarica elettrica non lieve che immobilizza la persona per alcuni secondi.	0
+intenzione	N	10	20	3	13	Non è mia intenzione dirti niente.	ho intenzione di sposarla.	0
+luce	N	42	46	47	51	Questa stanza ha bisogno di un po' più di luce.	grazie ad Einstein, si è scoperto che anche la luce curva in presenza del sole.	0
+scherzo	N	8	15	3	10	"...che scherzo fenomenale!".	lo scherzo non è riuscito.	0
+inibire	V	42	49	8	15	è rimasto traumatizzato dopo essere stato inibito nel lavoro senza alcun motivo.	bisogna inibire l'uso di Internet a nostro figlio.	0
+flotta	N	36	42	29	35	la nostra società possiede un'ampia flotta di veicoli da trasporto.	agli inizi dell'ottocento la flotta inglese dominava i mari.	0
+lastra	N	12	18	48	54	cambiare le lastre delle finestre.	devo andare in ospedale a fare/a farmi fare una lastra.	0
+canto	N	0	5	15	20	canti carnascialeschi.	starsene in un canto.	0
+ghetto	N	3	9	70	76	al ghetto troverai tanti ottimi ristorantini.	piano... piano rendendo agli ebrei la vita quasi impossibile, poi nei ghetti ancor più in condizioni quasi estreme, essi sopravvissero comunque uniti in quanto popolo d'Israel.	0
+avventurare	V	0	9	13	22	avventurò la sua intera carriera e tutti i suoi averi in quel losco affare.	«io vi amo!» avventurò Don Giovanni.	0
+olio	N	3	7	52	56	ad olio su tela.	per dimagrire non bisogna mangiare cibi fritti nell'olio.	0
+affiochire	V	11	21	14	24	la candela affiochiva lentamente e la stanza si faceva più buia.	un velo (...) affiochiva nei pascoli i suoni sparsi dei campani.	0
+orfano	N	42	48	21	27	la seconda guerra mondiale ha fatto molti orfani, persino di terza generazione.	quella è una persona orfana di principi.	0
+visione	N	0	7	0	7	visione progettuale.	visioni di san Paolo.	0
+tempo	N	8	13	13	18	in quel tempo sorgeva un'antica città sull'argine del fiume.	oggi c'è bel tempo.	0
+studiare	V	20	28	0	8	l'attentatore le ha studiate per mesi prima di colpire.	studiare le cause di un fenomeno.	0
+beneficenza	N	28	39	69	80	secondo molti è meglio fare beneficenza senza vantarsene, quindi in modo anonimo.	ha fame veramente... e non soltanto: io gli darei 1.000,00 euro come beneficenza senza esitare.	0
+corteare	V	18	28	37	45	molti pretendenti corteavano la giovane.	dopo il mangiare, venne il signore a corteare.	0
+controllo	N	15	24	19	28	Ho eseguito un controllo delle mie capacità motorie.	Non perdere mai il controllo!	0
+estendere	V	0	9	0	9	estendere la propria conoscenza a nuove branche dello scibile; estendere l'orizzonte culturale di una generazione; estendere le proprie abilità a nuovi settori; ecc.	estendere il diritto di voto agli immigrati regolari è un tema di grande attualità.	0
+boccale	N	3	10	23	30	il boccale che sto usando l'ho comprato in Germania.	mi sono bevuto quattro boccali di birra.	0
+arieggiare	V	11	19	0	10	il ragazzo arieggia suo padre, ma non è ancora alla sua altezza.	arieggiare i panni.	0
+scherzo	N	13	20	9	16	"...ma è uno scherzo del destino!?".	fece più scherzi sapendo che prima o poi l'avrebbero smascherato.	0
+monito	N	3	9	39	45	il monito fuori luogo dei tre impertinenti lo lasciarono talmente interdetto da far sì che conseguisse un successo, comunque a loro discapito.	poiché l'amico si era trattenuto da un monito sincero, il ragazzo ancora giovane fece una pessima figuraccia quindi il primo fu considerato in difetto.	0
+scherzo	N	7	14	13	20	quello scherzo gli cambiò la vita...	"...ma è uno scherzo del destino!?".	0
+crisi	N	30	35	57	62	è il suo cruccio: è spesso in crisi.	quella per annegamento è forse tra le morti con maggiore crisi di lento e frenetico terrore.	0
+impedire	V	11	20	13	23	la pioggia impedisce che si faccia lo spettacolo.	i poliziotti impedivano l'accesso.	0
+giocare	V	0	7	16	23	giocare una finale, giocare una buona partita.	hai sbagliato a giocare adesso la briscola, non c'erano punti da prendere!	0
+smettere	V	17	25	30	38	ha intenzione di smettere di fumare.	per lui era quasi impossibile smettere di scrivere il racconto.	0
+amoreggiare	V	0	9	16	27	amoreggia con una collega.	Enrico ed Irina amoreggiano.	0
+influenzare	V	44	55	8	19	cos'è in sintesi la massoneria? Una parola: influenzare... tutto qua.	è stato influenzato da cattive amicizie.	0
+tesa	N	21	25	8	12	un cappello a larghe tese.	fare la tesa delle reti.	0
+ricetta	N	57	64	16	23	sono andato in farmacia ad acquistate un farmaco con una ricetta bianca e perciò ho dovuto pagarla completamente.	ho una favolosa ricetta per i pizzoccheri.	0
+respirare	V	22	29	33	40	nelle grandi città si respira aria inquinata.	ora che il pericolo è passato si respira un po'.	0
+porre	V	0	5	0	5	porre la propria candidatura per le elezioni.	porre una domanda.	0
+turbine	N	3	10	3	10	un turbine di neve.	il turbine dei banditi si abbatté sulla carovana.	0
+allogare	V	0	8	13	21	allogare una stanza, un terreno agricolo.	suo zio l'ha allogato nello studio di famiglia.	0
+roba	N	2	6	10	14	è roba firmata.	di questa roba me ne occupo io.	0
+mole	N	32	36	3	7	il progetto richiederà una gran mole di lavoro e di collaboratori.	la Mole Antonelliana da cui si domina Torino.	0
+amore	N	1	6	28	33	"amore in carità e perdono".	andrò in vacanza con il mio amore.	0
+costruire	V	15	24	29	40	l'artigiano ha costruito una cornice come mai viste.	qualcuno ha detto: "Dobbiamo costruire... e non distruggere le nostre case!".	0
+scomparire	V	46	57	0	9	quest'antica tradizione contadina sta via via scomparendo.	scomparve dietro il muro di cinta.	0
+fiducia	N	35	42	9	16	un valore della comunicazione è la fiducia.	senza la fiducia tra dottore e paziente è praticamente impossibile seguire una cura appropriata e corretta.	0
+frattura	N	37	45	3	11	A seguito dell'incidente riportò una frattura scomposta alla tibia.	la frattura di una maggioranza.	0
+contrappesare	V	0	14	35	48	contrappesammo attentamente il campione sulla bilancia e scoprimmo che pesava più di un chilo.	aggiungere zavorra ad una nave per contrappesare il carico.	0
+elemento	N	0	8	0	8	elemento fisico: ciò che, al variare di fattori e stimoli, produce moto, energia, corrente elettrica.	elemento architettonico: parte dei componenti orizzontali e verticali di un edificio o di una struttura.	0
+opinione	N	3	11	13	21	un'opinione contrastante.	divergenza d'opinione.	0
+sfoderare	V	0	9	0	9	sfoderare un vestito;	sfoderare la spada;	0
+falsificare	V	0	11	0	11	falsificare una firma.	falsificare l'identità di qualcuno con una o più foto.	0
+cancellare	V	5	15	0	10	devi cancellare quell'appuntamento.	cancellare i dati di un computer.	0
+acqua	N	2	7	41	46	l'acqua di Roma.	Cancro, Scorpione e Pesci sono i segni d'acqua.	0
+mucchio	N	32	39	3	10	"Mastro, dove devo mettere quel mucchio di detriti?".	un mucchio di sciocchezze.	0
+spaccone	N	45	53	73	81	un individuo solitamente sente di essere uno spaccone in quanto più maturo di quando... da bimbo ne ha preso tante.	si riprese dopo il dolore pazzesco del coppino sul collo... da allora fu spaccone a vita.	0
+aria	N	3	7	11	15	un'aria della Traviata.	cambiare l'aria.	0
+mezzo	N	15	20	13	18	Sono le otto e mezzo.	"Sei solo un mezzo per il mio scopo!!" Tinetta disse sfogandosi con paura.	0
+seno	N	3	7	40	44	in seno all'edificio (o nel seno dell'edificio) si trova una piccola cappella cristiana.	il padre/la madre strinse il bambino al seno.	0
+insicurezza	N	7	18	22	33	denota insicurezza per paura di non essere accolto.	atteggia finzione per insicurezza.	0
+idea	N	28	32	17	21	non mi sono ancora fatto un'idea su quella persona.	non farti strane idee.	0
+mezzo	N	18	23	40	45	È alto un metro e mezzo.	"Chi, tu?! ...ma tu per ora sei solo il mezzo".	0
+posto	N	32	37	0	5	ho saputo che l'Italia è un bel posto e quindi sono partito.	posto di blocco.	0
+classico	N	24	32	31	39	la Divina Commedia è un classico della letteratura.	la frittua mista di pesce è un classico della cucina di mare.	0
+consapevolezza	N	87	101	12	26	Quando inspiri ed espiri, concentrandoti sull'aria che entra ed esce, questa si chiama consapevolezza del respiro.	grazie alla consapevolezza giunse alla coscienza di sé.	0
+scusa	N	0	5	18	23	scusa! Però mi devi credere...	non inventi altre scuse!	0
+amore	N	16	21	8	13	la sincerità in amore è poco se confrontata con i sentimenti spontanei di verità e confidenza espressi all'amata.	il vero amore può essere perenne.	0
+collezione	N	13	23	19	29	una pregiata collezione di dipinti del Trecento.	hai visto la nuova collezione di questo stilista?	0
+vergogna	N	3	11	14	22	la vergogna può portare ad una condizione di follia.	molti provano vergogna per aver pianto.	0
+riparare	V	0	8	13	19	riparare un torto.	il fuggitivo riparò in una grotta.	0
+preferire	V	14	24	0	10	quale vestito preferisci, questo o quello?	preferirei che tu non te ne andassi.	0
+instaurare	V	0	10	53	63	instaurare una nuova leadership.	il Presidente della Repubblica ordina il mandato per instaurare quasi ogni nuovo governo democratico-parlamentare.	0
+costumare	V	0	9	12	21	costumava la gioventù di Lemno esercitarsi, nelle principali celebrità dell’anno, nella lotta, nel corso, nel disco.	che non son costumati a lavorare.	0
+desolare	V	24	32	15	23	l'esercito in marcia ha desolato tutti i luoghi in cui è passato, con razzie e distruzioni.	il lutto li ha desolati.	0
+respirare	V	0	9	13	22	respirare con i polmoni, con le branchie, con gli stomi.	il moribondo respirava ancora.	0
+costanza	N	7	15	62	70	la sua costanza nell'osservare i cataclismi scaturì dalla loro comprensione.	continuava ad esplorare i libri più antichi con un'ammirevole costanza.	0
+armeggiare	V	16	28	46	57	i due cavalieri armeggiavano tra loro sotto un sole implacabile.	il cavaliere fece il suo ingresso nell'arena, armeggiando fra le grida del pubblico.	0
+corroborare	V	31	42	25	36	l'alimentazione contribuisce a corroborare le nostre energie.	il riposo contribuisce a corroborare lo spirito.	0
+tempo	N	23	28	8	13	questo motore è un due tempi.	in quel tempo sorgeva un'antica città sull'argine del fiume.	0
+dettagliare	V	0	11	0	11	dettagliare il resoconto degli eventi.	dettagliare delle merci.	0
+curare	V	18	24	0	6	una camomilla può curare l'insonnia.	curare gli affari dello stato.	0
+clemenza	N	20	28	46	54	gli fece capire con clemenza ed innocentemente che la sua maglietta preferita era veramente bella.	in seguito a profonda riflessione, ha provato clemenza per entrambi.	0
+vergogna	N	7	15	3	11	sei la vergogna di questa famiglia!	la vergogna può portare ad una condizione di follia.	0
+crosta	N	3	9	25	31	la crosta terrestre è lo strato più esterno del nostro pianeta, situato al di sopra del mantello.	del pane mi piace più la crosta che la mollica.	0
+binare	V	0	6	14	20	binare un'azione, binare il racconto di una storia.	la ragazza ha binato.	0
+salita	N	4	10	22	28	Che salita faticosa!	Abbiamo un grafico in salita.	0
+binare	V	0	6	14	20	binare la messa.	la ragazza ha binato.	0
+memoria	N	25	32	10	17	"Avrei dovuto imparare a memoria l'intero libro scolastico di storia?".	scheda di memoria.	0
+credere	V	0	5	9	14	credo proprio che arriveremo in ritardo.	qualcuno crede in Dio e non nelle persone mentre altri credono nelle persone ma non in Dio.	0
+contrappesare	V	0	13	35	48	contrappesare un problema, una questione, un'alternativa.	aggiungere zavorra ad una nave per contrappesare il carico.	0
+affastellare	V	10	23	0	10	stai solo affastellando scuse.	affastellò le scorze dell'albero delle stoviglie e dopo non pochi tentativi vi diede fuoco.	0
+comporre	V	0	8	0	8	comporre un puzzle.	comporre un tema.	0
+ostinato	N	20	28	15	23	Riesci a suonare un ostinato costituito da un giro armonico di Do maggiore, mentre suono Imagine?	Sei proprio un ostinato, eh?	0
+tema	N	3	7	3	7	il tema del verbo "dormire" è "dorm-".	il tema di italiano è andato male, ho preso un'insufficienza.	0
+febbre	N	0	6	3	9	febbre reumatica.	la febbre dell'oro.	0
+controllo	N	33	42	19	28	i finanzieri avevano eseguito un controllo meticoloso dell'archivio.	Non perdere mai il controllo!	0
+pioggia	N	4	11	28	35	una pioggia di coriandoli accompagnava la sfilata dei carri di carnevale.	mi ha scaricato addosso una pioggia di epiteti ingiuriosi.	0
+studiare	V	5	13	0	8	devo studiare una via d'uscita da questa difficoltà.	studiare le cause di un fenomeno.	0
+percepire	V	0	10	0	10	Percepisco lo stipendio a fine mese.	Percepisco una certa ostilità...	0
+buffone	N	65	72	3	10	è convinto di essere un agente segreto e fa soltanto danni: è un buffone.	il buffone, piano piano, quasi sostituì il re.	0
+obiezione	N	9	18	6	15	porre un'obiezione.	ho un'obiezione da farti.	0
+cogliere	V	11	16	0	8	stamane ho colto due rose, ho colto tutti gli agrumi del giardino.	cogliere il senso di una frase, di una allusione.	0
+passera	N	9	16	0	7	anche la passera si trova stanza, e la rondinella nido, ove posino i lor figli.	passera scopaiola: uccello di piccole dimensioni, dal piumaggio bruno, diffuso in tutta Europa e in Asia, Prunella modularis.	0
+crescere	V	0	8	34	43	crescere in sapienza.	la buona clientela dell'hotel sta crescendo in modo visibile.	0
+niente	N	8	14	31	37	Non c'è niente.	con il peccato si resta con un niente.	0
+strategia	N	132	141	0	9	trovava il modo per escludere i nuovi, isolava i più esperti affrontandoli ed infine cercava brama presso i restanti: questa la sua strategia.	strategia di gioco: misure di attacco e difesa nonché di studio dell'avversario.	0
+studiare	V	0	8	5	13	studierò per tutta la mia esistenza, anche in vecchiaia.	devo studiare una via d'uscita da questa difficoltà.	0
+ballare	V	18	23	0	7	questo vestito mi balla addosso.	ballare un lento.	0
+lingua	N	3	9	0	6	la lingua del Manzoni.	lingua straniera: lingua parlata fuori del proprio paese ed applicata all'integrazione reciproca degli usi e dei costumi.	0
+corrente	N	14	22	3	11	andare contro corrente.	le correnti d'aria.	0
+comporre	V	0	8	0	8	comporre una lite.	comporre un puzzle.	0
+ammazzare	V	18	25	9	16	c'e' un caldo che ammazza.	il goffo ammazza la primiera.	0
+riduzione	N	3	12	0	9	la riduzione del peso deve essere ottenuta limitando l'apporto calorico globale ma assicurando un'equilbrata assunzione di tutti i nutrienti.	riduzione di vino rosso.	0
+abbattere	V	48	57	0	9	i cittadini hanno firmato una petizione per far abbattere l'albero.	abbattere un animale.	0
+oggetto	N	0	7	11	18	oggetto giuridico del reato.	vedere gli oggetti a una certa distanza.	0
+parere	V	5	9	0	4	a me pare una cosa accettabile.	pare infatti che tal politico sia indagato.	0
+costruire	V	15	24	53	62	l'artigiano ha costruito una cornice come mai viste.	sul terreno, comprato ormai da qualche anno, è stata costruita una splendida villa in stile tradizionale.	0
+handicappare	V	45	57	25	35	gli organizzatori del torneo hanno deciso di handicappare il campione in carica.	avere un portiere scarso handicappa l'intera squadra.	0
+cambiare	V	0	8	0	8	cambiare lavoro.	cambiare parrucchiere, medico, fornitore.	0
+passaggio	N	18	27	36	45	a destra trovi il passaggio per la mensa.	il negozio è situato in un luogo di passaggio.	0
+cuoio	N	0	5	37	42	cuoio capelluto.	ho comprato un bel paio di scarpe in cuoio.	0
+mancare	V	3	8	0	7	mi manca casa mia.	mancano solo tre giorni al mio compleanno.	0
+prevalere	V	19	27	15	24	non c'è storia: ha prevalso su tutte.	avrebbe voluto prevalere con disprezzo.	0
+pregare	V	4	9	8	15	"Ti prego, oh Dio: mai più... problemi".	"Si può pregare anche per sé stessi".	0
+cinismo	N	4	11	33	40	con cinismo non considerava nemmeno la possibilità di riconoscere il bene in lei.	Antistene fu tra i fondatori del cinismo.	0
+sonno	N	69	74	4	9	certo è che bisogna avere un po' di coraggio per poter concedersi il sonno, anche fede, se non altro proprio perché non si conosce precisamente appunto il luogo dell'inconscio.	col sonno si compensa anche la fatica fisica del corpo.	0
+volume	N	25	31	10	16	Un enciclopedia di dieci volumi.	occupa un volume di un metro cubo.	0
+generazione	N	56	67	15	26	Poiché gran parte della seconda venne viziata, la terza generazione dopo le due grandi guerre è rimasta quasi completamente isolata.	tutta la nuova generazione di auto è stupefacente.	0
+avere	V	0	2	0	2	ho tutti gli album dei Metallica.	ho mangiato un panino.	0
+fiducia	N	18	25	9	16	domani il voto di fiducia sarà importante.	senza la fiducia tra dottore e paziente è praticamente impossibile seguire una cura appropriata e corretta.	0
+creatività	N	64	74	39	49	pur secondo i canoni, egli manifestava continuamente la propria creatività.	anche nel suo lavoro è evidente la sua creatività!	0
+tavola	N	10	16	3	9	servire a tavola.	le tavole della legge.	0
+spina	N	3	8	13	18	la spina della corrente era nuovamente staccata.	questa è una spina di istrice.	0
+credere	V	20	25	7	12	"sarà facile" - "tu credi?".	non mi crede.	0
+consumare	V	12	19	12	21	la centrale consuma acqua per il raffreddamento del motore.	il fuoco ha consumato l'edificio.	0
+meccanica	N	11	20	0	9	ingegneria meccanica: ramo dell'ingegneria che progetta e realizza componenti e prodotti meccanici per i trasporti a distanza, la produzione di elettricità e l'automazione domestica, industriale e medica.	meccanica classica: insieme delle teorie meccaniche elaborate fino all'inizio del ventesimo secolo, che spiegano i movimenti di corpi più lenti della luce ma più grandi dell'atomo.	0
+vertice	N	3	10	3	10	il vertice della fondazione.	il vertice dei paesi aderenti all'Unione Europea si è svolto in un'importante capitale europea.	0
+niente	N	17	23	8	14	ma "non credi in niente"!(?).	Non c'è niente.	0
+politica	N	46	54	23	31	si è occupato soprattutto, quasi soltanto, di politica estera.	ha suggerito una nuova politica aziendale.	0
+attenere	V	0	8	4	11	attenere alla verità.	"si attenga al testo studiato!".	0
+obbligare	V	11	20	24	33	non si può obbligare qualcuno a fare qualcosa a tutti i costi.	quel ragazzo non lo può obbligare nessuno.	0
+segmento	N	0	8	3	11	segmento sferico, segmento conico, segmento piramidale.	il segmento sedan-concept sta strabiliando il mondo.	0
+bisogno	N	42	49	3	10	"Finalmente una bella vacanza! Ne avevamo bisogno, eh...".	ho bisogno di farmi una doccia.	0
+annullare	V	25	34	14	23	il matrimonio non si può annullare.	l'incontro fu annullato all'ultimo momento.	0
+lasciare	V	7	15	7	13	non ha lasciato che salutasse sua moglie.	non vi lascio, non andrò via per sempre.	0
+oggetto	N	0	7	11	18	oggetto di dibattito.	vedere gli oggetti a una certa distanza.	0
+scalare	V	8	15	38	45	abbiamo scalato i ragazzi, mettendo i più alti dietro e i più bassi davanti, per fare una foto di gruppo.	se fai assenze sul lavoro, ti saranno scalati dei soldi dallo stipendio.	0
+ammosciare	V	9	17	10	20	il caldo ammoscia le piante.	le piante ammosciano per il caldo.	0
+montagna	N	4	12	8	16	una montagna di carta;	lago di montagna;	0
+nascere	V	0	6	2	6	nacque a Venezia nel 1976.	è nato un nuovo movimento politico.	0
+utopia	N	66	72	2	8	certo è che la comunicazione tra tutti gli individui è proprio un'utopia.	l'utopia del comunismo.	0
+caramellare	V	0	11	0	11	caramellare un liquore, un bibita.	caramellare un biscotto, i bordi di una torta.	0
+uso	N	2	5	36	39	L'uso di droghe è vietato dalla legge.	preparare questi dolcetti così è un uso millenario.	0
+dissalare	V	0	9	0	9	dissalare l'acqua del mare per renderla potabile.	dissalare i capperi, il baccalà.	0
+promuovere	V	16	24	28	36	questa molecola promuove la formazione di anticorpi.	la scelta di non abortire è promossa da molte onlus.	0
+ritrarre	V	11	19	7	15	il soldato ritrasse la pistola.	non ha ritratto alcun giovamento dalle cure.	0
+tavola	N	15	21	4	10	amare la buona tavola.	una tavola imbandita risveglia sempre l'appetito.	0
+luce	N	20	24	47	51	la luna riflette la luce del sole.	grazie ad Einstein, si è scoperto che anche la luce curva in presenza del sole.	0
+invalidità	N	0	10	23	33	invalidità di un decreto.	malgrado tutto, con un'invalidità si cerca sempre di imprimere molta forza.	0
+conseguire	V	20	28	0	10	Ciò considerato, ne consegue che...	conseguire molti risultati.	0
+orecchio	N	92	100	0	8	nel gioco del telefono senza fili, il primo giocatore deve bisbigliare una certa frase nell'orecchio del compagno.	orecchio assoluto, capacità di riconoscere una nota senza tono di riferimento.	0
+nascere	V	5	9	0	7	sono nati forti sospetti.	nascere come funghi.	0
+coronare	V	52	60	0	8	nell'antichità classica gli atleti vittoriosi erano coronati d'alloro.	coronare qualcuno re, imperatore.	0
+disarticolare	V	7	18	28	42	l'urto disarticolò la spalla del ragazzo, che dovette essere portato in ospedale.	i litigi tra fazioni stanno disarticolando il partito, lo stato.	0
+carburare	V	14	21	16	23	il motore non carbura bene, non riesco ad accelerare più di così.	quel calciatore carbura perfettamente oggi, gli avversari non riescono a stargli dietro.	0
+tensione	N	47	55	30	38	il Taser produce una scarica elettrica ad alta tensione e basso amperaggio.	il torcicollo è un esempio di tensione lieve.	0
+minaccia	N	0	8	9	17	minaccia di morte.	sotto la minaccia di una pistola fu costretto a rivelare la combinazione della cassaforte.	0
+equanimità	N	16	26	49	59	la fede regge l'equanimità più zelante.	il comandante ed i suoi ufficiali compresero per equanimità che la questione stava aggravandosi.	0
+rabbino	N	111	118	37	44	nel 1500 circa, dopo la cacciata dalla Spagna, alcuni ebrei cercarono di re-istituire una piccola assemblea di rabbini sapienti proprio presso Safed.	nel dopoguerra Elio Toaff è stato il rabbino più famoso d'Italia.	0
+migrare	V	14	21	0	7	molti uccelli migrano verso sud in inverno, per tornare nelle regioni settentrionali in estate.	migrare da... a..., da... verso..., da... in...	0
+effondere	V	9	16	20	29	il magma effonde in superficie e solidifica.	parea per gli occhi effondere / il sorriso dell’alma (Carducci).	0
+tema	N	3	7	14	18	il tema di questo film sono i patimenti amorosi.	il principale tema politico del giorno è la riforma elettorale.	0
+presumere	V	0	7	16	23	presume troppo di sé.	quello sciocco, presume di poter correre la maratona senza allenamento.	0
+sbarra	N	9	15	17	23	togli la sbarra alla porta.	essere dietro le sbarre, essere rinchiuso in prigione.	0
+strategia	N	132	141	0	9	trovava il modo per escludere i nuovi, isolava i più esperti affrontandoli ed infine cercava brama presso i restanti: questa la sua strategia.	strategie di guerra.	0
+avvivare	V	12	18	30	38	la speranza avviva gli animi.	aggiunse legna nel camino per avvivare le fiamme.	0
+miracolo	N	1	9	21	29	"Miracolo!! Ha ammesso di aver sbagliato!".	qualche volta alcuni miracoli restano segreti.	0
+tavolozza	N	53	62	16	25	dopo aver dipinto è buona abitudine lavare sempre la tavolozza.	Giorgio usa una tavolozza vivace.	0
+spina	N	33	38	3	8	la settima vertebra umana ha una spina piuttosto lunga.	la spina della corrente era nuovamente staccata.	0
+brucare	V	10	19	0	7	i bambini brucavano i forasacchi e giocavano a lanciarsi le spighe.	brucare in un prato, le mucche brucavano tranquillamente.	0
+avvivare	V	32	38	55	63	quel grido immenso le sue forze avviva.	nell'antichità si credeva che gli alchimisti potessero avvivare la materia inerte.	0
+perdere	V	30	35	6	11	Giulio non sa giocare a dama: perde sempre!	hanno perso un figlio poco dopo il matrimonio.	0
+durare	V	8	12	20	26	il film dura tre ore.	il mio amore per te durerà per sempre.	0
+difettare	V	30	37	8	15	il libro è molto accurato, ma difetta in chiarezza.	a Marco difetta solo l'impegno per eccellere.	0
+tesa	N	21	25	7	11	un cappello a larghe tese.	era la tesa del mare un gioco d'anella (MONTALE).	0
+speranza	N	14	22	33	41	attraverso la speranza si esce dall'oscurità dell'oblio.	sembrava avesse abbandonato ogni speranza: non rideva più.	0
+aria	N	6	10	11	15	ora d'aria.	cambiare l'aria.	0
+morso	N	3	8	20	25	il morso della fame, della sete, del freddo.	ne assaggio solo un morso.	0
+conoscente	N	10	20	45	55	ora siamo conoscenti... ma ci vogliamo bene.	durante quel viaggio di lavoro incontrò suoi conoscenti.	0
+sicurezza	N	3	12	34	43	la sicurezza dell'ospedale è qualificata.	"Lo sanno tutti: per essere della sicurezza non si deve essere troppo esaltati".	0
+fondere	V	9	16	3	7	ha fatto fondere un lingotto d'oro.	Ho fuso la penna.	0
+decongelare	V	39	50	63	74	di solito uso il forno a microonde per decongelare la carne.	l'imputato fu riconosciuto innocente, ed il giudice dispose di decongelare il suo conto bancario.	0
+minaccia	N	9	17	32	40	sotto la minaccia di una pistola fu costretto a rivelare la combinazione della cassaforte.	gli sembrò di essere oggetto di minaccia altrui ma poi verificò che ciò era impossibile.	0
+equivoco	N	7	15	5	13	"...un equivoco? Ma io domando querela!".	bell'equivoco!	0
+distacco	N	0	8	3	11	distacco dai beni terreni.	il distacco dai figli.	0
+avventurare	V	0	9	0	9	avventurò la sua intera carriera e tutti i suoi averi in quel losco affare.	avventurò una domanda scomoda.	0
+standard	N	35	43	54	62	"Non c'è da stupirsi, è un modello standard".	"Ma perché sei così contento?! Ohibò, io lo considero standard".	0
+perfidia	N	32	40	49	57	dopo il suo pensar male agì con perfidia.	l'assassino che ha compiuto simili atti con tale perfidia, a dir poco è un mostro.	0
+eresia	N	90	96	56	62	Per i buongustai bere un bicchiere di vino rosso con un piatto di pesce fritto è una vera eresia!	Il chassidismo è stato considerato da alcuni rabbini un'eresia.	0
+prevalere	V	17	27	29	38	nella tua poesia prevalgono sfumature melanconiche.	senza conoscenza si tenta di prevalere inutilmente.	0
+amore	N	11	16	21	26	un intenso amore ed un rispetto equilibrato fortificano molto anche la fede.	"Non ce n'è bisogno, amore mio. Stai tranquilla, è tutto ok... veramente".	0
+brucare	V	0	7	0	7	brucare un ramo d'acacia.	brucare l'erba, i fiori, le foglie dai rami di un albero.	0
+matrimonio	N	0	10	41	51	matrimonio misto, tra coniugi di fede diversa.	tra poco tempo verrà celebrato il nostro matrimonio.	0
+ritrarre	V	20	28	7	15	molti artisti hanno ritratto Napoleone a cavallo.	non ha ritratto alcun giovamento dalle cure.	0
+generazione	N	56	67	72	83	Poiché gran parte della seconda venne viziata, la terza generazione dopo le due grandi guerre è rimasta quasi completamente isolata.	Chi è nato negli ultimi due decenni del ventesimo secolo fa parte della generazione Y.	0
+piangere	V	0	6	25	33	Pianse dalla gioia.	"Eh va beh, si può anche piangere ogni tanto, l'importante è ridere ancora di più".	0
+carne	N	27	32	26	31	l'ago le si conficcò nella carne del dito.	lo spirito è forte, ma la carne è debole.	0
+ammortire	V	71	80	20	30	una marmaglia pedestre di cittadini e di villani, che, per ribattere e ammortire i colpi, non avevano indosso altro che cenci.	la lunga immobilità ammortisce le gambe e può atrofizzarle.	0
+pizza	N	18	23	12	17	questo film è una pizza.	questa è la pizza di 2001 odissea nello spazio.	0
+ammosciare	V	10	20	19	29	le piante ammosciano per il caldo.	la delusione lo ha ammosciato parecchio, non fa altro che stare sul divano.	0
+ammollare	V	68	77	0	9	ho dimenticato il libro in giardino e la pioggia l'ha completamente ammollato.	ammollare una corda.	0
+disporre	V	0	8	12	19	disporre i capitoli di un testo.	il generale dispose le truppe in vista della battaglia.	0
+fico	N	36	40	15	19	che io non temi el suo corruccio un fico.	ho comprato un fico ornamentale;	0
+complesso	N	3	12	21	30	il complesso del DNA di un individuo si chiama genoma.	sul palco suonava un complesso.	0
+cultura	N	22	29	33	40	molti paesi hanno una cultura propria.	l'essere umano possiede anche la cultura, cioè il risultato di quello che possiamo chiamare evoluzione culturale, il retaggio che noi consegneremo ad altri uomini.	0
+armeggiare	V	0	8	3	13	armeggiò a lungo nel baule ed infine tirò fuori un vecchio libro consunto.	ha armeggiato con il televisore tutto il giorno, ma non è riuscito a ripararlo.	0
+pregiudizio	N	13	24	5	16	il passo dal pregiudizio alla follia è breve.	ogni pregiudizio ha con sé strette maldicenza e menzogna.	0
+fede	N	20	24	3	7	ricercò con massima fede.	ha fede poiché sa aspettare.	0
+competenza	N	11	21	44	54	funzioni e competenze.	Con decisione disse: "Non rientra nelle mie competenze".	0
+disillusione	N	10	22	64	76	"Ok... la disillusione, almeno impegnamoci un po' di più... No?".	si accorse della derisione e di essere stato tradito per quella disillusione fulminea.	0
+analisi	N	0	7	0	7	analisi dei medicinali: insieme di principi teorici e pratici per individuare e determinare sostanze e principi attivi formanti medicinali.	analisi grammaticale.	0
+fico	N	0	4	63	68	fico di Adamo: banano;	con maggiore sollecitudine rispetto alle altre coltivazioni, i fichi devono assolutamente essere colti al momento adatto.	0
+aria	N	3	7	11	15	un'aria della Traviata.	via tutti, aria!	0
+deporre	V	21	30	10	18	le tartarughe marine depongono le loro uova sulle spiagge.	i soldati deposero i loro pesanti zaini al termine della marcia.	0
+idea	N	13	17	7	11	hai avuto un'idea strabiliante!	la mia idea era quella di arrivare primo.	0
+mercato	N	46	53	0	7	tra qualche giorno andremo a fare la spesa al mercato.	mercato estero: è l'opportunità per investimenti e commerci appunto oltre i confini del Paese d'origine della produzione e/o dell'attività.	0
+andare	V	23	25	15	17	quell'elettrodomestico va in cucina.	quel documento va portato dall'avvocato.	0
+evitare	V	142	149	22	29	il tumore del colon retto è una malattia per la quale, fortunatamente, esiste la possibilità delle diagnosi precoce con ottime probabilità di evitare gravi problemi.	per dimagrire occorre evitare di mangiare torte, biscotti, cioccolato, dolci, budini, burro, margarina, panna, pasticcini, snack salati, formaggi, grassi, carne grassa e derivati, bibite zuccherate, cibi fritti nell'olio.	0
+lingua	N	0	6	0	6	lingua estinta: lingua che non ha più parlanti nativi e conserva la propria influenza solo nei termini convenzionali.	lingua d'acqua, lingua di brughiera.	0
+contare	V	0	7	16	23	contare da uno a cento.	non sai nemmeno contare? due più tre fa cinque!	0
+parlare	N	0	8	9	16	parlando con loro ho dimostrato la mia vicinanza.	è un bel parlare, ma dobbiamo fare i conti con la realtà.	0
+omaggio	N	16	22	30	37	le porgo i miei omaggi.	questo quadro è uno splendido omaggio a Picasso.	0
+riparare	V	5	13	41	51	devo riparare i miei errori di gioventù.	dopo la disfatta militare, molti ribelli ripararono all'estero.	0
+gioiello	N	27	35	32	40	Quel quadro è veramente un gioiello.	molte figlie sono quasi come un gioiello anche per il loro papà.	0
+adacquare	V	34	43	78	86	non bisogna accontentarsi di poco adacquare il vino, ma bisogna, che l’acqua superi la quantità del vino.	per esso naviglio (...) ne segua molti beni per il macinar delli mulini e per adacquar li prati.	0
+ammosciare	V	10	20	54	62	le piante ammosciano per il caldo.	sarebbe una bella ragazza, ma vestita in quel modo mi ammoscia (oppure me lo ammoscia, sottintendendo "il pene").	0
+spiegare	V	3	9	3	11	mi spiegò meglio quello che aveva in mente.	ho spiegato le vele al vento.	0
+saltare	V	8	15	5	12	Ieri ha saltato la scuola.	Mi è saltato via un bottone.	0
+circondurre	V	0	11	34	45	circondurre le braccia intorno al corpo.	l’atroce fanatismo del giudice di circondurre con sottigliezza un povero uomo che non capiva i raggiri criminali.	0
+contesto	N	8	16	14	22	nel suo contesto.	descrivere il contesto geografico dell'opera di Fëdor Dostoevskij.	0
+bandiera	N	0	8	21	29	bandiera bianca: resa, arrendersi in battaglie o guerre.	tutti uniti sotto la bandiera della pace.	0
+raccolta	N	29	37	19	27	settembre è il periodo della raccolta dell'uva.	questo libro è una raccolta di poesie d'amore di vari autori.	0
+bianchire	V	8	17	0	9	la neve bianchiva le cime dei monti.	bianchire il riso, la carne.	0
+dardeggiare	V	42	53	13	26	il sole, benchè ormai vicino al tramonto, dardeggiava ancora i suoi raggi cocenti sulla moltitudine.	i suoi occhi dardeggiarono, per la prima volta, uno sguardo vivo su Roberto Alimena.	0
+droga	N	14	19	21	26	si è fatto di droga.	il computer è la tua droga.	0
+povertà	N	19	26	10	17	oltre la soglia di povertà.	cadere in povertà.	0
+maestro	N	51	58	14	21	senza alcuna comunicazione, illudendosi, lo chiama maestro perché convinto di aver appreso.	tu non sei il maestro di nessuno!	0
+analisi	N	0	7	0	7	analisi matematica: ramo della matematica che si occupa delle proprietà che emergono dalla scomposizione infinita di un oggetto denso.	analisi grammaticale.	0
+credere	V	18	27	0	7	gli antichi greci credevano che esistessero molti dei.	credere nell'amicizia.	0
+occupare	V	1	10	11	17	"Occupiamo" urlò uno!	L'esercito occupò la città.	0
+cedro	N	16	21	15	20	le caramelle al cedro simili a zuccherini fanno venire l'acquolina in bocca.	ho piantato un cedro ornamentale.	0
+contare	V	4	9	17	25	non conta quello che hai, ma quello che sei.	saremo in dieci, contando anche i bambini.	0
+abbandonarsi	V	0	12	0	12	abbandonarsi all'ira.	abbandonarsi su un divano.	0
+competere	V	41	50	0	9	gli onori e gli oneri di questo incarico competono a te.	competono entrambi per vincere.	0
+percorrere	V	78	86	40	48	quando immerse i piedi nell'acqua gelata, un tremore, quasi un singhiozzo, lo percorse fino al cuoio capelluto.	il nervo frenico è così chiamato perché percorre il diaframma.	0
+suolo	N	0	5	11	16	suolo natio, patria, luogo nel quale si è nato.	cascare al suolo.	0
+distacco	N	3	11	22	30	il distacco dai figli.	stava in silenzio con distacco per evitare di essere offeso.	0
+dorso	N	59	64	22	27	quel pugile, prima della gara,mostrò al suo avversario, il dorso della mano in segno di sfida.	stendersi a terra sul dorso.	0
+rumore	N	3	9	11	17	il rumore del vento e della pioggia.	non è solo rumore: è proprio disturbo della quiete pubblica.	0
+pecora	N	17	23	23	29	quell'uomo è una pecora smarrita perché si è allontanato dalla fede e vive nel peccato.	Il tuo cagnolino è una pecora!	0
+raccolta	N	4	12	3	11	una raccolta di reperti storici di epoca romana.	la raccolta dei rifiuti si effettua due volte alla settimana.	0
+mezzo	N	4	9	39	44	Nel mezzo della stanza c'era una pozzanghera di sangue.	il sostentamento è dato tramite alcuni mezzi possibili ed accettabili.	0
+attaccare	V	12	21	10	21	Carlo mi ha attaccato il raffreddore.	I nazisti attaccarono l'esercito inglese.	0
+pensare	V	16	23	0	7	"Bah, niente... pensavo a Dio".	Pensavo a quanto ci siamo divertiti l'estate scorsa.	0
+occupare	V	1	10	0	8	"Occupiamo" urlò uno!	Occupava tutto lo scaffale.	0
+evento	N	5	11	22	28	"Che evento! Ci sei anche tu?".	"Questo concerto è un evento!".	0
+vergogna	N	4	12	15	23	che vergogna!	si può sentire vergogna anche per un'offesa.	0
+visione	N	3	10	0	7	la visione stereoscopica permette di fondere le informazioni bidimensionali da ciascun occhio per avere una visione in tre dimensioni.	visioni di san Paolo.	0
+affogare	V	11	19	0	8	i precetti affogano il genio (Mazzini).	affogare in un bicchier d'acqua.	0
+raccolta	N	29	37	17	25	settembre è il periodo della raccolta dell'uva.	un canale per la raccolta delle acque piovane.	0
+crisi	N	57	62	85	90	quella per annegamento è forse tra le morti con maggiore crisi di lento e frenetico terrore.	anno 2017, anche il premier italiano Gentiloni ha dichiarato l'uscita dalla peggiore crisi, dopo il dopoguerra.	0
+genere	N	9	15	3	9	ruolo di genere, insieme di regole di comportamento tipicamente associate a ciascuno dei due generi della specie umana.	al genere Homo appartengono sia la specie più antica cioè l'Homo abilis sia quella attuale l'Homo sapiens.	0
+armeggiare	V	12	22	3	13	il furfante armeggiava, chiuso nelle sue stanze, cercando un modo per compiere il furto.	ha armeggiato con il televisore tutto il giorno, ma non è riuscito a ripararlo.	0
+presumere	V	0	7	0	7	presume di essere intelligente.	presume sempre di potersi fare gli affari degli altri.	0
+travalicare	V	30	42	75	87	d’un ragionamento in un altro travalicando, pervennero a dire delle loro donne (Boccaccio, Decameron, seconda giornata).	visto il lancio di sedie, pare che in questa riunione condominiale si stia travalicando come al solito.	0
+burro	N	35	40	0	5	per dimagrire non bisogna mangiare burro.	burro di arachidi: tipo di burro ottenuto dalle arachidi.	0
+azione	N	16	22	8	14	qualche volta l'azione è più importante dello studio.	donna d'azione, uomo d'azione.	0
+spandere	V	0	8	12	20	spandere lacrime.	le acque si spandono per la campagna.	0
+rumore	N	30	36	22	28	quella tal vicenda fece molto rumore.	si ritirò lontano dai rumori del mondo.	0
+entusiasta	N	24	34	12	22	chi scopre di essere un entusiasta ha già una parte di salvezza come porzione.	siamo degli entusiasti perché sappiamo devastare qualsiasi barriera di non-vita.	0
+fazzoletto	N	18	28	11	21	combattono per un fazzoletto di terra.	ho usato i fazzoletti di carta per pulirmi le mani.	0
+guida	N	3	8	12	17	la guida del maestro.	molte false guide non riescono nemmeno ad unire due verità logiche differenti.	0
+umiliazione	N	21	32	17	28	assistevano alla sua umiliazione pur potendo intervenire per evitarla.	a causa di quell'umiliazione non riuscirono più a riconoscere la verità.	0
+obbligare	V	11	20	11	18	non si può obbligare qualcuno a fare qualcosa a tutti i costi.	nessuno ti obbliga a rimanere.	0
+confidenza	N	36	46	19	29	non capisco perché mi dà così tanta confidenza senza conoscere nulla di me.	tra loro c'è molta confidenza.	0
+cementare	V	0	9	14	21	cementare le fondamenta della casa.	il matrimonio cementò la loro relazione amorosa.	0
+perfidia	N	37	45	29	37	sono frasi pungenti perché dette con perfidia al fine di offendere.	ha giudicato male perché con perfidia.	0
+arretrare	V	9	16	12	19	il fante arretrò dalla posizione conquistata.	il capitano arretrò la compagnia di alcuni metri.	0
+correre	V	12	17	9	14	Quel pilota corre per la Renault.	Il tempo corre!	0
+tornare	V	5	13	0	5	"Sto tornando da Roma... ci vediamo immediatamente".	torno un attimo a studiare e poi ti richiamo subito.	0
+volere	V	0	6	10	16	vorrei tutto quello che voglio.	non basta volere bene a...	0
+consapevolezza	N	32	46	12	26	"Beh, almeno per ora abbiamo la consapevolezza di imparare a conoscerci".	grazie alla consapevolezza giunse alla coscienza di sé.	0
+perversione	N	18	29	17	28	si abbandonò alle perversioni peggiori.	è convinto della perversione nella ricerca voluta della propria umiliazione.	0
+analisi	N	0	7	0	7	analisi dei medicinali: insieme di principi teorici e pratici per individuare e determinare sostanze e principi attivi formanti medicinali.	analisi logica.	0
+consumare	V	22	31	15	22	la tragedia era ormai consumata quando siamo arrivati.	la malattia lo consuma.	0
+imitare	V	0	7	0	9	imitare la voce di qualcuno: cercare di far sorgere da sé lo stesso timbro di voce, la stessa tonalità nonché il comportamento di qualcun altro.	imitavano quella persona per convincerla ma, paradossalmente, erano in opposizione ad essa.	0
+lingua	N	0	6	0	6	lingua di bue.	lingua straniera: lingua parlata fuori del proprio paese ed applicata all'integrazione reciproca degli usi e dei costumi.	0
+saltare	V	0	8	8	15	Saltiamo da pagina 30 a pagina 35.	Ieri ha saltato la scuola.	0
+religioso	N	18	27	5	14	Temo sempre che i religiosi vogliano convertirmi...	è un religioso capace, anche perché sa come insegnare.	0
+tavola	N	42	48	3	9	tutti i suoi mobili erano stati fatti con tavole di ciliegio.	le tavole della legge.	0
+satellite	N	24	33	13	22	hanno lanciato un nuovo satellite in orbita.	la Luna è il satellite della Terra, Marte ha due satelliti.	0
+credo	N	42	47	12	17	la reincarnazione della anime è parte del credo induista.	recitare il credo.	0
+ammirare	V	28	34	18	26	di tanta novità l' angel si ammira (Ariosto).	di solito i figli ammirano il papà e la mamma.	0
+conta	N	60	65	11	16	i ragazzi hanno deciso chi dovrà lavare i piatti facendo la conta.	stimare la conta totale dei presenti.	0
+corriere	N	36	44	3	11	spesso si lascia la mancia anche al corriere.	il Corriere della Sera è un autorevole quotidiano nazionale.	0
+banco	N	0	5	0	5	banco di scuola.	banco di chiesa.	0
+desiderare	V	8	18	20	30	abbiamo desiderato che foste sempre tutti con noi.	ora ho compreso: ho desiderato tantissimo quanto sempre vicino a me.	0
+svezzare	V	3	11	0	8	ho svezzato mio figlio dopo sei settimane.	svezzare qualcuno dalle cattive abitudini.	0
+solleticare	V	31	43	58	69	hanno un poco esagerato invero solleticando la sua pazienza, infatti già raggiunta.	lui li amava comunque oltremodo anche quando loro usavano solleticare la sua saggezza.	0
+sicurezza	N	15	24	3	12	rischio per la sicurezza di un Paese.	la sicurezza aiuta a fare ancora meglio.	0
+proteggere	V	55	63	11	21	il negoziante aveva pagato lo strozzinaggio per essere protetto.	i genitori proteggono i propri figli dai pericoli.	0
+categoria	N	68	77	3	12	anche negli uffici delle società vige una sorta di gerarchia per le categorie degli impiegati dipendenti.	le categorie di una parabola.	0
+frutto	N	23	29	10	16	questo terreno produce frutti buoni.	Gesù è il frutto del ventre di Maria.	0
+barellare	V	11	20	18	29	un ubriaco barellava lungo la strada.	gli infermieri lo barellarono in ambulanza.	0
+asprezza	N	35	43	17	25	La limonata mi sorprese per la sua asprezza.	Era famosa per l'asprezza del suo carattere.	0
+secondo	N	22	29	42	49	un angolo di 80° e 15 secondi.	il treno giunse con un ritardo di qualche secondo.	0
+abbassare	V	9	18	14	23	potresti abbassare la televisione, per favore?	ha cercato di abbassare la sua stima.	0
+perversione	N	0	11	34	45	perversione intellettuale: perdita del controllo dei sensi e dell'armonia cognitiva.	ha un'inclinazione viscerale alle perversioni omosessuali connaturata al suo modo di vivere.	0
+attenere	V	12	19	6	13	il discorso attiene ai valori di oggi.	io mi attengo all'educazione ricevuta.	0
+curiosare	V	11	20	24	33	"Smetta di curiosare nei documenti privati della famiglia della donna!".	il padre con la bambina curiosava furtivamente.	0
+appesantire	V	12	23	20	31	il sonno mi appesantiva la testa, non ero in grado di ragionare lucidamente.	la zavorra serve ad appesantire una nave, rendendola così più stabile.	0
+circondurre	V	0	11	34	45	circondurre un carro intorno a una casa.	l’atroce fanatismo del giudice di circondurre con sottigliezza un povero uomo che non capiva i raggiri criminali.	0
+pazientare	V	10	20	9	20	ti spiace pazientare ancora qualche ora?	"Va beh, pazientiamo!".	0
+dischiomare	V	51	60	0	12	tenendo quel capo per lo naso, dietro e dinanzi lo dischioma tutto.	dischiomando con rabbia l’ultima frasca ostacolante, ne piombavo fuori.	0
+visione	N	0	7	3	10	visione progettuale.	la visione stereoscopica permette di fondere le informazioni bidimensionali da ciascun occhio per avere una visione in tre dimensioni.	0
+carne	N	11	16	26	31	peccati di carne.	lo spirito è forte, ma la carne è debole.	0
+passera	N	9	16	44	51	anche la passera si trova stanza, e la rondinella nido, ove posino i lor figli.	abbiamo pescato una cernia, due rombi e una passera.	0
+pollo	N	27	32	26	31	Il mio vicino di casa è un pollo.	la carne della spalla del pollo è quasi tutt'uno con l'osso.	0
+fazione	N	11	18	10	17	montare di fazione come sentinella.	tifosi di fazioni diverse.	0
+volta	N	3	8	55	60	la volta celeste.	e si apprestarono a fare lo straordinario anche questa volta.	0
+specie	N	31	37	26	32	questo negozio vende cinquanta specie diverse di tè.	un briccone della peggior specie.	0
+marzapane	N	20	29	0	9	Gianni è proprio di marzapane.	marzapane [di pasta] reale: dolce di tale materia dolciaria con la peculiarità dovuta ad un colorante verde chiaro.	0
+restare	V	24	31	77	84	cambiò idea e decise di restare.	quantunque si scelga ogni volta un punto sulla superficie di una sfera, esso resterà per così dire sempre uguale a sé stesso.	0
+linea	N	11	16	11	16	Restare in linea.	Li c'è una linea di alghe.	0
+sequenza	N	45	53	39	47	Leonardo Fibonacci è noto soprattutto per la sequenza che porta il suo nome.	nel 2006 la rivista Nature pubblica la sequenza dell'ultimo cromosoma umano.	0
+proiezione	N	0	10	4	14	proiezioni ortogonali.	per proiezione ho desiderato essere in India.	0
+macchia	N	23	30	32	39	Era un cavaliere senza macchia e senza paura.	quell'evaso si è nascosto nella macchia.	0
+fregare	V	11	16	14	20	Il baro lo fregò di brutto calando un poker d'assi alla fine dell'ultima mano.	oh, tu non mi freghi!	0
+don	N	16	19	21	24	Baciamo le mani Don Ciccio. Si benedica.	ieri all'oratorio il don ci ha fatto un bel pistolotto.	0
+raccogliere	V	12	23	12	20	Decisero di raccogliere del denaro per finanziare la loro impresa.	Lo studente raccolse la penna che gli era caduta.	0
+matrimonio	N	0	10	41	51	matrimonio eterosessuale, tra un uomo e una donna.	tra poco tempo verrà celebrato il nostro matrimonio.	0
+influenza	N	32	41	14	23	le decisioni politiche hanno un'influenza diretta sulla vita dei cittadini.	esercitare un'influenza su qualcuno.	0
+coincidere	V	35	45	56	66	i risultati dei nostri esperimenti coincidono.	due rette passanti per gli stessi due punti di un piano coincidono.	0
+attenere	V	0	8	0	7	attenere alla verità.	attiene alla legge...	0
+ateismo	N	2	9	25	32	l'ateismo è la contraddizione dell'essere.	un individuo che segue l'ateismo è, per definizione, senza fede.	0
+classicizzare	V	56	69	31	44	da giovane era un avanguardista, ma con l'età matura ha classicizzato la propria produzione artistica.	è un bravo artista, ma tende a classicizzare un po' troppo.	0
+impedire	V	11	20	9	17	la pioggia impedisce che si faccia lo spettacolo.	la frana impediva il transito.	0
+generazione	N	56	67	25	36	Poiché gran parte della seconda venne viziata, la terza generazione dopo le due grandi guerre è rimasta quasi completamente isolata.	I calcolatori di seconda generazione.	0
+intuire	V	0	5	0	5	intuì che i danni erano gravi.	intuì di non avere via di scampo.	0
+ammollare	V	68	77	0	9	ho dimenticato il libro in giardino e la pioggia l'ha completamente ammollato.	ammollare un capo di biancheria, del pane secco, della carta.	0
+aggravare	V	0	9	8	15	aggravare un carico, un peso.	l'ansia aggrava il dolore.	0
+sfera	N	74	79	46	51	l'arbitro fa allontanare i calciatori dal punto in cui sarà depositata la sfera.	si dice che abbia molte conoscenze nelle alte sfere della politica.	0
+potenzialità	N	20	32	3	15	comprese la propria potenzialità dopo oltre ben 40 anni.	la potenzialità di quest'industria è accertata.	0
+rivivere	V	22	30	72	80	i nostri cari defunti rivivono nei nostri cuori, finché li ricordiamo.	non sopportavo più il mio lavoro, da quando mi sono licenziato mi sento rivivere.	0
+centuplicare	V	0	12	0	12	centuplicare un numero, il valore di qualcosa.	centuplicare le forze, le energie.	0
+figura	N	0	6	0	6	figure dell'immaginazione.	figure naturali (animali, piante, astri, elementi della natura).	0
+assonnare	V	28	35	34	41	guarda il padre che mai non assonna a farsi ogni or maggior con l’opre grandi.	ancora si prosegue il canto che m’assonna.	0
+affogare	V	0	8	62	68	affogare le uova.	e pur men grava e morde il mal che n'addolora del tedio che n'affoga (Leopardi).	0
+binare	V	0	6	14	20	binare dei pezzi di stoffa.	la ragazza ha binato.	0
+accontentare	V	3	15	26	38	Vi accontenterò pienamente ed al di là di ogni possibile immaginazione.	La madre ha fatto male ad accontentare il suo bambino e comprargli delle caramelle.	0
+ispirare	V	3	9	27	33	mi ispira odio.	la vista delle montagne mi ispira.	0
+capacità	N	45	53	0	8	Una vasca da bagno di grandezza media ha una capacità fra i 100 e 150 litri.	capacità di intendere e di volere: capacità di un individuo di capire il valore sociale di un'azione e di controllare i propri impulsi nell'agire.	0
+regno	N	23	28	9	14	in azienda è finito il regno di Mario.	...ed il regno visse in pace per tanto tempo.	0
+toro	N	9	13	3	7	domani i tori saranno fortunati.	il toro è un ruminante.	0
+sicurezza	N	3	12	34	43	la sicurezza aiuta a fare ancora meglio.	"Lo sanno tutti: per essere della sicurezza non si deve essere troppo esaltati".	0
+mercato	N	46	53	7	14	tra qualche giorno andremo a fare la spesa al mercato.	libero mercato: anche attraverso la globalizzazione, è possibilità di trattative anche con Paesi esteri e talvolta per privatizzazioni.	0
+marzapane	N	0	9	15	24	marzapane [di pasta] reale: dolce di tale materia dolciaria con la peculiarità dovuta ad un colorante verde chiaro.	ho gustato del marzapane al gusto di fiori d'arancio.	0
+accoccare	V	0	9	34	41	accoccare una freccia.	La Talanta è una cortigiana che l’accocca a tutt’i suoi amanti, e finisce ricca stimata e maritata.	0
+contrappesare	V	0	13	25	38	contrappesare un problema, una questione, un'alternativa.	usarono delle pietre per contrappesare l'impalcatura pericolante.	0
+fiore	N	36	41	3	7	il gineceo è la parte femminile del fiore.	il fior fiore dell'aristocrazia.	0
+riparare	V	9	17	5	13	devo far riparare l'orologio.	devo riparare i miei errori di gioventù.	0
+confidenza	N	19	29	17	27	tra loro c'è molta confidenza.	dire una cosa in confidenza.	0
+entusiasta	N	2	12	3	13	l'entusiasta trasforma l'abitudine in novità continue.	un entusiasta è portato ad azioni meritorie che lo vivificano ancor più.	0
+copulare	V	32	39	63	73	son venuto (...) con auspici di copular un mio figlio in matrimonio.	sono entrato in bagno per lavarmi le mani e ho trovato due che copulavano.	0
+atteggiarsi	V	26	37	52	63	Odio le ragazze che amano atteggiarsi.	Da un po' di anni a questa parte il tuo amico vuole atteggiarsi a rockettaro, ma secondo me non sa neanche chi sono i Queen.	0
+titubanza	N	43	52	40	49	non riesce ancora a comprendere se la loro titubanza fosse causata da malafede o perché intimoriti.	malgrado inizialmente abbia avuto molta titubanza, in seguito sbeffeggiò impunemente.	0
+aleggiare	V	9	18	19	26	la paura aleggiava nella stanza, mentre i presenti attendevano notizie.	un refolo di vento aleggiò, diminuendo un poco l'afa.	0
+dorso	N	84	89	59	64	nella prima guerra mondiale gli alpini trasportarono in montagna i loro armamenti a dorso di mulo.	quel pugile, prima della gara,mostrò al suo avversario, il dorso della mano in segno di sfida.	0
+guerra	N	47	53	3	9	il governo ha promesso che si impegnerà in una guerra contro il fumo di tabacco.	la Guerra fredda è finita nel 1991.	0
+posta	N	10	15	14	19	Andò alla posta per spedire un pacchetto.	È arrivata la posta.	0
+comando	N	2	9	3	10	i comandi dell'elicottero.	il comando "CTRL+ALT+Canc" consente di chiudere un'applicazione.	0
+corrispondere	V	27	38	36	47	la parola inglese "school" corrisponde all'italiano "casa".	sono innamorato di lei, ma non sono corrisposto.	0
+brinare	V	70	77	22	29	riconobbe subito il suo cane, anche se gli anni trascorsi gli avevano brinato il pelo.	il freddo della notte brinava i vetri della casa.	0
+flotta	N	36	42	26	32	la nostra società possiede un'ampia flotta di veicoli da trasporto.	all'orizzonte apparve una flotta di cacciatorpediniere.	0
+pacificazione	N	32	45	28	41	grazie alla conoscenza sorse la pacificazione.	il silenzio è già di per sé pacificazione.	0
+tabacco	N	38	45	11	18	comunque persino broncodilatatore, il tabacco è anche amaro.	a Roma, il tabacco veniva chiamato "erba Santacroce" dal nome del porporato ( Prospero Santacroce) che lo aveva portato per primo nel Cinquecento.	0
+cioccolata	N	0	10	11	21	cioccolata fondente: la "classica" con poco latte o senza e con più zucchero.	vorrei una cioccolata calda con panna montata.	0
+prevalere	V	17	27	3	11	nella tua poesia prevalgono sfumature melanconiche.	ha prevalso la squadra migliore del campionato.	0
+pozzo	N	0	5	11	16	pozzo petrolifero.	scavare un pozzo.	0
+abbandonarsi	V	0	12	8	20	abbandonarsi all'ira.	anziché abbandonarsi, subito comprese che non era ancora finita.	0
+intuire	V	0	5	0	5	intuì di dover chiedere scusa.	intuì di non avere via di scampo.	0
+azione	N	41	47	4	10	<<Non riusciva proprio a darsi pace... L'azione era come qualcosa da lui vissuto in modo ostico ed innaturale>>.	per azione di...	0
+avere	V	0	3	0	2	hai da finire i compiti per domani.	ho fame!	0
+pittura	N	52	59	3	10	il negoziante aveva venduto gli ultimi barattoli di pittura rosa.	la pittura barocca è migliore di quella del novecento.	0
+alimentare	V	0	10	0	10	alimentare un desiderio.	alimentare un bambino con il latte in polvere.	0
+inopia	N	34	40	28	34	La città, benché ridotta a grande inopia, fece ogni sforzo. (Pietro Verri: s:Storia di Milano/Capitolo XXVI|Storia di Milano, Capitolo XXVI).	Fu costretto a restarvi per inopia di cavalli. (Procopio di Cesarea, traduzione di Giuseppe Rossi: s:La Guerra Gotica/III/26|La Guerra Gotica Libro III, 26).	0
+avere	V	0	2	0	3	ho mangiato un panino.	hai da finire i compiti per domani.	0
+raddoppiare	V	25	36	37	48	Il nuovo progetto mira a raddoppiare la superficie del parco.	In seguito alle nuove disposizioni è raddoppiato il lavoro degli uffici pubblici.	0
+porre	V	0	4	0	5	Pose il libro sulla mensola.	porre la mano sulla spalla.	0
+marinare	V	0	8	0	8	marinare la scuola.	marinare le acciughe.	0
+cannare	V	8	15	0	7	è stato cannato per la terza volta all'esame di analisi.	cannare un esame, una gara, una prova.	0
+carteggiare	V	0	11	17	30	carteggiare un'asse di legno.	i due innamorati carteggiavano quotidianamente, mandandosi lettere appassionate.	0
+tornare	V	41	48	0	5	"Mia mamma è andata via... Ma se dovesse tornare?".	torno un attimo a studiare e poi ti richiamo subito.	0
+frustare	V	22	30	14	24	per l'impasto bisogna frustare bene latte e uova.	i carcierieri frustarono il condannato fino a fargli perdere i sensi.	0
+mancare	V	16	21	0	7	al tuo discorso manca una cosa sola: il senso!	mancano solo tre giorni al mio compleanno.	0
+brillantare	V	0	11	0	11	brillantare un vestito, un abito nuziale.	brillantare un diamante.	0
+scampare	V	13	21	10	18	è riuscito a scampare a quel gravissimo incidente automobilistico.	l'abbiamo scampata grossa!	0
+polso	N	3	8	18	23	il polso di questa giacca è troppo stretto.	il ragazzo non ha polso, non lo rispetta nessuno.	0
+scalare	V	8	15	0	7	abbiamo scalato i ragazzi, mettendo i più alti dietro e i più bassi davanti, per fare una foto di gruppo.	scalare l'acconto dal costo di qualcosa.	0
+raccogliere	V	9	20	12	20	Bambini, raccogliete tante ciligie, ché vi faccio la marmellata.	Lo studente raccolse la penna che gli era caduta.	0
+sopportare	V	4	14	4	14	Non sopportare i prepotenti.	Non sopportare il freddo.	0
+curiosare	V	22	31	11	20	la donna era dedita a curiosare violando la privacy degli affetti personali del figlio dell'amica...	"Smetta di curiosare nei documenti privati della famiglia della donna!".	0
+incrociare	V	26	36	11	19	le navi militari italiane incrociano spesso in queste acque.	la polizia incrocia spesso in questi vicoli.	0
+desiderio	N	18	27	14	23	l'avverarsi di un desiderio.	logorarsi dal desiderio per raggiungere qualcosa.	0
+slealtà	N	3	10	41	48	la slealtà è biasimata e spesso punita.	imbrogli e malafede sono la radice della slealtà.	0
+oceano	N	0	6	22	28	oceano Atlantico, Pacifico, Indiano, Artico, Antartico.	nella piazza c'era un oceano di persone.	0
+acque	N	21	26	3	8	mi son curato con le acque.	le acque del lago, le acque dell'oceano.	0
+giudicare	V	27	38	0	7	anche se in parte sincero, giudichiamo che nell'insieme sia biasimevole.	giudico bella quest'opera d'arte.	0
+perfidia	N	49	57	6	14	l'assassino che ha compiuto simili atti con tale perfidia, a dir poco è un mostro.	"Ma è perfidia! Non la degni neanche di uno sguardo!".	0
+sposare	V	6	11	11	16	il re sposò suo figlio alla principessa di Spagna.	il sindaco sposò i due ragazzi in municipio.	0
+assonnare	V	34	41	27	34	ancora si prosegue il canto che m’assonna.	mi richinava come l’uom ch’assonna.	0
+accento	N	0	7	0	7	accento grafico.	accento tonico.	0
+corruzione	N	40	50	45	55	le apparenti amicizie in cui è presente corruzione sono appunto effimere e poco durevoli.	la menzogna e l'inganno sono la radice della corruzione.	0
+continuo	N	18	26	45	53	oggi c'è stato un continuo di telefonate.	alcuni filosofi considerano il tempo come un continuo in perenne mutamento.	0
+appesantire	V	41	52	20	31	tutti i fagioli che ho mangiato mi hanno appesantito lo stomaco.	la zavorra serve ad appesantire una nave, rendendola così più stabile.	0
+controbilanciare	V	45	61	80	96	per fortuna i suoi ottimi voti in matematica controbilanciano quelli pessimi in latino.	abbiamo dovuto aggiungere dei pesi sull'estremità anteriore dell'automobile per controbilanciare il carico nel bagagliaio.	0
+contesto	N	0	8	13	21	contesto sociale.	"Qual era il contesto di quel momento?".	0
+consenso	N	21	29	35	43	dobbiamo ottenere il consenso della base.	in Wikipedia e nel Wikizionario il consenso si costruisce insieme.	0
+convinzione	N	18	29	6	17	anch'io ho le mie convinzioni, eh...	ho la convinzione che loro stanno agendo in questo modo.	0
+controminare	V	0	12	0	12	controminare un campo.	controminare un piano criminale.	0
+collezione	N	7	17	19	29	faccio collezione di figurine dei calciatori italiani.	hai visto la nuova collezione di questo stilista?	0
+genitore	N	0	8	3	11	genitore adottivo - persona che è diventata genitore attraverso l'adozione di un figlio biologicamente generato da altri.	un genitore molto severo e poco lungimirante, difficilmente perdona il proprio figlio.	0
+segmento	N	3	11	3	11	il segmento con reddito minimo non pagherà tasse.	il segmento sedan-concept sta strabiliando il mondo.	0
+servire	V	0	7	4	9	servire una pietanza/un piatto.	"Ti servi tu?".	0
+acque	N	21	26	17	22	mi son curato con le acque.	sono andato alle acque per curarmi.	0
